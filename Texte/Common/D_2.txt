@@ -1,0 +1,462 @@
+[sha:b5d5013825681c33dc39fd167ece30a447d95c9c]{
+-- Page 0, Offset 18897.
+-- <秋古城|あきこしろ>というのが、その駅の名前だった。
+  They were headed for Akikoshiro train station.
+
+}
+[sha:baa8733f55eaa2c9a352adec4865f75e54304432]{
+-- Page 0, Offset 18898.
+-- 夜はふけて十一時より少し前。
+  The night had grown late-it was nearly eleven o'clock.
+
+}
+[sha:bc2910125f0263f5840cefb08bcd896dbf2e432f]{
+-- Page 0, Offset 18899.
+-- 参拝客の一団を乗せた<上|のぼ>りの列車とは逆行して、ふたりはその小さな駅に着いた。
+  A train full of tourists went by in the opposite direction before the two finally arrived at the tiny station.
+
+}
+[sha:34aaac06c6709c7e5b1b1e8b6a09f61291df7a5f]{
+-- Page 1, Offset 18900.
+-- 周囲はあまりにも暗く、静かだ。
+  The surrounding area was incredibly dark and quiet.
+
+}
+[sha:cfce7fee5b4fbbee5b49bedfd2c0946aeb597cdd]{
+-- Page 1, Offset 18901.
+-- 駅というより深夜の波止場を思わせる。
+  In fact, it felt less like a station and more like a small boat dock.
+
+}
+[sha:2ef1172dee94d17fc93634d605e87e01f3d1d1bb]{
+-- Page 2, Offset 18902.
+-- 平時でさえ、この駅で降りる人は少ないのだろう。
+  Soujyuro had a hard time imagining that many people came here even during the day.
+
+}
+[sha:ee42428b71a342f371ef5cfe6a8749b7e9a243ea]{
+-- Page 2, Offset 18903.
+-- 時折やってくる列車を見送るだけの停留所。
+  It had only the absolute bare minimum necessary to greet the odd visitor.
+
+}
+[sha:d785b517ffc8e65dc297c652cc5a3f4d0a50fe60]{
+-- Page 2, Offset 18904.
+-- 駅のまわりにはコンビニエンスストアの一軒もなく、あるのは一面の畑と、道に立てられた街灯だけ。
+  There were no convenience stores in sight, only fields and the streetlights that dotted the road.
+
+}
+[sha:b2d83f7a5f6c682ac20695bb01ab488a046cd827]{
+-- Page 3, Offset 18905.
+-- 駅員室で座ったまま眠る駅員の前にキップを置いて、青子は時刻表を確認する。
+  Aoko placed her ticket in front of the attendant who sat sleeping in his chair, and skimmed the train schedule.
+
+}
+[sha:306a94852b45f7ba57cbccc256677f761856dd55]{
+-- Page 3, Offset 18906.
+-- 零時半過ぎに、もう一本だけ帰りの電車がある。
+  The last and only train back departed just after half-past midnight.
+
+}
+[sha:3eecf4cf09e777914a243354189f82720d565780]{
+-- Page 3, Offset 18907. Mods: @n.
+-- 最終電車を確認して、青子は急ぎ足で駅を後にした。
+  Having confirmed her options, she headed hastily out of the station.
+
+}
+[sha:4f92d773b03e507311e14470b17f0e8ca6ac3db6]{
+-- Page 4, Offset 18908.
+-- ……年老いた駅員はひとりきりだった。
+  The elderly station attendant was all alone...
+
+}
+[sha:dbaa68f687d9be6f28d8bcd725083c6693266881]{
+-- Page 4, Offset 18909.
+-- 彼はストーブとテレビをつけたまま、こくこくと船を<漕|こ>いでいる。
+  He had dozed off with both the heater and television still turned on.
+
+}
+[sha:e6d7849ad14261c0a2855d8592cc251ca84df2fc]{
+-- Page 5, Offset 18910.
+-- その寝顔は満ち足りている。
+  As he slept, his face looked completely content.
+
+}
+[sha:ce7a28ff23c2543cccb443559fb902919d7376d2]{
+-- Page 5, Offset 18911.
+-- あまりにも広大な夜の闇。
+  The night felt vast in its darkness.
+
+}
+[sha:e22504c6ba15a04e178e8c6433f6e48d5da59979]{
+-- Page 5, Offset 18912.
+-- 自動車の供給と共に<廃|すた>れてしまった小さな駅。
+  The small train station had been rendered obsolete now that cars were commonplace.
+
+}
+[sha:14edd3403b0a620894de22cdcf675fc58d5a6d95]{
+-- Page 5, Offset 18913.
+-- 暗い宇宙の中でただひとつ光を放つ、孤独な星のようだ。
+  It was like a lone star shining in the night sky.
+
+}
+[sha:e636a86b52323ba1b62093189e18528886cdc6b7]{
+-- Page 5, Offset 18914. Mods: @n.
+-- それを何十年と守り、これからも人生の終わりまで付きそう事を良しとした老人に一礼して、草十郎も暗い夜に足を向けた。
+  Soujyuro thanked the attendant for his service before stepping out into the darkness. The man must have looked after the station for decades at this point, and would likely continue until the day he died.
+
+}
+[sha:a612d9095a345289e6863082d8b4828d47f62bad]{
+-- Page 6, Offset 18915.
+-- 駅から出ると、そこは村というよりは里だった。
+  Outside the station there was little in the way of human development. It could scarcely be called a village.
+
+}
+[sha:15a03230b65ead5cd8b8c0a7fbe5b86b456f4cf5]{
+-- Page 6, Offset 18916.
+-- 駅前には<広場|ロータリー>すらない。
+  There was not even an area out front for cars and buses to drop people off.
+
+}
+[sha:811207a936f46b814d837dbfc5f4d50bc0ff9d33]{
+-- Page 6, Offset 18917.
+-- パノラマに広がる平地は一面の畑で、網の目のように<畦道|あぜみち>がある。
+  Their eyes were met only with a panorama of flat fields interlaced with a lattice of footpaths.
+
+}
+[sha:56a97e03f61d6becd3e25b083ad3c85d8459e814]{
+-- Page 6, Offset 18918.
+-- 夏であれば風紋を走らせる小麦畑も、冬の夜では荒地にしか見えない。
+  Though surely a sea of beautiful green in summertime, in winter it was more like a wasteland.
+
+}
+[sha:e7146162cb5865e96468e05387f767692ad02839]{
+-- Page 6, Offset 18919.
+-- ただ一面の闇の中、電灯だけが場違いに<灯|とも>っている。
+  However, electric lights that felt strangely out of place illuminated one side of the dark vista.
+
+}
+[sha:472e20558d700d30d93c8fcb3d728f6a2883f03c]{
+-- Page 7, Offset 18920.
+-- 寒さは夜になってより厳しさを増していた。
+  The cold only grew harsher as the night wore on.
+
+}
+[sha:b3a3c7735b7b8fcd6a4105461a47a7fc03370478]{
+-- Page 7, Offset 18921.
+-- 冷気は容赦なく、指先から<感覚|ねつ>を奪っていく。
+  It relentlessly snatched all sensation from the fingertips.
+
+}
+[sha:037de5d02b8df5617401fff408f2cf7873836a66]{
+-- Page 8, Offset 18922.
+-- 両手をポケットにいれて、青子は畦道を歩きだした。
+  Aoko thus kept her hands in her pockets as she strode through the paths among the fields.
+
+}
+[sha:60fa084966769075dc1efdceac95702ed57d8649]{
+-- Page 8, Offset 18923.
+-- <靴|ブーツ>には土の感触。
+  She could feel the ground below through her shoes.
+
+}
+[sha:407eb304310f2e9249829cbef9e8ea9e44c6fbb5]{
+-- Page 8, Offset 18924.
+-- 町とは違う柔らかさに、青子は懐かしさを感じている。
+  Its softness was unlike that of the city, and for her it brought back countless memories.
+
+}
+[sha:f7b82244c7685468c4a7d716fa8fadbf12860546]{
+-- Page 8, Offset 18925.
+-- 彼女にとっては、中学生時代まで毎日のように通った道だ。
+  She had walked this path every day in middle school, after all.
+
+}
+[sha:e86ee11af07244394e4b79850a48eb1758f478c6]{
+-- Page 9, Offset 18926.
+-- 「あの山の真ん中あたり、家の明かりが見えるでしょ？
+"See the lights of that house in the middle of that mountain?
+
+}
+[sha:d604909260b44c9d3a6e6a9710df00e7120c7aa3]{
+-- Page 9, Offset 18927.
+-- アレがうち」
+  That's my place."
+
+}
+[sha:f35fc9a995d668e0d61169d198dc9d1c21b46f62]{
+-- Page 9, Offset 18928.
+-- もりあがった<山|やみ>を指さす青子。
+  She pointed out a mountain that rose up before them with her finger.
+
+}
+[sha:42411674a3438cb52dcf395fd9fa5ec1958cc52f]{
+-- Page 9, Offset 18929.
+-- ここからだと四十分も歩けば辿り着けるだろう。
+  The journey looked like it would take about forty minutes on foot.
+
+}
+[sha:607c1237916e72184ee39890da5ee595289bde03]{
+-- Page 10, Offset 18930.
+-- 道は長く、しばらくは畦道が続いている。
+  For now they remained among the rice fields, though their journey would continue beyond them.
+
+}
+[sha:66d55669789242647039621a68666758b0da60cd]{
+-- Page 10, Offset 18931.
+-- 青子は振り返らず、明かりに照らされた道を歩いていく。
+  Aoko followed the path bathed in light without looking back.
+
+}
+[sha:6011827c48f025db9e2bf9dbc83dcd73d2a08e6b]{
+-- Page 10, Offset 18932.
+-- 浮かび上がった道は、暗い海にかけられた<桟橋|さんばし>のように見えた。
+  The path seemed to hang before them like a pier leading out into the darkness of the ocean.
+
+}
+[sha:6982bc7b24432dd8a90f8e33a25e6f3fc16d42b0]{
+-- Page 11, Offset 18933.
+-- 山に近づくにつれ、暗闇は深くなる。
+  The closer they got to the mountain, the darker it became.
+
+}
+[sha:2a257de3a0422775293f7fda83939205b89c6a2e]{
+-- Page 11, Offset 18934.
+-- ここでは人の<喧|お><噪|と>は忘れ去られている。
+  All signs of the hustle and bustle of human life were absent.
+
+}
+[sha:0199586cf823137fc38a900611b4d82ff0659864]{
+-- Page 11, Offset 18935.
+-- 頭上の月の光は眩しいほど。
+  The dark stillness made the moon overhead seem dazzling.
+
+}
+[sha:44a40b5466bb587db1e3ccc4dd29824bb42dd172]{
+-- Page 11, Offset 18936.
+-- 真っ黒い山道は、その光に照らされて<闇色|やみいろ>から<影色|かげいろ>になっている。
+  Its light transformed the mountain path from blackness into mere shadow.
+
+}
+[sha:936b9092b36f37c9df60d8599babe12eba8c7952]{
+-- Page 11, Offset 18937.
+-- 周りは暗いけれど、世界はたしかに見渡せた。
+  Though dark, their surroundings were not totally indiscernible.
+
+}
+[sha:8bb275f639cfa7d213bc4db62aaf2832ef4f3dda]{
+-- Page 12, Offset 18938.
+-- ゴールの見えない道は<延々|えんえん>と続いている。
+  The seemingly unending path stretched on and on.
+
+}
+[sha:541c9d4140ff4adceff24f1d75a30f238365f58e]{
+-- Page 12, Offset 18939.
+-- 青子のペースに合わせて歩きながら、ふと草十郎は彼女の横顔を盗み見た。
+  Soujyuro, doing his best to match Aoko's pace, stole a momentary glance at the profile of her face.
+
+}
+[sha:88d8b00c7c3d2eb30acd7f35defc60c2545d4c8a]{
+-- Page 13, Offset 18940.
+-- 月明かりが鮮やかとは言え、ここまで静かな夜道に青子は不安を感じないのだろうか。
+  Did she not feel frightened in this quiet darkness, even with the moon to light the way?
+
+}
+[sha:671ee07943ac423590ba25d748bb91e25f9bee8f]{
+-- Page 13, Offset 18941.
+-- 青子は無言のまま、いたって普通の顔つきで歩いている。
+  Her expression showed no outward signs of discomfort as she strode on in silence.
+
+}
+[sha:0f8cf8bbf698bb1791b8ca9ac7082839d3474986]{
+-- Page 14, Offset 18942.
+-- こんな顔の時は、決まって強がっている時だ。
+  In fact, this was how she always looked when she was trying to act tough.
+
+}
+[sha:4b3ffa89d730198d3b744c45eeb4882220b63cc9]{
+-- Page 14, Offset 18943.
+-- 一ヶ月程度の未熟な経験からではあるが、草十郎は確かにそう感じ取った。
+  He had only had a month's experience with her, but that much he knew.
+
+}
+[sha:e409b82b9f2ba7795743cf976096e1e160dc8e7b]{
+-- Page 14, Offset 18944.
+-- 何か、些細だけれど無視できない問題を、彼女は飲みこもうとしているらしい。
+  There was obviously something on her mind she couldn't ignore, no matter how small it might be.
+
+}
+[sha:ef23d3b6a3291e1a7315abfafd24b2a5c7119a44]{
+-- Page 15, Offset 18945.
+-- 「蒼崎でもこういうところは恐いのかい？」
+"Are you scared to be out here in the dark?"
+
+}
+[sha:351b408fa4a9bc9f781172af2fdca99628983bb1]{
+-- Page 15, Offset 18946.
+-- 試しに訊いてみると、青子は意外にも頷いた。
+  She responded to his tentative question with a surprising nod.
+
+}
+[sha:567a9ee10c7aa33f89aa7b8157be08c832d67b82]{
+-- Page 16, Offset 18947.
+-- 「こんな夜道を恐がらない人なんて、普通いないでしょう。
+"Who wouldn't be scared walking on these paths at night?
+
+}
+[sha:6711a2c13a1be459157b70ab9bdd6270926c1bc7]{
+-- Page 16, Offset 18948.
+-- 我慢できるか無視できるかの二つだけよ。そのどちらも出来ない人は、夜に出歩かないわ」
+  All you can do is endure and ignore it. If you can't do either, then you really shouldn't be strolling around in the middle of the night."
+
+}
+[sha:63b5661e37ab948bde0a5c17fde8a5e40a7914c5]{
+-- Page 16, Offset 18949.
+-- 「なるほど。それじゃ、どうして自分を連れてきたんだ」
+"I see. So why'd you bring me?"
+
+}
+[sha:5e4edb790e3a7624bc70e919fc5582a978bec195]{
+-- Page 17, Offset 18950.
+-- 「言わなかった？　こんな何もない道をひとりで歩くのは時間の無駄でしょ。退屈しのぎに話し相手がほしかったの」
+"Didn't you hear what I said earlier? All this walking in the middle of nowhere is a waste of time. I wanted someone to talk to so it'd go by faster."
+
+}
+[sha:bc4f0100dc5e3c354ce6cb1665e6c93e9f8f7372]{
+-- Page 17, Offset 18951.
+-- 「……そういえば、そんな事を言ってたな」
+"Yeah, I guess you did say something like that."
+
+}
+[sha:2ab6a20c16aae47a0cea5cfa524c5a0701237b17]{
+-- Page 18, Offset 18952.
+-- それきり草十郎は黙りこむ。
+  Soujyuro fell into silence.
+
+}
+[sha:c7682e02680d9c1fa57649f9d87835ec84933895]{
+-- Page 18, Offset 18953.
+-- 別に青子の言葉に落ちこんだ訳でもなく、必死に何かを探しているような素振りだ。
+  He was not bothered by what she said; rather, he was desperately searching for something to say in response.
+
+}
+[sha:b94d6e02ec3c513ff6fbd4b88333efcea7d4e871]{
+-- Page 18, Offset 18954.
+-- 夜の道は続いていく。
+  Their path through the night continued onward.
+
+}
+[sha:dd64c007b25d0f45a788a73ac9600accbb1e7fb9]{
+-- Page 18, Offset 18955.
+-- ふたりの足音だけが響く中、青子は彼女なりに耐えてみたけれど、それも限界とばかりに口を開けた。
+  Only the sound of their footsteps could be heard. Eventually, Aoko was unable to endure the silence any longer despite her best efforts.
+
+}
+[sha:e403cf4fa2beb8b3987c263cb6f3558f03209a15]{
+-- Page 19, Offset 18956.
+-- 「草十郎、退屈しのぎに何か話してよ」
+"Talk about something, Soujyuro."
+
+}
+[sha:edf1fb9abc351a66feaa629d4dc91f9fe0760403]{
+-- Page 19, Offset 18957.
+-- 「……まいったな。話すような事はないんだけど」
+"But I don't have anything to talk about."
+
+}
+[sha:70ca8e2e4b7993a75f5e204ca774d9a29725195d]{
+-- Page 19, Offset 18958.
+-- 面目ない、と頭を抱える。
+  He felt clueless and ashamed.
+
+}
+[sha:71a763fbec3fcaf461404839dd2cf5ef2f7da7db]{
+-- Page 19, Offset 18959.
+-- どうも、さっき黙りこんだのは<話|そ><題|れ>を探しての事らしい。
+  He had been searching unsuccessfully for a topic throughout their awkward silence.
+
+}
+[sha:77e2d826e32cd4b38434e5c6fa9e1c12560aabde]{
+-- Page 19, Offset 18960.
+-- 青子は呆れながらも温かなため息をひとつ。
+  Shocked though she was, Aoko let out a gentle sigh.
+
+}
+[sha:2b4d5264b12a61c6b849f1bd52f4e8be56018165]{
+-- Page 19, Offset 18961.
+-- とことん律儀な草十郎の人柄が、彼女を悩ませていたモノを少しだけ<剥|は>がしていった。
+  At least for a moment, his simple earnestness was enough to make her forget all about her troubles.
+
+}
+[sha:a74fcbbcab1af283228362df901b3952c8ea0062]{
+-- Page 20, Offset 18962.
+-- 「莫迦ね、嘘でもなんでもいいから、とにかく話をすればいいの。別に面白い話なんて期待してないから」
+"Don't be stupid. Make something up if you have to. It doesn't even have to be interesting. Anything will do."
+
+}
+[sha:bd3e5f32e1f59a108ec4f7cd3ecfb34368eded44]{
+-- Page 20, Offset 18963.
+-- 青子は素っ気ない態度で、あんまりな事を言う。
+  Her blunt retort was not entirely honest.
+
+}
+[sha:cb7f48bb917b1f60619b14a70abdc85495c9d70f]{
+-- Page 20, Offset 18964.
+-- そもそも嘘なんて言ったら、それこそお仕置きタイムだ。
+  She would surely scold him if he dared lie to her.
+
+}
+[sha:58e6da75994330b482ac4ed362f340e095f64e6c]{
+-- Page 20, Offset 18965.
+-- 前に嘘は嫌い、といったのは蒼崎本人じゃないか、と草十郎は内心でごちてみた。
+  Soujyuro said as much, reminding her of how she had claimed to hate lies.
+
+}
+[sha:303c1becdf855e60b7cd8a9fb500f958278454ba]{
+-- Page 20, Offset 18966.
+-- 当然、青子からの返事はない。
+  Naturally she did not bother to respond to him.
+
+}
+[sha:27c981857ef02c27acb8f91958df36f8f78ca013]{
+-- Page 21, Offset 18967.
+-- 「……仕方ない。話はないけど、聞きたい事ならあった。
+"Damned either way, I guess. I don't have anything else to talk about, but there is something I wanted to ask.
+
+}
+[sha:8d2fb8a0e716dd4108b82347f4051f37455366eb]{
+-- Page 21, Offset 18968.
+-- 何でもいいならそれもいいだろう？」
+  You said anything goes, right?"
+
+}
+[sha:b169ed26aa01584031605a3978f2b4b664dd6647]{
+-- Page 21, Offset 18969.
+-- 草十郎の提案に、青子はかすかに眉を寄せた。
+  A slight scowl crossed her face at his suggestion.
+
+}
+[sha:b00bf5b4eb0bc3d669c010a268d80a9379f49907]{
+-- Page 21, Offset 18970.
+-- けれどそれも一瞬で、彼女はすぐに元の、落ち着いた<表情|かお>に戻る。
+  But it lasted only a moment before she returned to her previous calm state.
+
+}
+[sha:6134c1f00f6e4f2c72e4d5a58da8f9bb9faec823]{
+-- Page 22, Offset 18971.
+-- 「……ま、それもいいか。どうせ、もうすぐ忘れるんだから」
+"All right, go ahead. I'll probably forget as soon as we're done, anyway."
+
+}
+[sha:f700a42b7c1536c27b58f01a83cc775c77bbf051]{
+-- Page 22, Offset 18972.
+-- 草十郎から目を逸らして、呟くように青子は答えた。
+  She muttered her reply without making eye contact.
+
+}
+[sha:69c34dfa7db8fd29a5e77d0a7c1760774c9358e6]{
+-- Page 22, Offset 18973.
+-- 山中の目的地は、まだ影も形も見えてこない。
+  Their destination in the mountains remained hidden from them, revealing not even a hint of its form.
+
+}

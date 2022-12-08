@@ -1,0 +1,642 @@
+[sha:b96977f8a37e3dc3953a07bb048609c27a7c99d5]{
+-- Page 0, Offset 4128.
+-- 何であれ、<終局|フィナーレ>は華やかに。
+    No matter what, a finale should be glorious.
+
+}
+[sha:cd8ac93ce34cf371b67551f7f43d6ba89f849e8c]{
+-- Page 0, Offset 4129.
+-- 鏡の城に最後の見せ場が訪れる。
+    This would be the mirror castle's final scene.
+
+}
+[sha:1b436ed51116fe8cf1706b3df1f9d91d93c1b5f0]{
+-- Page 1, Offset 4130.
+-- 入場者は二人プラス一体。
+  Two humans and a puppet.
+
+}
+[sha:b386623d81de1a79d50213094c6f96dbc7b69a5a]{
+-- Page 1, Offset 4131.
+-- 魔法使いの少女は城の心臓部である地下に走り、
+  A young sorceress ran toward the subterranean heart of the castle,
+
+}
+[sha:472acad5d6aeb649b7599547644620e58354513e]{
+-- Page 1, Offset 4132.
+-- 自律するアンティークは少女を追いかけて魔のダンジョンへ。
+  while an autonomous antique chased its prey into the depths of a demonic dungeon.
+
+}
+[sha:8eed6d2422caafd4e4e9523d4a3ab551c2069252]{
+-- Page 2, Offset 4133.
+-- 一分の<後|のち>、城には微弱な青い電荷が走り抜けた。
+  A minute later, a faint, blue charge would ripple through the castle.
+
+}
+[sha:1ef3161a2a2ff87ec3282ac358acaa87d1faa859]{
+-- Page 2, Offset 4134.
+-- 地下一階、最深最奥のメインピラー。
+  This was the main pillar in the deepest depths of the basement.
+
+}
+[sha:177738caacb2d441e3def9a18df85f0de2ecf362]{
+-- Page 2, Offset 4135.
+-- 城を支えているワケではないけれど、象徴であった柱を、少女は渾身の魔力をこめた拳で打ち叩いた。
+  The pillar itself was not there to support the castle's structure, but it would serve nicely as the symbol into which the girl thrust her fist with all of her magical energy.
+
+}
+[sha:a4125868931209fb3c9811bd648d97185f18a50b]{
+-- Page 3, Offset 4136.
+-- この一撃で鏡の城は崩れ去る。
+  This was the blow that would bring down the castle.
+
+}
+[sha:18fe5ac9f169adc841b50d26e16a70370d4aa0ef]{
+-- Page 3, Offset 4137.
+-- そんなイメージの元に放った<正拳|ストレート>は、数秒の後、イメージを真実に変換する。
+  She imagined the scene as she threw the punch, a scene that would soon become reality.
+
+}
+[sha:4028525fb6397b6918ff0ba3b0f879e643eb31c8]{
+-- Page 3, Offset 4138.
+-- 城の四方の柱、地盤に刻まれた魔力を圧縮、解放させるだけの単純な発火魔術。
+  It was simple ignition magecraft, meant to release the condensed magical energy engraved into the four pillars that formed the foundation of the structure.
+
+}
+[sha:17d261c203920b409c296436540093580f8add7a]{
+-- Page 3, Offset 4139.
+-- 仕掛けは電荷をスイッチにして、ほぼ同時に発動し―――
+  Using electricity as a switch meant virtually instantaneous activation.
+
+}
+[sha:d8975ddde75358ef35d5b95b22b50bfae5ee2ae0]{
+-- Page 4, Offset 4140.
+-- <緩|ゆる>やかに、<速|すみ>やかに。
+  Swift and elegant.
+
+}
+[sha:363d6fff152c656aa5a5868ecf92a58e71ae5cc6]{
+-- Page 4, Offset 4141.
+-- 二年もの歳月、かたくなに滅びを<拒|こば>んだ夢の城に、臨終の<槌|つち>が下ろされる。
+  A hammer of destruction descended upon the castle of dreams that had stubbornly resisted its fate for two years.
+
+}
+[sha:3c6ce5a00a32e0d2bd161179d7bdd828360f76d8]{
+-- Page 5, Offset 4142.
+-- ―――それは、喜びに似た音だった。
+  It was almost a joyous sound.
+
+}
+[sha:d6268257bc9fd827a23f03a7e1db7f79cfc979b4]{
+-- Page 5, Offset 4143.
+-- とうに命を失い、訪れる者のいなくなった鏡の城が迎えた、最後にして最大のショウタイム。
+  And so, the lifeless and abandoned castle of mirrors set the stage for its final and most spectacular performance.
+
+}
+[sha:5c75b7bb56df7dc2c23d1f9d56ed9167d655136e]{
+-- Page 5, Offset 4144.
+-- 青子の魔力は電荷となって支柱に刻まれた魔術式を起動させ、連鎖的に、建物の息の根を止めていく。
+  Aoko's magical energy became an electrical charge that activated the magecraft formula engraved into the pillar. The chain reaction would lead to the castle's destruction.
+
+}
+[sha:288eccd89251b550d3e27bc9f4f8c7c2ec568e3a]{
+-- Page 6, Offset 4145.
+-- 「……ごくろうさま。
+"...You served your purpose.
+
+}
+[sha:4ec7909442a9ba44bc44fc330ac5fdeefe4b1d98]{
+-- Page 6, Offset 4146.
+-- でも、思ってたよりくたびれてたのね。これじゃ一分<保|も>つかどうか」
+  But it must've been rough. Looks like you're gonna collapse anytime now."
+
+}
+[sha:fa1eb9c714c53170305b8dbef5eadfbf2ac35709]{
+-- Page 6, Offset 4147.
+-- 地下一階の中央広場。
+  The plaza in the center of the basement.
+
+}
+[sha:226be66fb1f9f90aacb37b32eb1949806688aefc]{
+-- Page 6, Offset 4148.
+-- 呼吸を整えながら、青子は魔術刻印をフル回転させる。
+  Aoko tried to steady her breathing while rotating her Magic Crest at full speed.
+
+}
+[sha:c96ed005951f5f843d9550d0c1042b550b8c635f]{
+-- Page 6, Offset 4149.
+-- 魔術式を組めないのを承知の上で、その両手に青い光をまとわせる。
+  She wreathed her arms in blue light, fully aware that she could no longer activate another formula.
+
+}
+[sha:33772bb49dc0dd2d5afd45ac8dd4b17f5d9e7433]{
+-- Page 7, Offset 4150.
+-- ……乱れた呼吸は簡単には治まらない。
+  Her labored breathing refused to settle.
+
+}
+[sha:07b259b76b33ee3d21d8d3fbf56dd814e7d85164]{
+-- Page 7, Offset 4151.
+-- 地下一階の中心。
+  She stood at the center of the basement.
+
+}
+[sha:0ae548a432e566b6d1a50bd2dedabaab73f858e2]{
+-- Page 7, Offset 4152.
+-- 中心の柱にたどり着くまで、彼女は追跡者に背中を見せることなく走りきったのだ。百メートル走十三秒の俊足は間違いなく自己記録を更新した。
+  Without being spotted even once, she had managed to make it all the way to the central pillar. It was a hundred meter dash in thirteen seconds flat. Undoubtedly a new personal best.
+
+}
+[sha:d91171bbe1f4d2340b30a6c13314c7963c99f88b]{
+-- Page 7, Offset 4153.
+-- その先に待っているのが<こ|・><の|・><状|・><況|・>だと承知した上で、あえぐ心臓に鞭を打った。
+  She spurred on her weakened heart, knowing full well the fate that awaited her.
+
+}
+[sha:f183cbbf9f078b3c7cc3c5aa873595ebc5cf8db0]{
+-- Page 8, Offset 4154.
+-- 「……入れば追ってくる。地下に行けば逃げられない。
+"It can't help but follow me. And once down here, there'll be no escape.
+
+}
+[sha:be21585829e6693d602e8b3b4b0fba91df3a27b0]{
+-- Page 8, Offset 4155.
+-- 当然よね。最後まで逃げ回ろうなんて、虫のいい話だった」
+  I should've expected that. It was too much to expect that I could keep up the chase forever."
+
+}
+[sha:15a3a1a70d786f8b11ed8266e6ccf1d3700a37b0]{
+-- Page 8, Offset 4156.
+-- 反省するわ、と青子は物言わぬ<人形|じぶん>に語りかける。
+  Hindsight was 20/20.
+
+}
+[sha:12f602515a02913bf7d98e318dbc0ca3129ea1b2]{
+-- Page 9, Offset 4157.
+-- 城が完全に崩れるまで残り一分。
+  The castle was only a minute away from collapsing completely.
+
+}
+[sha:c2283b0996fb261b6dd86225b28c0a021bc3b44a]{
+-- Page 9, Offset 4158.
+-- ここに留まるかぎり、どちらも瓦礫の下敷きだ。
+  If they stayed here, they would both be crushed by the rubble.
+
+}
+[sha:51831187f1dbe3a8a5ed0bcc386e24dbbc50f748]{
+-- Page 9, Offset 4159.
+-- あの人形にとってはそれでオッケー。
+  The puppet certainly did not care.
+
+}
+[sha:d76960c87519e705677756a1792d8625db1770c0]{
+-- Page 9, Offset 4160.
+-- もとより命のないモノ、標的である蒼崎青子を殺す事だけが彼女の<目的|ねがい>なのだから。
+  With no life of its own, its sole concern was the elimination of its target, Aoko Aozaki.
+
+}
+[sha:62f6c6952942f5b0d71a32381231d44985f39864]{
+-- Page 10, Offset 4161.
+-- ……そう。
+  A new year, indeed...
+
+}
+[sha:1033ced96d484bde0cab21c4d741f74f75c0721a]{
+-- Page 10, Offset 4162.
+-- 要するに、敵だけが初めから必死だった。
+  The enemy had been willing to die from the start.
+
+}
+[sha:e46971e377e9c4c0af488558792becf9b0816464]{
+-- Page 10, Offset 4163.
+-- 決意の甘さに<憤慨|ふんがい>する。
+  She resented her own lack of resolve.
+
+}
+[sha:bb97b4e1fcfabd0303d063ca596c798451f63d2c]{
+-- Page 10, Offset 4164.
+-- もろとも死ぬ事さえいとわない相手に尻尾を巻くなんて、あまりに自分らしくなかったな、と。
+  It wasn't like her to tuck tail and run from an opponent that didn't fear death.
+
+}
+[sha:80deebb3bee3ccd7e513fe28a56eac2e1246d690]{
+-- Page 11, Offset 4165. Mods: @i, @r.
+-- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
+                "<Vivo in somno. Solitarie putresco in inferis|In slumber, I live. In dirt, I rot, alone>.
+
+}
+[sha:50dce0d690d64ccf930d5a9a365a911642746781]{
+-- Page 11, Offset 4166. Mods: @i, @r.
+-- @o<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|今日は私の命日であり、誕生日だ。さあ、貴方に会いに行こう。>”
+          <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Today is the day I died and was born. I come to you.>"
+
+}
+[sha:9e7a992454e9bf6a7204aae493aa22d7fee01385]{
+-- Page 12, Offset 4167.
+-- “……ふん。そもそも自爆覚悟じゃない、アレ。
+(Hmph. It's always been on a suicide mission, huh.
+
+}
+[sha:f20dc6b3f551abf20961f3129bf6ddd363f7b49e]{
+-- Page 12, Offset 4168.
+-- 六足歩行とフィンの一撃は<使|・><い|・><す|・><ぎ|・>よ。もう呪詛による魔力補給じゃ間に合わない”
+  It doesn't have enough juice to power the six-legged form and the Finn Shots. The curses aren't recharging it fast enough.")
+
+}
+[sha:055531933d7589add7673408bf8739e5c8d0a50d]{
+-- Page 13, Offset 4169.
+-- ……そう。永久機関と言っても、それは魔力の消費量を抑えてこその永久機関だ。
+  Such a perpetual motion device was only as good as its ability to regulate its energy consumption.
+
+}
+[sha:718fbe7484a5c01ba7df03fb589d1b2b6ee0eba9]{
+-- Page 13, Offset 4170.
+-- あれだけの機巧を使えば燃料はすぐにカラになり、電力である呪詛を回す事もできなくなる。
+  Using so many functions at once meant it was burning through fuel quickly and losing the ability to process the curses that powered it.
+
+}
+[sha:e2073e38dea2091f306ec1aae8e379ef7f92e2a5]{
+-- Page 13, Offset 4171.
+-- <人形|かのじょ>は与えられた機能を、目的の為に燃やし尽くす。
+  It was using up all of the functions it had been given to achieve its aim.
+
+}
+[sha:9cfbeda32a8f780226d3571629d7aa2789848e9f]{
+-- Page 13, Offset 4172.
+-- それは知恵あるものでは届かない器物の誇り。
+  This was the pride of a tool, if such things could have ego. Those endowed with sentience could never hope to understand.
+
+}
+[sha:060b921050506c8e92707bfa977c610b527f68ae]{
+-- Page 13, Offset 4173.
+-- 走る為だけに生まれた獣の覚悟に、人が触れれば火傷する。
+  A beast born to do nothing but run would burn any human who faced its resolve.
+
+}
+[sha:be477ff16b8388b93fc2796c1e3a1c040ca16349]{
+-- Page 14, Offset 4174.
+-- “……ホント、勿体ない。
+"...It's a waste when you think about it.
+
+}
+[sha:de95929a5482af1b926256be2e7eebffa5e7346e]{
+-- Page 14, Offset 4175.
+-- こういう無茶をするのは姉貴だけかと思ってたけど、いるところにはいるもんね”
+  I thought my sister was the only one capable of something this reckless, but I guess I was wrong."
+
+}
+[sha:9e6c06e5d992a5994fdb9bcb505cc617d80387f0]{
+-- Page 15, Offset 4176.
+-- だが、共倒れになる気は毛頭無い。
+  But Aoko did not intend a sacrifice play here.
+
+}
+[sha:017f929a99eec44a986213baee90732acf66719b]{
+-- Page 15, Offset 4177.
+-- 反省は済ませたし、敬意も払ったし。
+  She respected her adversary now, and she was done regretting her choices.
+
+}
+[sha:96cee11a593bfd813f89d02d0eb6fbc36dd42bf7]{
+-- Page 15, Offset 4178.
+-- 時間もないしいい加減、
+  There was no time to waste.
+
+}
+[sha:f3715e09edea6b74e4b09f0377608c5f8ea02e29]{
+-- Page 15, Offset 4179.
+-- 「行くわよ。ここで、きっかり―――」
+"This is it. This ends now."
+
+}
+[sha:b837489a226504062ff2e276c092b0cc12d6a3a2]{
+-- Page 15, Offset 4180.
+-- たまったツケを、倍にして返してやる―――！
+  Aoko had every intention of paying it back double for what it had done to her.
+
+}
+[sha:f3733ef72489c6abe7254b8587e5875be5c34320]{
+-- Page 16, Offset 4181.
+-- 溜めに溜めた力を、<右脚|みぎあし>に爆発させる。
+  The energy Aoko had accumulated exploded out of her right leg.
+
+}
+[sha:a8fab0a306711a64cba8a6868c7673f81cae1b23]{
+-- Page 16, Offset 4182.
+-- 狙いは一点、正面からの直接打撃―――！
+  She aimed for a single thing: A head-on attack!
+
+}
+[sha:30e6aeec0ce7f5a813ffa1ac6b8813bea4428147]{
+-- Page 17, Offset 4183.
+-- 迎え撃つは心臓を<鷲掴|わしづか>む呪いの一撃。
+  The enemy's response was a curse to crush her heart.
+
+}
+[sha:ac1a7d2cef0fa12140b94c7738e756338a58ab7a]{
+-- Page 17, Offset 4184.
+-- 燃え尽きる事を恐れない、最大出力の心臓破り。
+  A curse that would rend Aoko's heart, and destroy itself in the process.
+
+}
+[sha:8b2972f06866deb5956a15c990bd3e3155922085]{
+-- Page 17, Offset 4185.
+-- “―――っ、フッ―――！”
+"Huah!"
+
+}
+[sha:35001769d250798e698f1d6bf3f63d273ee4e33f]{
+-- Page 17, Offset 4186.
+-- それを視認したのと同時に、青子は全力で床を蹴った。
+  As soon as she saw it, Aoko kicked the floor as hard as she could.
+
+}
+[sha:9a3aec9233525db7952aa60e993b20ee9abe7c67]{
+-- Page 17, Offset 4187.
+-- 長い髪を尾のようになびかせて、少女の体は真横に<踊|おど>る。
+  Her long hair swirled through the air as she flipped aside.
+
+}
+[sha:ed7b8662b2a72fed1b769a53ac6fde7840090cef]{
+-- Page 18, Offset 4188.
+-- 「っ、き―――」
+"...Hnnh."
+
+}
+[sha:58564976c2813d4461193340dbd346b290e74de9]{
+-- Page 18, Offset 4189.
+-- 無理やりな横移動で崩れる<体勢|からだ>を、腕の振りで転ばずに持ち直す。
+  This lateral move almost sent her tumbling to the ground, but a quick swing of her arm allowed her to regain her balance.
+
+}
+[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+-- Page 19, Offset 4190.
+-- 「っ……！」
+"...!"
+
+}
+[sha:e905015ae4ce8729c846bbfb51af2702e591c7c6]{
+-- Page 19, Offset 4191.
+-- 散弾が肩をかすめる。
+  A shot grazed her arm,
+
+}
+[sha:4b794b51e8650eecc7133635863a7293b1f1451b]{
+-- Page 19, Offset 4192.
+-- 呪詛をうけた左肩が白熱する。
+  with the curse scorching her left shoulder.
+
+}
+[sha:c4f90ff0af628eb6d3f6157f6f25001e928b586b]{
+-- Page 19, Offset 4193.
+-- 構わない。どんな不利な体勢になろうと、“フィンの一撃”の直撃だけは回避する―――！
+  She did not flinch. Aoko knew she could hold on as long as she continued to avoid a direct Finn Shot.
+
+}
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+-- Page 20, Offset 4194.
+-- 「―――！」
+"...!"
+
+}
+[sha:bbe9a8ef8061ebc88ca331a69a26bc2a91213ce3]{
+-- Page 20, Offset 4195.
+-- “<弾いて|スナップ>……！”
+"Snap!"
+
+}
+[sha:6523514b27f2671c480c0b423a0bdac0bb3b34e2]{
+-- Page 20, Offset 4196.
+-- 痛みとバランスの乱れから、立ち直るのに０．５秒。
+  Off balance and in pain, it took her half a second to recover.
+
+}
+[sha:f799b367960b50beb218a1c91f8b31c66c3ffa03]{
+-- Page 20, Offset 4197.
+-- 顔を上げた瞬間、目前に迫る凶器を、魔力を帯びた拳で殴り<弾|はじ>く。
+  The moment she raised her head, she deflected the attack with a fist full of magical energy.
+
+}
+[sha:16b7294f9ea9e3401f82523e8ccb057268e10ac6]{
+-- Page 21, Offset 4198.
+-- 「せー、のぉ……！」
+"Here goes...!"
+
+}
+[sha:ce499bfdc5cb545e79aa95001f92eaa478fd6052]{
+-- Page 21, Offset 4199.
+-- 人形に意志があったのなら、間違いなく目を見張っただろう。
+  If the puppet had a will of its own, its eyes would have popped right out of its sockets.
+
+}
+[sha:e1c5e0df1e116fad3dbc7308b807a6fbb0b2c87e]{
+-- Page 21, Offset 4200.
+-- 驚嘆すべきは。
+  It would have been floored.
+
+}
+[sha:b7a6c7dec00daba357103581ada0079a44c86a9f]{
+-- Page 21, Offset 4201.
+-- その一連の動作をしながらも、足を止めない彼女の意志の強さだった。
+  Shocked at the strong will that allowed this girl to perform a series of moves like this.
+
+}
+[sha:3d62fbed8a364a556915f9c2d8c34d6704d008e5]{
+-- Page 22, Offset 4202.
+-- “<砕いて|クラック>……！”
+"Crack!"
+
+}
+[sha:b3b225868da84f55ea06d2938d2e9b55bfa1b02b]{
+-- Page 22, Offset 4203.
+-- コンマの世界で弾かれる凶器。
+  Aoko's response was instantaneous.
+
+}
+[sha:213b5bfd2215e7f921f5f2a3c25bfee3dbbc8662]{
+-- Page 22, Offset 4204.
+-- 少女の力では完全に弾ききれず、凶器はわずかに軌道を逸らし、長い髪をさらっていく。
+  While her power was not sufficient to completely redirect the arm's trajectory, it was just enough to deflect it harmlessly past her hair.
+
+}
+[sha:93b6761a592d6da16cf587e3c95693c68f213d93]{
+-- Page 23, Offset 4205. Mods: @i, @o, @r.
+-- @o“―――<Initio erraveramus. Dum vivimus dolores sunt|すべてが間違いだったのです。生まれなければ良かったのです。>.
+"...<Initio erraveramus. Dum vivimus dolores sunt|It was all a mistake. I should have never been born.>.
+
+}
+[sha:e96a814bdd8d85bf2c4ab726f6b645a0069ef706]{
+-- Page 23, Offset 4206. Mods: @i, @o, @r.
+-- <Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|誰か私を償って。償って。償って。償って。償って。償って。償って。償って。償って―――！>”
+<Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|Atone for me! Atone for me! Atone for me!>"
+
+}
+[sha:c299ccff56b67e1edb74ae2737ea6d5617f055df]{
+-- Page 23, Offset 4207.
+-- 詠唱は呪いとなって青子から気力を奪う。
+  The chant became a curse that robbed Aoko of her vitality.
+
+}
+[sha:d60dde0f07fd6f8a8a8399c6bf889880e72bc2e6]{
+-- Page 24, Offset 4208.
+-- 「―――ハ」
+"...Hah."
+
+}
+[sha:79afc3afd453299fe092344a95fecfa75d0cd6dd]{
+-- Page 24, Offset 4209.
+-- こぼれたのは余裕か怒りか。
+  Did it still have something left in the tank, or was it actually indignant?
+
+}
+[sha:90064e4a7408520afba048abe323fb2b2091e337]{
+-- Page 24, Offset 4210.
+-- あまりにも脆弱な防衛機能を気迫で<嚥下|レジスト>し、
+  Whatever the reason, Aoko was easily able to resist its weakened defensive maneuver...
+
+}
+[sha:124158051b28b0fcfd2cdb6aa6254fb69729b338]{
+-- Page 24, Offset 4211.
+-- “蹴<り上げ|グライダー>る……！”
+"Glider!"
+
+}
+[sha:4e95f2ab18c576bc4052316f31ce7af85d3fdd4b]{
+-- Page 24, Offset 4212.
+-- 魔力を帯びた渾身の右脚が、人形の<心|む><臓|ね>を打ち上げる！
+  ...And her right leg, pulsing with magical energy, shot up into the puppet's chest from below.
+
+}
+[sha:9e399d244c1a0fd2942def6f99f83316a96bfff3]{
+-- Page 25, Offset 4213.
+-- 人形の軽さは青子の予想以上だった。
+  It was much lighter than Aoko anticipated.
+
+}
+[sha:b229ad549107f08fd9265e07a730714900ee59b6]{
+-- Page 25, Offset 4214.
+-- いや、重さではなく力が無かった、と言うべきか。
+  Or rather, she felt little resistance.
+
+}
+[sha:46e931b96b28c2ef7fe567cfa1993f4c83c425af]{
+-- Page 25, Offset 4215.
+-- 自動人形の重量はその内部構造―――動力源の大小によって決定される。
+  An automaton's weight was determined by its internals―the size of its power source.
+
+}
+[sha:a18ac28519ae4c4a8ae7b31a14856c0ab939d0d8]{
+-- Page 25, Offset 4216.
+-- 自動<詠唱永久|オルゴールエンジン>機関を持つこのオートマタは、皮肉な事に、その優秀さがアダになったのだ。
+  Ironically, it was the superiority of its music box engine that would prove to be its downfall.
+
+}
+[sha:2fe52e264a103e449fc98947980c2228b0d5ffc1]{
+-- Page 26, Offset 4217. Mods: @o, @i, @r.
+-- “……<Venite, Venite, Venite, meum sepulchrum|いらっしゃい、いらっしゃい、私の墓穴に、> ^<veniteeeeeeee……|いらっしゃいいいいいい……>”
+"...<Venite, Venite, Venite, meum sepulchrum veniteeeeeeee|Welcome! Welcome! Welcome my graaaaaave>..."
+
+}
+[sha:3866be4005ebf44803dad2dca986f96eabbb102e]{
+-- Page 26, Offset 4218.
+-- 途切れ途切れの呪詛。
+  A stuttering curse.
+
+}
+[sha:8713fa01fbb34a55a8e3c3ef74b1c65ccf36942d]{
+-- Page 26, Offset 4219.
+-- 青子の蹴りと天井への衝突、とどめに落下の衝撃で、人形はほぼ停止していた。
+  Having taken the full brunt of Aoko's kick, the puppet bounced from ceiling to floor, collapsing in a heap.
+
+}
+[sha:f13ddfe9a2d9e984ddba17025b43fbdb703d0f43]{
+-- Page 26, Offset 4220.
+-- 内部構造に歪みが生じ、動力源である<自動詠唱|オルゴール>のドラムが歪んでしまったのだ。
+  Its internal construction had been warped by the impact, leaving the drum of the music box that powered the puppet warped as well.
+
+}
+[sha:9e59dc301fa79842cc34c980c08dbb3c17e2cb3a]{
+-- Page 27, Offset 4221.
+-- 「恨むなら設計者を恨みなさい。
+"Take your design flaws up with your maker.
+
+}
+[sha:0a1d853eeb30e1c7f39b7ff66373d7b3a88ee520]{
+-- Page 27, Offset 4222. Glued. Mods: @x, @k, @e.
+-- ダイナモの一つでも積んでいれば、もうちょっとは重たくなったでしょうに……
+A single dynamo would have been all you needed to―
+
+}
+[sha:b262a8368518e09cabfcebc041274e1c3ab35554]{
+-- Page 27, Offset 4223. Glued. Mods: @x, @n.
+-- って、うわ!?」
+Wait, what the...?!"
+
+}
+[sha:9f26c009b507a0aa9c0b24150e8280d73af02e61]{
+-- Page 28, Offset 4224.
+-- 目の前に落ちてきた天井の衝撃で、青子は正しい意識を取り戻した。
+  Part of the ceiling came crashing down in front of Aoko, snapping her back to her senses.
+
+}
+[sha:b6c6ef4300f3a81958aafc00e74ccc5fff7cc0c4]{
+-- Page 28, Offset 4225.
+-- “……ところでいま、どうやってぶっ倒したんだろう？”
+(...Did I really just take her out?)
+
+}
+[sha:ee34e95bd0e1ae218ce05280220b24a4f10186c0]{
+-- Page 28, Offset 4226.
+-- と首をかしげるほど無我夢中だったので失念していたが、ミラーハウスの倒壊はもう始まっている。
+  She was so stunned by her own victory that she forgot the house of mirrors had already begun to collapse.
+
+}
+[sha:9df4914fe9a44f4064d544c751f5950140b16c63]{
+-- Page 29, Offset 4227.
+-- 「って、こっちのがやばかった……！」
+"I've gotta get out of here!"
+
+}
+[sha:a6506387a94618d25f1d9fdff0e645a14ff01455]{
+-- Page 29, Offset 4228.
+-- 勝利の余韻にひたっている場合でも、同情している余裕もない。
+  There was no time to relish in her victory or pity her opponent.
+
+}
+[sha:4bb874f1e0b360781ade788994360d300b0ec022]{
+-- Page 29, Offset 4229.
+-- このままだと数秒後には同じ運命。
+  Not unless she wanted to meet the same fate.
+
+}
+[sha:2db1c6cbd66d822702b341ad352913ab3b5731ba]{
+-- Page 29, Offset 4230.
+-- 青子自身、生還できる未来をイメージできないほど、状況は壊滅的だ。
+  As the situation stood, she found it hard to imagine getting out alive.
+
+}
+[sha:0c0eb6590cf1157f89bedff7014a63660e4cc17c]{
+-- Page 30, Offset 4231.
+-- 「急げ、ダッシュだ私……！」
+"Get a move on, Aoko!"
+
+}
+[sha:1752ecb56def7bd405bc01cb9cc386cae4c34842]{
+-- Page 30, Offset 4232.
+-- それでも最善を尽くそうと頬を叩く。
+  She slapped herself on the cheek and took off.
+
+}
+[sha:41d9cc2703291894d0a8f07753fde7839b79be78]{
+-- Page 30, Offset 4233.
+-- わずか数秒間の交戦の報酬。
+  This was her bounty for finishing their battle in a matter of seconds.
+
+}
+[sha:1e79c0b980895db877ced61ab420eca94176810b]{
+-- Page 30, Offset 4234.
+-- 興奮と緊張で乱れた呼吸もそのままに、青子は出口に向かって走りだした。
+  With her breathing labored by all the excitement, she ran for the exit.
+
+}

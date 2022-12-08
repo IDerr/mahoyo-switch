@@ -1,0 +1,474 @@
+[sha:3cbb95d5d522b7b1016ea1e33fdf2daabbe26900]{
+-- Page 0, Offset 11125.
+-- 窓からの日射しが明るい。
+  The sun shining through the window was bright.
+
+}
+[sha:03f881c536b8248812cfcfa2b77ee0282030501b]{
+-- Page 0, Offset 11126.
+-- そろそろテレビのお茶の間番組にエンジンがかかってくる午前九時。
+  It was just about nine o'clock, about time for the morning television programs to get going.
+
+}
+[sha:207d63cbcf8be30e79532455316e6ed2b10830a3]{
+-- Page 0, Offset 11127.
+-- 草十郎はソファーに座って、外の様子を眺めていた。
+  Soujyuro was sitting on the sofa, staring out the window at the scene outside.
+
+}
+[sha:70ab48e285f46851eaefebc35e2cf9b86a5e6510]{
+-- Page 1, Offset 11128.
+-- 隣室のサンルームから見える中庭の荒廃ぶりは、とても一言では表せない。
+  The view from the neighboring sunroom showed a courtyard in a state of disrepair.
+
+}
+[sha:217dea54d5ca3bf5dfb08e4d34964e4818f455bb]{
+-- Page 1, Offset 11129.
+-- あるがままの自然は<尊|とうと>いが、人の手によって整頓された自然にも理解のある草十郎である。
+  Soujyuro could appreciate the outdoors in both its natural, wild state, and when tamed by human hands.
+
+}
+[sha:16d9c28670c48365ea986392b9535cdc05e6575e]{
+-- Page 2, Offset 11130.
+-- “……アレは、近いうちになんとかせねばなるまい”
+"...I really need to do something about that sometime soon."
+
+}
+[sha:eb68b6dc697167eb71de1e024621129c67a7e0b9]{
+-- Page 2, Offset 11131.
+-- などと、こぢんまりとした野望に燃えながら、教科書のページをまた一枚めくる。
+  Soujyuro muttered to himself, turning another page in his textbook.
+
+}
+[sha:7732645b68669bc74d9b8320f2e29a528481a7cc]{
+-- Page 2, Offset 11132.
+-- テーブルには数学のテキストと青子印のノート。
+  On the table before him was a mathematics textbook and a notebook with Aoko's name on it.
+
+}
+[sha:3dc57a714126b8ff63ebf644d073a9355e5309b1]{
+-- Page 2, Offset 11133.
+-- 一見して休日も予習を怠らない優等生……ではあるが、その実、これは妥協の結果である。
+  Although at first glance he appeared to be a diligent student studying on his day off, he was in truth only doing so as a compromise.
+
+}
+[sha:1f2f7d6682758c01dc8e42594d6a0a8c87500dfd]{
+-- Page 2, Offset 11134.
+-- 草十郎が第一目的とした朝のテレビ観賞は、ある理由から断念されてしまったからだ。
+  He had given up on his main intent of watching the morning television shows.
+
+}
+[sha:a2dcfc50f36d0c45a0bdab1b87ce1dbc893a0b2d]{
+-- Page 3, Offset 11135.
+-- 理由は言うまでもない。
+  The reason why he gave up was simple.
+
+}
+[sha:afd34147cbdfab6c13144a33044bb2f52e60281b]{
+-- Page 3, Offset 11136.
+-- こうして、今も草十郎の正面で読書に没頭する、久遠寺有珠に気を遣っての事だ。
+  He was being considerate of Alice, who sat in front of him with her nose buried in a book.
+
+}
+[sha:896b4bc7214f6e49b81fc0866412ae31e9de8307]{
+-- Page 3, Offset 11137.
+-- てっきり自室に引きこもると思われていた彼女は、古びた本を持ち出して読書を始めてしまった。
+  Instead of holing herself up in her room, she'd brought out her old, dusty books to read.
+
+}
+[sha:50f9976a4fb1612d0d102417c180ae3448d6f950]{
+-- Page 3, Offset 11138.
+-- 静かにしていて、とはこういう事で、もはや無遠慮にテレビをつける事は難しい。
+  This is what she meant when she had said to keep quiet. Soujyuro found it difficult to turn on the TV.
+
+}
+[sha:2183fc54a934216fcb038f6836c0f330ede61204]{
+-- Page 4, Offset 11139.
+-- “……とりあえず、しばらくテレビは控えよう”
+(...I guess I won't be watching TV for a while.)
+
+}
+[sha:041d6bfab203993393f92f5bb1f633621d11f81e]{
+-- Page 4, Offset 11140.
+-- そんな結論に達し、それじゃあ、と草十郎は赤点の補習課題に手を出したのだ。
+  With that decided, Soujyuro resigned himself to reviewing some of the practice problems he'd gotten wrong.
+
+}
+[sha:552228d6263597411b315970a6340221a97611c0]{
+-- Page 4, Offset 11141.
+-- なぜか居間で。
+  ...In the drawing room, for some reason.
+
+}
+[sha:8fd5f4d04846ca41704e477268b3da30974a2b99]{
+-- Page 4, Offset 11142. Glued. Mods: @x.
+-- ここに留まる理由もなかったが、自室に戻る理由も、同じぐらいなかったらしい。
+There wasn't any particular purpose in doing it there, but he also had no real reason to study back up in his room.
+
+}
+[sha:b560a92152756afc8506707e8767b7efd2512139]{
+-- Page 5, Offset 11143.
+-- かくて、彼は有珠がいるにも拘わらず、<暢気|のんき>に<教科書|テキスト>に蛍光ペンなどを引いていたりする。
+  And so there he was, leisurely highlighting his textbook with Alice there in the same room.
+
+}
+[sha:5cdad3abb6d3dacb1d4cb28a333ca47cec6ecda8]{
+-- Page 5, Offset 11144.
+-- 草十郎にしてみれば屋根裏の自室も、有珠のいる居間もそう変わりはない。
+  To Soujyuro, there really was no difference between his room in the attic and the drawing room with Alice.
+
+}
+[sha:fa1dedfc1f79172e5b0b6c105b60404e91784d49]{
+-- Page 5, Offset 11145.
+-- 波乱の予兆さえなければ人食い虎とでも同居する―――
+  To be fair, he could probably live with a tiger as long as it didn't cause any trouble.
+
+}
+[sha:4d4c868aef584c377cf71ab051f46c46fe8258f7]{
+-- Page 5, Offset 11146.
+-- それが静希草十郎の、最大にして最悪の長所だった。
+  That was both Soujyuro's biggest strength and his biggest weakness.
+
+}
+[sha:9e26ca794a13a03f132e90438468199da2ba2226]{
+-- Page 6, Offset 11147.
+-- 気が付けば、時計の針が十一時を指していた。
+  Before he knew it, the clock was showing eleven.
+
+}
+[sha:b9fc8736701e7645a2e583f420b8f6d99e983006]{
+-- Page 6, Offset 11148.
+-- 二時間近くかけても、数学の課題は半分も終わらない。
+  He'd spent two hours doing his math problems but wasn't even halfway finished.
+
+}
+[sha:11d623453d3c47cb18f843463a161aee14dc01b6]{
+-- Page 6, Offset 11149.
+-- この程度で音をあげる自分の根性の無さに、草十郎は消沈する。
+  More than that, he was disappointed in himself for lacking the courage to speak up at all.
+
+}
+[sha:4795291bdd857910685580b46fb20658b44573a6]{
+-- Page 6, Offset 11150.
+-- 『……それにくらべて、蒼崎は頑張ってる』
+(...In comparison, Aozaki is really working hard.)
+
+}
+[sha:0f2948f113a6c4aee574762ef159d1f939fa6658]{
+-- Page 6, Offset 11151.
+-- ぽん、とノートの上を転がっていくシャープペン。
+  He dropped his mechanical pencil onto the notebook and watched it roll away.
+
+}
+[sha:57726c8b91ecad5dcf420229439d347a93a24567]{
+-- Page 7, Offset 11152.
+-- 試験が終わってからこっち、青子たちが何やら活動している事は知っている。
+  He knew that Aoko and Alice were busy with something since final exams had ended.
+
+}
+[sha:580e0e1a15c34ae7396bfbc7d1af10c8e18fd315]{
+-- Page 7, Offset 11153.
+-- それで彼女がほとんど眠っていない事も、
+  He also knew that she had hardly gotten any sleep recently.
+
+}
+[sha:79a72db564170a686852515557a435595cc7a128]{
+-- Page 7, Offset 11154.
+-- 試験中、自分を無視していればもっと楽になっていたであろう事も、分かっていた。
+  If she had been able to ignore him during exams, she probably would have had an easier time.
+
+}
+[sha:8fbe1f2f600cc0e499ef6806efd11ec522968860]{
+-- Page 8, Offset 11155.
+-- 今日の仮眠だって、青子にとっては何日かぶりのまともな睡眠だろう。
+  Today's nap was probably the first proper sleep Aoko had gotten in days.
+
+}
+[sha:f5482ce7fe4cc9c1c1f50413ff33ad11fd4d4320]{
+-- Page 8, Offset 11156.
+-- 疲労はとうにピークの筈だ。なのに、そんな素振りも見せないで青子はきびきびと歩いている。
+  Though, she showed no signs of exhaustion despite the fact that she must have hit peak long ago. She always seemed raring to go.
+
+}
+[sha:31c8dd18b79674066bb3de7f5bd5b2ec88feb911]{
+-- Page 9, Offset 11157.
+-- 弱音を吐かない、のではなく。
+  It wasn't that she was trying to act tough;
+
+}
+[sha:ac0fcc15f41d4a306f4765712a55d1c9ee5f3a7c]{
+-- Page 9, Offset 11158.
+-- 弱音そのものが浮かんでいない、前向きで強い<信念|こころ>。
+  that was just the kind of person she was. Always positive, always tough as nails.
+
+}
+[sha:82bea98e8c2e6a3bfd50715762c4fd4e9d447a41]{
+-- Page 9, Offset 11159.
+-- 彼女が時に理不尽として映るのは、そのまっすぐさ故だろう。
+  And that was exactly why she came off as completely irrational at times.
+
+}
+[sha:2ce385e5701f96194b1009335d8a6824689d2c72]{
+-- Page 10, Offset 11160.
+-- それを言うなら目前の有珠だって同じかもしれない。
+  But if that was the case, you could probably describe Alice in exactly the same way.
+
+}
+[sha:0b1f0f43bf94f8a2737d6fcd981f2509b27635c3]{
+-- Page 10, Offset 11161.
+-- 目的に向かってひた走る彼女たちを見ていると、漠然と自分の中途半端さを考えてしまう。
+  Soujyuro couldn't help but feel a bit inadequate when he saw their single-minded focus on their goals.
+
+}
+[sha:cfc0dba1e6300ac3d740bfaf4732674c13b83089]{
+-- Page 10, Offset 11162.
+-- 今までは新生活に慣れようと必死だったけれど、もし慣れてしまったのなら、その後はどうする気なのか、と。
+  He'd been so preoccupied with adjusting to his new life that he'd neglected to think about what he was going to do with himself after.
+
+}
+[sha:a558bdf150123a316a5a698ff0bd0a4fa766ed69]{
+-- Page 11, Offset 11163.
+-- それを思うと、草十郎の心は暗い影に<覆|おお>われる。
+  Thinking about this cast a gloomy cloud over his heart.
+
+}
+[sha:2feff0b7636ebfaa93c44f012d864a77a93b4d3f]{
+-- Page 11, Offset 11164.
+-- 自分は彼女たちのような、明確な目的はもう見つからない気がするからだ。
+  He felt like he'd never find a clear purpose in life like Aoko and Alice seemed to have.
+
+}
+[sha:e8992f3035e66c7de7d2e5e6a43a0743f08c6bf9]{
+-- Page 11, Offset 11165.
+-- ……山から下りた時から。
+  ...At least not since he'd left the mountains.
+
+}
+[sha:14a67bf65fc181a552294102a4cac6a0d84b1ce8]{
+-- Page 11, Offset 11166.
+-- 彼の糸は断ち切れて、二度と戻ることはない。
+  His old life was gone now, never to return.
+
+}
+[sha:729dab258634d5f96b8139d210a6251a99fcb5c5]{
+-- Page 12, Offset 11167.
+-- 糸の切れた<凧|たこ>は<惰性|だせい>で流れていくだけだ。
+  He was like a kite cut from its string, destined to fly only where the winds took it.
+
+}
+[sha:44f88066e4f95ad3d8db8232831a25b0a51abbd8]{
+-- Page 12, Offset 11168.
+-- その先には何もないと分かっていても、地に足がついていないのでどうにもならない。
+  And without anything to ground him, he couldn't do anything about the empty future that lay ahead.
+
+}
+[sha:ea071d1b5da959b03039e8d46f3ee187229aa931]{
+-- Page 12, Offset 11169.
+-- いずれ空にまぎれて、地上から見えなくなる。
+  He could only let himself fly where the currents took him, slowly losing sight of the ground below.
+
+}
+[sha:2d2522e58016cdc70e0646f5c3bd47ab128ebabc]{
+-- Page 13, Offset 11170.
+-- 『……そうだな。便利な物はあふれているけど、本当に望むものは―――』
+(There's all the conveniences you could ask for here, but nothing I truly desire...)
+
+}
+[sha:558c42d49ad3efd6d8faff13ef7ef525cb2b6929]{
+-- Page 13, Offset 11171.
+-- 町を歩くだけで山ほどある筈なのに、どうしても見つけ出せない。
+  The town was full of options, but he could find nothing.
+
+}
+[sha:19ea70d06a16472a61aeb2b64070182d8ae9fa6c]{
+-- Page 14, Offset 11172.
+-- もう何度も繰り返した自問。
+  He'd asked himself the same questions time and time again.
+
+}
+[sha:304acf3793866a5fea13060db93262126f5b26c1]{
+-- Page 14, Offset 11173.
+-- 自分に言い聞かせたところで気持ちは晴れるどころか、暗くなっていく一方だった。
+  It never made him feel any better. If anything, it only made him feel worse and worse.
+
+}
+[sha:e1d2b94aa278f9e614a2ed5f08ca4c047957452b]{
+-- Page 14, Offset 11174.
+-- それとも、あるいは。
+  That, or...
+
+}
+[sha:8b3bd9227cb5dce15078ace18c1365aaad768c2d]{
+-- Page 14, Offset 11175.
+-- 己の半端さを嘆くほどには、いつか、希望らしきものが見つかると<縋|すが>っているのだろうか……？
+  Maybe he felt that lamenting his own ineptitude would lead to finding some kind of goal or desire someday.
+
+}
+[sha:92eb9c74ab9c6b3c1662b9deec0ee7db62edb52c]{
+-- Page 15, Offset 11176.
+-- 「―――――はあ」
+"...Hah."
+
+}
+[sha:65a462d96bbe893f477fccb75a2b96211103bf7d]{
+-- Page 15, Offset 11177.
+-- 自分の弱音に呆れて、草十郎はノートを閉じた。
+  Tired of his own sniveling, Soujyuro dejectedly closed his notebook.
+
+}
+[sha:88276d1f7f241365e275d0c777595860ce1e6e20]{
+-- Page 15, Offset 11178.
+-- ふと視線をあげると、ブラウン管に自分の顔が映っている。
+  When he looked up, he saw his own face reflected back at him in the TV screen.
+
+}
+[sha:563ac77f4faeb1e5afffbde90a367f71d7c20fee]{
+-- Page 15, Offset 11179.
+-- 昨日まではなかった首の飾りは、まだ居心地が悪そうに巻かれていた。
+  His new collar was there around his neck, looking as out of place as ever.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 16, Offset 11180.
+-- 「――――――」
+"..."
+
+}
+[sha:f2f971c8b9151e35b6e82b097e34febe69b2587d]{
+-- Page 16, Offset 11181.
+-- なるほど。他人の強さを見て自分の弱さを嘆く馬鹿者には、首輪の一つも着けていなくては危なっかしい。
+  Perhaps a fool like him who felt weak when faced with others' strengths did need to wear a collar after all.
+
+}
+[sha:7729f45044f9cbc3657f0ccef24fd53d1300f6f3]{
+-- Page 17, Offset 11182.
+-- 『まったくだ。悩むのはいっちょ前になってから』
+(This is silly. I shouldn't worry about this until I'm actually an adult.)
+
+}
+[sha:b7f978159fdfe2774aa70028536c24d25d0ceb3e]{
+-- Page 17, Offset 11183.
+-- 弱音を振り払って、背中を伸ばす。
+  He shook off his thoughts of doom and gloom and sat up straight.
+
+}
+[sha:c351c1ff3accd8da5711b8d9da8c3c2f0efda5fb]{
+-- Page 17, Offset 11184.
+-- <鈍|にぶ>った体に活を入れて、草十郎は立ち上がった。
+  After psyching himself up a little, he stood up from the sofa.
+
+}
+[sha:05f7e411df104b1519b93831c1d9a4e4f431a531]{
+-- Page 18, Offset 11185.
+-- 「よし。何か作るけど、有珠は？」
+"I'm gonna make some food. You want anything, Alice?"
+
+}
+[sha:5053212691586e6578aebae91296ab601649e993]{
+-- Page 18, Offset 11186.
+-- ついでに。
+  Soujyuro asked casually.
+
+}
+[sha:86fb86e563391f7e8e39e1d4cd409e1e583577a9]{
+-- Page 18, Offset 11187. Glued. Mods: @x.
+-- 今までやりたい放題していた草十郎だが、きちんと有珠を気にかけていたらしい。
+While Soujyuro had been doing his own thing, he had remained mindful of Alice.
+
+}
+[sha:c1e9688baa0956528eb196ef68d7129579b50a45]{
+-- Page 19, Offset 11188.
+-- 名前を呼ばれて、有珠はハッとあたりを見渡した。
+  Alice looked up, surprised at hearing her name.
+
+}
+[sha:84f6e1520517d378a93e6084c2017b66d0b801bc]{
+-- Page 19, Offset 11189.
+-- 草十郎とは逆に、完全に草十郎を失念していたようだ。
+  She had completely forgotten Soujyuro was even there.
+
+}
+[sha:674e8ceeb72e1de31c85253f69641c797a25b117]{
+-- Page 20, Offset 11190.
+-- 「わ、わたし……？」
+"M-Me...?"
+
+}
+[sha:4a8c1ae9afe673461b1a3e240ae9b45d7072e3f2]{
+-- Page 20, Offset 11191.
+-- 「ああ。有珠、朝から紅茶しか飲んでないだろ。どうせ作るなら、いっぱい作った方がお得なんだ」
+"Yes, you. You've only had some tea all morning. If I'm going to be cooking, I might as well cook for everyone."
+
+}
+[sha:cd79dc2fae3ef6a38bb3b26620b40c8df724a971]{
+-- Page 20, Offset 11192.
+-- 有珠の返事も待たず、草十郎はエプロンをしながら台所へと歩いていく。
+  Without waiting for her reply, Soujyuro headed off to the kitchen while putting on his apron.
+
+}
+[sha:fbd56507da8e68d55d9d0ff5339fa6b3445d6d5b]{
+-- Page 20, Offset 11193.
+-- それを有珠は手だけで呼び止めるが、草十郎はもう台所に移動していた。
+  Alice tried to wave at him to stop, but by then he'd already disappeared into the kitchen.
+
+}
+[sha:339a2248aa4408f730f949a7015af4a0565b46cf]{
+-- Page 21, Offset 11194.
+-- ……わざわざ台所まで足を運び、自分の分はいらない、というのも<躊躇|ためら>われる。
+  She was hesitant to walk all the way in there just to tell him she didn't need anything.
+
+}
+[sha:2f783226f5103d581f178d86f4b42b87b1f3c0ff]{
+-- Page 21, Offset 11195.
+-- というか、空腹なのは事実なのだ。
+  And besides, she was actually hungry.
+
+}
+[sha:0825bd674c4b38dca553bd7e98e46900a325ff0c]{
+-- Page 21, Offset 11196.
+-- 草十郎の提案は、今の彼女の健康状態から見れば合理的である。
+  Soujyuro's proposal made sense, and her empty stomach agreed.
+
+}
+[sha:33321cba29dc2ec7a18b11f3e985e0c28d1435a4]{
+-- Page 22, Offset 11197.
+-- 有珠は空腹で、草十郎は昼食を作る。
+  Alice was hungry, and Soujyuro was going to make lunch.
+
+}
+[sha:e877e4fe44f08bcbbacc80a50a92b72235bfca5e]{
+-- Page 22, Offset 11198.
+-- 一緒に作るのなら、別々に昼食を用意する時間を短縮できる。
+  Making lunch for both of them would save the time and trouble of cooking two separate meals.
+
+}
+[sha:252170d03b47da246b9ec6dc95462bbfc4886aa4]{
+-- Page 22, Offset 11199.
+-- 感情論を除けば、有珠にはまったく反論の余地がない。
+  There was no logical reason for Alice to refuse his gesture.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 23, Offset 11200.
+-- 「――――――」
+"..."
+
+}
+[sha:2b260398ae2c58a4bcc05661b0bfa0a51d368d6f]{
+-- Page 23, Offset 11201.
+-- 喉まで出た声を飲みこんで、有珠は草十郎を黙認する事にした。
+  She decided to stay quiet, and tacitly accept his offer.
+
+}
+[sha:399e2ba0b94f9e2f5cfa0ff66992e48f67b6c4e0]{
+-- Page 23, Offset 11202.
+-- 『……変な人』
+"...He is so strange."
+
+}
+[sha:7f7765445aabd4415ea4104694ec4e55a2706eea]{
+-- Page 23, Offset 11203.
+-- わずかに間をおいて、誰に聞かせるでもなく、控えめに呟きながら。
+  She whispered the words softly, not for anyone in particular to hear but herself.
+
+}

@@ -1,0 +1,558 @@
+[sha:04ac8817e1668927dbddd3f6bae634ef73fdb73b]{
+-- Page 0, Offset 22600.
+-- しばらくの間。
+  A moment went by.
+
+}
+[sha:6a5202c4f23302b4accfb65c6cf12513f2f54a91]{
+-- Page 0, Offset 22601.
+-- 一分ほど経った後、
+  After about a minute...
+
+}
+[sha:7f42a08b0b80f25196a6286c9b3161a92a224f8a]{
+-- Page 1, Offset 22602.
+-- 「まあ、ヘリの事はきっぱり忘れるとして。
+"Forget that stupid helicopter.
+
+}
+[sha:84460d336d4766a5c0bebd6676bb4372c5f36c82]{
+-- Page 1, Offset 22603.
+-- もっと前向きな話をしましょう」
+  Let's think more positively."
+
+}
+[sha:49159fc912511ce2368f26c69a69f00762be5547]{
+-- Page 1, Offset 22604.
+-- 彼女は何事もなかったように現れた。
+  She returned, acting as if nothing had happened.
+
+}
+[sha:e08f56668928611ded2342a070156eec8beab015]{
+-- Page 1, Offset 22605.
+-- 敵ながら、そのプライドの高さは認めざるを得ない。
+  We were enemies, but I had to respect her sense of pride.
+
+}
+[sha:22e431940b7dbb12a6552a32f42b4ceb94af050b]{
+-- Page 2, Offset 22606.
+-- 「リデル、オマ……」
+"Riddell, you..."
+
+}
+[sha:b1984600e1d7caaa1a53955c595d995d602c1c82]{
+-- Page 2, Offset 22607.
+-- 「トビマル。前向きな話をしましょう」
+"Tobimaru. I said, let's move on."
+
+}
+[sha:1987b04eecf334d419ed257c43044e90c8ca15f1]{
+-- Page 2, Offset 22608.
+-- 「……分かった。とりあえず、オマエさんが潔白だってのだけは分かった。というか、これでスイーツハーツがオマエだったら、酷すぎて目も当てられねえ」
+"...Fine. At least we know you're innocent. If it turns out you're Sweets Hearts after all this crap, I don't think I can look you in the eye ever again."
+
+}
+[sha:8153e1aa4fc6b8b2a40cbbff746019536821cf15]{
+-- Page 3, Offset 22609.
+-- 「そんなの当たり前でしょ。さっきからアタシは関係ないって言ってるじゃない。
+"I told you I had nothing to do with any of this from the start.
+
+}
+[sha:b5b2fdafc0d33244e08fb95abbedee16efbffe6e]{
+-- Page 3, Offset 22610.
+-- だいたいね、このアタシ、希代の天才マイスター、新世代魔女であるリデル様が、こーんなバカっぽくて古くさいプロイに引っかかるワケないじゃない」
+  I'm a genius, a rare Meinster, a witch for the modern age. The great Riddell would never stoop to using silly obsolete Ploys."
+
+}
+[sha:7334c7b85cd04408aa5a23fe828169692e70d689]{
+-- Page 4, Offset 22611.
+-- 「いや、ひっかかっただろ、あのヘリ」
+"But you'd use a helicopter?"
+
+}
+[sha:47314df88b0988263a6e9de96e2595ce34f41082]{
+-- Page 4, Offset 22612.
+-- 「ヘリはヘリ、アタシはアタシよ！
+"Shut up about the helicopter! This is about ME!
+
+}
+[sha:5ad22d8c349ae5a9a822a9c3374be6bb3e13a59d]{
+-- Page 4, Offset 22613.
+-- さっきだって笑ったけど耐えきったでしょ。
+  I laughed, but I'm still alive, aren't I?
+
+}
+[sha:1c31959d8bdca12cc4a9e524c4d6c83ceb9b4c69]{
+-- Page 4, Offset 22614.
+-- いっとくけど、アタシは絶対笑わないからね。ここでゆっくり、アンタらが古くさいプロイなんかにやられて消えていくのを眺めてやるから！」
+  There isn't a chance in hell I'm going to laugh again. I'm going to watch you all get picked off one by one by some ancient Ploy!"
+
+}
+[sha:fbdbcf65a0aadee1d1f7efc4fa7b6dd80a7e0730]{
+-- Page 5, Offset 22615.
+-- 憎まれ口を叩いてはいるが、ピンク女も観念したのだろう。
+  She sounded aggressive, but I think the pink girl was more concerned than she let on.
+
+}
+[sha:3a487cc2837a54cfa0eeebfeb876b0428fa9ccf5]{
+-- Page 5, Offset 22616.
+-- ふん、と鼻を鳴らしてソファーに腰を下ろす。
+  With one last huff through her nose, she plopped down on the sofa.
+
+}
+[sha:4a1358ff3970759078b3e87d69d84c34e64d7865]{
+-- Page 5, Offset 22617.
+-- わたしたち同様、この夜に付き合う腹を決めたようだ。
+  She seemed to made up her mind to work with us for tonight.
+
+}
+[sha:a5dc0e5649fdc71c68561f47253cf03236d41af9]{
+-- Page 6, Offset 22618.
+-- 「ごめんなさい。少し席を外すわ。すぐに戻ってくるから、話を続けていて」
+"Sorry, but I'll be back in a second. Carry on."
+
+}
+[sha:22963779386209509cfbec43f5d8a9acdec2c241]{
+-- Page 6, Offset 22619.
+-- 久遠寺さんは……あ、トイレか。
+  Miss Kuonji was... ah, the bathroom.
+
+}
+[sha:50cdbcf0c372265e3608cb9920f2c80749c8429e]{
+-- Page 7, Offset 22620.
+-- 「しかし、<図|はか>らずも脱出は不可能である事が証明されてしまいましたね。
+"Now we know for sure that escape is impossible.
+
+}
+[sha:cd51e9cf8446645745d1a917afba604578a8225e]{
+-- Page 7, Offset 22621.
+-- 誰がスイーツハーツなのか特定するか、朝まで全滅しないように注意を払うか。私は後者を選びたいところですが」
+  We need to figure out who Sweets Hearts is, or survive until morning. I personally favor the latter."
+
+}
+[sha:5ed479d3bc26c431ac9788e76a239c1328fa53ba]{
+-- Page 8, Offset 22622.
+-- 「賛成。薮をつついて蛇を出したら、それこそ全滅の可能性もでてくるし。
+"Me, too. If we keep poking the hornet's nest, we might all end up dead.
+
+}
+[sha:5b571db6e664a9c9118bc4b5502ad407344b7c13]{
+-- Page 8, Offset 22623.
+-- 久万梨は？」
+  What about you, Kumari?"
+
+}
+[sha:ad5ccffe6318ad6cae2e4157b1b55ef510ed59c7]{
+-- Page 9, Offset 22624.
+-- 「わたしはどっちでもいいけど……槻司はどうなの？」
+"I'm fine with either... Tsukiji?"
+
+}
+[sha:6e54ec79617b39a968f67753fd2d612ac832964f]{
+-- Page 9, Offset 22625.
+-- 「俺か？　俺は犯人特定に一票だな。
+"Me? I vote we figure out who the killer is.
+
+}
+[sha:70d7c89d3969a0a6c968f81b81ca07185b95cd40]{
+-- Page 9, Offset 22626.
+-- こんな状況を作り出した間抜けには、きっちり文句いわねえとな」
+  I'd like to give them a piece of my mind."
+
+}
+[sha:160a0588fe4c2c6d0f5b2a91cda5d1e0bad9599c]{
+-- Page 10, Offset 22627.
+-- 「私はどちらでも。リデルさんではありませんが、どちらに転んでも安全ですので」
+"I'm fine either way. I don't share Miss Riddell's opinion, but I'll be safe with either option."
+
+}
+[sha:4f795e57ba9b80441da4d6d7961d19033d06edac]{
+-- Page 10, Offset 22628.
+-- 「わたしは槻司くんに賛成っ。
+"I'm with Tsukiji.
+
+}
+[sha:d00990edac54a6070a72b3657583008a2e2a5282]{
+-- Page 10, Offset 22629.
+-- 推理、推理しましょう、みんな！」
+  Time for a little deductive reasoning!"
+
+}
+[sha:d49cb9f5c340578ea9fa593a0df423e4f79594dd]{
+-- Page 11, Offset 22630.
+-- 「俺は……そうですね。外の天気も荒れる一方だし、みんな部屋に立てこもった方がいいとは思う。鍵をかけて寝てしまえば他人に笑わせられようがないし」
+"As for me... Let me think. The weather's only getting worse, so maybe we should stay in our rooms, lock the doors, and go to sleep. Nobody can make us laugh, then."
+
+}
+[sha:c994bfed4f1f51044208b3101f3b2d4caf2eeb1b]{
+-- Page 11, Offset 22631.
+-- 「えー、つまんないでーす！
+"Aww, but that's so boring!
+
+}
+[sha:bceb9214e7e2e5549326a6594d050eaffa9261e0]{
+-- Page 11, Offset 22632.
+-- 草十郎さん、ここはもうちょっと様子見ようよー。アオコの死に方とか、すごく興味ない？」
+  Come on, Soujyuro! Let's stick this out! Don't you want to watch Aoko die?"
+
+}
+[sha:0fae0c2b9892206c901bb85a156400e821df0c83]{
+-- Page 11, Offset 22633. Mods: @k, @e.
+-- 「ベオ、そういうのは冗談でも―――
+"Beo, that's not funny-
+
+}
+[sha:65f4da5f734771197c945e1444707f6e2c737c1c]{
+-- Page 11, Offset 22634. Glued. Mods: @x.
+-- む？」
+Hm?"
+
+}
+[sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
+-- Page 12, Offset 22635.
+-- 「！」
+"!"
+
+}
+[sha:4f313b7e6b826d306b7bf5def26d35c53491236e]{
+-- Page 12, Offset 22636.
+-- 突然、部屋が真っ暗になった。
+  Suddenly, the room was pitch-dark.
+
+}
+[sha:5f0912f3592a5cd38ea9063a5d218bfc316e266c]{
+-- Page 13, Offset 22637.
+-- 「落ち着いて。電気が切れたようです。皆さん、<無闇|むやみ>に動いてはいけませんよ。<闇|やみ>だけに」
+"Everyone stay calm. It's just a power outage. If I find out who turned the lights out, I'll knock *their* lights out."
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 13, Offset 22638.
+-- 「………………」
+"..."
+
+}
+[sha:e6ae9b7c5d8dc16e11826fa8bac70134c2c7fd8c]{
+-- Page 13, Offset 22639.
+-- 危ない危ない。あまりの寒さに、一周まわって吹きだしかけてしまった。
+  That was a close one. I heard several people almost fail to suppress a laugh.
+
+}
+[sha:513d12e50cc16aa02ec129e34aba13d7822ec90c]{
+-- Page 14, Offset 22640.
+-- 「なに考えてんのよ詠梨！　全滅するかと思ったじゃない！」
+"What're you thinking, Eiri?! You could've killed us all!"
+
+}
+[sha:6e0eb3ae9566fd46a16c93bf04e6cb9c82f4b75f]{
+-- Page 14, Offset 22641.
+-- いやそれはない、
+  He would've killed *you*, maybe.
+
+}
+[sha:989462439bef3bcbc0a99a4884d56a277b69406c]{
+-- Page 14, Offset 22642.
+-- とツッコミを入れたいわたしだった。
+  But I decided to keep that to myself.
+
+}
+[sha:1b78aede1c668523de7615152519e37ca0d4bce1]{
+-- Page 15, Offset 22643.
+-- 「いやあ、今なら切れる、と心が騒いでしまいまして」
+"I couldn't help it-the opportunity presented itself."
+
+}
+[sha:cb948dc1d90274ae596d40b210d09add755c5a26]{
+-- Page 15, Offset 22644.
+-- 「うん、タイミングはバッチリだった。つまんないダジャレも、切り出し方次第で人を殺せるんだな」
+"Good timing, though. Even a silly joke can be effective if the timing is right."
+
+}
+[sha:c3ec28d8c0349f2587861c56ddb83052d84ab0f3]{
+-- Page 15, Offset 22645.
+-- 「顔が見えないのがまた効くよな」
+"Something about not being able to see his face makes it funnier, too."
+
+}
+[sha:3c82d70f766676c2d6262ac3c98dd66886c8dcc7]{
+-- Page 15, Offset 22646.
+-- 「まったくよ。このアタシですらちょっとブルっときたわ。もしかしてアイツが犯人なんじゃないの？」
+"Good grief. Even I almost laughed. Are you sure he isn't the killer?"
+
+}
+[sha:44465ab2f3c9458ba91f61ae52b51a0af5e56764]{
+-- Page 16, Offset 22647.
+-- 暗闇の中で会話は続く。
+  Our conversation continued in the dark.
+
+}
+[sha:86d3f84f5de53be1bd55069ce4db2389dd8fe3b7]{
+-- Page 16, Offset 22648.
+-- ……修学旅行の怪談話というか、暗闇の中でのやりとりは妙に興奮するというか。
+  It reminded me of telling ghost stories on a school trip; it's just fun to talk in the dark sometimes.
+
+}
+[sha:e5b57b6d0bb5808bf633cd5ce361c72fef7a5c9c]{
+-- Page 16, Offset 22649.
+-- なんとなく、誰もが“今ならひとりぐらい笑わせてもいいんじゃないかな？”なんて浮ついた空気になってきた。
+  For whatever reason, I could tell we were all tempted to make each other laugh.
+
+}
+[sha:25bfc93e45fd4cbc0b70c06de6ee51084043fcf6]{
+-- Page 17, Offset 22650.
+-- 「あ、蝋燭みつけた。誰かライター持ってない？
+"Found a candle. Anyone got some matches?
+
+}
+[sha:9d46aa1f1bc728e3b95a27a7e8197f881d7ad9c5]{
+-- Page 17, Offset 22651.
+-- もしくはマッチ」
+  Or a lighter?"
+
+}
+[sha:684adad1f8648948c3e9331afe2d9e5217e923e6]{
+-- Page 17, Offset 22652.
+-- 「ちょっと待ッチ」
+"When my Italian plumber lost weight, he got-a lighter."
+
+}
+[sha:9b83b961563deed1aad98aaeb068a01186f67c69]{
+-- Page 17, Offset 22653.
+-- 「え、今のも神父さん？」
+"Was that Father Eiri again?"
+
+}
+[sha:cea3b241c3d4a525bd31b221939de8568b79351c]{
+-- Page 17, Offset 22654.
+-- 「酷い。酷すぎる」
+"Oh, man. That was so bad."
+
+}
+[sha:a2189030df9af013d63d37b4d041c8798a816d68]{
+-- Page 17, Offset 22655.
+-- 「脳が退化しているとしか思えません」
+"I feel dumber for having heard it."
+
+}
+[sha:9fb6a71222e61778839639fca99db77c622de454]{
+-- Page 17, Offset 22656.
+-- 「いや、この原始の状態じゃあ<知性|エスプリ>利かせてもインパクトねぇぞ。シンプルイズベストだ」
+"Nah. I think the simple jokes actually work better given the primal circumstances we're in."
+
+}
+[sha:769133f1c746a195dc52339597907fe70f30217a]{
+-- Page 17, Offset 22657.
+-- 「あ。みんな静かに、電気つきそうだぞ」
+"Hey, be quiet. I think the power's coming back on."
+
+}
+[sha:b8bbcda0f56176a15d30313e634b38f91febb01b]{
+-- Page 18, Offset 22658.
+-- 久遠寺邸には自家発電装置でもあるのだろうか。
+  Did the Kuonji Estate have its own power generator?
+
+}
+[sha:d093e569cbfd7c5c01fb52aafc2feaacea46bb16]{
+-- Page 18, Offset 22659.
+-- 誰が復旧させたかはともかく、居間はあっさりと人工の明かりを取り戻した。
+  It wasn't clear who restored the power, but the drawing room was flooded with artificial light.
+
+}
+[sha:5945da804e0c7501d1a998091c1d9b90b9cd6b35]{
+-- Page 19, Offset 22660.
+-- 「あら、古くさい屋敷のクセに設備はしっかりしてるのね。このまま暗闇で朝まで過ごすのかと心配しちゃったわ」
+"Looks like this old mansion at least has some proper equipment. I was worried we were going to be stuck in the dark until morning."
+
+}
+[sha:eedc8ccb4f59e311c7d83f5f9a92751ccdee4a71]{
+-- Page 19, Offset 22661.
+-- いつの間にか隣にいたピンク女が顔をあげる。
+  Riddell had moved next to me at some point. She looked up.
+
+}
+[sha:392aa293db01e18fc539ea697d01ccab409c0d8a]{
+-- Page 19, Offset 22662.
+-- わたしもつられて顔を上げて、
+  I followed her gaze...
+
+}
+[sha:325eec855355d8b165cc583cff77fd799721e204]{
+-- Page 20, Offset 22663. Mods: @n.
+-- 「ぎゃははははははははは
+"Bwahahahaha-
+
+}
+[sha:571094d840432f8b49b3529b5efef63010b7cd58]{
+-- Page 20, Offset 22664. Glued. Mods: @k, @e.
+-- ぎごばぁ！？」
+Hurk!"
+
+}
+[sha:8cd6141a005dbbd68c49705871c9194fc3b8a18c]{
+-- Page 20, Offset 22665.
+-- ピンク女は胸にドンドンドンと衝撃を受けて、くるくると踊りながら激倒した。
+  The pink girl took what looked like several impacts to the chest, spun around dramatically, and collapsed.
+
+}
+[sha:580cf3c9715c0a7e45c91156f14a52642357b118]{
+-- Page 21, Offset 22666.
+-- 「リデル！？　ちょっと、何があったの！？」
+"Riddell?! What happened?!"
+
+}
+[sha:921e98ac04110ffb9b689a64bdfb985f8bbc8d2e]{
+-- Page 21, Offset 22667.
+-- 蒼崎がリデルに駆け寄る。
+  Aozaki rushed over to her side.
+
+}
+[sha:8b0d6cb3e4777ee0c5858fcb1f1cf16533a68280]{
+-- Page 21, Offset 22668.
+-- わたしは間一髪の差で助かった。
+  I'd narrowly avoided the same fate.
+
+}
+[sha:39ed60a9673b830896d797a4fd8288ec06a6028e]{
+-- Page 21, Offset 22669.
+-- ピンク女……リデルが先に笑っていなかったら、間違いなくわたしが笑っていただろう。
+  If she hadn't started laughing first, I'd have busted a gut for sure.
+
+}
+[sha:1b9c035e225a744ece1baddc0a128791f3f80038]{
+-- Page 22, Offset 22670.
+-- 「リデル、しっかりしなさいリデル！
+"Riddell! Hang in there!
+
+}
+[sha:3c7dae13c67d1f5e914da5a65e9f0beedeec5e98]{
+-- Page 22, Offset 22671.
+-- 死ぬ前に教えて、何を見たの！？　犯人？　犯人ね！？」
+  Before you die, tell us what you saw! Was it the killer?!"
+
+}
+[sha:6757eda54dcb1e9e7d925c845d144c25e7536f24]{
+-- Page 22, Offset 22672. Mods: @k, @e.
+-- 「ふ、ふふ……そんな、つまんないヤツ、より……もっとおぞましくて、ぷにぷにした、悪魔、が―――
+"H-Heh... No, something... much more... interesting...much worse... a squishy... demon...
+
+}
+[sha:a0e8a2bf8c80662fe922375a73154237cdb9a212]{
+-- Page 22, Offset 22673. Glued. Mods: @x, @n.
+-- ばたり」
+Blargh."
+
+}
+[sha:4d7c2cfa6789b9efdc72280bcecf5f85f0c7892a]{
+-- Page 22, Offset 22674.
+-- 「リデルーーーーーーー！」
+"Riddell!!!"
+
+}
+[sha:ed90a0f1155ac9ce54e3e0586b013232c1b7467d]{
+-- Page 23, Offset 22675.
+-- リデルを抱きかかえながら号泣する蒼崎。
+  Aozaki burst into tears, clutching May's lifeless body in her arms.
+
+}
+[sha:593e256b54d8c5faa491e5a101b34f0f52ca0b24]{
+-- Page 23, Offset 22676.
+-- 似たもの同士、感じ入るものがあったらしい。
+  They were probably more alike than they cared to admit.
+
+}
+[sha:2a74dea9697ffb095edf4f5f7986b9ea0a2c4852]{
+-- Page 23, Offset 22677.
+-- そんな中、何事もなかったかのように戻ってくる久遠寺さん。
+  Amidst the commotion, Miss Kuonji returned, not appearing to have noticed the death.
+
+}
+[sha:ca18b07b09589bdf7bd41d6d0a2a1517960fcbb1]{
+-- Page 24, Offset 22678.
+-- 「何かあったのかしら」
+"What's going on?"
+
+}
+[sha:ddff1687fee955f848a1e77020a0654677bd22f0]{
+-- Page 24, Offset 22679.
+-- 「分からん。わけもなく爆笑して自滅した。
+"I don't know. She just burst out laughing for no reason and then she was gone.
+
+}
+[sha:890509b18371f9d9e616236cd5b60cef39c0afcf]{
+-- Page 24, Offset 22680.
+-- 今度はさすがに復活は無理っぽい」
+  Don't think she's coming back from this one."
+
+}
+[sha:3233285777140f73597da59b1696c90cff94958f]{
+-- Page 25, Offset 22681.
+-- とにかくこのままでは可哀想だ、と槻司はリデルにテーブルクロスをかけて部屋の隅に寝かせる。
+  Perhaps out of pity, Tsukiji covered her with a tablecloth and lay her to rest at the side of the room.
+
+}
+[sha:60886c69472c6e4053167ea1a109c00725effe52]{
+-- Page 25, Offset 22682.
+-- わたしはそそそっ、と久遠寺さんに近づいて、耳打ちなど一つ。
+  I quietly shuffled over to Miss Kuonji and whispered in her ear.
+
+}
+[sha:b379742b686b67847d8d4f102f5ec755ab3da179]{
+-- Page 26, Offset 22683.
+-- 「久遠寺さん、今の、なに？」
+"Miss Kuonji, what was *that*?!"
+
+}
+[sha:07574a9a77f93d303c53a9c10f66eca9342f2790]{
+-- Page 26, Offset 22684.
+-- 「着替える服を間違えたの。みんなには黙っていてね、久万梨さん」
+"I mixed up my change of clothes. Don't tell anyone, Kumari."
+
+}
+[sha:3ce23a0866283f8d87c718c5723ca637400307cc]{
+-- Page 26, Offset 22685.
+-- 「……いいけど。犯人じゃないのよね、貴女？」
+"...Okay, but you're not the killer, are you?"
+
+}
+[sha:fb1f1234873958ed03c01e9867b7ef73017c8415]{
+-- Page 27, Offset 22686.
+-- 「ええ。今のはただの趣味だから安心して。
+"Of course not. This was just a hobby of mine, don't worry.
+
+}
+[sha:954ed419c1b60b9c76dd4281248eb412682c125b]{
+-- Page 27, Offset 22687.
+-- 昔から、あの娘を見ていると何故かいじめたくなってしまって」
+  For some reason, I've always felt like bullying her, and I can't explain why."
+
+}
+[sha:0f7bd8e381b1b4a13ef21b6e3a27c5690087f760]{
+-- Page 27, Offset 22688.
+-- 困ったものだわ、と嘆息する久遠寺さん。
+  "It's really too bad," she sighed.
+
+}
+[sha:5902372f2ffebc84cf521ebfb42614caa0f9d7ea]{
+-- Page 27, Offset 22689.
+-- わたしは改めて、リデルにちょっとだけ同情したのだった。
+  Again, I felt a little sorry for Riddell.
+
+}
+[sha:4471729bcccb38db259d8f627d3470f01bb2b84b]{
+-- Page 28, Offset 22690.
+-- 犠牲者は四人になった。
+  That made four victims.
+
+}
+[sha:2853bffa9b12d6a4020be34b0e1470f986ebd673]{
+-- Page 28, Offset 22691.
+-- ここにきて全体の雰囲気は“部屋に閉じこもって朝を待つ”方向に傾きつつある。
+  Everyone seemed resigned to locking ourselves in our rooms for the night.
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 28, Offset 22692.
+-- わたしは、
+  I...
+
+}

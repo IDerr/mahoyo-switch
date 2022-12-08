@@ -1,0 +1,966 @@
+[sha:acd022589490c7adec7441e07b1f7ebc90e31a70]{
+-- Page 0, Offset 4235.
+-- 秒単位で倒壊は激化していく。
+  The collapse was intensifying by the second.
+
+}
+[sha:a1e6dce8117546fd3521bf08b4ae84f35cb86225]{
+-- Page 0, Offset 4236.
+-- 支柱を失った城は中心に折りたたまれるよう、自重によって潰れていく。
+  Having lost its support pillars, the castle was buckling under its own weight.
+
+}
+[sha:6f8cacb85310d8aed12121f770c2c504580cc854]{
+-- Page 1, Offset 4237.
+-- 「この、邪魔……！」
+"Out of my way!"
+
+}
+[sha:88ee602ded8a0acfc3b60a5e8592344e14703b9b]{
+-- Page 1, Offset 4238.
+-- なので、地下からの脱出は困難を極めた。
+  Escaping from the basement was proving to be no easy task.
+
+}
+[sha:826b20463c3587ceb7a2de0bee18da0284ed6148]{
+-- Page 1, Offset 4239.
+-- 迷路を最短距離で突っ切った青子だが、途中、崩落した天井に潰されかけたのが一度。
+  While she was taking the shortest route possible through the maze, she was nearly crushed by a falling piece of the ceiling along the way.
+
+}
+[sha:aee2fc3be9753894609f5a0b868cbd653eeae277]{
+-- Page 1, Offset 4240. Glued. Mods: @x.
+-- 立ちふさがる瓦礫で一秒だけ足を止めたのが二度、いやこれで三度目。
+This was the second time―no, third―she had to deal with fallen rubble along the way.
+
+}
+[sha:6df9f2870487a7d7cf24dfa2064ce76fd4224277]{
+-- Page 2, Offset 4241.
+-- 階段に降り積もった瓦礫を、走りながらの魔弾によって粉砕する。
+  She destroyed the debris on the stairs with magic bullets as she ran.
+
+}
+[sha:9cd3e930474c90efb44c83e9220c5d34018d9834]{
+-- Page 2, Offset 4242.
+-- 既に、自動人形による<妨害電波|ジャミング>は途絶えている。
+  The automaton's jamming had long since worn off.
+
+}
+[sha:8b40a4d63f205e63ef2b6e68f0c7c4890655e160]{
+-- Page 2, Offset 4243.
+-- 先ほどの攻防で人形はその大部分の機能を破損したからだ。
+  The earlier attack had damaged the vast majority of its functions.
+
+}
+[sha:022df428840849691aadead3c940ab55bd2376af]{
+-- Page 3, Offset 4244.
+-- 「―――、っ―――！」
+"-, -!"
+
+}
+[sha:b89fcbfb58ef7b0cf353ac48d25bb01c987257d6]{
+-- Page 3, Offset 4245.
+-- 息を飲むように走る。
+  Her breathing was heavy as she ran.
+
+}
+[sha:a4614aa392bb54bc88b03be74554a2d424907c64]{
+-- Page 3, Offset 4246.
+-- 窮地における緊張から、脳は倍速で稼働する。
+  The intensity surrounding her sparked her brain into overdrive.
+
+}
+[sha:530cc89257ab81ec5bab675645c4cafd34db215e]{
+-- Page 3, Offset 4247.
+-- 崩れていく天井が緩やかに流れていく。
+  The ceiling seemed to be collapsing in slow motion.
+
+}
+[sha:b7c3c48b21576b1c286527c7364fc7eb7e2270c2]{
+-- Page 3, Offset 4248.
+-- まるで死の<間際|まぎわ>の走馬灯。
+  For her, a second felt like five.
+
+}
+[sha:5d4cc0f7cde9e089e712a5e713bc8304f7b12758]{
+-- Page 3, Offset 4249.
+-- 今の彼女には一秒が五秒に相当する。
+  Her frayed nerves made it hard to read time correctly.
+
+}
+[sha:8c279b2e2d39a3375f26a344293e89e5d1cb1cb4]{
+-- Page 3, Offset 4250.
+-- 研ぎ澄まされた神経が、体感時間を延長する。
+  As her life seemed to flash before her very eyes, a light at the end of the tunnel...
+
+}
+[sha:c49a5e52d718a8a121fc45206ff48f13391245b5]{
+-- Page 4, Offset 4251.
+-- 倒壊する地下から、崩落する一階へ。
+  There was debris riddled throughout the stairway, forcing her to crawl up it.
+
+}
+[sha:9863b1abc3e8f9a8e6164f31cf14484cf5d85442]{
+-- Page 4, Offset 4252.
+-- 青子は瓦礫で埋もれかけた階段を這って上りきった。
+  She emerged from the destroyed basement into the collapsing first floor.
+
+}
+[sha:3c3be19dba3dd0256772d83f5c3e1e376440b496]{
+-- Page 4, Offset 4253.
+-- 広間はまだ開けているコト自体が奇跡で、
+  That the plaza was still traversable at all was a miracle in itself,
+
+}
+[sha:9a9aeefdebcb9681b73bec0b6b64a78ec08b3b17]{
+-- Page 4, Offset 4254.
+-- 肝心の出口への通路は―――幸運な事に、まだ崩落していない……！
+  and fortunately for her, the crucial path to the exit was still intact.
+
+}
+[sha:48c1c391ed1d77310bb8e8c2e96e9f3a6edc83e6]{
+-- Page 5, Offset 4255.
+-- “よし、ついてる……！”
+"I made it!"
+
+}
+[sha:cbebf901c38ea80c3d740c51441de1553ddd4ac3]{
+-- Page 5, Offset 4256.
+-- 入り口通路は地下に沈まない。
+  The corridor to the entrance was still intact.
+
+}
+[sha:dfb6db6967f9bad2236ba3469d29341b0377e2dd]{
+-- Page 5, Offset 4257.
+-- 地下迷路があるのは広間までで、入り口通路は下に崩れようがないからだ。崩れるのは天井だけで、足場は最後まで残るはず。
+  The basement maze only extended as far as the plaza, so the entrance corridor wouldn't collapse. Only the ceiling would cave in, leaving the scaffolding surround intact.
+
+}
+[sha:7f70608cc4b07fee7792a7c1b32a474dab4d0fae]{
+-- Page 6, Offset 4258.
+-- なので、この運任せの脱出は広場まで辿り着けるかの勝負だ、と青子は自分に言い聞かせて突き進んできた。
+  She got herself this far by telling herself repeatedly that fate would decide whether or not she reached the plaza.
+
+}
+[sha:010ffb636aad8489cd859e60bca9d3d12b958c64]{
+-- Page 6, Offset 4259.
+-- 賭けは彼女の勝ちだ。幸運は青子に味方した。
+  Her gamble paid off. It was her lucky day.
+
+}
+[sha:db4f030b1a08af830cfc40b7942e5cd2585ae972]{
+-- Page 6, Offset 4260.
+-- ここからは残りの体力を総動員して、脇目もふらず外を目指せば―――
+  All she had to do was muster the last of her strength and keep moving forward, until―
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 7, Offset 4261.
+-- 「――――――」
+"..."
+
+}
+[sha:ce6829e2087294d5ad8cfbae795b48aff886eb74]{
+-- Page 7, Offset 4262.
+-- 時間にして０．２秒だけ、青子は足を止めかける。
+  She hesitated for a fraction of a second.
+
+}
+[sha:5f06e13d1686880b7c837b74e7f1af36341c1cc5]{
+-- Page 7, Offset 4263.
+-- 心の甘さか、責任か。
+  Was it naivety? A sense of responsibility?
+
+}
+[sha:ea01fc3f8782ef7e7f7dc878a119f1854079b1e0]{
+-- Page 7, Offset 4264.
+-- 脳裏によぎったイメージを振り払って、彼女は通路に向かって走りだした。
+  She pushed aside the image that popped into her head and continued running down the corridor.
+
+}
+[sha:fe2c49b2e0c3e3c3186047aa8f0ad3dcf3d28849]{
+-- Page 8, Offset 4265.
+-- “……言っとくけど時間合わせの余裕はないわよ。
+"...We don't have the luxury of coordinating the timing with each other to pull this off.
+
+}
+[sha:c0ff175e52b44ffe789abdfc5731e0373bbb11ad]{
+-- Page 8, Offset 4266.
+-- そんな上等な作戦じゃないし。お互い、できるコトをやったら最速で出口に向かいましょう”
+  It's not the greatest plan in the world, but we both need to do our parts and get to the exit as quickly as possible."
+
+}
+[sha:ee72f11d516d05cacd92f3109057072062f8da10]{
+-- Page 8, Offset 4267.
+-- たった五分前の話だ。
+  That was five minutes ago.
+
+}
+[sha:fd417a6db40364d91550e2947095edd20bbd2cdc]{
+-- Page 8, Offset 4268.
+-- それに、彼は少しだけ不安そうに頷いた。
+  At the time, Soujyuro had nodded with trepidation.
+
+}
+[sha:498b861a8d9db8bdc4b0de5dff3f88c01e830f3e]{
+-- Page 8, Offset 4269.
+-- あの顔は―――何に対してのものだったのか。
+  And Aoko had not bothered to ask herself why.
+
+}
+[sha:7757b2bc6de8d215e2e84062079a6243ca453bd6]{
+-- Page 9, Offset 4270.
+-- “っ、なに様だっての私、今は走ることだけ考えろ……！”
+"What are you thinking, Aoko?! Just focus on running!"
+
+}
+[sha:91cfc94bc65412261218ff722b1ff44432d07904]{
+-- Page 9, Offset 4271.
+-- この通路も、もう<保|も>たない。
+  This corridor was giving out too.
+
+}
+[sha:9bd3a7af575589e6780021e210c435abe90f94fe]{
+-- Page 9, Offset 4272.
+-- 振り向けば迷路側から崩れている事だろう。
+  If she were to look back, she was sure she would see the building collapsing in on her.
+
+}
+[sha:d393359aea11abd863162e376ba67c7e596634d1]{
+-- Page 9, Offset 4273.
+-- そして、今は振り向く時間すら惜しい。
+  She was also sure she had no time to waste doing so.
+
+}
+[sha:b1450794c1291c0ffb03a1548eedfb78c468ff3c]{
+-- Page 10, Offset 4274.
+-- 建物の強度的にはきっとギリギリで、自分の運も絶対ギリギリ。
+  Her luck was fading as fast as the building's structural integrity.
+
+}
+[sha:c1b56a361b3f8d4f49347b012f2d9b7f48b87469]{
+-- Page 10, Offset 4275.
+-- ここまで無傷だった事がそもそも破格のヒロイン補正で、これ以上はどんなトラブルも背負えない。
+  It was a small miracle that she had escaped serious injury up to this point, and she could not afford even the slightest slip-up.
+
+}
+[sha:6bc7a7c60eca7facb1f9de2a8438a68d6c920736]{
+-- Page 10, Offset 4276.
+-- 足首の<捻挫|ねんざ>、<目眩|めまい>、くしゃみ、その程度ですら死に繋がる。後ろから肩を叩かれるだけでゲームオーバーだ。
+  An ankle sprain, loss of balance, even a sneeze would be fatal. A simple pat on the back was enough to end it.
+
+}
+[sha:2d5041336c34ade8fa1eecdd218d5b19a45a681a]{
+-- Page 10, Offset 4277.
+-- ―――なので。
+  So, naturally...
+
+}
+[sha:3d0e41b03fa0ab2abc201ac9e2d8dd35eff02702]{
+-- Page 11, Offset 4278.
+-- 「―――、あ」
+"... But Ao..."
+
+}
+[sha:7043be04a6c2a800425174cec052beaad72eca65]{
+-- Page 11, Offset 4279.
+-- ……彼女の瞳には、はっきりと。
+  There it was, clear as day.
+
+}
+[sha:8b6a1b60a889d1f518fce42d91a0a01964c5d7d1]{
+-- Page 11, Offset 4280.
+-- 地下へ落ちる階段の瓦礫から、蒼<崎青|じぶん>子を道連れにしようとする“死”が見えた。
+  From the detritus of the stairway, death had arisen to take her down with it.
+
+}
+[sha:4710e2fcc941df2e1ec4eb14c4f9577ea54ffc2d]{
+-- Page 12, Offset 4281.
+-- <彼女|したい>は<奈落|ならく>から這い出てくる。
+  A corpse that had crawled its way up from the depths of hell itself.
+
+}
+[sha:59b49339184114b0cd3839032020efc042b47742]{
+-- Page 12, Offset 4282.
+-- まだ<稼働|いき>ている。
+  It was still operational.
+
+}
+[sha:e764dc9c362aba295922d32118295ed3b8b92faf]{
+-- Page 12, Offset 4283.
+-- まだ<呪詛|いし>がある。
+  And it was still armed with curses.
+
+}
+[sha:99c327a1acbea38cc0dfe7ba14cf57faf9db820e]{
+-- Page 12, Offset 4284.
+-- <青子|じぶん>と同じように階段を這ってきて、<青子|じぶん>と同じ目で、一人だけ助かろうとする<少女|あおこ>を見つめている。
+  It had crawled after her, watching as Aoko desperately tried to save herself.
+
+}
+[sha:94869631e39f03db5c4d2c347ffe8ebc236dcceb]{
+-- Page 13, Offset 4285.
+-- 人形の腕が突き出される。
+  The puppet's arm shot forward.
+
+}
+[sha:c2a0efac7d58699b8004e601bdcb42c7636536a7]{
+-- Page 13, Offset 4286.
+-- 青子が振り向かなくとも、鏡にその姿が映っている。
+  While Aoko did not turn to meet it, she could see its reflection in the mirrors.
+
+}
+[sha:dc3503fc3898c54bd391c611d45dd18c3d78b23c]{
+-- Page 13, Offset 4287. Mods: @i, @r.
+-- “Iis salvatio Iis salvatio Iis salvatio Iis salvatio”
+"Iis salvatio Iis salvatio Iis salvatio Iis salvatio."
+
+}
+[sha:282e2d0650d13885bf112f7c748dbe9ef171079e]{
+-- Page 13, Offset 4288.
+-- 伸びる。伸びる。伸びる。
+  Extend. Extend. Extend.
+
+}
+[sha:cee025e3b5893cc06bb76b562dd0e5313cd4ac36]{
+-- Page 13, Offset 4289.
+-- 今度こそ<躱|かわ>せない。躱しようがない。
+  This time, she could not dodge it. There was absolutely nothing she could do.
+
+}
+[sha:d796bf6e7d51c9001e91a681f6d75977c5c2916e]{
+-- Page 14, Offset 4290.
+-- 同じ顔をした人形が<詠|うた>っている。
+  The puppet with her face sang.
+
+}
+[sha:b594cb52885f550ddf4c070e1bd18b80f962c0a0]{
+-- Page 14, Offset 4291.
+-- <招き入れる|@_Venite domum meam.>。
+  <I invite you|@_Venite domum meam.>.
+
+}
+[sha:d9cda2958ecd245f84f8424cd0cbe33c45e09775]{
+-- Page 14, Offset 4292.
+-- <泥のような死を|@_Luto simile somnium>。
+  <to die a muddy death|@_Luto simile somnium>.
+
+}
+[sha:5979c84b5345da01e1f4fdd755f0d904685dfc50]{
+-- Page 14, Offset 4293.
+-- <塵となって囁く|@_et pulveri simile cotidianum>。
+  <Become as whispering dust|@_et pulveri simile cotidianum.>.
+
+}
+[sha:831484e9c442f9f19cd1a30f6993bae2972b099f]{
+-- Page 14, Offset 4294.
+-- <心臓を抉り|@_Cor privo>出して、
+  <Gouge out your heart|@_Cor privo.>.
+
+}
+[sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
+-- Page 14, Offset 4295. Mods: @n.
+-- 
+                                
+
+}
+[sha:97b8d591e05197d35da7ff040d32afbabbf9cecd]{
+-- Page 14, Offset 4296. Glued. Mods: @i, @r.
+-- “「オ<マエニ、|Te iudico>死ヲ」”
+  "<Death be upon you!|Te iudico.>"
+
+}
+[sha:340bcbe77d8f3ea65221246e5a549da896f9e439]{
+-- Page 15, Offset 4297.
+-- 「―――、な」
+"Wha―"
+
+}
+[sha:5ccc8e30aa89aea116944dc5c191f05d9aa2f225]{
+-- Page 15, Offset 4298.
+-- 瞬間、青子は我が目を疑った。
+  For a moment, she could not believe her eyes.
+
+}
+[sha:cf74ba8444bd381c7ec0c5d6fbd36529805c491f]{
+-- Page 15, Offset 4299.
+-- 最後にとんでもない光景を見せられた。
+  This was the last thing she expected to see.
+
+}
+[sha:44ad0903654692aabf28fe2ab3795e4cbf282e1e]{
+-- Page 16, Offset 4300.
+-- 「しつこいぞ、おまえ」
+"Don't know when to give up, do you?"
+
+}
+[sha:8c7db12fc530289ff7c0c18f3b21728fb27b9d8d]{
+-- Page 16, Offset 4301.
+-- 彼はむっとした顔で、広場にとどまって、伸びきった人形の腕を壊していた。
+  A fierce expression adorned the face of the boy who had been waiting in the plaza, as he smashed the puppet's outstretched arm.
+
+}
+[sha:99bd35eae611b156a06e6514ad617aba92355576]{
+-- Page 17, Offset 4302.
+-- 怒っている顔が本当に似合わない。
+  Anger really did not suit him at all.
+
+}
+[sha:d1914613e2b5b90bf8fbf70aef67fc358db7c917]{
+-- Page 17, Offset 4303.
+-- 手にしている武器は消火器だった。
+  His weapon of choice was a fire extinguisher.
+
+}
+[sha:63289ff4a850d216595d02d5a5352fd749ef2d33]{
+-- Page 17, Offset 4304.
+-- きっと武器になるものを探して、いつまでも迷路の中に。
+  He must have searched the maze for something to use as a weapon.
+
+}
+[sha:d3ad1d3b613893f978af8f637c40a151da39d8b4]{
+-- Page 17, Offset 4305.
+-- ……いや、それよりも。
+  No, never mind that!
+
+}
+[sha:de3f9ac56329ec2843978b02bc4c9188bc696d09]{
+-- Page 17, Offset 4306.
+-- 彼がまだ広間にいたのは、考えたくもないけど、まさかそういう理由なんだろうか？
+  It was too crazy to contemplate... but had he stayed behind... for her?
+
+}
+[sha:2216a41410fd843990a80f1a681f07d3fcdb9452]{
+-- Page 18, Offset 4307.
+-- 「っ、静希君―――！」
+"Sizuki!"
+
+}
+[sha:42ae8342ceb54a1f5e0a170329010d7c1ed77d70]{
+-- Page 18, Offset 4308.
+-- 青子は決して止めまいと誓った足を止めて、無我夢中で手を伸ばす。
+  Aoko stopped the feet she had sworn to herself she would never stop moving and extended a hand out to him.
+
+}
+[sha:d261239c9fb5589b072e92c4921ccdd2d344406f]{
+-- Page 18, Offset 4309.
+-- 「そんなのほっといていいから、早く！」
+"That's enough! Leave it! We have to go!"
+
+}
+[sha:db0f2652f873d32eb4aa094621def6526883bde9]{
+-- Page 19, Offset 4310.
+-- 草十郎は消火器を捨てて走りだした。
+  Soujyuro tossed the fire extinguisher aside and took off running.
+
+}
+[sha:8818b9d8f71a5880b5fd276942fa24e594c7abfb]{
+-- Page 20, Offset 4311.
+-- ドミノ倒しに倒壊していく通路の天井。
+  Pieces of ceiling continued to collapse like dominos.
+
+}
+[sha:7361f4cf7b0596bc303396891465d3d0f9b2683e]{
+-- Page 20, Offset 4312.
+-- 土砂に阻まれながらも先行する背。
+  They kept moving with dust and dirt following in their wake.
+
+}
+[sha:31e34dd022556b38b517d6170b41972d8c157fa0]{
+-- Page 20, Offset 4313.
+-- 崩れ落ちる通路を、全力で走るふたりの影。
+  Their shadows raced through the collapsing corridor with all their strength.
+
+}
+[sha:67bfe1757c39cdb9fbea2da7406d412e89be5736]{
+-- Page 21, Offset 4314.
+-- ……断末魔があがる。
+  ...The castle was in the throes of death.
+
+}
+[sha:e3b5bcd2b5e662534feca1ce1da77c34a2324682]{
+-- Page 21, Offset 4315.
+-- 轟音と粉塵をまきあげ、キッツィーランドのシンボルであった御伽の城は、こうして、最後の<見せ場|ショウ>を終えたのだった。
+  With a massive crash and a cloud of dust, the final chapter of the fairy tale that had been Kitsy Land came to an abrupt end.
+
+}
+[sha:3776c996e3779c60d9e6299f997f1fc54b62f8cb]{
+-- Page 22, Offset 4316.
+-- 生死を賭けたマラソンは終わった。
+  This duel to the death was over.
+
+}
+[sha:6db984599f478f93e4761d8045232714b90a0684]{
+-- Page 22, Offset 4317.
+-- 苦楽とか命運とかを一瞬だけ共にしたふたりは、疲れきった体を芝生にあずけて、妙な連帯感に包まれていた。
+  For a moment, amidst their swirling emotions, all past enmity was left behind and the two collapsed on the lawn and basked in a strange solidarity.
+
+}
+[sha:e7f32de631dd138f17fc24f481e2209d0dba132f]{
+-- Page 23, Offset 4318.
+-- ……耳鳴りはもう治まっている。
+  The ringing in their ears subsided before long.
+
+}
+[sha:6b56af97a25adacfd0c6bfadeabbf93642e58f35]{
+-- Page 23, Offset 4319.
+-- あれだけ大きかった地響きも、このさびれた遊園地では<彩|いろ>を失う。
+  A tremor of such magnitude seemed impossible in an amusement park like this.
+
+}
+[sha:b5f86f6c3b82770ac307b875385884c4c132a7a9]{
+-- Page 24, Offset 4320.
+-- 崩落の残響が廃墟に<沁|し>みこんでいくのを聞き届けながら、青子はとなりの人影に語りかけた。
+  As the sounds of destruction echoed across the park, Aoko addressed the individual at her side.
+
+}
+[sha:e8340a1e21dced43df698d6b900719602fd69310]{
+-- Page 24, Offset 4321.
+-- 「………………ねえ、生きてる？」
+"Hey... You alive?"
+
+}
+[sha:f25615c312816eb1c0bdf4c8588302b64ea0fc36]{
+-- Page 24, Offset 4322.
+-- 「うん」
+"Yeah."
+
+}
+[sha:0bd54dd71e63793be47f2d05d958d848110379bc]{
+-- Page 24, Offset 4323.
+-- 「ちぇっ」
+"Tch."
+
+}
+[sha:ea0eb712b3e05c80237609ef9a93e241b4a5d7c7]{
+-- Page 24, Offset 4324.
+-- 可愛らしい舌打ちだったが、その真意は物騒なコトこの上ない。
+  While the click of her tongue was adorable, the meaning behind it was anything but.
+
+}
+[sha:c5a917b244d7b80013f6238420586fef18d8e0e6]{
+-- Page 25, Offset 4325.
+-- 「……蒼崎。あいつ、どうなった？」
+"...Aozaki? What happened to that thing?"
+
+}
+[sha:4968a387f49eae8ca90f48f615eb0d4b2229ad09]{
+-- Page 25, Offset 4326.
+-- 「見ての通りよ。今ごろバラバラ死体になってるんじゃない？」
+"What do you think? It was crushed to bits."
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 25, Offset 4327.
+-- 「――――――」
+"..."
+
+}
+[sha:e69c08c3e59b5ed5f47762568e8e1c216314cd1c]{
+-- Page 26, Offset 4328.
+-- 身もふたもない青子の返答に、それならいいけど、とため息をつく草十郎。なぜなら、
+  Soujyuro sighed, not wholly relieved by her frank response. His reason...
+
+}
+[sha:d39c9e7c7f45708c6c85cde60dd2246f8825747b]{
+-- Page 26, Offset 4329.
+-- 「でも、そんな心配より自分の心配をした方がいいと思うわよ、静希くん？」
+"Never mind that thing. You should be worrying about yourself."
+
+}
+[sha:5e42e25de5b5d25ed15d71038a78f68bf7378b0a]{
+-- Page 26, Offset 4330.
+-- 彼の災難は、目下継続中だったからだ。
+  He wasn't out of the woods yet, after all.
+
+}
+[sha:fd97f7c5743faccda010cdae82b50e0c7341f600]{
+-- Page 27, Offset 4331.
+-- 「……蒼崎、子供の頃はいじめっ子だっただろ」
+"...Aozaki, I'm guessing you were a bit of a bully as a kid."
+
+}
+[sha:42734dedb670969a36d5f02e95c70c826d43e631]{
+-- Page 27, Offset 4332.
+-- 「<加虐|かぎゃく>趣味はないって自負してるけど。
+"Maybe, but I don't get a kick out of seeing people suffer.
+
+}
+[sha:5b85b09ae880a5884611165382f7b9dc2cb98985]{
+-- Page 27, Offset 4333.
+-- それで、今の自分の立場、分かってる？」
+  Never mind that. Do you know the situation you're in right now?"
+
+}
+[sha:f0d49905d723e85415caad06996d1a519f60c55c]{
+-- Page 27, Offset 4334.
+-- 体を起こしてニコリと微笑む青子。
+  She sat up and smiled.
+
+}
+[sha:948d36f74407e5bd5b00bdb242c8924eb87f815b]{
+-- Page 27, Offset 4335.
+-- 口調も表情も優しいのに、なんでぞわっと寒気がするんだろうな、と草十郎はうなだれてみた。
+  Soujyuro hung his head in shame, wondering why her kind tone and expression were so chilling.
+
+}
+[sha:cc32ca6da56efbaa52953944b9bc3c9240bdaafc]{
+-- Page 28, Offset 4336.
+-- 「……<面目|めんぼく>次第もございません」
+"Please accept my sincerest apologies."
+
+}
+[sha:ea28ab26659ce7fc6acd1d919620bfcb16febb07]{
+-- Page 28, Offset 4337.
+-- 「かしこまってもダメよ。あの提案には大前提があったわよね。これは取引だって。貴方が役に立つのなら見逃してあげるっていう」
+"Oh no, don't you even start. You know what our agreement was, and a deal is a deal. If you held up your end of the bargain, I'd let you go."
+
+}
+[sha:18116bf7d13fb671424a0a34b63f285ab991f6e4]{
+-- Page 28, Offset 4338.
+-- 「分かってる。だから面目ないって言ってるだろ」
+"Exactly. And that's why I'm apologizing."
+
+}
+[sha:0584d9c59fa5e0ce80d70914289d27468a2aa054]{
+-- Page 28, Offset 4339.
+-- 草十郎はこれみよがしに顔を背けた。
+  Soujyuro made a show of avoiding her eyes,
+
+}
+[sha:6d4e799a561c58caff2fe15486fe71c0429f93d9]{
+-- Page 28, Offset 4340.
+-- ふん、と子供のようにふて腐れる。
+  like a pouting child.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 29, Offset 4341.
+-- 「――――――」
+"..."
+
+}
+[sha:b6e48915a3c16788929e64d9a05d25f965ddf1d2]{
+-- Page 29, Offset 4342.
+-- その拗ねっぷりに面食らう青子。
+  Aoko was taken aback by this sulky display.
+
+}
+[sha:ea21c52d035131957da56f74ea8a95e0e18d57ec]{
+-- Page 29, Offset 4343.
+-- ……おそらく、ではあるが。
+  Perhaps...
+
+}
+[sha:1d03f85cda5aa3a5d631608efc708eae295b21ef]{
+-- Page 29, Offset 4344. Glued. Mods: @x.
+-- 草十郎は青子にではなく、自分に対して怒っているのだ。
+He was angry at himself rather than her.
+
+}
+[sha:7ffc59c2b6cef2065c2459096dae4ddc9bef33bc]{
+-- Page 29, Offset 4345.
+-- 青子に見逃してもらえない事より、役に立てなかった事が悔しかった、と。
+  He was not mad because she would not let him go. He was mad that he had not done his part.
+
+}
+[sha:fb911b326a90bc24b80498ac3b0c08dc5a416421]{
+-- Page 30, Offset 4346.
+-- 「――――――はあ」
+"...Hah."
+
+}
+[sha:2310c514e7c940e6566bc3600acb0829569d7e36]{
+-- Page 30, Offset 4347.
+-- つい、<本日|ほんじつ>何度目かのため息を青子はもらした。
+  Aoko sighed for what seemed like the millionth time that day.
+
+}
+[sha:f00f75ff9dd66276df8dfc60289ee5c156124446]{
+-- Page 30, Offset 4348.
+-- ……目前の少年のお人好し加減と、その長所を認めてしまった自分の甘さに呆れてしまう。
+  She could not figure out what surprised her more: his unconditional kindness, or her naïve approval of it.
+
+}
+[sha:e818fdab79d77ca0ed8c6e4dee6fbd1a79504f90]{
+-- Page 31, Offset 4349.
+-- 「じゃあ覚悟は出来てるの？」
+"So, are you ready?"
+
+}
+[sha:b00c78814fb27c18dbe05a3276c67939cf4f024d]{
+-- Page 31, Offset 4350.
+-- 「……そんなのは出来ないけど、約束だからな。結局は、何もしていないし」
+"Of course not, but a promise is a promise. In the end, I failed to do my part."
+
+}
+[sha:1f5196e6595852be748fc656dce8d767eebaa55b]{
+-- Page 31, Offset 4351.
+-- 確かに、青子が期待した事は、なにひとつ。
+  It was certainly the case that he failed to do any of the things she had expected of him.
+
+}
+[sha:c6f15baf46e5d84667d02042a9e86697b64fbbfc]{
+-- Page 31, Offset 4352.
+-- けど、と青子は崩れ去ったミラーハウスを一瞥した。
+  But just then, she glanced back at the collapsed house of mirrors.
+
+}
+[sha:9de52ace7962e5f9df226e0ed4921affbd1195fb]{
+-- Page 31, Offset 4353.
+-- 囮役を見事に失敗し、途方にくれた彼は何を選択したのか。
+  What had he done after failing so spectacularly?
+
+}
+[sha:8984c0955c7733a047f9e88e80f0dd28d9443481]{
+-- Page 32, Offset 4354.
+-- ……わざわざ武器になるような消火器を探して、
+  He had searched for the extinguisher so he could use it as a weapon,
+
+}
+[sha:6c9fe9a6159154d80389a804ea4ab72d8c443575]{
+-- Page 32, Offset 4355.
+-- 崩れだした迷路の中で、ひとりで出るわけにはいかないと、あの広間で足を止めていた。
+  and waited patiently in the plaza as the maze collapsed all around him, because he thought it was wrong of him to leave alone.
+
+}
+[sha:327834439e3b94fc3aeacf00d813300327a45173]{
+-- Page 32, Offset 4356.
+-- それは<躊躇|ためら>うことなく出口を目指した彼女とは真逆の、あまりにも愚かな選択だ。
+  It was a foolish choice, and the exact opposite of her choice to run towards the exit without hesitation.
+
+}
+[sha:1bfbc1e014119e623dece39a6f07ed2788cf3f27]{
+-- Page 33, Offset 4357.
+-- “……ま、それでよしとするか”
+"I suppose I'll take it."
+
+}
+[sha:01c8e1d0f264f1fb7658f4652b09fdf023316aed]{
+-- Page 33, Offset 4358.
+-- 甘いなあ、と呆れながらも満足する。
+  She was satisfied, even as she was shocked at how naive she was being.
+
+}
+[sha:b20a27e99fd43ea7f6edd805ed4b05e2b3e365d6]{
+-- Page 33, Offset 4359.
+-- だって救われたのは事実だし。
+  It was true that he had saved her.
+
+}
+[sha:d4fb8d440fbb140040d21f654930c9c7df50c81b]{
+-- Page 33, Offset 4360.
+-- あの状況で待ち続ける勇気は、たとえ一秒だけだとしても賞賛に値すると、彼女は内心微笑んだ。
+  She smiled inwardly, admiring―if only for a moment―the bravery he continued to show in the face of such extreme circumstances.
+
+}
+[sha:563aee18fc2aeaca72f5dbb5de2fd73bff4818c1]{
+-- Page 34, Offset 4361.
+-- “……役割は果たさなかったけど、アフターケアは合格だし。約束は、守らなくちゃね”
+"You may have blown your chance, but you did make up for it after the fact. I'll keep my promise."
+
+}
+[sha:b1539f003beac9d3068470abf8583f76d10fccf3]{
+-- Page 34, Offset 4362.
+-- ひとり頷いて、青子はすくっと立ち上がる。
+  With a nod, she pulled herself to her feet.
+
+}
+[sha:ab709c8577c260e6d29c3d5dfc2a4a40d8d1c52d]{
+-- Page 35, Offset 4363.
+-- 「約束は、ま、いつか守ってもらうとして」
+"But you'll pay back this favor, someday."
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 35, Offset 4364.
+-- 「？」
+"?"
+
+}
+[sha:7102a8029f343602985adc21286089b906535aaa]{
+-- Page 36, Offset 4365.
+-- 少女は出来るだけ無感情を装って、まだ倒れこんでいる少年に手を差し伸べる。
+  The girl tried to keep a straight face as she offered a hand to the boy still lying on the ground.
+
+}
+[sha:4cddadc08b908e3fdf8bae03080797f97f54fe9a]{
+-- Page 37, Offset 4366.
+-- 「結果はどうあれ手助けしてもらったし。
+"You managed to help me in the end.
+
+}
+[sha:924c410152020d7130243a1c466587a152516019]{
+-- Page 37, Offset 4367. Glued. Mods: @x.
+-- 特別サービスってコトで、今夜はもう手を出さないであげる」
+So, because of that, I'll let you off the hook. For tonight."
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 37, Offset 4368.
+-- 「――――――」
+"..."
+
+}
+[sha:b0d330da3d49b0df4270a82ef8d55629bf2fa8d6]{
+-- Page 38, Offset 4369.
+-- 照れくさそうに顔を逸らす少女。
+  She bashfully averted her gaze.
+
+}
+[sha:8c423ed7d31ba0957654206f23d118bb8646d472]{
+-- Page 38, Offset 4370.
+-- その横顔はあの日のものとは違っていたけれど、紛れもなく、少年がこの町に来てはじめて見入った、鮮やかな少女の顔だった。
+  Though her profile appeared different than it had in the past, it was clearly still the face of the vibrant girl he met the day he first arrived in town.
+
+}
+[sha:8741644d383df27be5ce8268f1c85e4b30efd785]{
+-- Page 39, Offset 4371.
+-- 「――――――なによ」
+"What are you staring at!?"
+
+}
+[sha:99c2ec58096b4388f6138685c1e5487ec9e1c456]{
+-- Page 39, Offset 4372.
+-- 視線を感じたのか、口をとがらせてじろりと睨む青子。
+  As if she had felt his eyes on her, she shot him a frowning glare.
+
+}
+[sha:e4883af1981e7491f22c89687a80efa0a975c8f8]{
+-- Page 39, Offset 4373.
+-- 「いや。突拍子もないけど、蒼崎は律儀だなって」
+"Oh, sorry. It's just, as crazy as it is to say it aloud, you really are a fair person, Aozaki."
+
+}
+[sha:8562f8e64bac199b8febe94db43254ee08a42f0f]{
+-- Page 39, Offset 4374.
+-- 差し出された手を握る。
+  He took her outstretched hand.
+
+}
+[sha:54477c2add69702ca70277a2d86309550a61b346]{
+-- Page 39, Offset 4375.
+-- 青子は草十郎の体重を感じながら、貴方にだけは言われたくはないわ、と手を引いた。
+  Feeling his weight as she pulled him up, she could not help but think that he was about the last person she wanted to hear that from.
+
+}
+[sha:3be53707561e2c8982e6e6a2159145d6973e65fa]{
+-- Page 40, Offset 4376.
+-- 「ところで。今夜はって言うけど、明日からは？」
+"By the way, you said you'd let me off the hook for tonight. What about tomorrow?"
+
+}
+[sha:ed69e8d1a9ff123c7b6a2b91ae83b1477b2f0a5b]{
+-- Page 40, Offset 4377.
+-- 「さあ。ま、その時になったら考えるわ」
+"Well, we'll just have to see."
+
+}
+[sha:81df372ab312a6aa961c12ac0ec3ccd4ede3b44b]{
+-- Page 40, Offset 4378.
+-- 自分でもなんだかなあ、と肩をすくめる青子。
+  She shrugged her shoulders as if she was not sure herself.
+
+}
+[sha:4cd6e83b37cc6d7fb110b3f456b295102f648c10]{
+-- Page 40, Offset 4379.
+-- その仕草がおかしく、草十郎も笑ってしまう。
+  The response was so unlike her that it made Soujyuro smile.
+
+}
+[sha:4e0e80bc7a5a73e05aa0f44adf3911d3109228a9]{
+-- Page 41, Offset 4380.
+-- 共に死線をくぐり抜けた連帯感とか、つかの間<築|きず>かれた友情とか。
+  Was it the solidarity of having escaped death together, or their fleeting camaraderie that made him do so?
+
+}
+[sha:4857dba114b94f735e172bbbc9e8676bbc844344]{
+-- Page 41, Offset 4381.
+-- それが今夜かぎりのものでも、ふたりを包む空気は<和|なご>やかで、優しいものだった。
+  It might have been for this night only, but the air between them was kind and gentle.
+
+}
+[sha:8deafa744ad3291d74bfdd585372329b3cef3a75]{
+-- Page 41, Offset 4382.
+-- 色々あったけれど、真冬の夜の悪夢はこれでおしまい。
+  A lot had transpired, but the midwinter nightmare had come to an end.
+
+}
+[sha:b0aaa5234ee9c0be2f67507393829ccbb2c907ef]{
+-- Page 41, Offset 4383.
+-- ふたりはそれぞれの窮地を乗り越え、鏡の国を後にする。
+  The pair had overcome many trials and tribulations and could now leave the mirror realm in their wake.
+
+}
+[sha:948d39e1c8c587864414abfaf0fb4aef9399ffea]{
+-- Page 41, Offset 4384.
+-- ……けれど、その前に。
+  But before that...
+
+}
+[sha:8f18cc1651fac3249bc69e7062cc4c0142b92fc6]{
+-- Page 42, Offset 4385.
+-- 「―――随分と身勝手ね。
+"...How selfish of you.
+
+}
+[sha:f07a93d79697e2a0c6ad7908a65e05110d6c79c5]{
+-- Page 42, Offset 4386.
+-- それは貴女ひとりで決めていい事だったかしら、青子？」
+  Is that something you can really decide on your own, Aoko?"
+
+}
+[sha:b0f1182fd1773262f28b678df28752612d3abc7f]{
+-- Page 43, Offset 4387.
+-- それは美しい鳥のさえずりにも、
+  It was the voice of a beautiful singing bird
+
+}
+[sha:22665d19cdd2062cf5f0cff89a699c7796789703]{
+-- Page 43, Offset 4388.
+-- 無慈悲な機械の声にも似て。
+  and a merciless machine, all rolled into one.
+
+}
+[sha:2a1686ed2b84342c2d7b779b49b0d2b3a79e14d1]{
+-- Page 44, Offset 4389.
+-- 「―――有珠」
+"...Alice."
+
+}
+[sha:357b35226ebe669f5a632909793785b19dae61f7]{
+-- Page 44, Offset 4390.
+-- ……震える声で、青子は少女の名を口にした。
+  Her voice quivered as she spoke the name.
+
+}
+[sha:c199c7aafe45512b5ec2fd14d961037900b5c607]{
+-- Page 45, Offset 4391.
+-- 降り立つ黒衣。
+  The lady in black made her presence known.
+
+}
+[sha:0982b6fbe446ac7f529c964c51a7f0b3158fbf41]{
+-- Page 45, Offset 4392.
+-- ……夜はまだ終わらない。
+  The night was not yet over.
+
+}
+[sha:db2e1f98b9fe11293af13e5e672a9daa63572053]{
+-- Page 45, Offset 4393.
+-- 少女の名は久遠寺有珠。
+  Her name was Alice Kuonji.
+
+}
+[sha:60915b78ce3041996c4324efb7c3bf23313b4f30]{
+-- Page 45, Offset 4394. Mods: @n.
+-- 青子をして魔女と恐れさせる、
+  She was a witch whose name struck fear into the heart of Aoko,
+
+}
+[sha:25bb43231bb1ff8d25245a98d99ef7f75947a303]{
+-- Page 45, Offset 4395. Glued.
+-- 目撃者は例外なく逃がさない、夜の化身がやってきた。
+an avatar of the night who would allow no witnesses.
+
+}

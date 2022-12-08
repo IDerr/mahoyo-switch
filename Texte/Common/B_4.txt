@@ -1,0 +1,408 @@
+[sha:5c1ebfb82c7ff2c3fa9fa90db56e9188e75fce95]{
+-- Page 0, Offset 15762.
+-- “―――そうか。青子ちゃんは全部分かっているんだね。
+"...Silly me. You know everything, don't you, Aoko?
+
+}
+[sha:4a7fdaee697f157ef12e6017fc6944590ba8e845]{
+-- Page 0, Offset 15763.
+-- 自分だけのコトじゃなくて、
+  Not just about you,
+
+}
+[sha:74f42b9fe3d11cba9d687468ad1b300426e02d3c]{
+-- Page 0, Offset 15764.
+-- このあとに起きるコトも、なにが残ってなにが残らないのかも、全部まっすぐに受けとめている。
+  but what happens after this too; what survives, what won't. You can see it all.
+
+}
+[sha:ebe60721513d298e71bb58d8c45ca105db887918]{
+-- Page 0, Offset 15765. Mods: @n.
+-- それでも自分であり続けられるという事は、
+  And through it all, you never lose sight of who you are.
+
+}
+[sha:fd41191b43596a207c20e433634d11bb7ca65247]{
+-- Page 0, Offset 15766. Glued.
+-- とても強いことなんだよ―――”
+  You're so strong."
+
+}
+[sha:f015158b94973c7d165696dbf13afb5973bcda06]{
+-- Page 1, Offset 15767.
+-- などと。
+  And on she went.
+
+}
+[sha:b89bb2da2925ede7a90d53e28226367beb7868d6]{
+-- Page 1, Offset 15768.
+-- その人は、私がわりと好きだった笑顔で、いちばん言ってほしくない事を、誇らしげに口にした。
+  I kind of liked her smile, but she just had to go and say the one thing I wished she hadn't.
+
+}
+[sha:566f267a4e54ba1450d041b0565177de34df742b]{
+-- Page 1, Offset 15769.
+-- 今では遠い昔のように思える中学の卒業式。
+  The last day of middle school seems so long ago.
+
+}
+[sha:d4ad4f3c7d73f42c4fde28521b16bd52904ef0df]{
+-- Page 1, Offset 15770.
+-- 早咲きの桜が舞い散る中、私のささやかな夢は、木っ端微塵に砕け散ったのだ。
+  As the ephemeral cherry blossom petals danced around, my little dream was crushed.
+
+}
+[sha:ad9cca784be18610ef71c093d61ab29ecc1c5c4a]{
+-- Page 2, Offset 15771.
+-- だいたい、私は自分が強いなんて思った事はなかった。
+  I'd never really considered myself strong.
+
+}
+[sha:b4e2bae3dc0d836d1d7e87ef651835c710f73441]{
+-- Page 2, Offset 15772.
+-- 少なくとも、この言葉を時折思い出すようになるまでは。
+  At least, until I began remembering those words from time to time.
+
+}
+[sha:3099928ef42a2bfc1dcb11c41429917be9724cf4]{
+-- Page 2, Offset 15773.
+-- “蒼崎は分かってると思ってた。
+"I thought you of all people would understand, Aozaki.
+
+}
+[sha:3779a44c262156022b924e5919fea504f6f0b11b]{
+-- Page 2, Offset 15774.
+-- いや、きっと分かってるんだな。だから、そこが強いんだろうね”
+  I mean, of course you do. That's what makes you strong."
+
+}
+[sha:20f14dc60b487b47ebe745d533e650ceb0cc30a3]{
+-- Page 3, Offset 15775.
+-- ……なのに最近、そんな<戯|たわ>けたコトを言った奴がいる。
+  ...And lately, an idiot who said things like that had appeared in my life.
+
+}
+[sha:2af8ce30e710a26c7df4c9b33048fac6be5f4a38]{
+-- Page 3, Offset 15776.
+-- 自分の判断基準がまわりとズレている事は知っていたけど、知り合って何日も経たない相手に指摘されたのは、ちょっとしたショックだった。
+  I knew I always judged people more harshly than those around me, but to have someone I'd only known for a few days point that out was like a stab in the chest.
+
+}
+[sha:3050995f22fb82178a5975951163f867f67fcc56]{
+-- Page 3, Offset 15777.
+-- おまけに台詞までそっくりで、あの時は怒りのあまり我を忘れたほどである。
+  Not only that, the words sounded so similar, they made me so angry I couldn't see straight.
+
+}
+[sha:4abc11a1a6dfa1ca43a893b0bcf0120667e62e90]{
+-- Page 4, Offset 15778.
+-- ……今まで、私に対してそんなことを言ってきたのは彼を含めて二人だけ。
+  Only him and one other person have ever said anything like that to me.
+
+}
+[sha:fe6c381cbb3e0eb5aa2d29072ccde43b1b20dcd9]{
+-- Page 4, Offset 15779.
+-- けど、おそらくは姉貴も無言で言っていたのだ。
+  Then again, I suppose my sister said the same without actually saying it.
+
+}
+[sha:8288145cc66a63b48b4d1effb0091985f9633617]{
+-- Page 4, Offset 15780.
+-- おまえは、<自分|わたし>たちとは違う。
+  "You're different from us."
+
+}
+[sha:bbc090b8b6b177a5bfbf033fd8028d636bf2cdae]{
+-- Page 4, Offset 15781.
+-- 私にとって、それは賛美の声ではなく、呪いにしか聞こえなかった。
+  But me being me, I took it as a curse rather than a compliment.
+
+}
+[sha:69f6003b9fa367ea21d5ee0040d1601679b58a3a]{
+-- Page 5, Offset 15782.
+-- 自分の一挙一動、意志選択、善悪基準から<迫害|はくがい><博愛|はくあい>。
+  My actions, my choices, my morals... all the good and bad I've done...
+
+}
+[sha:20f871b8e069b4d77cca3a45134c8435aa7e0657]{
+-- Page 5, Offset 15783.
+-- そのすべてを承知した上で、まだ自分が<大事|いちばん>なのか。
+  When all's said and done, am I really any better than everyone else?
+
+}
+[sha:cf5551a1370358dff54245d34a7824f3384b284a]{
+-- Page 5, Offset 15784.
+-- もちろんだ。周りの為に自分を犠牲にするのなんて、どうあっても選べない。
+  Of course I am. I'll never sacrifice myself for those around me.
+
+}
+[sha:399d0a1a5cfeccff5dc93f7562be30519b638542]{
+-- Page 5, Offset 15785.
+-- その<孤|こだわ>り、その道化ぶりを分かっていながら、自分であり続けられる事を、彼らは強いといった。
+  They just had to call me strong-true to myself, in spite of how alone, stubborn, and ridiculous I know I can be.
+
+}
+[sha:1653a0bfa093b6c18011b34c8d06400d82591c57]{
+-- Page 6, Offset 15786.
+-- 幼い私は首をかしげるしかない。
+  When I was younger, it only confused me.
+
+}
+[sha:43f4d899c4525d47b9af824ea653910ee233169e]{
+-- Page 6, Offset 15787.
+-- だって、私は違うやり方を見いだせないだけだ。
+  I mean, I don't know any other way; I am who I am.
+
+}
+[sha:a2c8fbac2073c08c1ac1eaed4bdce61358634c8c]{
+-- Page 6, Offset 15788.
+-- 悔しいぐらい、『ただ諦める』勇気を持てないだけ。
+  The frustrating fact is, I simply don't have the courage to give up.
+
+}
+[sha:869641593845a3a759b516333a5e0952cff36cfc]{
+-- Page 6, Offset 15789.
+-- なのにどうして―――
+  So why...?
+
+}
+[sha:ab51d7b2770a18fecf5508e6b119705f116d7280]{
+-- Page 6, Offset 15790.
+-- そんな当たり前の事が、特別扱いされるんだろう―――？
+  Why do I get treated special for doing what comes naturally?
+
+}
+[sha:e422eb03a24978ae8c9293befd36b0ada8f4e156]{
+-- Page 7, Offset 15791.
+-- ……朝の光で目を覚ます。
+  ...The sunlight stirred her.
+
+}
+[sha:d0bb105068856b4069be418581aa0aaff7431f6c]{
+-- Page 7, Offset 15792.
+-- 全身を霊糸で<縫|ぬ>った痛みのせいか。
+  Maybe it was the pain from having her whole body held together by arcane threads,
+
+}
+[sha:6ae8215b001c40762e93f30e3a99a7fa8d8f816c]{
+-- Page 7, Offset 15793.
+-- 他愛のない夢を、見たようだ。
+  but Aoko felt like she'd had a silly dream.
+
+}
+[sha:ea4f8ea705919490460b30726c4c63895e08e6c5]{
+-- Page 8, Offset 15794.
+-- 「―――、ぁ―――」
+"...Ah..."
+
+}
+[sha:4267789f5e3641f9bd7f8d8e145658c7704b9d48]{
+-- Page 8, Offset 15795.
+-- ガラガラに渇いて傷ついた喉が、大きく深呼吸をする。
+  She gulped air through her painful, parched throat.
+
+}
+[sha:9c7d695ce071eec6ee755cda63b530c0d5038136]{
+-- Page 8, Offset 15796.
+-- 小さな窓から差しこむ灰色の日射しは、彼女の意識をゆっくりと覚醒させた。
+  Gray rays of light shone through a small window, bringing her back to reality.
+
+}
+[sha:b29a42a44a39f029c67b9d831a263f64c5434782]{
+-- Page 9, Offset 15797.
+-- 「うわ、体中、かゆ……」
+"Ugh... I feel... itchy."
+
+}
+[sha:55289a0d5b5ae13153fd86aa2bc9099901961267]{
+-- Page 9, Offset 15798.
+-- 耐えきれず寝返りをうってみる。
+  Unable to bear it, Aoko attempted to roll over.
+
+}
+[sha:60be90d5dc186eda69ec230fe3824f70e8f61993]{
+-- Page 9, Offset 15799.
+-- が、動かせたのは右腕だけ。
+  Except, she could only move her right arm.
+
+}
+[sha:c45909e5e6e642c88f147b96009890f09cb3b62f]{
+-- Page 9, Offset 15800.
+-- 肘から先を持ち上げてみても、嘘のように感覚がない。
+  She tried lifting her arm, but couldn't feel anything past her elbow.
+
+}
+[sha:7e9316b6fee3cd876568e954d5c2d1cfbb0b67ca]{
+-- Page 9, Offset 15801. Mods: @n.
+-- 腕に向けた集中をそらすと、
+  Once she stopped concentrating on her bandaged arm,
+
+}
+[sha:94164cc5a7940997891ae4348eb4efa280d5cb95]{
+-- Page 9, Offset 15802. Glued.
+-- 包帯だらけの腕はぱたん、と力なくベッドに落ちた。
+ it fell to the bed like a stone.
+
+}
+[sha:480752e30f0b02c9306331ba238474bdd299ada6]{
+-- Page 10, Offset 15803.
+-- 「――――――さて」
+"...Okay."
+
+}
+[sha:5337978d88f58b560622e7515e6a6f4cbe88b1b1]{
+-- Page 10, Offset 15804.
+-- 青子は視線だけで状況を確認する。
+  Aoko took in her surroundings, moving only her eyes.
+
+}
+[sha:3fecf11d0a04cb7fc5b3b63527847066ae706f21]{
+-- Page 11, Offset 15805.
+-- ……自分はベッドに眠っていたらしい。
+  Evidently, she had been asleep in this bed.
+
+}
+[sha:6f363943f5ad2f314bac9417544f54949fa55f3b]{
+-- Page 11, Offset 15806.
+-- 体のあちこちの感覚がなくて、ロボットか何かになった気がする。
+  Unable to feel certain parts of her body, she felt like a robot.
+
+}
+[sha:78ecf2ae473560c1667682b94965ea3db8b32175]{
+-- Page 11, Offset 15807.
+-- 部屋は狭くて何の飾り気もない。
+  The room was tiny and undecorated.
+
+}
+[sha:478e95fbbffa8f855897bfc161131dc0cefc655a]{
+-- Page 11, Offset 15808.
+-- まるで入居前のマンションだ。手入れは行き届いているところを見て、合田教会の一室だろう、とアタリをつける。
+  It was like an apartment without a tenant. Judging by the good repair, she guessed that she was in Aida Church.
+
+}
+[sha:992fc22b5a749ed68b05bc365d02660d99b0a142]{
+-- Page 12, Offset 15809.
+-- 外は朝というより昼に近い。
+  Outside, it seemed closer to noon than morning.
+
+}
+[sha:5d2f4b2f375530346114fd29fefcf66cc566def6]{
+-- Page 12, Offset 15810.
+-- 空は相変わらず曇っていて、日射しは弱々しい。
+  Clouds filled the sky as usual, dulling the sun's rays.
+
+}
+[sha:46065750536634fac0d90b46c9c00bc32dd36316]{
+-- Page 12, Offset 15811.
+-- この分では雪解けはもっと先になってしまうだろうな、と取りとめのない事が頭によぎる。
+  Idly, she thought that it could be enough to melt the snow outside.
+
+}
+[sha:e55730fa73d993775c7679ae2a66f476ae679f0c]{
+-- Page 12, Offset 15812.
+-- そうして最後に、青子は彼女の姿を認めた。
+  And then finally, she noticed the figure of a girl.
+
+}
+[sha:a8a22dd3b9980fd05694541ed505c4d058c68ed9]{
+-- Page 12, Offset 15813.
+-- 自分の眠るベッドの横で、椅子に座ったまま動かない久遠寺有珠の姿を。
+  Next to her bed, Alice Kuonji was sitting in a chair, unmoving.
+
+}
+[sha:f2f2d6924a6d1bb5a31a690949499d12908b1803]{
+-- Page 13, Offset 15814.
+-- 「……おはよ、有珠」
+"...Good morning, Alice."
+
+}
+[sha:bd582634a72f8544d00a32e277a500c801f3e858]{
+-- Page 13, Offset 15815.
+-- やあ、とばかりに青子は有珠に呼びかけた。
+  She called out to her, all too casually.
+
+}
+[sha:fdf4b8ec976dd2aa2b70d237fcb005560067a5b7]{
+-- Page 13, Offset 15816.
+-- 口の中がやたら<鈍|にぶ>い。
+  It was more difficult to talk than she thought.
+
+}
+[sha:52bc58a45937e66ed2fadc3b53d0984fd5513fd8]{
+-- Page 13, Offset 15817.
+-- 有珠はあいかわらずの無表情。
+  Alice was her typical stoic self.
+
+}
+[sha:1355eb8a7e1ae3c071a04656b6721bcac0ba51e8]{
+-- Page 13, Offset 15818.
+-- ただ、その瞳に同居人をいたわる<翳|かげ>りがあったのを、青子は見逃さなかった。
+  Although Aoko did notice a glimpse of concern in her eyes.
+
+}
+[sha:a8cd2215dad487fbe8f991bd368db946733d7a56]{
+-- Page 14, Offset 15819.
+-- 「寝てないんでしょ。肌が荒れてる」
+"You haven't slept, Alice. I can tell from your poor complexion."
+
+}
+[sha:50e8fe530248ea4210a4695ed982affe9d5d3500]{
+-- Page 14, Offset 15820.
+-- 「……努力はしたわ。けど、橙子さんに飲まされた物が解毒されるまで眠れそうにないの。
+"I tried. But I can't until the substance Touko made me swallow leaves my system.
+
+}
+[sha:0f3f5267a0c27028e86b779cbcdeede7698c82c6]{
+-- Page 14, Offset 15821.
+-- 半端な痛みは、こういう時に<生温|なまぬる>いわね」
+  I suppose my lukewarm discomfort is  a fart in a windstorm compared to what you're going through."
+
+}
+[sha:c167f0bf7b34449928d92aefd9c329f26718ee45]{
+-- Page 15, Offset 15822.
+-- 少女らしからぬ相方の台詞を聞いて、青子はますます気持ちを生き返らせた。
+  Alice's uncharacteristically vulgar comment helped Aoko feel a little more like her usual self.
+
+}
+[sha:130da82cb012497b9e247318e7740eaed9f6746d]{
+-- Page 15, Offset 15823.
+-- 今は心配してくれる隣人より、ともに戦ってくれる友人の方が心強い。
+  She felt reassured having a comrade-in-arms by her side instead of a concerned neighbor.
+
+}
+[sha:fb71d74f09f52a58c8230d736992f9fcb3a5ce87]{
+-- Page 16, Offset 15824.
+-- 「そ、有珠もやられたの。
+"So, she got you too.
+
+}
+[sha:daf21c52babed1d0ff8730a2daad94639f300869]{
+-- Page 16, Offset 15825.
+-- ……状況はだいたい予想してるけど、一応、細部を聞かせてくれない？」
+  ...I can guess how it went, but fill me in on the details."
+
+}
+[sha:0202210b61052513405f41ee6bbbaf33a1cfdb31]{
+-- Page 16, Offset 15826.
+-- ベッドに横になったまま、青子は凛とした口調で言う。
+  Aoko remained horizontal as she spoke with a cool tone.
+
+}
+[sha:eea2bc886b4a40527aefcd6159ffdbcaffa60050]{
+-- Page 17, Offset 15827.
+-- 青子の無茶を、有珠は止めもせず聞き入れた。
+  Despite Aoko's condition, Alice granted her request.
+
+}
+[sha:8778d946e4ab643cf88a596e06eef0b296afa324]{
+-- Page 17, Offset 15828.
+-- もう二年近い付き合いだ。
+  After all, they had known each other for two years.
+
+}
+[sha:dd902ecc49fceec947bdd352f75c10a5ee8469f4]{
+-- Page 17, Offset 15829.
+-- こういう時、蒼崎青子という少女にとって何が一番の麻酔になるのか、有珠はよく理解していた。
+  Alice knew exactly the kind of anesthesia Aoko Aozaki needed right now.
+
+}

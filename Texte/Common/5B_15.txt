@@ -1,0 +1,1188 @@
+[sha:0370d769973a01cdd19da1810ae65399d405c8ec]{
+-- Page 0, Offset 6325.
+-- 「―――うわ。さすがに、無茶だわ」
+"...Oh man. I guess I kind of went overboard."
+
+}
+[sha:18a10f23604e0ce35d283a15d3e8f0079a69066f]{
+-- Page 0, Offset 6326.
+-- 青子は倒れたまま夜空を見上げている。
+  Flat on her back, Aoko looked up at the night sky.
+
+}
+[sha:a82d56dc89f2231fb3b2e1cbce10c5a5d61b532d]{
+-- Page 0, Offset 6327.
+-- 体はもう指一本だって動かない。
+  She lay there perfectly still, not able to move a single finger.
+
+}
+[sha:a0fbf82f539e612a1877369d2c37d33615abc4b0]{
+-- Page 0, Offset 6328.
+-- なんとか体を起こそうと力を入れてみたが、どこもかしこも悲鳴をあげている。
+  When she tried, her whole body screamed out in agony.
+
+}
+[sha:a6bc90e5793f8f1b26866b46bc83b11a8a1514ad]{
+-- Page 1, Offset 6329.
+-- 魔力はすっからかんで、魔術刻印も停止していた。
+  She was completely empty of magical energy, and her Magic Crest had come to a halt.
+
+}
+[sha:ad117f80520f3350e60ea2d9feb6b98d691a0bb3]{
+-- Page 1, Offset 6330.
+-- 体力の回復……もとい、身体機能の完全回復には丸一日を要するだろう。
+  She estimated that it would likely require a whole day to recover all her bodily functions.
+
+}
+[sha:f7428086f93100a1f752d0c929624245482c093c]{
+-- Page 1, Offset 6331.
+-- 情けない話だが、今は呼吸だけで精一杯。
+  Sadly, all she could really do in that moment was take a breath.
+
+}
+[sha:7f87bace2d632628b2fc7eb50435e98663ab51c5]{
+-- Page 1, Offset 6332.
+-- 反面、胸はかつてない達成感に満ちていた。
+  At least her chest was swelling with pride.
+
+}
+[sha:bb246504e962e904536a8b26e882d86475ce5926]{
+-- Page 2, Offset 6333.
+-- なにしろ、あの“童話の怪物”のうち一体を真っ向から撃ち壊したのだ。
+  She had gone toe to toe with a fairy-tale monster and had emerged victorious.
+
+}
+[sha:661767dab96e42c90bc3236c49ad8f492dbb6818]{
+-- Page 2, Offset 6334.
+-- 自分に有利な状況が続いただけ、とも言えるが、手も足もでなかった半年前に比べれば格段の進歩である。
+  The battlefield conditions had favored her, it was true, but there was no denying that Aoko had come a long way in the last six months.
+
+}
+[sha:ff2030a5e59103d065e7d3f8b7b3a164f6fd196c]{
+-- Page 3, Offset 6335.
+-- “……それはそれとして、有珠には<謝|あやま>っとかないと。
+(...Luck or not, I owe Alice an apology.
+
+}
+[sha:bb8c4e8618cdbec4537feab3a240cabe4868d104]{
+-- Page 3, Offset 6336.
+-- プロイって、壊したらそれっきりだものね”
+  Once a Ploy's been broken, it's gone forever.)
+
+}
+[sha:8ae45a5616c8d079182d3f6417974603b0d09800]{
+-- Page 3, Offset 6337.
+-- そう。フラットスナークはもう二度と現れない。
+  Flat Snark would never again return to this world.
+
+}
+[sha:12a134f319dbee0ed0f926cf43c2381c23056d44]{
+-- Page 3, Offset 6338.
+-- ロンドンの協会に売り出せば値の付かない超稀少品、
+   It was an insanely rare item, so invaluable that it would have been impossible to price it for auction at the Association in London.
+
+}
+[sha:848ff981d0a95a361690adb20f896284114c3336]{
+-- Page 3, Offset 6339.
+-- 魔術世界の財産とまで言われる秘術を、青子は跡形もなくブッ壊してしまったのだ。
+  Aoko had sent Alice's priceless treasure of the magecraft world to oblivion.
+
+}
+[sha:5b92e66a08de7fb9fa2646fb3c8a42198d853d45]{
+-- Page 3, Offset 6340.
+-- なんというか、その場のノリと勢いで。
+  Needless to say, things had gotten more than a little out of hand.
+
+}
+[sha:8e74535576b9610f4e40ec39218f3aa6f6b9e3e2]{
+-- Page 4, Offset 6341.
+-- “まあ、でも―――”
+(Still...)
+
+}
+[sha:729cad07061636a72794396c674ea560c3e50495]{
+-- Page 4, Offset 6342.
+-- お互い納得ずくの戦いだったから、有珠は文句ひとつ言わないだろう。
+  They had both agreed to the fight, so Alice probably would not complain.
+
+}
+[sha:85ef1cb8437f17ea5ad253765b2048bb6d73a689]{
+-- Page 4, Offset 6343.
+-- 内心では不満いっぱいと思われるが、あの少女はそういう、自らの品格を落とす真似はしないのだ。
+  Even if she was furious, she would never be so undignified as to show it.
+
+}
+[sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
+-- Page 5, Offset 6344.
+-- 「っ―――」
+"Pff..."
+
+}
+[sha:5d9fc46c52db18ba1042f6f39d88cdbca0f05955]{
+-- Page 5, Offset 6345.
+-- 安心から気が緩み、積み重なった疲労がなだれこむ。
+  The second Aoko relaxed, her fatigue finally caught up with her.
+
+}
+[sha:f20dc55b257e7fb606822c33a8043a4490c8764f]{
+-- Page 5, Offset 6346.
+-- 失神じみた眠気を青子は理性で押しとどめた。
+  She did everything in her power to fight off the overwhelming drowsiness.
+
+}
+[sha:04e4acab5835c82869f9e9ae55206753440b2498]{
+-- Page 5, Offset 6347.
+-- 体の中は細かい傷だらけだが、奇跡的に外傷はない。このまま<十分|じゅっぷん>も休んでいれば立ち上がる事ぐらいはできそうだ。
+  Aside from a few minor internal injuries, her body was miraculously unscathed, so much so she felt that she could probably stand up and dust herself off after a bit of rest.
+
+}
+[sha:f8d5edaa6e8a35d25848a3e27a0f2e4a5665283d]{
+-- Page 6, Offset 6348.
+-- 夜空には、いまだ炎上する黄金の月。
+  The golden moon continued to burn in the night sky.
+
+}
+[sha:8d41e714978ec1ee1eee31738866d8225b73707e]{
+-- Page 6, Offset 6349.
+-- “正体は油だものね。そりゃあ、いつまでも燃え―――”
+(Well, you are oil, after all. You could probably burn for―)
+
+}
+[sha:0e4bd491b5e1b80cd00898ccae9501f6d52568de]{
+-- Page 6, Offset 6350.
+-- <漠然|ばくぜん>と空を見ていた目が、<愕然|がくぜん>とした空白に切り替わる。
+  Aoko's bleary eyes went wide in astonishment.
+
+}
+[sha:25cab7d4a54f8c03cba51100935329a3a52ad16e]{
+-- Page 7, Offset 6351.
+-- 彼女は指一本動かない状態で、
+  She was still unable to lift a finger.
+
+}
+[sha:f1de66ce97ef1a3daa0b45e3d630d85941a0f166]{
+-- Page 7, Offset 6352.
+-- “……そっか。スナークを見つけたベイカーも、最後はいっしょに消えるんだっけ―――”
+(Oh, right. The Baker who found the Snark disappeared along with it...)
+
+}
+[sha:1e3e8ad20a24364aec92b2387b434585d66ecdf2]{
+-- Page 7, Offset 6353.
+-- あーあ、と。
+  She sighed in resignation.
+
+}
+[sha:fffcfeda545332541d15b881e1f98b564c5bb604]{
+-- Page 7, Offset 6354.
+-- 最後の反撃で燃え尽きる、十秒後の<自分|みらい>を受け入れた。
+  Aoko accepted that her final stand left her with only ten seconds before she burned to ash, too.
+
+}
+[sha:8145fe8487b0ab683d6ecb585bd03055e3456eef]{
+-- Page 8, Offset 6355.
+-- ―――一方、そのちょっと前。
+  Elsewhere, just a short moment prior...
+
+}
+[sha:4e8c2b5abe5b1611f77c881cfcee4a8eaed0453a]{
+-- Page 8, Offset 6356.
+-- 強風<荒|すさ>ぶ<鉄骨橋|コースター>の上で、難しい顔のまま、彼は地上に目をこらしていた。
+  Buffeted by strong winds atop the roller coaster, Soujyuro gravely peered down at the ground.
+
+}
+[sha:2050d3e8b8fe6e35008499973bfa9043ccefd5dd]{
+-- Page 9, Offset 6357.
+-- 「―――むむ？」
+"...Hmm?"
+
+}
+[sha:1f7c51fc53e08ca5f8d70b113e423528a47e03a2]{
+-- Page 9, Offset 6358.
+-- こぼれた呟きはこの上なく頼りない。
+  All he could muster was a single murmur.
+
+}
+[sha:b71e5e137dec3457bf036ba33db6590be2407800]{
+-- Page 9, Offset 6359.
+-- 彼の視線の先。地上ではクリーチャーたちの目を盗んで地面に図形を刻んでいる青子の姿と―――
+  He could see Aoko on top of some drawing on the ground, and...
+
+}
+[sha:1702a7ffe32b187b677d4c141a03ed339ec7efc1]{
+-- Page 10, Offset 6360.
+-- 「……なんだアレ。いくらなんでも頑丈すぎないか？」
+"...What in the world is that thing made of?"
+
+}
+[sha:322c606bd22d6cc68ea48420bd70bb74dbb3fd8a]{
+-- Page 10, Offset 6361.
+-- そのずっと向こう。
+  In the distance...
+
+}
+[sha:08d9f675ab09e195084b1fac8e8e3f71524a3f5b]{
+-- Page 10, Offset 6362.
+-- 倒壊したミラーハウスの方角に、何か、見覚えのあるモノを見た気がした。
+  There was something familiar in the direction of the ruined house of mirrors.
+
+}
+[sha:321e4a322c16ebd39e901005e55b0424e316ace0]{
+-- Page 11, Offset 6363.
+-- 草十郎の役割……地上六十メートルの高みから青子の髪を投げる、という仕事は終わっている。
+  Soujyuro's job―to throw Aoko's hair from a great height―was complete.
+
+}
+[sha:d6d30edfb20c5a28545baf708502f3f4d9541e41]{
+-- Page 11, Offset 6364.
+-- 派手さこそないが、掛け値無しで命がけの難行だった。
+  While not the most impressive of tasks, it was absolutely a matter of life-or-death.
+
+}
+[sha:7301482f04b17db517cfe29ec30ce115206b03ea]{
+-- Page 11, Offset 6365.
+-- さらに付け加えるのなら、この後どうやって下りるのかを考えるだけで目眩がする。
+  And to top it all off, just thinking about how he was going to get back down to the ground was making him dizzy.
+
+}
+[sha:7fe8625b7d2cf0d6b28d98cc179a10ae61e8e28f]{
+-- Page 11, Offset 6366.
+-- これ以上の厄介事なんて、とてもじゃないが頷けない。
+  He had experienced more than enough trouble for one day.
+
+}
+[sha:8c407ba9768e512f09afe49eabdfde21fd3c0be9]{
+-- Page 12, Offset 6367.
+-- 「―――いや、でも、アレ―――」
+"Wait, but..."
+
+}
+[sha:3062dea9d8cf64e83d22cc4da2f6680bd62af18e]{
+-- Page 12, Offset 6368.
+-- ぐらぐら揺れる橋の上で、わたわたと取り乱す。
+  He was flustered as he stood atop the swaying bridge.
+
+}
+[sha:1f0d48da39de2470680d1db3ca915a5db41694d6]{
+-- Page 12, Offset 6369.
+-- 空には前触れなく現れた髑髏の面。
+  A skull suddenly appeared in the sky above.
+
+}
+[sha:6486ae95ad552ce0dda88333f3d3cecd5454d583]{
+-- Page 12, Offset 6370.
+-- 地上にはぐるんぐるん回転している青い光と、その中心にいる蒼崎青子。
+  On the ground, he could see a circling blue light with Aoko Aozaki in the middle of it.
+
+}
+[sha:aaaad626c65fd05c1f9fb9e0b4e73117b86e291d]{
+-- Page 13, Offset 6371.
+-- ……そしてもう一つ。
+  ...And one more thing.
+
+}
+[sha:087ab7305c1f3c3938ac0793996d25658972ae12]{
+-- Page 13, Offset 6372.
+-- この位置にいる草十郎にしか知り得ないヒト影が、月に挑む青子へと迫っていた。
+  A shadow was approaching Aoko that only someone from his vantage point could see.
+
+}
+[sha:63df016674507d211deef176110dc98d1f043129]{
+-- Page 14, Offset 6373.
+-- その影には下半身がない。
+  A shadow missing the lower half of its body.
+
+}
+[sha:3f3d017023b1e4cd16fbd6340eb0fe4db75dca8d]{
+-- Page 14, Offset 6374.
+-- 上半身だけの体で、ずるずると青子に近づいている。
+  The upper half of its body was slowly clawing its way to Aoko.
+
+}
+[sha:743eaa538f963e7721c5d2d4bba3c3be1a987b0e]{
+-- Page 14, Offset 6375.
+-- 距離的にはあと二百メートルほど。
+  They were still over six hundred feet apart.
+
+}
+[sha:34f5f326d25724a486e66b7c9902597cf744c2f6]{
+-- Page 14, Offset 6376.
+-- 不運な事に、青子の背後から<這|・><っ|・><て|・><き|・><て|・>いるため、彼女はその影に気付けない。
+  Unfortunately for Aoko, she completely failed to notice it approaching from behind.
+
+}
+[sha:3933489a026f3eddf609a199408359206231efb5]{
+-- Page 15, Offset 6377.
+-- 「―――遠くて見えないけど、アレは―――」
+"It's too far away to make out, but...isn't that..."
+
+}
+[sha:175e82b65ca2f0d9c019c2b289f579e6ffc6d70e]{
+-- Page 15, Offset 6378.
+-- 間違いない。
+  He was sure of what it was now.
+
+}
+[sha:fd64a84625028376283dd3f004002e2badf02bcb]{
+-- Page 15, Offset 6379.
+-- この遊園地において、草十郎ではなく青子を狙うのは<あ|・><の|・><人|・><形|・>だけなのだから。
+  There was only one thing in the park that would chase Aoko and not him: the puppet.
+
+}
+[sha:4922bb6a9143728430231d8664a807a9bb6cde05]{
+-- Page 16, Offset 6380.
+-- 「いや、でも。ほら、あるいは、ひょっとして―――
+"But... I mean, maybe it's...
+
+}
+[sha:29abf1ddca6bc9c470a7752479e1890c3abd04b8]{
+-- Page 16, Offset 6381.
+-- ただの偶然、ではないだろうか」
+  ...a coincidence, right?"
+
+}
+[sha:0783230c45897854128cda13ee985ba862677435]{
+-- Page 16, Offset 6382.
+-- 幾重にも交錯し、混乱する思考。
+  His mind ran in circles.
+
+}
+[sha:592046fc09a736ba0fd4be3cf4c1926f07f7bb59]{
+-- Page 16, Offset 6383.
+-- それも無理からぬ事だろう。
+  It was a perfectly reasonable reaction.
+
+}
+[sha:022c3e7113bafeb30305f825faf8451180e9212b]{
+-- Page 16, Offset 6384.
+-- 膨張した月と<光弾|ビーム>を撃ちまくってる少女、という状況だけで、草十郎的には目を疑う状況なのだ。
+  Any grip on reality he might have had left was long lost when Aoko started firing beams of light at the monstrous moon.
+
+}
+[sha:f409dd5019352d4bde33161b3748ff62f6a3879f]{
+-- Page 17, Offset 6385.
+-- 「うわぁ……！」
+"Whoa!"
+
+}
+[sha:fa666346cff8188fcded8fe809146efadf642cbf]{
+-- Page 17, Offset 6386.
+-- 青子の容赦のない超距離魔弾は、嵐のようにコースターを揺さぶっていく。
+  Aoko's merciless fire buffeted the roller coaster like a storm.
+
+}
+[sha:ee83a2aec7c79f0bee5c8423f8a14d33642bcb51]{
+-- Page 17, Offset 6387.
+-- 立っているだけで振り落とされ、転落死しかねない。
+  Just standing on it was almost enough for him to be thrown off and killed.
+
+}
+[sha:026d7b00376be8c5e2618e48d66d36bc39b1d24c]{
+-- Page 18, Offset 6388.
+-- とにかく、この状況は草十郎には難しすぎる。
+  At any rate, Soujyuro couldn't fathom the situation.
+
+}
+[sha:66f426d1421eb3f149634aa2d4e83bd4acbc6dd5]{
+-- Page 18, Offset 6389.
+-- ここからコースターの入り口まで戻って青子に注意を<促|うなが>しに行くか？
+  Should he head back to the entrance of the roller coaster and warn Aoko about the incoming threat?
+
+}
+[sha:765b82be70d41e3e160f7520848e6ed46806a0d7]{
+-- Page 18, Offset 6390. Glued. Mods: @x.
+-- いや、間に合うハズもなし、駆け下りたところで入り口には大量の焼きたてパンがいる。
+  No, there was no way he would make it in time, and to make matters worse, there was a horde of bread down there, waiting for him.
+
+}
+[sha:c0c11acc2bedcae601641aa4f36bfe390ab9aa03]{
+-- Page 18, Offset 6391.
+-- そもそも青子は人形に気付いていて、近づいたとたん一撃で倒す可能性もある。その場合、自慢じゃないが足を引っ張る自信すらある草十郎だった。
+  And it may very well have been the case that Aoko was already aware of the puppet and would take it out as soon as it got closer. If she was, Soujyuro was sure he would only be in the way.
+
+}
+[sha:4bf43bb098b49a309c1ca1b78f5d5e619c04c3a4]{
+-- Page 19, Offset 6392.
+-- 「っ………………」
+"But..."
+
+}
+[sha:f0140bf8af2c3fc301107f58dc1e2a2694da10dd]{
+-- Page 19, Offset 6393.
+-- 何を選んでも役に立てそうにない状況。
+  It did not seem like there was anything he could do to help.
+
+}
+[sha:ffb30d8bcb9022f419748276fc176b2097b87313]{
+-- Page 19, Offset 6394.
+-- 第一、危険なのは青子だけでなく、草十郎も窮地に立っている。
+  And beyond that, Aoko was not the only one in danger. He was in quite the predicament himself.
+
+}
+[sha:0a11eb42db8ff99981502ad65784262536825ceb]{
+-- Page 20, Offset 6395.
+-- 『行きは良い良い帰りは怖い』
+"You can't go home again."
+
+}
+[sha:3d4257ef6655dac157e9d517fd0aaa7facfcedb9]{
+-- Page 20, Offset 6396.
+-- 帰り道に鬼が待っているのは都会であろうと山奥であろうと同じこと。
+  The road home was never as safe as one thought. It was as true here as it had been in the mountains.
+
+}
+[sha:6dac992d0f3892e2efed34cd601e3f4c09209000]{
+-- Page 20, Offset 6397.
+-- この道は特に顕著だ。行きはもちろん、帰り道も危険すぎる。
+  The path he was on was no exception. As risky as the ascent had been, it was even more dangerous to go back down.
+
+}
+[sha:52a1ee32871ca7e4aa6c9edc0c70163cee9ef6a4]{
+-- Page 20, Offset 6398. Glued. Mods: @x.
+-- <他|ひ><人|と>の事を心配する余裕はどこにもない。
+This was no time to be worrying about others.
+
+}
+[sha:73a0e66aeb1d8b63e59f25d1b6e281c926316c35]{
+-- Page 20, Offset 6399.
+-- 地上六十メートルの死の淵にいる事を忘れるな、と草十郎は震える足に言い聞かせる。
+  His shaking legs reminded him that only two hundred feet separated him from death.
+
+}
+[sha:45aef432e7ca0baf65f03002f7ce421eb37e257e]{
+-- Page 21, Offset 6400.
+-- “……大丈夫、それは分かっている。けど―――”
+(I'll be fine. I know that. Just...)
+
+}
+[sha:6a1ed1317a69a4db32c9465bf4c375cb50847bb7]{
+-- Page 21, Offset 6401.
+-- キリキリと頭が痛む。
+  His head was pounding.
+
+}
+[sha:9248d57f9f840d2f5e8ce23eea16482d77d79a7e]{
+-- Page 21, Offset 6402.
+-- 無謀である事も、馬鹿げた事なのも分かっている。
+  This was reckless and stupid.
+
+}
+[sha:107461bd923f25ee240377e730d24c2fa6b0366a]{
+-- Page 21, Offset 6403. Glued. Mods: @x.
+-- 山奥育ちの彼は、都会の誰よりも危険に関して敏感で、これからするコトを考えるだけで緊張で喉が嗄れきってしまう。
+Having been raised in the mountains, he was more sensitive to danger than anyone raised in the city, and just thinking about what he was about to do made his throat seize up.
+
+}
+[sha:09ecbaf4d4ce8af525e65207005957eac73da172]{
+-- Page 21, Offset 6404.
+-- が、そんな草十郎でもはっきりと言えることは、
+  There was only one thing he could say for sure.
+
+}
+[sha:136192b8b4a14afef9597633afaa49cfe17a63c7]{
+-- Page 21, Offset 6405.
+-- 「蒼崎のことだ、アレにぜったい気付いていない……！」
+"Aozaki has no idea that thing is coming for her!"
+
+}
+[sha:2a0d5d2f4cd9f98b4224f596b1a9f4106d0ef40d]{
+-- Page 22, Offset 6406.
+-- <半|なか>ば泣くような声をあげて、草十郎は高さ六十メートルの鉄骨を駆け下りだした。
+  With a sobbing shout, Soujyuro started making his way down the two-hundred foot frame of the roller coaster.
+
+}
+[sha:4ae16a3a44de35c8d008fd62f0503005adcf1453]{
+-- Page 23, Offset 6407.
+-- 「はっ、はっ、はぁ、はっ―――！」
+"Hah... hah... hah... haaa!"
+
+}
+[sha:bd5e4e1ba6b918c585a766d03634710a9a646ec6]{
+-- Page 23, Offset 6408.
+-- 死の道行きを加速する。
+  His race toward death accelerated.
+
+}
+[sha:38f4f26cdf21612b7ff7484816849811b589967f]{
+-- Page 23, Offset 6409.
+-- 加速するつもりはなくとも、下り坂である以上スピードは増していく。
+  He never meant to speed up, but the downward slope propelled him forward.
+
+}
+[sha:7259ddf93c306242762af351bb9da15edfc727bc]{
+-- Page 24, Offset 6410.
+-- 「っ、この、はっ、よっと―――！」
+"Here... I... go!"
+
+}
+[sha:b18ce8fce5dfc387d016110dbfe6a52c495a5af6]{
+-- Page 24, Offset 6411.
+-- が、後悔はもう遅い。走りだしたのならもっと早く。
+  It was too late for regrets. Now that he was running, he had no choice but to go even faster.
+
+}
+[sha:92725aeaaa2d8cf8a6d5b4fbcd340db73f930436]{
+-- Page 24, Offset 6412. Glued. Mods: @x.
+-- なにしろホントに時間がない、今から全力で下りても間に合わない、ああでもそれより、コースターの出口にはブレッドマンたちで混雑中、
+And time was not on his side. He never would have made it in time if he'd taken the long way down, never mind the bread-men crowding the exit of the roller coaster.
+
+}
+[sha:f3bc75150d85bea53093258f9b9b6c7a51ebe766]{
+-- Page 24, Offset 6413. Glued. Mods: @x.
+-- となれば遅いも早いも結果は同じ、どのみち出口が塞がっている。急げ急げと必死になって、一歩ごとに落ちかける必要性とかまったくない……！
+With the exits blocked, the outcome would be the same whether he went slowly or quickly. There was no reason to rush to his death as desperately as he did!
+
+}
+[sha:2eea4c5baa9ce7fcd835fbba44a839612a282b17]{
+-- Page 25, Offset 6414.
+-- 「っ、だから！？」
+"So what?!"
+
+}
+[sha:143647d7b3ced8293e794deb389b97d57da45fb0]{
+-- Page 25, Offset 6415.
+-- それがどうしたと。
+  So what if it was futile?
+
+}
+[sha:244aa504802ac3acef1f3842f7ea585899ac3e9d]{
+-- Page 25, Offset 6416.
+-- ごちゃついた<煩悶|はんもん>を、彼は一太刀で切り払った。
+  Soujyuro cleared the doubts from his mind.
+
+}
+[sha:74a29b3bca301360efdcaefdc76c5c01170c57a4]{
+-- Page 25, Offset 6417.
+-- 自分にできる事は足下に意識を集中して、一秒でも早く駆け下りるだけ。
+  He turned his attention to what he could do: keep his footing and try to arrive at the bottom as quickly as he could.
+
+}
+[sha:fca773d41762683a049cb580daea8721016cd618]{
+-- Page 26, Offset 6418.
+-- “間違えるな。いま大事なのは、間に合うとか助けられるとか、そういう結果の話じゃなくて―――”
+(Focus! Forget whether you'll be there in time to save her! The most important thing is...)
+
+}
+[sha:d428c13746c55a49c40c51dbd267db4a8f76a662]{
+-- Page 26, Offset 6419.
+-- ある衝動が、縮こまった手足を駆動させる。
+  He had no idea what impulses were driving his stiff limbs.
+
+}
+[sha:f86addbd728709f926e6fe26bfe76f40f390d25c]{
+-- Page 26, Offset 6420.
+-- 渇ききった喉を、冷め切った<理屈|こころ>を、草十郎は“思いつき”だけで心の端っこに蹴り飛ばす。
+  He just focused on the moment, pushing past the fear and the cold logic.
+
+}
+[sha:9acdaee620b10cd1e17377868eceb868064a3993]{
+-- Page 26, Offset 6421.
+-- 根が単純な人間の面目躍如、とにかく難しいコトは終わってから考える―――！
+  At his core, he was the kind of person to deal with problems head-on. There would be time to think about consequences later!
+
+}
+[sha:3470ab078171af8bb8b9b266f744081da61d70a0]{
+-- Page 27, Offset 6422.
+-- だが、障害は縮こまる自分だけではない。
+  But, hesitation was not his only obstacle.
+
+}
+[sha:391a84256aad8e7a40771412283bdd08d03a919d]{
+-- Page 27, Offset 6423.
+-- 「こんな時に―――！」
+"Not now!"
+
+}
+[sha:c0ec93773fc63e3cc8a041d528e81c197f91d582]{
+-- Page 27, Offset 6424.
+-- レールに集中していなければ落ちる状況で、最悪の邪魔者が出現する。
+  The worst possible hindrance appeared at a time when not focusing on the track would mean certain death.
+
+}
+[sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
+-- Page 27, Offset 6425.
+-- 「！」
+"!"
+
+}
+[sha:7ada5f00cf09c8a85388f280528bd29a9b264813]{
+-- Page 27, Offset 6426.
+-- 一見いままで通りの卵に違和感を覚える草十郎。
+  Soujyuro sensed something wrong with the egg he had been so studiously observing out of one eye.
+
+}
+[sha:8781d39f84256e9aea39bfe10e1d690cd8e6ea0c]{
+-- Page 27, Offset 6427.
+-- 何が変わっているのか。
+  Something had changed.
+
+}
+[sha:8239b682b7295be816b8355d8e1296719e524889]{
+-- Page 27, Offset 6428.
+-- その変化に気付いた瞬間、
+  And at the very moment he realized it...
+
+}
+[sha:13989e05db3c9a7063f0c8171accb3736d9ab583]{
+-- Page 27, Offset 6429.
+-- 「って、よそ見してる場合じゃない……！」
+"I can't be looking to the side right now!"
+
+}
+[sha:223316b6e4ae4953c4ee770d1f8a740b691e20be]{
+-- Page 28, Offset 6430.
+-- 踏み<外|はず>しかけた足を本能で持ち直す。
+  Soujyuro stumbled then instinctively caught himself.
+
+}
+[sha:86270e7ab502861e0107d5a7d79e197feee367d1]{
+-- Page 28, Offset 6431.
+-- まだ落ちていない事が奇跡だった。
+  It was a miracle he had not fallen.
+
+}
+[sha:676fbb3b60cfce37e95489a2611a1c10adfa4309]{
+-- Page 28, Offset 6432.
+-- コースターを駆け下りるのは自殺行為そのものだった。
+  Descending a roller coaster on foot was an act of suicide.
+
+}
+[sha:092d2dd2759e4404c283e3dba0cbc9055a6ea286]{
+-- Page 28, Offset 6433.
+-- 卵はぴったりと並走し、隙あらば体当たりでもしてきそうな<剣呑|けんのん>さ。
+  The egg stayed right by his side―so close it was likely it would collide with him.
+
+}
+[sha:cba0313fbd37d515fd6d87723574c76a4c968f01]{
+-- Page 28, Offset 6434. Glued. Mods: @x.
+-- オマケにあまり直視したくないが、内部に作られた扉らしき飾りが、少しずつ開こうとしているのも気になりすぎる。
+Though he was trying as hard as he could not to look at it, he could not help but feel unease that the door-like decoration in its center was gradually opening.
+
+}
+[sha:0b1d846bed8c7b4a209833001d9a507d640cff5a]{
+-- Page 29, Offset 6435.
+-- 「ああもう、畜生！　なんだって、こんな―――！」
+"Dammit! Why now?!"
+
+}
+[sha:6f758d213819533a868dadfe7a4a2d06bd6cdf90]{
+-- Page 29, Offset 6436.
+-- あまりにもどん詰まりな状況に悪態をつく。
+  He cursed his rotten situation.
+
+}
+[sha:5a221c8dcf0dd85e6f09953a4494d8215b5f0f60]{
+-- Page 29, Offset 6437.
+-- それでも足は緩めない。
+  And yet, he refused to slow down.
+
+}
+[sha:b3adf13908d95bc0865477747c409f3053e5f83b]{
+-- Page 29, Offset 6438. Glued. Mods: @x.
+-- むしろ速度をより増して、彼は並走する卵を睨みつける。
+He ran even faster, glaring at the egg on his side.
+
+}
+[sha:fbc8a1ac1fe7c465f889e615e53e2dc249260dd3]{
+-- Page 30, Offset 6439.
+-- 「ハ―――ほんと、おかしい。
+"Hah... What the hell is going on.
+
+}
+[sha:4f09cb64b26be610cfb9cb009c90bd04850b4002]{
+-- Page 30, Offset 6440.
+-- こんな状況なのに、何で―――」
+  Why? It has the worst timing!"
+
+}
+[sha:58f24e8445eac1d23ef37fd8d6926c3ad0689c2d]{
+-- Page 30, Offset 6441.
+-- 自分は笑っているのだろう、と草十郎は不思議に思った。
+  Soujyuro was baffled to find that he was smiling.
+
+}
+[sha:f31abd13d9e229fa36071f99fbd807fa2b9a4ad1]{
+-- Page 30, Offset 6442.
+-- 青子のおまじないとやらの効果……なのかどうか、草十郎には判別できない。
+  Perhaps it had something to do with Aoko's charm. Soujyuro could not tell one way or the other.
+
+}
+[sha:88fa9a4de04b299f9303b40e4848ae496aa3d8b0]{
+-- Page 31, Offset 6443.
+-- 彼女の指の感触は、まだ肌に残っている。
+  He could still feel Aoko's fingers on his skin.
+
+}
+[sha:d32dda287cd79172504c20a528e02f566bd37ee3]{
+-- Page 31, Offset 6444.
+-- 向けられた信頼も期待も、しっかりと胸に<覚|おぼ>えている。
+  The trust and expectation she had placed in him was etched into his heart.
+
+}
+[sha:3ac046eee976ffff2868df7870621ac86a0ce627]{
+-- Page 31, Offset 6445.
+-- ……けれど、この衝動はそれらとは違うものだ。
+  But what spurred him on was something entirely different.
+
+}
+[sha:80efd2ccdde3fb1b97cab1aefaebf7b3fe8016a2]{
+-- Page 31, Offset 6446.
+-- この高揚は、もっと深層にある問題。
+  This all stemmed from a much deeper problem.
+
+}
+[sha:464d4130dd3016a34c17a603989ea749798c42d8]{
+-- Page 31, Offset 6447.
+-- 今の彼には分からない、いずれ向き合う事になる、埋められるべきがらんどう。
+  It was something inside him that he could not understand at the time, but would eventually come to terms with one day.
+
+}
+[sha:86d96ba6ecf08400bf236bd4ce799c004e7ead52]{
+-- Page 32, Offset 6448.
+-- 「よし―――距離は、今なら二メートル、弱……！」
+"All right, less than five feet left!"
+
+}
+[sha:08583fa6e04a936e8fa5350cfc5136e1a4182af1]{
+-- Page 32, Offset 6449.
+-- 死のレールを走りながら、草十郎は正確に距離を<測|はか>る。
+  He carefully judged the distance as he ran down the track of death.
+
+}
+[sha:ab14b3aaa5539b77cb80b7da07839066d652c914]{
+-- Page 32, Offset 6450.
+-- 何との？
+  But the distance between what?
+
+}
+[sha:7c476d3b3c4b447c531359afffdd81e362eaedfc]{
+-- Page 32, Offset 6451.
+-- 言うまでもない。この状況でたったひとつ、死の結末を飛び越える大一番との。
+  That went without saying. It was the distance between himself and the one thing that could save his life.
+
+}
+[sha:3b39b3756b89f494148961bb0b95ed66d737f51d]{
+-- Page 33, Offset 6452.
+-- 「はっ―――はっ、はっは、はっ！」
+"Hah... Hah! Haha! Hah...!"
+
+}
+[sha:028ecb27a0f1790d415f3dd107d0a439e1d655b6]{
+-- Page 33, Offset 6453.
+-- 乱れる呼吸に合わせて、“行くぞ、行くぞ”とハッパをかける。
+  He told himself he was going to do it, over and over, like a mantra.
+
+}
+[sha:dc61930bd650dd32e380392fddff42337a3afb23]{
+-- Page 33, Offset 6454.
+-- 本当にありえない。
+  Soujyuro could not believe himself.
+
+}
+[sha:a1e252cd54864b61021b84fd46fe6c39bc270c89]{
+-- Page 33, Offset 6455.
+-- 自分は馬鹿げた事をしようとしている。
+  What he was about to do was incredibly stupid.
+
+}
+[sha:93070a2aa9fb1364fba695781a7a35e34c35253b]{
+-- Page 33, Offset 6456.
+-- でも<そ|・><う|・><し|・><な|・><け|・><れ|・><ば|・><間|・><に|・><合|・><わ|・><な|・><い|・>、と気付いたのだからしようがない！
+  But what is stupid when smart is not an option?
+
+}
+[sha:cbe84d67f4ba0480b75b7efb4c63751b08b5b0d1]{
+-- Page 34, Offset 6457.
+-- 「ほんと―――なんで、そこまでやるんだ！？」
+"I'm really going to do this?! This is insane!"
+
+}
+[sha:8167f971d75fda35154ff24e2322f81b48958faf]{
+-- Page 34, Offset 6458.
+-- 今さらな自問自答を、彼は鼻で笑った。
+  Amidst it all, he laughed at how pointless such self-reflection was now.
+
+}
+[sha:16d094cfa7825c36b564496720f97effb7233665]{
+-- Page 34, Offset 6459.
+-- 一時的な混乱。極限状態における精神の高揚が、彼の心を裸にする。
+  Temporary confusion, a psychological thrill ride; both had laid his soul bare.
+
+}
+[sha:a9764e7cd3d5ef698e8aff343365be7cbdb91ddf]{
+-- Page 35, Offset 6460.
+-- 大事なものは何なのか。
+  What really mattered?
+
+}
+[sha:0e3f0390cb0359c52df595e454f46b5ba2d00050]{
+-- Page 35, Offset 6461.
+-- そんなもの、シンプルな彼には考えるまでもない。
+  But a simple man gets by without deep thought.
+
+}
+[sha:49a2e64f4e781493e83488868add3eb648646bbc]{
+-- Page 35, Offset 6462.
+-- 成功も報酬も、原始の心には美味しそうには映らない。
+  Soujyuro's primitive mind did not crave success or reward.
+
+}
+[sha:059aa042d23137f146e4fcb1a9a4f7919504c78c]{
+-- Page 35, Offset 6463.
+-- 彼は、ただ、
+  For him it was simple.
+
+}
+[sha:5c8a6324effed4eda446b9d525055fe4078883b6]{
+-- Page 36, Offset 6464.
+-- “よし―――”
+(This is it!)
+
+}
+[sha:21423bec256afa6250b16a03d0252d93fd53b766]{
+-- Page 36, Offset 6465.
+-- これはただ、そうありたいと望んだだけの話。
+  He was doing it because he wanted to.
+
+}
+[sha:c3e80509efbfc36dd54ef4ca51234bb958044b9e]{
+-- Page 36, Offset 6466.
+-- 周りから強制された義務ではなく。
+  Not because he felt obliged to those around him.
+
+}
+[sha:6161293fe9664166aac68f933d6fa54020a41b92]{
+-- Page 36, Offset 6467.
+-- ただ純粋に、そういう風に生きたいと信じた、愚直な自己の欲望そのもので―――
+  His desire to live his way was his and his own.
+
+}
+[sha:da48fc50b9cf7d39790a9d02a4064e50ffe48841]{
+-- Page 36, Offset 6468.
+-- “行こう！”
+(Here we go!)
+
+}
+[sha:6aac8d7c761609093bd1d1e6c1158b026fff8fe7]{
+-- Page 37, Offset 6469.
+-- 『！？』
+"?!"
+
+}
+[sha:f8a1127224efb2301aa98c4d294f8522cae08f52]{
+-- Page 37, Offset 6470.
+-- 卵に発声機能があったのなら、そう驚いたに違いない。
+  If the egg had been equipped with a vocal function, it would have gasped in shock at what happened next.
+
+}
+[sha:f5e0471afd4f1fd9b3bca846be59fe11e6346981]{
+-- Page 37, Offset 6471.
+-- 逃げるだけだった少年は、自分から大きく足を踏み外したのだ。
+  The boy, who had only tried to escape up until this point, suddenly shifted his weight.
+
+}
+[sha:875ed0566709d00b7196c5826f8032fd3d81e459]{
+-- Page 38, Offset 6472.
+-- 足は内ではなく、外に向かって。
+  He pointed his feet outward instead of inward.
+
+}
+[sha:203f2a404b73de428338e54ad1ef9bab3d3c8a04]{
+-- Page 38, Offset 6473.
+-- レールの端で、勢いを殺さないようわずかに膝を曲げ、浮遊する卵を凝視し―――
+  On the edge of one rail, he crouched ever-so slightly to maintain momentum and gazed at the floating egg.
+
+}
+[sha:c0faea3afbafd9b41b5c17eb8f0785cfe813b0c7]{
+-- Page 38, Offset 6474.
+-- “やれる―――距離的に問題はない！”
+Close enough! I can do this!
+
+}
+[sha:ed6d237387402188b0ab5fa9f54a1f17ec51c08f]{
+-- Page 39, Offset 6475.
+-- 夜を駆ける。
+  He soared through the night sky.
+
+}
+[sha:262f24559e154949b9c40f0a58fba391da402fa2]{
+-- Page 39, Offset 6476.
+-- わずか１．５秒の夜間飛行。
+  It was a flight that lasted a mere one and a half seconds.
+
+}
+[sha:d586c4bfc07bb8d4becea2fca06598a46e9afec1]{
+-- Page 39, Offset 6477.
+-- 地上三十メートルの、<紐|ひも>なし<縄|なわ>なしバンジージャンプ。
+  A cordless bungee jump from one-hundred feet above ground.
+
+}
+[sha:0429edc73ecc6d57229071c5bf3087133a7ef0f8]{
+-- Page 39, Offset 6478.
+-- その落下先は―――
+  His destination:
+
+}
+[sha:5796e83a5db46137adedcf62c1329f8946269a2d]{
+-- Page 39, Offset 6479.
+-- 唯一の足場となる、空飛ぶ巨大な卵だった。
+  The only thing that would stop his fall―the giant flying egg.
+
+}
+[sha:7dc86f5b44c1b339873370398a50a3ddb9d6890c]{
+-- Page 40, Offset 6480.
+-- 「う、ひゃああーーーー！」
+"Hyaaah!"
+
+}
+[sha:12222f8493de296946c63841252d65167761bb51]{
+-- Page 40, Offset 6481.
+-- 悲鳴のような、歓声のような声をあげながら、草十郎は必死に卵の表面にしがみつく。
+  He shrieked, this time out of elation, as he desperately clung to the egg's surface.
+
+}
+[sha:7bf57abc9faad2abfe5ab2359f9de4362e980ec1]{
+-- Page 41, Offset 6482.
+-- ……ほんの少し前。
+  Just earlier...
+
+}
+[sha:181a8145ba8b771463073f67008285bf2b00c9c3]{
+-- Page 41, Offset 6483.
+-- 恐怖心が無ければビルの上も平均台も変わらない、と血も涙もない魔女は言った。
+  The cold-blooded witch had told him that without fear, the top of a building would feel no different than a balance beam.
+
+}
+[sha:08bdddb8ad2342e3eaf759c6a439db986310a6ab]{
+-- Page 41, Offset 6484.
+-- その魔女とて、この光景を見たら言葉を失っただろう。
+  This from the same witch that would have been left speechless had she witnessed this spectacle.
+
+}
+[sha:7a65e5658eddcd658ea774c8b9d5da9a9ec9fc28]{
+-- Page 41, Offset 6485.
+-- いくら恐怖心が無いと言っても、無茶と無謀は別の物だ。
+  Fearlessness was one thing, recklessness was another.
+
+}
+[sha:c846cb56191991937476ddae8cb200329485ee56]{
+-- Page 41, Offset 6486.
+-- あまつさえ、<こ|・><の|・><後|・>の行為に至っては、後日本気で頭にきた程である。
+  He followed it up with an act that would irritate her for days to come.
+
+}
+[sha:f90a319d084bcea9b590cac2c6f2397b61541d59]{
+-- Page 42, Offset 6487.
+-- 「頼むぞ、卵！」
+"I'm relying on you, egg!"
+
+}
+[sha:90242553288d12e662ed57f3f28da364110cbc77]{
+-- Page 42, Offset 6488.
+-- 卵にしがみついたまま、<卵|・><か|・><ら|・><視|・><線|・><を|・><切|・><る|・>。
+  Clinging to the egg, he shifted his gaze away from it.
+
+}
+[sha:3029ebcd22b6727a63a242cf07419df7c50be7f8]{
+-- Page 42, Offset 6489.
+-- 急速な落下感覚。
+  He felt the rapid descent.
+
+}
+[sha:9d3fdaf52a6ad4707e075f6f36987746482a1790]{
+-- Page 42, Offset 6490.
+-- 草十郎は薄目で風景を確認しながら、残り一メートル付近で視線を戻し、卵を視界に<納|おさ>めながら飛びだした。
+  Soujyuro, focusing his half-shut eyes on the ground, leaped off the egg once they were a few feet from the ground, then turned back to it, careful to reestablish eye contact.
+
+}
+[sha:021c41a6246b3dfaeedcb3cd58d4cf012b573fe8]{
+-- Page 43, Offset 6491.
+-- ―――いや、まことに信じがたい話ではあるが。
+  Something so unbelievable, though to Soujyuro...
+
+}
+[sha:b15873ebf76e6b63404dca8ffae7e4c422c5bd24]{
+-- Page 43, Offset 6492.
+-- 彼にとってはデパートのエレベーターも、
+  The elevator at the department store
+
+}
+[sha:4ebe8032b759df11efa5101a2606162653c17219]{
+-- Page 43, Offset 6493.
+-- 不思議動力で浮遊する卵も、
+  and the mysterious floating egg were both just moving objects,
+
+}
+[sha:c5570117703de85443c0d1f1d1b0fec37ddcf2bd]{
+-- Page 43, Offset 6494.
+-- そう大差のない「移動道具」に見えたのである……！
+  virtually indistinguishable from one another.
+
+}
+[sha:1189099f819f6bebab5fa9b38ed192cfb35a978f]{
+-- Page 44, Offset 6495.
+-- 「よし、割れてない！
+"All right! It didn't break!
+
+}
+[sha:3858812a9858435276d0cbe8dd59e1c5905da2a0]{
+-- Page 44, Offset 6496.
+-- 食べ物を粗末にするのはよくないと思う！」
+It's always a shame when food goes to waste!"
+
+}
+[sha:543c15f5d6f77f7b293e601fd30cada9c83c3982]{
+-- Page 44, Offset 6497.
+-- 着地したのは小広場の近く。
+  He landed near the plaza.
+
+}
+[sha:0123b0578c5a1ff9aaba3fb217c059473de83fe0]{
+-- Page 44, Offset 6498.
+-- 命を投げたショートカットは、これ以上ないカタチで実を結んだ。
+  The shortcut that almost cost him his life had paid off.
+
+}
+[sha:80b9fb8f3d0da16d20f2e46374d329bfc7a4adf3]{
+-- Page 44, Offset 6499.
+-- 草十郎は着地しながら、止まる事なく走りだす。
+  Soujyuro took off running the second his feet touched the ground.
+
+}
+[sha:e9c4ca5f29bcfa0e907888eb2662de82ad381701]{
+-- Page 45, Offset 6500.
+-- 彼の脳裏にあるのは青子に迫る人形の姿だけ。
+  The puppet after Aoko was the only thing on his mind.
+
+}
+[sha:8487391cde47410c64bd6cc7b0a1fbd726755ae8]{
+-- Page 45, Offset 6501.
+-- なので、空から降ってくる月の光も、
+  He paid no mind to the moonlight in the sky.
+
+}
+[sha:3c68102379fc0f08984601441a7bbcba11549148]{
+-- Page 45, Offset 6502.
+-- 利用された怒りに燃えて自ら破裂し、破片をまき散らさんとする卵も視界に映らない。
+  Or the egg, furious about being used and seconds away from self-destructing and blasting fragments all over the place.
+
+}
+[sha:b38ab6e202eb2175e643859b7527ad09877527f0]{
+-- Page 46, Offset 6503.
+-- 「蒼崎―――！」
+"Aozaki!"
+
+}
+[sha:47d2310940db40b325b1d0057ea12300c3e08f2d]{
+-- Page 46, Offset 6504.
+-- 「なぬ―――？」
+"Huh?"
+
+}
+[sha:8786f88643c81f79b40dcc858b38208f0d10a47a]{
+-- Page 46, Offset 6505.
+-- 目を疑う青子の表情が、最後の一足に力を入れる。
+  Aoko's dumbfounded expression spurred Soujyuro on.
+
+}
+[sha:4b31a0ad97913b80e6bbc398dbcf0e349cb9e89d]{
+-- Page 46, Offset 6506.
+-- <詩篇|のろい>が展開する。
+  The curse was complete.
+
+}
+[sha:3742fd8e15a398297d741b59e3b3b738bd75e1ab]{
+-- Page 46, Offset 6507.
+-- もはや逃がさぬと中身のない卵は<謳|うた>い―――
+  The empty egg began to sing its warning to let them know there was no escape.
+
+}
+[sha:2348a104d39ec4f8c193056eb4c18ff845ded198]{
+-- Page 47, Offset 6508.
+-- カオスに散らかる卵の断片。
+  Shrapnel from the egg exploded through the air.
+
+}
+[sha:4f2b4d5447b4dcbc275cead5f65430d27520b48e]{
+-- Page 47, Offset 6509.
+-- ダンプティに刻まれた“女王アリスを讃える唄”は、急速に五感を奪っていく。
+  The "Ode to Queen Alice" that Alice had engraved into Dumpty quickly robbed him of his senses.
+
+}
+[sha:9390a022b0cc31e7cbf43b8c932084fafd12999e]{
+-- Page 48, Offset 6510.
+-- 「っ―――それは、それとして―――」
+"Okay... Was that it?"
+
+}
+[sha:b2b2b59e9e1443a82a33b394aa12ec3a7e15ba5d]{
+-- Page 48, Offset 6511.
+-- 途切れていく感覚に<喝|かつ>を入れて、草十郎は横たわる青子に走り寄る。
+  He snapped back to the task at hand and ran to Aoko, still lying on the ground.
+
+}
+[sha:7e004f399de914cbcf2653ac3fbf84058d763656]{
+-- Page 48, Offset 6512.
+-- 足は止まらない。
+  His legs ran of their own accord.
+
+}
+[sha:bbe1a88cf0f2e01ea4db4351a5fc5c3696b12945]{
+-- Page 48, Offset 6513. Glued. Mods: @x.
+-- そもそも感覚がないので自らの意志で止める事さえできず、
+Though he could not have ever stopped them anyway since he could no longer feel them.
+
+}
+[sha:5649f7c9f2bbf42c5b13e660e616c6dbd17654ab]{
+-- Page 48, Offset 6514.
+-- 「<人形|おまえ>、驚くほどしつこいぞ……！」
+"Don't you puppets ever give up?!"
+
+}
+[sha:c6a493d4c66ec2f1ec8932cd5db6edb4d5a66f37]{
+-- Page 49, Offset 6515.
+-- <交差点|スクランブル>の<爆発|マーダー><事故|ケース>。
+  The Scrambled Murder Case.
+
+}
+[sha:0d0d53d838220eb10e204801f0659e6a5c02b5bb]{
+-- Page 49, Offset 6516.
+-- 三者三様の残骸が、閃光弾となって地上に咲く。
+  Piles of rubble became flowers of light blooming from the earth.
+
+}
+[sha:84415ff19952bb4c9fc01946c83daa57dac79641]{
+-- Page 49, Offset 6517.
+-- ……敗者たちがこぞって潰しあった最終幕。
+  The final curtain drew closed, and the defeated left the battleground.
+
+}
+[sha:8f4e4d78f06d6b7831cbc4c04b502b06c4d31589]{
+-- Page 49, Offset 6518.
+-- 久遠寺有珠が見ていたら頭を抱えそうな結末から、ふたりは間一髪ではじき出された。
+  Had Alice Kuonji seen it up close, it would have left her beside herself. The two had escaped by hair's breadth.
+
+}
+[sha:b8c7f24a74eec80b0b965e00108df3fa87818dbe]{
+-- Page 50, Offset 6519.
+-- この、世にも<希|まれ>なつぶし合いを冷静に把握できたのは、助けられた少女だけ。
+  The only person in a position to witness that rare mutual destruction was the girl who had been saved from it.
+
+}
+[sha:19106d5e372a3f000f635317856997924d82941c]{
+-- Page 50, Offset 6520.
+-- 走り続けた少年は背後の結末にあまり関心もなく、
+  The boy who had never stopped running paid it no mind.
+
+}
+[sha:f87f38ba6934e354caf49bdb766beeb65f6ab97a]{
+-- Page 50, Offset 6521.
+-- 「はあ―――死ぬかと、思った」
+"Phew. I thought you were a goner."
+
+}
+[sha:cd3c87721598b807c9f43c776dc260b8eb8af201]{
+-- Page 50, Offset 6522.
+-- 自分のしでかした奇跡より、抱きかかえた少女の無事を確かめて、安堵の息を漏らしていた。
+  The safety of the girl in his arms meant infinitely more to him than the miraculous way in which he saved her.
+
+}

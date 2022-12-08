@@ -1,0 +1,330 @@
+[sha:d39a5d545d58f7289db8d8d96ec820511e42efd4]{
+-- Page 0, Offset 14318.
+-- 夜の<帳|とばり>はとっくに落ちている。
+  The curtain of night had already fallen.
+
+}
+[sha:1e41d46096b0e0a3c4b4211c5f3edd4520f2b368]{
+-- Page 1, Offset 14319.
+-- 橙子が去ってからまだ一時間も経っていないのに、草十郎には彼女の顔がひどく遠いものに感じられた。
+  Not even an hour had passed since Touko left the estate, and Soujyuro was feeling the distance between him and the girls.
+
+}
+[sha:a25af2eeb3062150fc99fd21ac805ed5c70bfb11]{
+-- Page 1, Offset 14320.
+-- 青子と有珠にしてみれば、現在の蒼崎橙子の姿は幻よりさらに遠いに違いない。
+  Aoko and Alice felt much the same way about Touko Aozaki, who seemed more elusive than a phantom.
+
+}
+[sha:09e340e49f0aa699a48b49af47f410c61e95ded1]{
+-- Page 2, Offset 14321.
+-- 「とにかく！　姉貴が敵だって事は草十郎にも分かったでしょう？　ならつべこべ言わず、君子危うきに近寄らずよ！
+"Anyway! Soujyuro, you at least understand that she's our enemy, right? If so, stop arguing with me, and let sleeping bears lie!
+
+}
+[sha:c7e9d7dd03fb53487e586bb88d1884396b2f5b44]{
+-- Page 2, Offset 14322.
+-- ……ま、姉貴もアンタと会って、私たちとはまったくの無関係だって分かっただろうから、そっちには手を出してこないでしょうけど」
+  Although, after meeting you, she must have realized that you have nothing to do with us, so I doubt we need to worry about her going after you."
+
+}
+[sha:048636463e84fa37b1f3627166a374cff2639dd7]{
+-- Page 3, Offset 14323.
+-- だから安全、気にするな、と青子は胸を張る。
+  Aoko seemed absolutely certain in her assessment, as if to proclaim that Soujyuro had dodged a bullet.
+
+}
+[sha:220dd8bec7592dbaede694aa79328dadc0314df0]{
+-- Page 3, Offset 14324.
+-- おかしな話だが、たとえ敵であっても橙子の合理性を青子は信頼しきっていた。
+  Strangely, she was placing her trust in her enemy's sense of reason.
+
+}
+[sha:95b0f6cb931b3c0f613687829bf22300b0b348bc]{
+-- Page 4, Offset 14325. Mods: @k, @e.
+-- 「……そうかな。……そうなのかな。
+"...Really? ...Are you sure about that?
+
+}
+[sha:a3c89847740b48973c847ea0540e89d4d83875f5]{
+-- Page 4, Offset 14326. Glued. Mods: @x.
+-- ……そうだといいんだけどな」
+I hope you're right..."
+
+}
+[sha:d736e9b4654fa8a06699137417d4e640ab4acb43]{
+-- Page 4, Offset 14327.
+-- 「そうだから安心なさい。昔から要らない物には手を出さないんだから、あの人は」
+"Really. So relax; she never paid any attention to things that were of no use to her anyway."
+
+}
+[sha:c3143603c66a208ee7ecf10da9daafee722225da]{
+-- Page 5, Offset 14328.
+-- 「そっか。蒼崎がそこまで言うなら安心する。
+"Okay. If you say so, Aozaki, then that's good enough for me.
+
+}
+[sha:ff29c6d5f6f2274a37365ecd155eac7d7500cf88]{
+-- Page 5, Offset 14329.
+-- あ、要らない物っていえば、橙子さんが蒼崎のティーカップを貰うって。セーブルのやつ」
+  Oh, right. Speaking of things she has no use for, Touko took your teacup. The nice Sèvres one."
+
+}
+[sha:ca07c7674c629fb4bb9973a3b2c9abf9c66dd71d]{
+-- Page 6, Offset 14330.
+-- 「え……ちょ、ちょっと待って！
+"She did WHAT?!
+
+}
+[sha:cc1b6771686819580ad76f62f2007f4373fde5ce]{
+-- Page 6, Offset 14331.
+-- アンタ、それを黙って見てたっていうの!?」
+  And you just stood by and let her?!"
+
+}
+[sha:03cde56f7a75d80ab7cb66d7501727ef3e70069f]{
+-- Page 6, Offset 14332.
+-- 「そうだけど。……む。やっぱりあれは奪っていったのか」
+"I did. ...So she really was stealing it after all, huh."
+
+}
+[sha:5d50f6100bf71558186cff72ffa3a9125d8e91fe]{
+-- Page 7, Offset 14333.
+-- 怒る青子に、草十郎はなるほど、と納得する。
+  Soujyuro nodded sagely, while Aoko fumed.
+
+}
+[sha:f4a45784403b04e4e5fcdfc57ee095d9a6cdbc7c]{
+-- Page 7, Offset 14334.
+-- さっきまでの深刻な顔つきと口調はどこへいったのか。
+  She wondered where his serious manner and tone had gone.
+
+}
+[sha:b89ef9d5a03b3768987770355db5643470ec187a]{
+-- Page 7, Offset 14335.
+-- 今ここにいやがるのは、いつものぼんやりとした草十郎だった。
+  Soujyuro's frustrating absentmindedness had returned.
+
+}
+[sha:d9e9ee065f7f18e7cf3196e0920d521c2eaa0a85]{
+-- Page 8, Offset 14336.
+-- 「しかもセーブルのカップって、私の一番のお気に入り……」
+"It had to be the Sèvres cup too... my favorite one."
+
+}
+[sha:dd39e904e69ac4f3c6a632804ddbe689987bd1da]{
+-- Page 8, Offset 14337.
+-- ぬぬぬ、と拳を震わす青子だが、草十郎の<暢気顔|のんきがお>を殴りつけるワケにもいかない。
+  Aoko's fist trembled violently, but as much as she wanted to, she knew better than to plant it into Soujyuro's carefree face.
+
+}
+[sha:c245c7612507653db2ad41221c272a1b8b29f2b4]{
+-- Page 8, Offset 14338.
+-- もし草十郎が橙子を止めていたら大惨事だったろうし、なにより草十郎に、あの姉を止められた筈もないのである。
+  Not that he was even capable, but even if Soujyuro did try to stop Touko, it would have gone tragically for him.
+
+}
+[sha:d5a5cdfe54400033f1baef5e3362f6e4da31345b]{
+-- Page 9, Offset 14339.
+-- 「……仕方ないか。そういえばあの人、よく私の持ち物を奪っていったっけ。
+"...Nothing to do now, I guess. She always did have a habit of stealing my things.
+
+}
+[sha:81a881b9853d0cebebf8da4221638ef3b5a2d1ad]{
+-- Page 9, Offset 14340. Glued. Mods: @x.
+-- 他人の物を欲しがるクセ、まだ治ってないんだ」
+Always wanting what others have... I guess old habits die hard."
+
+}
+[sha:0fb68f2d88d23434a60fbeed6f031df6da1f2dc3]{
+-- Page 9, Offset 14341.
+-- 「？　子供の頃は、みんなそうなんじゃないのか？」
+"Isn't everybody like that, as children?"
+
+}
+[sha:cd95165ab713e1f960a01dd88c80b06c934a269f]{
+-- Page 9, Offset 14342.
+-- つい聞き返してしまう草十郎。
+  He wondered aloud, curiously.
+
+}
+[sha:ff60822137bb1fadf6e64e0e808531c9ac44716e]{
+-- Page 10, Offset 14343.
+-- 「そうかな。私のクレヨンとか人形とかとっても仕方ないと思うけど。どうせ粉々にしちゃうんだし」
+"Maybe. So many of my crayons and dolls, she took as she pleased... And broke them, too."
+
+}
+[sha:670bf9f3caf8865e445974de0f23e1a43465e621]{
+-- Page 10, Offset 14344.
+-- その言葉に草十郎は息を呑んだ。
+  Soujyuro felt his heart jump into his mouth.
+
+}
+[sha:12c42774aa30d556ad7e74797097e51b3c5c80ce]{
+-- Page 10, Offset 14345.
+-- なにかいま、不吉な意味が含まれていた気がする。
+  The ominous foreshadowing was not lost on him.
+
+}
+[sha:986292e8a0a57bf988d1085ad193a20c212a26a8]{
+-- Page 11, Offset 14346.
+-- 「………それは、どういう？」
+"Why... do you think that was?"
+
+}
+[sha:1235053c8edeb66998a26901ea140544f5a2f512]{
+-- Page 11, Offset 14347.
+-- 「だから、あの人って私の持ち物を横取りしてはぶっ壊すのが趣味なのよ。苦節十四年、姉貴に目をつけられて無事だった物なんてひとつも無いもの」
+"Because she made a hobby out of taking my property and smashing it to pieces, obviously! Once she had her eye on something, I had to kiss it goodbye."
+
+}
+[sha:7933345eed77ed717d2c5baa2e1665e8de40a7b9]{
+-- Page 11, Offset 14348.
+-- 「…………………………」
+"..."
+
+}
+[sha:2c0025707aa75b5e6e9bcfd186e5ee4289b0332f]{
+-- Page 12, Offset 14349.
+-- 青子の独白を聞いて、草十郎は橙子との会話を思い出す。
+  Listening to Aoko, Soujyuro recalled his conversation with Touko.
+
+}
+[sha:ff2b73024e39ff3633a2db9f9c083e2e729c73a9]{
+-- Page 12, Offset 14350.
+-- ……気のせいだといいのだけど、彼女はしきりに静希草十郎を、誰かさんの持ち物だと決め付けていたような……。
+  He hoped he was imagining it, but he vaguely recalled her declaring Soujyuro Sizuki as someone's property...
+
+}
+[sha:f7d5231c75b38926b6049f6d04d374301308cc4b]{
+-- Page 13, Offset 14351.
+-- 「……それは……ちょっと、難儀だな」
+"That... is troubling."
+
+}
+[sha:5c56e66cb3de45b8c8a0a95a92e43392ce80e446]{
+-- Page 13, Offset 14352.
+-- 手強い難問に出会った刑事よろしく、顔をしかめて呟く草十郎。
+  Soujyuro's face turned grim, not unlike a detective at the scene of a crime-
+
+}
+[sha:800cd1a16af14d026e8923640489b288ee109b76]{
+-- Page 13, Offset 14353.
+-- 解決策がまったく見つからないあたりまで、ホントよく似ている。
+  a scene which left no traces of evidence or clues as to how the case could be solved.
+
+}
+[sha:a0efecfa6e9778fb44480f068aa2164025fe8c30]{
+-- Page 14, Offset 14354.
+-- 「でしょ？　ひどい姉貴なのよ、あの人って」
+"Right? She was a terrible sister. The worst."
+
+}
+[sha:a2b8eabcd9f00ef861290ff0c057271ba9d7052e]{
+-- Page 14, Offset 14355.
+-- 草十郎の気持ちも知らず、青子は気楽に答えて紅茶を飲んだ。
+  Unaware of Soujyuro's turmoil, Aoko calmly sipped her tea.
+
+}
+[sha:c59219cabc0c55181077c8a3a06282e7ecf95e81]{
+-- Page 14, Offset 14356.
+-- 肩をすくめる青子を半眼で見つめながら、草十郎は居間の時計に目をやった。気分がどんなに<陰欝|いんうつ>でも、時間だけはきっちりと回っている。
+  Soujyuro watched as Aoko shrugged her shoulders before looking over to the drawing room clock. No matter how heavy the mood, time kept on ticking.
+
+}
+[sha:952204c9a5c75d5067f7d9462b9f524f791226ce]{
+-- Page 15, Offset 14357.
+-- 「……明日から、大変になるね」
+"...Gloomy days ahead, I guess,"
+
+}
+[sha:fb4630493c0f9ba9320a9a0a7d4f98c342c51e82]{
+-- Page 15, Offset 14358.
+-- ぽつりと呟く本日最大の被害者。
+  muttered the undeniable victim of today's injustices.
+
+}
+[sha:bc1eb8f9e96c7a6076dcd6af65aba878c563e6c6]{
+-- Page 15, Offset 14359.
+-- そこに、青子はからっとした趣で付け足した。
+  Aoko looked ready to move on from the incident, adding,
+
+}
+[sha:a53cdb6a263f9ed3dce0c69ecf09ca693d8382a2]{
+-- Page 16, Offset 14360.
+-- 「そうね。でも今は、そんな事より今日の夕飯のが楽しみなんだ、私」
+"Probably. But right now, I'm just looking forward to tonight's dinner."
+
+}
+[sha:37cd3a9ec7b7357f056b64b58cfaf5fd9905b00d]{
+-- Page 16, Offset 14361.
+-- 青子の意見に、有珠も賛同するように黙りこんでいる。
+  Alice seemed to second that opinion with her silence.
+
+}
+[sha:8a1eeeeff789ed7fb5af3ec731758fea3a35d80a]{
+-- Page 16, Offset 14362.
+-- ゆったりくつろぐふたりは、夕飯が用意されるまでソファーから動く意志が、見事なまでに皆無だった。
+  Comfortable and relaxed, neither of them seemed to have any intention of leaving the sofa to prepare food.
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 17, Offset 14363.
+-- 「……………………」
+"..."
+
+}
+[sha:3141952e63e45f0b88cf33138e72eb8bf279e5a0]{
+-- Page 17, Offset 14364.
+-- たしかに夜のアルバイトはない。
+  Tonight was supposed to be his night off from work...
+
+}
+[sha:9d09f29f1d1147c6e372dd7a9b63cdbceaafac87]{
+-- Page 17, Offset 14365.
+-- けれど深夜となると話は別だ。
+  ...at least, until midnight.
+
+}
+[sha:8180d17d276859db1b25cdd5d2e26c546c5c4e02]{
+-- Page 17, Offset 14366.
+-- これから本当にアルバイトが待っている草十郎にとって、ふたりの期待は苛酷な命令以外の何物でもない。
+  But Soujyuro knew until the clock struck midnight, he would be serving on hand and foot the two ladies of the house.
+
+}
+[sha:45a2156c8c7aeda3c18ff60b65be1678429dc5a6]{
+-- Page 18, Offset 14367.
+-- そもそも、今から調理したら食べるのは一時間後になってしまう。
+  For one, it would take at least another hour to prepare something to eat.
+
+}
+[sha:5d3b462c5731c6284362daba9699e341b8db3b01]{
+-- Page 18, Offset 14368.
+-- そんなコトを何やら疲れきったふたりが容認するはずもなく、となると結局、残された手段は出前のみ。
+  And there was no way the exhausted Aoko and Alice would stand for that, so the only other option, in the end, was to have something delivered.
+
+}
+[sha:0a713d3ea894807abbb5142c5eccd8b17eae0cad]{
+-- Page 19, Offset 14369.
+-- “……なんと。橙子さんに付いていけば良かったかもしれないな、俺”
+(Maybe I should have taken Touko up on her offer after all.)
+
+}
+[sha:8eed17a26b75d2c01752c8be8b389f8ae205265d]{
+-- Page 19, Offset 14370.
+-- グチをこぼしつつ、草十郎はお財布の中身を確かめた。
+  Soujyuro opened his wallet as he second-guessed his situation.
+
+}
+[sha:08016d8b3e5214ec6e67136245b60bdb19b1160b]{
+-- Page 19, Offset 14371.
+-- 慎ましげに残っている三枚目の諭吉は、別れを惜しむようにしかめっ面をしている。
+  His eyes settled on the third and final ten-thousand yen bill in his wallet. It stared back at him forlornly, reluctant to leave its home.
+
+}
+[sha:ed727207586a29173612657a23179ff446a52d27]{
+-- Page 19, Offset 14372.
+-- それが、草十郎にはちょこっとだけ痛かった。
+  With a heavy heart, he bid it farewell.
+
+}

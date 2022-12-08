@@ -1,0 +1,720 @@
+[sha:ce1a90410a5c89793844b18b17a13d4dda32e9b6]{
+-- Page 0, Offset 21551.
+-- 満場一致で山城先生の捜索が開始された。
+  We began a manhunt for Mr. Yamasiro.
+
+}
+[sha:bb3d0c3702b51b433e6bc885e8fcb16aa5f1ba70]{
+-- Page 0, Offset 21552.
+-- 手分けして館内を回っていると、二階の客室を担当していた律架さんがみんなを呼び集めた。
+  Once we'd separated into groups to scour the mansion, Ritsuka, in charge of the second floor guest rooms, called us together.
+
+}
+[sha:1253d964a2c4274622e0d2e8167d879d457eb2aa]{
+-- Page 1, Offset 21553.
+-- 「ここ、山城先生の客室ね。鍵はかかっているの？」
+"This is Mr. Yamasiro's room. Is it locked?
+
+}
+[sha:775a45ee7a2934e17995a0ea16c08403b45300e3]{
+-- Page 1, Offset 21554. Mods: @k, @e.
+-- 「かかっていなかったわ。留守だと思って中を覗いてみたん、
+"No, it's not. When he wasn't inside, I took a peek inside,
+
+}
+[sha:78d8d944751023a535db1c121d749a7366a8b316]{
+-- Page 1, Offset 21555. Glued. Mods: @x.
+-- だけど……っっ」
+ and, well..."
+
+}
+[sha:6006ad7a8b21ed4eec148ebe3b159fc02d154d9c]{
+-- Page 1, Offset 21556.
+-- 律架さんはそこで言葉を止めた。
+  Ritsuka trailed off.
+
+}
+[sha:45dbfbfd5a931508ba3af51522ef58fcefe8743f]{
+-- Page 1, Offset 21557.
+-- 最後のあたりはなんとなく笑いを<堪|こら>えているように見えたが、気のせいだと思いたい。
+  Was it my imagination or is she stifling a laugh?
+
+}
+[sha:fdbab213a351653ecf6495de12d57ff9e99411c1]{
+-- Page 2, Offset 21558.
+-- 「とにかく中を見て。話はその後にしましょう」
+"Just take a look for yourselves. Then we can talk."
+
+}
+[sha:249009bcab6cd06c2c67c10363c058ff289ec255]{
+-- Page 2, Offset 21559.
+-- 律架さんに<促|うなが>されて、わたしたちは部屋の中に足を踏み入れた。
+  Following Ritsuka's direction, we stepped into the room.
+
+}
+[sha:da08ff45fb7adce670be258e3b87732ae4989e1f]{
+-- Page 3, Offset 21560.
+-- 客室に入るとそこは
+  Inside...
+
+}
+[sha:2dafcb97692294abbe95c9854940b5011dce3408]{
+-- Page 3, Offset 21561.
+-- 一面の花景色。
+  There was a field of flowers.
+
+}
+[sha:878b74801055bf269d712ca46080c0db9d23793b]{
+-- Page 3, Offset 21562.
+-- その中心に、山城先生は眠るように息絶えていた。
+  In its center lay the body of Mr. Yamasiro.
+
+}
+[sha:3c7d8e5ddabc7bc54750501035e689e552950c5a]{
+-- Page 4, Offset 21563.
+-- 「ちょっ、ファラオ眠りって……！」
+"What's with that pose?! Is he supposed to be a pharaoh or something?!"
+
+}
+[sha:17fa863cdb29f4a1c312bfdc150262ecfa46ec7e]{
+-- Page 4, Offset 21564.
+-- 蒼崎は必死に笑いを堪えている。
+  Aozaki desperately tried not to laugh.
+
+}
+[sha:20e2db85b8de6b7b82c5093506100592a7006604]{
+-- Page 5, Offset 21565.
+-- かくいうわたしも、こみ上げたものを飲みこむので精一杯だった。
+  It took a serious effort from me, too.
+
+}
+[sha:0f055377995c77528f256db07bf618ab48b96017]{
+-- Page 5, Offset 21566.
+-- 不謹慎だけど、花に囲まれた状態で満足そうに永眠している山城先生のビジュアルは、厳かなお葬式というより、紅白歌合戦の大歌手を連想させたからだ。
+  Inappropriately, I couldn't help but see the image of Mr. Yamasiro lying serenely on a bed of flowers more as a Kouhaku new year's singing contestant than as a coffin viewing.
+
+}
+[sha:58cc2325c950cd4de5b13267d86316fa94edca06]{
+-- Page 6, Offset 21567.
+-- 「いやはや、いたって健全な方だと思っていたのですが。
+"Oh, dear. Mr. Yamasiro always seemed so normal.
+
+}
+[sha:33c758b0e55bcdc1d4f0c56f747241bc3a13c913]{
+-- Page 6, Offset 21568.
+-- 山城先生は普段、どんな人生を送りたいと思っていたのでしょうね？」
+  But this does raise some questions."
+
+}
+[sha:f7a58180659411554a09cbb619c803f40ad1d5f5]{
+-- Page 6, Offset 21569.
+-- 「なにこれ。ただの教師がアタシより派手な死に方とか、ふざけてるの？」
+"This has to be a sick joke. How can a schoolteacher die in a more flamboyant way than I live?"
+
+}
+[sha:8d02358785a497ef79699844d3e719fcbc223429]{
+-- Page 7, Offset 21570.
+-- 「皆さん、詮索はそこまでです。<故人|こじん>の人間性をどうこう言うのはデリカシーが欠けています。
+"Let's leave this here for now. People deserve their dignity, even in death.
+
+}
+[sha:07853477a3fe7544461298792253abcce1f8c60f]{
+-- Page 7, Offset 21571.
+-- 今後、新たな犠牲者が出た時、その死を笑うような事はないように。いいですね」
+  If another person passes away, I ask you all treat it with more gravity. Is that clear?"
+
+}
+[sha:d0a1f8a00c303b002c32c7d4dd1e03776b388849]{
+-- Page 8, Offset 21572.
+-- 「あ、はい。すみません、確かに不謹慎でした。
+"Forgive me. I shouldn't have been so facetious.
+
+}
+[sha:9df6f9639670510417d34bff88ba338c45f5a39b]{
+-- Page 8, Offset 21573.
+-- やはりこういう時は頼りになりますね、唯架くんは」
+  You're so reliable at times like these, Sister."
+
+}
+[sha:45fb67384fda5485174b649455812eb261d5e70c]{
+-- Page 8, Offset 21574.
+-- 「大人として当然の注意です。学生を監督する立場なのですから、エイリ神父も軽はずみな行為は控えてください」
+"I'm simply being a responsible adult. You should also conduct yourself in a manner befitting a student supervisor, Father."
+
+}
+[sha:6d0fd7a4e4af342b86d69e823b798aceeb829733]{
+-- Page 9, Offset 21575.
+-- ぴしゃりとした唯架さんのお叱りで、部屋の雰囲気は一気に冷えこんだ。
+  The room felt colder after Sister Yuika's scolding.
+
+}
+[sha:a412050ee0dbe9c2ba508d328669d8ec0bacfd88]{
+-- Page 9, Offset 21576.
+-- わたしたちは部屋を調べた後、久遠寺さんのマスターキーで山城先生の客室を施錠して、居間に戻ることになった。
+  After we finished examining the room, Miss Kuonji locked it behind us, and we returned to the drawing room.
+
+}
+[sha:a57966642ed7eae1063095440641004231c85f3f]{
+-- Page 10, Offset 21577.
+-- 居間は重苦しい空気に包まれている。
+  A somber mood settled over the parlor.
+
+}
+[sha:0c5be1393c0b5ee86093251696921d2059b20097]{
+-- Page 10, Offset 21578.
+-- この重苦しさは死者が増えた事による<悲愴感|ひそうかん>ではない。
+  The gloom wasn't from any sense of grief,
+
+}
+[sha:2b4caef441b9363ec2d028baa73ef8e223d02225]{
+-- Page 10, Offset 21579.
+-- 二人一組になった事で、ある種の空気が<蔓延|まんえん>しだしている事に、わたしは気付いていた。
+  but rather a certain feeling that pervaded the group after we split into pairs-
+
+}
+[sha:82599112e6cddb033dcc6dc803b62b448af896eb]{
+-- Page 10, Offset 21580.
+-- ……よくない事に、わたしたちは他のチームを疑い始めてしまっている。
+  Suspicion between the teams.
+
+}
+[sha:6974183d7179e01b654623f3172fe54ffe47b8aa]{
+-- Page 11, Offset 21581.
+-- 「客室に乱れた様子はなかった。山城を客室に誘い込んだのか、山城が客室にいる時にやってきたのか。
+"There was no evidence of a struggle in the guest room. Either Mr. Yamasiro invited them in, or they invited themselves in before he arrived.
+
+}
+[sha:e01f40bee8a57e42c1eb78271939004330f1539d]{
+-- Page 11, Offset 21582.
+-- どちらにせよ、親しい仲での不意打ちだったんだろう。
+  Either way, he likely knew them and was taken by surprise.
+
+}
+[sha:1ac65dfb6b4d76f64a454386a72b7c3c4502dcb2]{
+-- Page 11, Offset 21583.
+-- 山城はルールを知らなかったから、あっさり笑わされたんだろうが……」
+  Mr. Yamasiro probably didn't know the rules, so maybe it was easy to make him laugh..."
+
+}
+[sha:63a9e0b558ffa5295b0b40f92e5fce399da3af7b]{
+-- Page 12, Offset 21584.
+-- 槻司は居間に集まった全員に向けて話しかけていた。
+  Tsukiji spoke to everyone in the room.
+
+}
+[sha:7588102bc1de5a9de46cf420c74e24d2f9841856]{
+-- Page 12, Offset 21585.
+-- こういう時、みんなの意見を求める立場である詠梨神父がさっきから押し黙っているため、仕方なく代役を買って出た、という顔だ。
+  Usually, Father Eiri was the one leading the discussion, but now that he was silent, maybe Tsukiji felt he had to step up.
+
+}
+[sha:550a0a619ddaff31870d79bf436dc02e64b23eaa]{
+-- Page 13, Offset 21586.
+-- 「なに、鳶丸。アンタにしちゃ歯切れが悪いじゃない。
+"What's gotten into you, Tobimaru? You're normally more direct than this.
+
+}
+[sha:9d750a61d63f994a15c97557071bef156b25086c]{
+-- Page 13, Offset 21587.
+-- 今の憶測に間違いはないと思うけど？」
+  Where are you going with all this?"
+
+}
+[sha:1a3ec58e42ff304258b524ff646120c1ea9cf3a3]{
+-- Page 13, Offset 21588.
+-- 「いや、教会組や久遠寺はともかく、俺や蒼崎、久万梨は山城先生をよく知ってるだろ。
+"Oh, it's just that aside from Kuonji and the people from the Church, you, Kumari and I all knew Mr. Yamasiro well.
+
+}
+[sha:b835bb500528e51561a6beaab9fd7afdb81b2756]{
+-- Page 13, Offset 21589.
+-- あの昼行灯が、他人の冗談に心から笑う、っていうのはかなりレアな出来事じゃないか？」
+  That blockhead wasn't the kind of guy to give you a big belly laugh at your jokes."
+
+}
+[sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
+-- Page 14, Offset 21590.
+-- そうだ。
+  Right.
+
+}
+[sha:88901e3ab714e8970cdd97f859b08d95f59b6c1d]{
+-- Page 14, Offset 21591.
+-- 山城先生はいつもニコニコ顔で穏やかだけど、究極の中立者というか、柳に風、のれんに腕押し、<馬耳東風|ばじとうふう>ぐらいにたいていの意見は受け流してしまう。
+  Mr. Yamasiro smiled a lot and was easygoing, but he was neutral to a fault. He never responded strongly to people's opinions, almost to the point of utter indifference.
+
+}
+[sha:f1cdfe3433feea37fd890a24407285eac9163d0d]{
+-- Page 14, Offset 21592.
+-- 山城先生が本気で笑うとしたら、それは不意打ちの、ドッキリテレビみたいな<脅|おど>かし方ではないだろうか。
+  For him to laugh hard, he must've been taken by surprise, like victims on prank TV shows.
+
+}
+[sha:7d7992c1f4f166af4ca7296b0e3e237b2ef83a7c]{
+-- Page 15, Offset 21593.
+-- 「まあ、『どうやって笑わせたか』は後回しだ。
+"We can figure out how they made him laugh later.
+
+}
+[sha:8922e41a425afcac28463f313c7bf06897564d1b]{
+-- Page 15, Offset 21594.
+-- どうも敵さん本気で攻めてきてるみたいだからな。仲良し時間は終わりにして、本題に入ろうぜ」
+  Someone's out to get us. Enough of the friendly chit-chat. Let's get to the real issue."
+
+}
+[sha:6eead6b0fee76b3ceb62985b517626a043ad0341]{
+-- Page 15, Offset 21595.
+-- 「そうですね。この中の誰がＡなのか。
+"Agreed. Who among us is the most likely suspect?
+
+}
+[sha:03031d33b305f22b50df292875c324ec960f07bf]{
+-- Page 15, Offset 21596.
+-- 犯人捜しを始めましょう」
+  We should narrow it down."
+
+}
+[sha:6fb18f5d6e22a6df64529857cbfefa1b16224490]{
+-- Page 16, Offset 21597.
+-- 聞きたくはない台詞だったけど、同時に誰もが口にしたくてしょうがなかった台詞。
+  I don't think anybody wanted to hear that, but we all knew it needed to happen.
+
+}
+[sha:2b5ba36d59bb13af7670722960b23880c2d41681]{
+-- Page 16, Offset 21598.
+-- そう、これは避けては通れない。
+  There was no way around it anymore.
+
+}
+[sha:c99f9657ef9ec4822ad57e18c5e3471ccf624538]{
+-- Page 16, Offset 21599.
+-- この中に土桔由里彦氏と山城先生を『意図的に』笑わせた人物Ａがいるのだ。
+  Someone here intentionally made both Mr. Tokitsu and Mr. Yamasiro laugh.
+
+}
+[sha:ea3e41b15567a0034618681bcaf85f8028a7273f]{
+-- Page 16, Offset 21600.
+-- しかも土桔氏に対しては爆薬まで用いて―――あれ？
+  In Tokitsu's case, they even used explosives... wait.
+
+}
+[sha:4258d2c86c159e17d9a897e7aecdb014a6b96087]{
+-- Page 17, Offset 21601.
+-- 「ごめん。今さらだけど、土桔さんの死因ってもしかして」
+"Um, I know it's a little late to bring this up now, but the way Mr. Tokitsu died..."
+
+}
+[sha:990a608897b8e2ae75c6db40994deccc4df495e9]{
+-- Page 17, Offset 21602.
+-- 「うん、パンに殺されたんだろうね」
+"Right. Probably death by bread."
+
+}
+[sha:ae5d6e0b7457a4ad6d090e2638e5406864a4e118]{
+-- Page 17, Offset 21603.
+-- 「トッキィーらしいわ。“この世に小麦粉がなければ、僕は前衛美術で世界をすくっていた”とか、よくこぼしていたもの」
+"Makes sense in a way. Tokie did once say that if it wasn't for flour, he'd have saved the world with avant-garde art."
+
+}
+[sha:dd4563eabb7c4c94ffe158e3fca3ab816544ed91]{
+-- Page 18, Offset 21604.
+-- 申し訳なさそうに額をかく槻司。
+  Tsukiji scratched his head apologetically.
+
+}
+[sha:bbd9e8ecb0d79e9849416ec2e022db74a7f1a6ce]{
+-- Page 18, Offset 21605.
+-- やれ殺害時間の操作だの、身元の隠蔽だのと考察していた自分に呆れているっぽい。
+  He looked frustrated with himself for thinking so much about the time of death and the identity of the killer.
+
+}
+[sha:046c9947ebb590a570fdaf453462ad92054b0f79]{
+-- Page 18, Offset 21606.
+-- あれで繊細なところもあるのだ、コイツは。
+  I guess he did have a more sensitive side.
+
+}
+[sha:aa58feb23e7ffe9337768a1f1621019811d2ca7e]{
+-- Page 19, Offset 21607.
+-- 「犯人捜しなんて、するまでもないと思いますが。
+"I don't believe we need to hunt for the culprit.
+
+}
+[sha:e2ed9019a36b734b2f2214f6743e70fab249c837]{
+-- Page 19, Offset 21608.
+-- これがプロイキッシャーによる犯行なら、第一容疑者は久遠寺有珠、第二容疑者は蒼崎青子、第三容疑者はメイ・リデル・アーシェロット。以上の三名にしぼられます。
+  If this is the work of a Ploy Kickshaw, that makes Alice Kuonji the prime suspect, followed by Aoko Aozaki, and May Riddell Archelot.
+
+}
+[sha:b1619fae41055e5f68a714499ec33f16b33541ff]{
+-- Page 19, Offset 21609.
+-- 彼女たちをここで笑わせてしまえば解決です。脇腹を<抉|えぐ>るなり、足の裏を<削|そ>ぐなりすれば人間は笑います。物理的に」
+  Humans naturally laugh when their sides are prodded or the soles of their feet are tickled. There are ways to get the answers we seek... physically."
+
+}
+[sha:a256723870b63716ee8df8f823b6b904fcdd39f8]{
+-- Page 20, Offset 21610.
+-- 「唯ちゃん、ちょっと落ち着いて。
+"Calm down, Yui.
+
+}
+[sha:759117f0f45fa5efd9106cdea57064225ba116de]{
+-- Page 20, Offset 21611.
+-- 冷静に、冷静になりましょう、みんな。ケンカはよくないわ、犯人の思うつぼよ、きっと！
+  We should try to keep cool. No fighting. The culprit's probably counting on us to argue.
+
+}
+[sha:4903426a227c97af11054d18b3d20dbb79223589]{
+-- Page 20, Offset 21612.
+-- もっとミステリ的に考えましょう。まずはアリバイ検証とか、ほら、物理的に穏やかな方向で！」
+  Let's think of this more like a mystery novel and start by checking everyone's alibis, okay? No *physical* interrogations!"
+
+}
+[sha:65b4c02935afa9124986a6c3ec0cdd897e27ba67]{
+-- Page 20, Offset 21613.
+-- 「律架に賛成です。唯架くんも、それは最後の手段としてとっておいてくださいね。槻司くんや久万梨さんが同席しているんですから」
+"I agree with Ritsuka. We can use your method as a last resort, Sister. Remember, we have innocent students here in attendance as well."
+
+}
+[sha:878fb9421b73d0cb2d1f90232a36adf48ae654d5]{
+-- Page 21, Offset 21614.
+-- 「アリバイ検証はちょっと待ってもらえますか？
+"Could we wait a bit before we start checking alibis?
+
+}
+[sha:1ad32da3033873d8b5dc3a3f842c6704fcf32f32]{
+-- Page 21, Offset 21615.
+-- その前に、スイーツハーツだっけか？　そいつの特徴を詳しく聞きたいんですけど。
+  Before that... um, Sweets Hearts, was it? I'd like to hear more about that.
+
+}
+[sha:b3c9f4194f3d3a51c1a8f4dd273168c788a8ecd1]{
+-- Page 21, Offset 21616.
+-- 久遠寺、知ってる事を話してくれ。
+  Kuonji, tell us all you know.
+
+}
+[sha:70aaa764f1ad0b03304ed719ed1f7bd50a7bed41]{
+-- Page 21, Offset 21617.
+-- ルールがどうたら以前に、そいつがどういうカタチなのか、俺たちは知らねえんだ」
+  We need to understand what it is."
+
+}
+[sha:906900496f113d99fa9115135c1f2036e9f51dc0]{
+-- Page 22, Offset 21618.
+-- 「そうね。肝心な事を説明していなかったわ。
+"I suppose you're right. I didn't explain the essentials.
+
+}
+[sha:adf5d922701815566757e3cfdb0d7a9cca749dc9]{
+-- Page 22, Offset 21619.
+-- スイーツハーツは卵形のプディングよ。<王冠|おうかん>を逆さにして、ゆで卵を載せたようなカタチ」
+  Sweets Hearts is an egg-shaped pudding. It kind of looks like a hardboiled egg on top of an upside-down crown."
+
+}
+[sha:d7d80b791c85144f5c4963353bdfed25746cce08]{
+-- Page 23, Offset 21620.
+-- 「斬新ね。プリンに殺されるミステリとか、今まで聞いた事もなかったわ」
+"That's novel. This is the first murder mystery I've heard of where the weapon was a pudding."
+
+}
+[sha:65b21ef0353b7b96a34f1cabb7169fd047570df2]{
+-- Page 24, Offset 21621.
+-- 「バカなの？　バカしかいないの？
+"Am I surrounded by idiots?
+
+}
+[sha:c2cc51bd68a62dae7b210579a8a57976c01feba9]{
+-- Page 24, Offset 21622.
+-- それは発動する前のカタチよ。スイーツハーツは自分を食べた相手に、そっくりそのまま<擬態|ぎたい>するの」
+  That's merely how it appears before it activates. Sweets Hearts becomes a doppelganger of the person who eats it."
+
+}
+[sha:f236bc5aa7351466b7c5daf21795b1d0a5824f5e]{
+-- Page 25, Offset 21623.
+-- 「というか、スイーツハーツを食べちゃった時点で、食べた人間……これが使用者ね、使用者は卵の中に閉じこめられて、外にはスイーツハーツが擬態した“使用者”が現れる。
+"To be precise, whoever eats Sweets Hearts is imprisoned inside the egg; outside, the doppelganger appears.
+
+}
+[sha:71b15ca29c98f0e0e94636dd697fc769a072925e]{
+-- Page 25, Offset 21624.
+-- 活動をはじめたスイーツハーツは、人間のカタチをしているってコト」
+  So once Sweets Hearts is activated, it'll be in human form."
+
+}
+[sha:69ea43d2ee060fd1743723a9c56eeb7050430cf4]{
+-- Page 26, Offset 21625.
+-- 「―――理屈も道理もあえて訊かないが、要は、本物と偽者が入れ替わるんだな？」
+"So, basically you're saying a person gets swapped with an imposter, right?"
+
+}
+[sha:d7886f2445a2ad71d3604e722ec3088af2e6a5a0]{
+-- Page 26, Offset 21626.
+-- 「前言は撤回してあげる。トビマルだけは猿以上ね。
+"Let me correct myself. Only Tobimaru isn't a complete idiot.
+
+}
+[sha:bf010e555c2726a68910c1ba6960e5593464c8e2]{
+-- Page 26, Offset 21627.
+-- そう、スイーツハーツは使用者に化けるプロイなの。それも完全によ。なにしろ起動してしまったら、スイーツハーツすら自分が“犯人”だとは思っていないんだもの」
+  That's right. Sweets Hearts is a Ploy that transforms into its user. A perfect replica- so perfect, it doesn't realize what it is."
+
+}
+[sha:91ec8cbf173c2230bf0dc58f96c3ec1c7c8d39ee]{
+-- Page 27, Offset 21628.
+-- 「完全に化けるってそういうコトでしょう？
+"Too perfect, you could say.
+
+}
+[sha:a098702892c02036531c3c38ffbc8e3628c86313]{
+-- Page 27, Offset 21629.
+-- 犯人と思わしきヤツをどんなに詰問しても、拷問しても、ソレがスイーツハーツだっていう客観的、かつ絶対的な証拠がないと正体は暴けない。
+  No matter how much you question or torture the suspect, without objective, absolute proof, they won't be exposed.
+
+}
+[sha:93c47a10042e753943f30e6d008c2d1e292c8e4f]{
+-- Page 27, Offset 21630.
+-- “使用者”は証拠をつきつけられて、ようやく自分がスイーツハーツだって気が付くのよ」
+  Once evidence is presented to them, they finally realize that they are Sweetheart."
+
+}
+[sha:a04d2696bfb5e0b3e7a905126a1d58fd358ed35d]{
+-- Page 28, Offset 21631.
+-- 「あああーん！　なにそのロジックパズル！
+"Oh my god! It's a classic logic puzzle!
+
+}
+[sha:50746470390e1b3068eea17422ed929634ba990a]{
+-- Page 28, Offset 21632.
+-- たまんないですっ！　正直、もうたまんないです！」
+  I can't take it anymore! This is so awesome!"
+
+}
+[sha:37ea5eff147ae99be53f47942dc54be48ffceffd]{
+-- Page 28, Offset 21633.
+-- 「……一流のスパイは、まず自分はスパイではないと自己暗示をかけると言いますが……厄介ですね」
+"It's said the best spies learn to convince themselves they're not spies, but this... is troublesome."
+
+}
+[sha:8585679822feca803d6c57bf45ad355f247e12fa]{
+-- Page 28, Offset 21634.
+-- 「いえ、それはおかしい。犯人は明確に笑わせにきているのでしょう？　それで自覚がないというのは、どうも」
+"That doesn't sound quite right. The culprit wants us to laugh, no? If they don't know who they are, what would be the point?"
+
+}
+[sha:3ae5fc72cc73a94d5c4cb24932f1990d1c45ac3b]{
+-- Page 29, Offset 21635.
+-- 「スイーツハーツと、スイーツハーツが代行している人間はオンオフで切り替わるの。
+"Sweetheart and its proxy human can switch on and off.
+
+}
+[sha:8e8ffa813005f3cff17c8cc568b4357108fc0b41]{
+-- Page 29, Offset 21636.
+-- 普段は代行している人間そのものだけど、『ルール実行可能』な条件になると、その時だけスイーツハーツの人格に切り替わる。
+  Though normally a perfect doppelganger, Sweets Hearts's own personality can emerge when certain conditions are met.
+
+}
+[sha:faa606688559560149501e71406fb2c7ee0f7833]{
+-- Page 29, Offset 21637.
+-- もちろん、『代行している人間』の時の人格には、スイーツハーツを起動した時の記憶は消失しているわ」
+  Of course, when it has the personality of its proxy human, it has no memory of being activated."
+
+}
+[sha:c0736029baae7058ab635993e324e61c470b9ad6]{
+-- Page 30, Offset 21638.
+-- ……なんだってのよ、その条件。
+  What kind of setup was this?
+
+}
+[sha:c2066688b24715257cf9ec97003361ff0273dc66]{
+-- Page 30, Offset 21639.
+-- まるで姿なき殺戮者、殺意なき殺人鬼じゃない。
+  So, we were dealing with a formless butcher. A murderer with no ill intent.
+
+}
+[sha:2f85f39108328c114a9886bf452ffbc856a41830]{
+-- Page 30, Offset 21640.
+-- その条件なら誰だって―――わたしですら―――含まれてしまう。
+  That meant the murderer could be anyone... even me!
+
+}
+[sha:d38e35906c885262add420018442cb615f6a7749]{
+-- Page 30, Offset 21641.
+-- 現状、誰であれスイーツハーツの可能性があるってコトだもの……！
+  Any one of us could be Sweets Hearts!
+
+}
+[sha:a048352890b2960950be15a952f699b044c4e5c7]{
+-- Page 31, Offset 21642.
+-- 「みんな、落ち着いて。冷静に、冷静になりましょう。
+"Everyone, relax. Just keep calm.
+
+}
+[sha:e4451f490d8642c098d4d996d3c9af6d10f29d47]{
+-- Page 31, Offset 21643.
+-- 楽しいからって騒いだり、ケンカしたり、もう我慢できないわたしは家に帰るぞー、とか叫んで飛び出していったりしちゃダメよ？　絶対死ぬから」
+  If we start having too much fun, or start fighting, or get tired of this and try to go home, we're as good as dead."
+
+}
+[sha:a0a611d590194a9a2738040ed736180099326a11]{
+-- Page 31, Offset 21644.
+-- 「私としては、まず貴女に冷静になってほしいのですが」
+"If anyone needs to calm down, it's you."
+
+}
+[sha:5a0f2f98314f76fb641269a9f2641736860ed549]{
+-- Page 32, Offset 21645.
+-- 「いやーん、ダメ、冷静になんてなれない！
+"But how can I be calm in a situation like this?!
+
+}
+[sha:8db27cac6c18fb7d20d86db5b0851bba1995e886]{
+-- Page 32, Offset 21646. Mods: @k, @e.
+-- お願い、夢でも覚めないでっ！　盛り上げる為に、みんなあと半分ぐらい殺されて！　そして当然、最後に生き残るのはわた、
+@o  If this is a dream, I don't want to wake up! At least half the group needs to ^die to really spice things up! And then, once I'm the last one left alive...
+
+}
+[sha:53ebd1443bf8f7d30f9f01b392f1cf9c16b2ee4a]{
+-- Page 32, Offset 21647. Glued. Mods: @x.
+-- ぐほっ」
+Ack!"
+
+}
+[sha:e0c5a1c639a30f52455f3c2c74195b96e8e28984]{
+-- Page 33, Offset 21648.
+-- 「そこまでのトンデモプロイとは思わなかったわ。
+"Wow. Talk about a crazy Ploy.
+
+}
+[sha:3a999f5b5880864c397950c8a8aa9947fe32345b]{
+-- Page 33, Offset 21649.
+-- これは真面目にアリバイ検証をするしかなさそうね」
+  I guess all we can do at this point is check everyone's alibis."
+
+}
+[sha:265d256b41e1e76dd2281b1bb8aefed9984f4a8d]{
+-- Page 33, Offset 21650.
+-- 「そうだな。誰がスイーツハーツかは判明しないが、誰なら二人を殺せたかは見えてくるかもしれねえ」
+"Right. We might not be able to pin Sweets Hearts, but we might be able figure out who committed the murders."
+
+}
+[sha:27d550ce1154ce802eab8db6adb3d3a6bf8ae91c]{
+-- Page 34, Offset 21651.
+-- 「それぞれこの一日の行動を証言しよう。もし自分の記憶と違ったところがあったら、容赦なく指摘してくれ。
+"Let's testify one by one. We should go over everything we did today. If anything seems inconsistent, don't hold back.
+
+}
+[sha:b3cc677b6cf253f30675fc79a740ba26a316f7e3]{
+-- Page 34, Offset 21652.
+-- それじゃあ、まずは俺からだな」
+  I guess I'll start, then."
+
+}
+[sha:af43e38bcccd18255442addf6eacd70b902ab312]{
+-- Page 35, Offset 21653.
+-- 提案者である槻司が先陣をきっては、誰も異論は挟めない。
+  No one objected to Tsukiji's initiative.
+
+}
+[sha:9f4f6876e11ad59d3f5435a03d95ce56971b4b56]{
+-- Page 35, Offset 21654.
+-- ここで待ったをかければ、それこそ自分が怪しいというようなものだし。
+  If he didn't want to go first, he'd look suspicious.
+
+}
+[sha:23c5f9f07c6d6f12038bb3c10fbd9702aacd5f53]{
+-- Page 36, Offset 21655.
+-- 「俺は午前十時に、ベオと木乃美、土桔の爺さんと久遠寺邸に到着した。
+"Beo, Kinomi, Yurihiko, and I all came here at ten this morning.
+
+}
+[sha:b13f2029c89b27277e8858df6584b488abfd3b5b]{
+-- Page 36, Offset 21656.
+-- 俺たちは久遠寺に挨拶した後、それぞれ与えられた客室で休憩、十一時には居間に再集合し、昼食をとった。
+  After saying hi to Kuonji, we each went to our rooms to rest, then met again at 11 o'clock in the drawing room and had lunch.
+
+}
+[sha:b86e8ebac1d1f9e32074b9c830a8f5397c718bb3]{
+-- Page 36, Offset 21657.
+-- ……そうだな、たしかそのあたりで土桔の爺さんはいなくなってたな」
+  Oh, yeah. Around that time, Yurihiko went missing."
+
+}
+[sha:8466026462cdb1c7fdade6c839a8647c182f5525]{
+-- Page 37, Offset 21658.
+-- 「午後になって蒼崎、山城、久万梨が到着。
+"Aozaki, Mr. Yamasiro, and Kumari arrived in the afternoon.
+
+}
+[sha:73f42ed40748bd035a64b109db6c7f211f3158b8]{
+-- Page 37, Offset 21659.
+-- 夕方になってリデルが呼ばれもしないのに乱入。
+  Then, in the evening, Riddell barged in uninvited.
+
+}
+[sha:7c492d6f35305f0d05527850dbc1ad26a4360f64]{
+-- Page 37, Offset 21660.
+-- 何度かトイレで席を立ったが、基本的には居間とサンルームで過ごしていた。
+  I went to the bathroom a few times, but besides that I was here in the drawing room and the sunroom.
+
+}
+[sha:1f1d0debbc1de5ffe00bca67db072714d4049282]{
+-- Page 37, Offset 21661.
+-- 俺が居間にいた間、常に姿があったのは久遠寺だけだ」
+  During that period, the only person who never left the parlor was Kuonji."
+
+}
+[sha:d6282a87eab0cf20c4977a684a81b3e761d70695]{
+-- Page 38, Offset 21662.
+-- 「私は午前中は街で買い物をして、そのまま昼過ぎに久万梨と合流。なぜか山城先生もいたわ。
+"This morning, I went shopping in town, then met Kumari straight away in the afternoon. For some reason, Mr. Yamasiro was also there.
+
+}
+[sha:e8ea924750ff7eff5e167ecbbaedd2f2128f2d49]{
+-- Page 38, Offset 21663.
+-- 三人で洋館に到着したのが二時過ぎ。
+  The three of us arrived at the mansion sometime after two.
+
+}
+[sha:2ac687cf997e206e50707581bd076c4db70b5528]{
+-- Page 38, Offset 21664.
+-- 居間で鳶丸たちに挨拶して、あとは居間とサンルームをいったりきたり、だったかな。
+  After saying hello to Tobimaru in the drawing room, I spent the rest of the time between there and the sunroom.
+
+}
+[sha:afbb62f1df65c468d28b86474a9c7338b7ed06b0]{
+-- Page 38, Offset 21665.
+-- ご不浄で何度か席を立ったけど、一度もトッキィーとは顔を合わせていないわ」
+  I left a few times for the restroom, but I didn't see Tokie once."
+
+}
+[sha:88c87e44c3303a2c37a94d5c6568bfee9d86cf99]{
+-- Page 39, Offset 21666.
+-- 「ボクもするの？　いいけど、みんなと変わらないよ？
+"Huh? Do I have to go too? Whatever, but my story's the same as everyone else's.
+
+}
+[sha:d339d3235c0c01d391738b8647ae59ea614d7449]{
+-- Page 39, Offset 21667.
+-- えーと、三連休だったので、昨日はトビーの家で寝泊まりしてあげてたよ。ホースケも一緒だったんで、うるさいコトこの上なかったです。
+  Y'know, it's a long weekend, so I hit Toby up and spent the night at his house yesterday. Housuke was there, too, so it was wild.
+
+}
+[sha:42e8c3832f6881d10802842a8f473ef900565d1b]{
+-- Page 39, Offset 21668.
+-- で、朝になってから三人で一緒に公園までいって、爺さんと合流して、ロールス・ロイスでここの門に到着。
+  In the morning, we all went to the park together to meet up with the old guy, before coming here in a sweet Rolls-Royce.
+
+}
+[sha:a0c1c782459f0f08e778c33ff39562c5ef0f45cf]{
+-- Page 39, Offset 21669.
+-- 十時にはアリスに挨拶して、あとはずっとゴロゴロしてましたー！」
+  At ten, I said what's up to Alice. Since then, I've just been here chilling the whole time!"
+
+}
+[sha:260a288bd6e6017828f3bc51899a74ceb9e2b03b]{
+-- Page 40, Offset 21670.
+-- ……わたしは、
+  I...
+
+}

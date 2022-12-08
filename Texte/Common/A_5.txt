@@ -1,0 +1,876 @@
+[sha:cda1ddf6755037d58ee616bc94df891c4a81b822]{
+-- Page 0, Offset 15043.
+-- ―――すぐ<傍|そば>で、獣の息遣いが聞こえる。
+  She could hear the beast's breathing in her ear.
+
+}
+[sha:e7f71affb026729b8fa1d72ee35afe3a9dab2019]{
+-- Page 0, Offset 15044.
+-- どうやら、意識が数秒ほど途切れていたようだ。
+  It seemed she had been unconscious for a short time.
+
+}
+[sha:864747ccdb5b96068a9456ed26a2f15185de98c9]{
+-- Page 0, Offset 15045.
+-- 有珠は目を開けて、息を吸う。
+  Alice opened her eyes, and took a deep breath.
+
+}
+[sha:14bbb8d33a88428f902443ffa84bfb9af473f42b]{
+-- Page 1, Offset 15046.
+-- 「―――、―――」
+"..."
+
+}
+[sha:8595e7d376c34d7e8ed14c294176e0830c84b148]{
+-- Page 1, Offset 15047.
+-- 咳きこむように苦痛を漏らす。
+  Each cough sent pain shooting through her body.
+
+}
+[sha:132b32d9b980ab5131c15beb4960940f5ad8123c]{
+-- Page 1, Offset 15048.
+-- 喉もとから逆流した血が、冷たい地面を濡らす。
+  Blood rose from the pit of her stomach, and she spat it onto the cold ground.
+
+}
+[sha:d9a98a61f409c87555327ebbecdc8d302c930b6b]{
+-- Page 1, Offset 15049.
+-- 焦点を取り戻した視覚が、高い空と、また降りだした雪と、黄金の狼を認めていた。
+  When her vision returned, she was able to make out the distant sky, falling snow, and the golden wolf.
+
+}
+[sha:159c070b2b6d8903181d2c1ad2cab265eda5d178]{
+-- Page 2, Offset 15050.
+-- 狼の息遣いは荒々しい。
+  The wolf panted.
+
+}
+[sha:ae4bddffbc90364ff108a0122cfbf6fef35a4671]{
+-- Page 2, Offset 15051.
+-- <涎|よだれ>を舌からこぼしながら、有珠の顔を覗きこんでいる。
+  It stared at Alice, saliva dripping from its mouth onto her cheek.
+
+}
+[sha:9b7d81750791d8fe32ba258e55326620b876aa2b]{
+-- Page 3, Offset 15052.
+-- ノコギリのような牙と口。
+  Razor-sharp fangs lined its jaws.
+
+}
+[sha:afe611589623a92d097c32b5bcddfa5e4db55321]{
+-- Page 3, Offset 15053.
+-- この世のどんな動物より柔らかく、艶やかな毛並み。
+  Its fur was glossier than that of any animal she had ever seen.
+
+}
+[sha:5e8f81857413a5380fa0d216081fb62875b3e929]{
+-- Page 3, Offset 15054.
+-- 血に染まった<前脚|あし>の爪は、まるで包丁を三本揃えたような凶悪さだ。
+  Brutal, knife-like claws protruded from its massive blood-stained paws.
+
+}
+[sha:963cb7c0c66604f49fc94a6008ba665b284ada69]{
+-- Page 3, Offset 15055.
+-- それでも、粗野な臭いは微塵もない。
+  And yet, it did not smell like a beast.
+
+}
+[sha:694ec35f72a22355b49fa72ebe1d22b0f9a8e24b]{
+-- Page 3, Offset 15056.
+-- この金狼の前では、人間の方が己が<獣性|じゅうせい>に恥じ入るだろう。
+  Surely, the presence of such a noble creature, a human would feel like the lesser animal.
+
+}
+[sha:b1b39805c40b6f4b1d4447da9043a175b28ac9a0]{
+-- Page 4, Offset 15057.
+-- ……有珠と狼の戦いはあっけなく終わった。
+  The battle between Alice and the wolf was over before it had begun.
+
+}
+[sha:f9d7c90229afd25e8482c1128ed58101fd65a397]{
+-- Page 4, Offset 15058.
+-- 橋の巨人は金狼の前に破れ、有珠は逃げる事もできず、その凶悪な前脚の洗礼を受けた。
+  After destroying the troll, it baptized Alice with its wicked claws, giving her no chance to escape.
+
+}
+[sha:12b96fa71e81ea3cbc925a574f46fa1a2e9f54bc]{
+-- Page 4, Offset 15059.
+-- 剣のような横殴りの衝撃が、有珠の腹を一閃したのだ。
+  Its side-swipe had torn into her abdomen like a sword,
+
+}
+[sha:690d4bf9f4106d86eac44ca30ed7c6f13aa346a6]{
+-- Page 4, Offset 15060.
+-- 服はもちろん、内臓まで吹き飛んだ。
+  carving through her clothes and flesh, all the way to her heart.
+
+}
+[sha:b7f420e3fad3488a3b1c5f2836d1efbd053a88ed]{
+-- Page 4, Offset 15061.
+-- その決定的な瞬間でさえ、有珠は声をあげなかった。
+  Even so, not once did Alice make a sound.
+
+}
+[sha:bb93940e68773aef68dcb5d06040966682cde46b]{
+-- Page 5, Offset 15062.
+-- 狼は有珠を押し倒し、その顔を覗きこむ。
+  The wolf had her pinned, and stared at her face.
+
+}
+[sha:1700878b99ef080d9f492ffbc17af8e98b139c10]{
+-- Page 5, Offset 15063.
+-- 触れれば折れかねない少女の四肢にのしかかる。
+  Her limbs felt ready to break at any moment.
+
+}
+[sha:15b3be9da54cf3a39583f279e8757c685ea493c6]{
+-- Page 5, Offset 15064.
+-- それが<現在|いま>の状態だ。
+  That was the situation she found herself in.
+
+}
+[sha:198b7dee822fd541f9c3d041ef3f1a1f0fdf4fc3]{
+-- Page 5, Offset 15065.
+-- 意識を取り戻した有珠は苦しげな瞳で敵を見据える。
+  Now fully conscious, Alice stared at her enemy through pained eyes.
+
+}
+[sha:43b9fe84da85b401a85a4f66c84b2748a22827fb]{
+-- Page 5, Offset 15066.
+-- そこに恐怖はない。
+  She felt no fear,
+
+}
+[sha:a149f5bd78a5bd4f4a068394a806f4a9c89374fd]{
+-- Page 5, Offset 15067.
+-- あるのは、現実を受け入れる冷めた色だけだった。
+  only cold reality sinking in.
+
+}
+[sha:f69cc0c618e09341eb5c21cf0685b2556e272a6b]{
+-- Page 6, Offset 15068.
+-- 有珠の覚悟に感じ入ったのか、狼は振り上げた前脚を停止させる。
+  Sensing Alice's demeanor, the wolf suddenly paused, its paw still raised.
+
+}
+[sha:4c999012a9d51cdd6e7cb1dfbeb48fab841b486d]{
+-- Page 6, Offset 15069.
+-- 少女の黒い瞳と、狼の眼が交差した後―――
+  They looked into each other's eyes.
+
+}
+[sha:6d58918c388f7173c050c13d23c5f6aedb78fe86]{
+-- Page 6, Offset 15070.
+-- 「“そんなに血が出てるのに、痛くないんだ”」
+"You're bleeding. Doesn't it hurt?"
+
+}
+[sha:c64ec173b7a3e7bdc1876e6d318b32e0438dccab]{
+-- Page 6, Offset 15071.
+-- 思いがけない声があった。
+  The wolf's voice came as a surprise.
+
+}
+[sha:5f55ffdc239c6e01f96ae438faa57c3ef9498e8c]{
+-- Page 6, Offset 15072.
+-- それは間違いなく、目前の狼が発した<言|も><葉|の>だ。
+  But there was no doubt it had spoken.
+
+}
+[sha:5ad5c549031b7186cfe2cbed88edb8fcac92e066]{
+-- Page 7, Offset 15073.
+-- 「“それとも、痛いのは平気なのかな”」
+"Or are you just fine with pain?"
+
+}
+[sha:c5560d94e18dbbf2d3fe72bf2bfa1c77cfad6219]{
+-- Page 7, Offset 15074.
+-- 邪気のない、子供のようなイントネーション。
+  The wolf's voice sounded innocent, almost childlike.
+
+}
+[sha:b57899cad55d251059dfca6cab74e86b74aa1faf]{
+-- Page 7, Offset 15075.
+-- 狼は不釣り合いな、これまでの風格を台無しにする笑みを両眼に浮かべ、
+  In complete contrast to what had happened up to that point, the wolf smiled.
+
+}
+[sha:1bdd6c342b34d55d68586335552c014b1178a179]{
+-- Page 7, Offset 15076.
+-- 「“どっちにしろ我慢強いんだね、お姉ちゃんは……！”」
+"Either way, you've got guts, lady!"
+
+}
+[sha:5e00fe02bc1aa74b7cd196ae43ba87921986932e]{
+-- Page 7, Offset 15077.
+-- 大口を開けて、少女の首にかぶりついた。
+  The wolf opened its mouth wide and clamped its jaws around Alice's neck.
+
+}
+[sha:e3fc52483073ea5994714d3b3a4569b43bbf1d06]{
+-- Page 8, Offset 15078.
+-- 「ベオ―――！」
+"Beo!"
+
+}
+[sha:e97ee80d12e4a490d45d00d10a6662747238b155]{
+-- Page 8, Offset 15079.
+-- 閉じられる狼の牙より、なお鋭い橙子の<叱責|しっせき>。
+  Touko's tone was sharper than the wolf's fangs.
+
+}
+[sha:b8bd2237157feba34a3a30835152fa675c824166]{
+-- Page 8, Offset 15080.
+-- それに驚くような動作で、狼はびくりと停止した。
+  The wolf froze.
+
+}
+[sha:89c6d2f0729ba900a86a77d2c8b17f33b60d2e5b]{
+-- Page 9, Offset 15081.
+-- 「“……トーコさん”」
+"Miss Touko..."
+
+}
+[sha:e25bfd79a197c748db1d62c972cafc40c46e5de2]{
+-- Page 9, Offset 15082.
+-- 狼はゆっくりと背後を振り返る。
+  He let go and slowly turned his head towards the voice.
+
+}
+[sha:c03a0c12f79da77009641830021553fb3a6e4881]{
+-- Page 9, Offset 15083.
+-- 「トドメは刺すなと言ったろう。余計な仕事を増やす気か、バカモン」
+"Didn't I tell you not to finish her off? Are you trying to make extra work for me, you mutt?"
+
+}
+[sha:df2cffcfbe988b6a61748c86692a5a274744adab]{
+-- Page 9, Offset 15084.
+-- 「“ちぇっ。それはそれで楽しいのに。
+"Tch... But that's the best part.
+
+}
+[sha:18be6b1ed51fce664787eebfa0c3d46d015805e6]{
+-- Page 9, Offset 15085.
+-- あーあ、たいくつー。話に聞いた橋の巨人も、結局は他の生き物と一緒だったしー”」
+  Well this was a washout. And that troll went down like everything else. Talk about a disappointment."
+
+}
+[sha:df09304d96c2723457aedcf64610406e53937793]{
+-- Page 10, Offset 15086.
+-- 橙子の叱責を受け、狼は有珠からトボトボと離れていった。
+  The wolf backed away from Alice,
+
+}
+[sha:c8681aa67466216bafc24ba6741c7fb1421398a9]{
+-- Page 10, Offset 15087.
+-- もう何の興味もないように。
+  as if no longer interested in his prey.
+
+}
+[sha:502e743551c2929812a71d2bb29050307ec0f378]{
+-- Page 10, Offset 15088.
+-- あの黄金の獣にとって、有珠は道ばたの草ほどの価値もないらしい。
+  To the golden beast, she was little more than an old chew toy.
+
+}
+[sha:39b40afd26de4813d323e114fabe6f7e71a8fcc7]{
+-- Page 11, Offset 15089.
+-- 「―――、っ―――」
+"...Ngh..."
+
+}
+[sha:659b5af8f218ac657b50c1ae7bf8e22177c4274b]{
+-- Page 11, Offset 15090.
+-- 「なんだ、もう意識が戻ったのか。心もタフなら体もたいがいだな。骨まで砕いて、その程度の出血とは。マインスターの教育のたまものかい？」
+"Conscious again, even with all that blood loss and broken bones? You're tough. Do I have the Meinster training to thank?"
+
+}
+[sha:33ecac3e64efd5eca5510fcfe212802da39ecba2]{
+-- Page 12, Offset 15091.
+-- 有珠は死に<瀕|ひん>した体で、蒼崎橙子を凝視する。
+  Barely clinging to life, Alice stared at Touko.
+
+}
+[sha:822f166999722e78ebf61eba1b00f976170ff9c2]{
+-- Page 12, Offset 15092.
+-- <敗|やぶ>れた憎しみからではなく、なぜあんなものを連れているのか、という糾弾から。
+  But not a stare of hatred in defeat, but one of disbelief. Alice simply wondered why Touko had brought such a beast.
+
+}
+[sha:03fb0d4b772571275c384d1dbbb803f6ccac5cd5]{
+-- Page 13, Offset 15093.
+-- 「ああ、紹介が遅れたな。
+"Ah, pardon me. I should have introduced you.
+
+}
+[sha:661073f3b809a011a02cc7fe5b8355cb1b5bd1d5]{
+-- Page 13, Offset 15094.
+-- 彼はおそらく地上で現存している最後の<人狼|じんろう>だ。
+  This is the last known werewolf on Earth."
+
+}
+[sha:4c034dc9c654b55c9f3dca322b5af17daccef214]{
+-- Page 13, Offset 15095. Glued. Mods: @x.
+-- 北欧の奥地に生きる彼らの一族の中に現れた、生粋の原種だよ。
+A pureblood, born to an indigenous tribe in the northern European tundra.
+
+}
+[sha:54a8ddeb4e491ca6c5c2010ed326030d8e3e38a4]{
+-- Page 13, Offset 15096.
+-- 見ての通り、先祖返りなんて言葉じゃ表せない黄金の神秘でね。名前がなかったんで、分かりやすくベオウルフと呼んでいる」
+  As you can see, he's a golden Mystic, and it doesn't do him justice to say he merely resembles his ancestors. He didn't have a name, so I called him Beowulf. Pretty apt, right?"
+
+}
+[sha:70dcee3aa219bf5389a5454b1d850141de92bf75]{
+-- Page 14, Offset 15097.
+-- 「ベオ……ウルフ？」
+"Beo...wulf?"
+
+}
+[sha:db0158cf8062376bee110f168f2628c0af5a6048]{
+-- Page 14, Offset 15098.
+-- 腹部を裂く爪にさえ乱れなかった有珠の<表|か><情|お>が、<怪訝|けげん>に<曇|くも>る。
+  Alice's face was perplexed, even though she hadn't wavered when she was disemboweled.
+
+}
+[sha:5c1f1dc211bea9ebd94bc4e91cc3459bd6786ac0]{
+-- Page 14, Offset 15099.
+-- ベオウルフ。
+  Beowulf.
+
+}
+[sha:aea18470684f3cc166fc23ec0c76dcab6bb56889]{
+-- Page 14, Offset 15100.
+-- デンマークに伝わる、巨人殺しの英雄の名前。
+  The name of the heroic giant slayer from Danish legend.
+
+}
+[sha:7b1be08bc4fbae349bd01ddd3c7dc681a87c544b]{
+-- Page 14, Offset 15101.
+-- その名は古英語でいうところのミツバチと野生の獣の組み合わせで、つまるところは熊を意味する。
+  It came from old English; a combination of 'honeybee' and 'wild beast'-a 'bear,' in other words.
+
+}
+[sha:9d39696f2ef62becf2878fcb4ca36837fa60749a]{
+-- Page 15, Offset 15102.
+-- 「―――なんで、そんな、ちぐはぐな名前、を」
+"...Kind of an... Incongruous... name..."
+
+}
+[sha:767ece6db88b8942d5a80ec55816e8f940f47793]{
+-- Page 15, Offset 15103.
+-- 「うん？　いや、可愛いからに決まってるだろ」
+"What do you mean? It's cute!"
+
+}
+[sha:bad4a3fe7be1ea62eac6b44bfe7ca10c91453dd8]{
+-- Page 15, Offset 15104.
+-- それはベオウルフという名前にかかったものか、金狼自体にかかったものか。
+  Perhaps because of the name, or because of the golden beast itself,
+
+}
+[sha:2a357a3ff5dabbbda2403b760266bdfef0cab4b1]{
+-- Page 15, Offset 15105.
+-- この女の感性は青子より分かりづらい、と有珠は痛みをかみ殺した。
+  Fighting the pain, Alice struggled to read Touko. In this respect, she was worse than Aoko.
+
+}
+[sha:64c8b993a08eb157d44226f0d191e3b71cfdbb11]{
+-- Page 16, Offset 15106.
+-- 「ついでに説明しておくと、周りの犬どもはベオが勝手に呼び寄せたものだ。私自身、マインスターの娘がただの畜生に傷つけられるとは思ってはいないよ。
+"Incidentally, Beo called these other mutts in. Naturally, I didn't think they'd have any effect on a Meinster's daughter.
+
+}
+[sha:fd6869ededc4f544730535445229b184799f1379]{
+-- Page 16, Offset 15107.
+-- ―――今のところは、ね」
+  For now, at least."
+
+}
+[sha:e650c4753a167d5a10384203de3010c0fcdb71c8]{
+-- Page 17, Offset 15108.
+-- それだけ言うと、橙子は小さく微笑んだ。
+  Touko's mouth twisted into a grin.
+
+}
+[sha:b2a85b9f14bc9d8005026deaa74d78bff07cc888]{
+-- Page 17, Offset 15109.
+-- 草十郎に見せた温かなものではなく、勝者が敗者に見せる無慈悲な笑みを。
+  Not the warm one Soujyuro saw, but the merciless smile a victor displays to a loser.
+
+}
+[sha:6a4b10a59343cb96faa3aa02596122bf894bbba0]{
+-- Page 17, Offset 15110.
+-- 有珠の瞳にこもった批難は、今や怒りに変わっている。
+  The disdain in Alice's eyes turned to anger.
+
+}
+[sha:2e3383b354b91f770f1ab152b41ada1312f4d268]{
+-- Page 17, Offset 15111.
+-- 黄金の神秘。
+  The golden Mystic.
+
+}
+[sha:5e63799bda8ab204ab9ca2956062781df30c41f0]{
+-- Page 17, Offset 15112.
+-- そう口にするのなら、なぜこんな人の世界に連れてきてしまったのかと。
+  How could Touko have brought such a creature into the human world?
+
+}
+[sha:579bfdb6ff2afe087681910f44ed903873f8dcc6]{
+-- Page 18, Offset 15113.
+-- 「なに、需要と供給だよ。
+"Come now, it's just supply and demand.
+
+}
+[sha:e0d28769d8b3617960566d4e60506f024f5aa7e5]{
+-- Page 18, Offset 15114.
+-- 過疎化は人間だけの問題じゃあない。彼らもいい加減、昔ながらの生活には限界がきたらしくてね。話し合いの末、高額で私が買い取った。
+  Depopulation is not just a human problem. Their old ways were unsustainable, and so I bought him for a high price.
+
+}
+[sha:0f1293b543bbca68c13aa4814d3d85fa09de7ef9]{
+-- Page 18, Offset 15115.
+-- といっても、あくまで<洞|さと>から出すだけの権利だがね。
+  Well, more like I had to pay for the right to bring him out of his cave.
+
+}
+[sha:3f3c254bbf81e8643d53b68b896855c840ce4861]{
+-- Page 18, Offset 15116. Mods: @k, @e.
+-- お察しの通り、私の髪はベオとの契約に使いきった。自分の髪を使って<使い魔|ぶんしん>を造るより、強大な怪物を縛り付けた方がよっぽど健全―――
+  As you might've guessed, I used my hair for the contract with Beo. I like to think of it as creating an alliance with a beast instead of creating a famili-
+
+}
+[sha:65f4da5f734771197c945e1444707f6e2c737c1c]{
+-- Page 18, Offset 15117. Glued. Mods: @x.
+-- む？」
+Hm?"
+
+}
+[sha:672ab1600d9710d301d3fe56c4e707a6ad3dea86]{
+-- Page 19, Offset 15118.
+-- 喋りながら、橙子は眼下の異常を感知した。
+  While she was talking, Touko noticed something strange.
+
+}
+[sha:b00f700f1eb6df3829fadfd82bddd4807da602b2]{
+-- Page 19, Offset 15119.
+-- ……形容しがたい怪音。
+  An unusual sound.
+
+}
+[sha:9f2692d5f2fc44323b2626c674ca1dac06eec5bd]{
+-- Page 19, Offset 15120.
+-- ……聞く者の正気を削るような、この世には存在しない音。
+  A preternatural sound that tore at the mind.
+
+}
+[sha:5b674b99a29e14a0828700ece8d4c79759af646b]{
+-- Page 19, Offset 15121.
+-- いや、してはならない音。
+  A sound that should not have existed.
+
+}
+[sha:c4a22cd2b3b0814fe2cdfce3461816c05c38515e]{
+-- Page 19, Offset 15122.
+-- それが、少女の裂かれた腹部から<零|こぼ>れている―――
+  And it was coming from the girl's open abdomen.
+
+}
+[sha:e9f714293a13d1791e998befab79276ccf4613b2]{
+-- Page 20, Offset 15123.
+-- 「もう復元が始まったか。いや、というより、これは―――」
+"Regenerating already? No...wait..."
+
+}
+[sha:0d086e64de37e06bafce426c9ce30fade93e6ff1]{
+-- Page 20, Offset 15124.
+-- 「“ん？　ふんふんふんふん？　なにこの匂い。トーコさん、なんかワクワクするコト起きてない？”」
+"Hmmm? Hmm hmm hmm? What's that smell? Smells like something amazing is going to happen!"
+
+}
+[sha:24b10e9d477838ad0aee654f04a1ad68f5c20e6a]{
+-- Page 20, Offset 15125.
+-- なーにー？　と近寄ってくるベオウルフ。
+  Curious, Beowulf moved closer,
+
+}
+[sha:e5599cd57ed7da65b7a867ba27a63c4b3a0108e1]{
+-- Page 20, Offset 15126.
+-- <玩具|オモチャ>に興味を持った子犬さながらである。
+  like a puppy examining a new toy.
+
+}
+[sha:1209b746486fd25bd4a60fa568e5a87fd06cf3f7]{
+-- Page 21, Offset 15127.
+-- 「見るな、あっちに行っていろベオ。正気を失ってもしらんぞ」
+"Don't look at it! Stay over there, Beo. Pull yourself together."
+
+}
+[sha:4b8e1b9fecc44dde9f58d86cc3212edeae3e4144]{
+-- Page 21, Offset 15128.
+-- しっし、と橙子は駄犬を手で追い払う。
+  Touko shooed the mutt away with her hand.
+
+}
+[sha:ec090b0d50888843c5a9d2704eb9480e53635aaa]{
+-- Page 21, Offset 15129.
+-- ベオウルフは残念そうに、大人しく引き下がった。
+  Beowulf lowered his head meekly and withdrew.
+
+}
+[sha:90304f31a8501c97ba985e64692aa0a183c83dd4]{
+-- Page 22, Offset 15130.
+-- 「……教育方針を間違ったかな。まったく、乙女の<胎|はら>を見ようなんて恥を知れ、恥を」
+"I must have trained you wrong, going for a girl's belly like that. Shame on you."
+
+}
+[sha:b4b8b3a045c8c060c13c99da9c165620d792d745]{
+-- Page 22, Offset 15131.
+-- 「“えー。トーコさんだって見てるじゃない”」
+"So? But how come you're allowed to look?!"
+
+}
+[sha:98e0a06cb355a7d44de9d5202312d33d4e5793f7]{
+-- Page 22, Offset 15132.
+-- 「ばっか、私は乙女だからいいんだ！」
+"Idiot! I'm a girl, so it's fine!"
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 22, Offset 15133.
+-- 「……………………」
+"..."
+
+}
+[sha:56e928f5da6194ccd751d423b659420f856dacde]{
+-- Page 22, Offset 15134.
+-- 青子がいたらフラットスナーク戦もかくや、という一撃を放ちかねない暴言だった。
+  If Aoko had been here, she would have blasted them away for their impudence, just as she did against Flat Snark.
+
+}
+[sha:75881b4d59e6ba7208fe95a9a39572b4a5a50e41]{
+-- Page 23, Offset 15135.
+-- 「……まあ、しかし惨いな。
+"Y'know, I feel sorry for you.
+
+}
+[sha:1735b35bdf68d6316fcafa7f783b4a1ef2561fd7]{
+-- Page 23, Offset 15136.
+-- <こ|・><ん|・><な|・><に|・><な|・><る|・><ま|・><で|・>放っておくとは、マインスターは人の親とはいえまいよ」
+  How could your Meinster mother call herself a parent when she's neglected you so much?"
+
+}
+[sha:ea0e29b8c6415a43e1e67be9abc449c19945a268]{
+-- Page 23, Offset 15137.
+-- 橙子は手袋をつけたまま、鮮血に染まる有珠の腹部に手を滑らせる。
+  With her gloved hand, Touko ran her fingers along the wound on Alice's abdomen.
+
+}
+[sha:b142ddf24331ac4449cc1fe216d3b363f778c8b7]{
+-- Page 24, Offset 15138.
+-- 「っ………」
+"Nng..."
+
+}
+[sha:00e99eb7e77c649d380fc760a17bb8b21d4b748b]{
+-- Page 24, Offset 15139.
+-- 小さく<零|こぼ>れる苦悶。
+  A flash of pain ran through Alice's body.
+
+}
+[sha:951a8bda820d79844e694a18132c9ea832b46184]{
+-- Page 24, Offset 15140.
+-- 悲鳴ひとつあげなかった有珠から吐息が漏れる。
+  Alice had held in her screams, but she finally let out a long breath.
+
+}
+[sha:74801ab47b57d5d4940c5c46b6e6580e2ab8f154]{
+-- Page 24, Offset 15141.
+-- 顔を<背|そむ>けたのは、恥じらいからか、痛みからか。
+  She turned her face away, in pain or shame.
+
+}
+[sha:b10478693bcb09acf4bc133a792000c7b9293033]{
+-- Page 25, Offset 15142.
+-- 「ほら、もう肌も復元している。骨格、血管はおろか、内臓にまで施された、<夥|おびただ>しいまでの刻印だ。
+"The skin here's regenerating already. So many crests on the bones, veins, even the internal organs.
+
+}
+[sha:b1cd327d97eff8ec320ae704e5b7e88e09658fa3]{
+-- Page 25, Offset 15143.
+-- 生後、肉体に魔術回路を付加する事は両刃の剣だ。
+  Having Magic Circuits like that from birth is a double-edged sword.
+
+}
+[sha:86e5e79cd84551545d89c215f2c0705800c2e4e4]{
+-- Page 25, Offset 15144.
+-- 呪文を自分と一体化させる事により、詠唱の手間を省き、術者に多大な利点をもたらす魔術刻印。
+  They cut incantation time, which is a great boon for a mage.
+
+}
+[sha:3c39863eed622ca5a9573d18e3d4e8efab76b831]{
+-- Page 25, Offset 15145.
+-- しかし、それは多ければ多いほど苦痛をともなう。蒼崎の刻印は腕一本分。まあ、君に比べれば少ない方だな」
+  But the more there are, the more pain they bring. Aozakis have crests in one arm. We've got nothing on you, do we?"
+
+}
+[sha:efbc2e1e82a3433195b147e6693e5d16d81870e2]{
+-- Page 26, Offset 15146.
+-- 橙子の語る魔術刻印とは、その家系の歴史を形にした遺産の事だ。
+  The Magic Crests Touko referred to were the inheritance of the Aozaki family, passed down by their ancestors.
+
+}
+[sha:6df8466f81c7538c6b3f22bc20bf93a0bbff9c4f]{
+-- Page 26, Offset 15147.
+-- 後継者にしか刻まれない一品もの。
+  They can only be inherited.
+
+}
+[sha:5b9a5d81c5e05066bbb41d82c5297f9c09b1ed33]{
+-- Page 26, Offset 15148.
+-- 蒼崎橙子が継承するはずだった刻印は、妹である青子の手に渡っている。
+  Aoko had received the ones that were meant for Touko.
+
+}
+[sha:fab4f6995db1dd9af4d8b6372c2bc860937688d9]{
+-- Page 27, Offset 15149.
+-- 「しかし、それも良し悪しだな。
+"However, ours has its own set of drawbacks.
+
+}
+[sha:2af678bbe666b7c515d1accd6f30fce4b079fc33]{
+-- Page 27, Offset 15150.
+-- 右腕に刻印をした青子の痛みは、残る人間の体と神秘となった右腕とが反発する程度だ。
+  The pain Aoko feels in her right arm is the remainder of her human body reacting to being changed into a Mystic.
+
+}
+[sha:b441f5f506dbc91cb87e142dc01a3910798f9df0]{
+-- Page 27, Offset 15151.
+-- 通常の肉体が右腕を否定し、抹消にかかる痛み。
+  Her mundane body rejects her right arm, and that pain is the cost of its deletion.
+
+}
+[sha:10df318fd818c3eff923a7a2921374af54a20a70]{
+-- Page 27, Offset 15152.
+-- 精神的にも肉体的にも生じる幻痛は、原罪にも似て<拭|ぬぐ>い去る事はできない」
+  It causes both physical and mental phantom pain, like some original sin that can never be wiped away.
+
+}
+[sha:99a387e3bbcc56381abc28e58d99323511f96d5a]{
+-- Page 28, Offset 15153.
+-- 「……だが、ここまでくると痛みも何もあるまい。
+"Still, when you've come this far, pain becomes trivial.
+
+}
+[sha:4e6fbeb8f896970e191b54cb102dd8a86cbba7e8]{
+-- Page 28, Offset 15154.
+-- そもそも生きている実感はあるのか？
+  It makes it difficult to know if you're really alive.
+
+}
+[sha:754a5f5954dd2c27920c7be041994fafa91a612f]{
+-- Page 28, Offset 15155.
+-- 自分が人間だとまだ信じている？
+  Do you still believe you're human?
+
+}
+[sha:1f76ffac316c680710c3c828737568a3029b85a8]{
+-- Page 28, Offset 15156. Mods: @k, @e.
+-- ああ、本当に―――
+  Honestly, I sympathize.
+
+}
+[sha:943de93e9c74d02a7088a3322d4a2c185634bcc6]{
+-- Page 28, Offset 15157. Glued. Mods: @x.
+-- お互い、非凡な師を持つと苦労するね、有珠」
+We've both had a hard time with such extraordinary teachers, haven't we, Alice?
+
+}
+[sha:efd2da77a4ba0b8ef91992728091663c84a112c6]{
+-- Page 29, Offset 15158.
+-- そうして、橙子は有珠の体を抱き起こした。
+  Touko took Alice's body in her arms.
+
+}
+[sha:1fe5dc5854579299b926a50b8d5b246c6fba33c4]{
+-- Page 29, Offset 15159.
+-- ベオウルフに裂かれた腹部はもう大部分が<塞|ふさ>がっている。
+  The wounds from Beowulf had mostly healed.
+
+}
+[sha:7341a28944d1d7a4a67520bac2d83ba2069af0ab]{
+-- Page 29, Offset 15160.
+-- それでも痛みは残っているのか、有珠の呼吸はあまりにもか細く、弱い。
+  Even so, her breathing was shallow, likely due to the pain.
+
+}
+[sha:17f0079ba1ef41d011fc72435458a77849b1c74b]{
+-- Page 29, Offset 15161.
+-- そんな少女の顔を、橙子は優しく持ち上げる。
+  Touko gently held the girl's face in her hand.
+
+}
+[sha:aef0927fb98fc7c16b3ba01c9398e5824005907a]{
+-- Page 30, Offset 15162.
+-- 「マインスターには恩がある。それに、私の相手はあくまで青子ひとりだ」
+"I'm indebted to your Meinster mother. And my true opponent has only ever been Aoko."
+
+}
+[sha:356f2a62087dfb06464247e0401fa047f3dc727d]{
+-- Page 30, Offset 15163.
+-- 無惨に酸素を求める有珠の唇が、橙子の唇に塞がれる。
+  Alice's lungs pined for oxygen; Touko pressed her lips to hers.
+
+}
+[sha:27127c082aa6f17d5a8dd7c3413c04dab0dcbd4b]{
+-- Page 30, Offset 15164.
+-- 身をよじって逃れる少女の肩を、魔術師の腕が掴み縛る。
+  The young girl wriggled, trying to escape, but Touko held her firmly.
+
+}
+[sha:c801db2beaeb380d563054dd65ec2fa966a94113]{
+-- Page 31, Offset 15165.
+-- 蒼い月の下、両者は凍り付いたように動かない。
+  Beneath the blue moon, the two remained frozen.
+
+}
+[sha:fb3a810d9425ecc3baadbe30431ad3f2554462fa]{
+-- Page 31, Offset 15166.
+-- こくり、と嚥下する音。
+  Then, the sound of swallowing.
+
+}
+[sha:482e9e902f092961c8c1739a7c99bcdcaa9365a5]{
+-- Page 31, Offset 15167.
+-- 有珠の喉に滑り落ちる固形物。それきり、少女は力を失って崩れ落ちた。
+  Something solid slid down Alice's throat. With that, she went limp and her arm fell.
+
+}
+[sha:83f0b7a8603459e125d728c4a480f03885e416a4]{
+-- Page 32, Offset 15168.
+-- 弱々しく横になった有珠を見届け、橙子は立ち上がる。
+  After setting Alice down on her side, Touko stood up.
+
+}
+[sha:1a2ba931a7dfc829a73a0ff35d48b80d15c59393]{
+-- Page 32, Offset 15169.
+-- 「今のはナナカマドに手を加えた私の特製品だ。そう簡単に解毒はできない。魔力を流せば体の中で暴発する仕組みになっているから気をつけなさい。
+"I've given you a dose of my own blend of rowan, not easily counteracted. If you use magical energy, it'll explode, so do be careful.
+
+}
+[sha:edfcfbc59672e0ddb1692cf94438dea53b65ce69]{
+-- Page 32, Offset 15170.
+-- ―――ああ、口移しは私の趣味だから、特に気にする事はないよ」
+  Oh, and... don't read too much into it. Passing things with y mouth is just something I like to do."
+
+}
+[sha:7933345eed77ed717d2c5baa2e1665e8de40a7b9]{
+-- Page 32, Offset 15171.
+-- 「…………………………」
+"..."
+
+}
+[sha:b37c29b4caf7d47fa6ed5320bc9153b5d53effd4]{
+-- Page 33, Offset 15172.
+-- 有珠は地面に倒れたまま、必死に意識をたもって橙子を見上げる。
+  As she desperately clung to consciousness, Alice looked up at Touko from the ground.
+
+}
+[sha:8296f95c0ecab839ac54c5a442f0bfca8fdc0d8a]{
+-- Page 33, Offset 15173. Glued. Mods: @x.
+-- 体の痛みより、今の口づけの方がよっぽどダメージが大きかったと睨むように。
+The disgrace from the kiss was greater than the pain she felt in her body.
+
+}
+[sha:28f566462cf9226d43ef89c02f64e4f0cd4f1ffd]{
+-- Page 33, Offset 15174.
+-- 恨みがましい視線に振りかえる事もなく、橙子は黄金の狼を従えて歩きだす。
+  Touko began walking away, her golden wolf in tow. Neither looked back to see Alice's hateful glare.
+
+}
+[sha:744053a8bb47867a7bac95da74c65ed832f9342e]{
+-- Page 34, Offset 15175.
+-- 「と。そうそう、ひとつ言い忘れていた。
+"Ah! I almost forgot.
+
+}
+[sha:c1e3c26fe6b38c4f5e50e6856e8abf122adb7803]{
+-- Page 34, Offset 15176.
+-- ベオが呼び寄せた野犬たちだけどね、公園の外にまだ山ほどいるんだが―――困ったコトに、彼らは本来<何|・><を|・><口|・><に|・><す|・><る|・><べ|・><き|・><か|・>を思い出している。
+  Remember those mutts Beo called? There's a ton of them around the park, and unfortunately they're still hungry.
+
+}
+[sha:da9f7565c32f49c673a8e99c284be00d407310c7]{
+-- Page 34, Offset 15177.
+-- ベオの野性に刺激されたんだろう。獣は、より強い獣に従うものだからな」
+  Beo's an alpha male. Seeing what Beo did to you must've really fired them up."
+
+}
+[sha:dc4844c4e67a1b11b32877e99bdf135a68b517f6]{
+-- Page 35, Offset 15178.
+-- 遠回しな死刑宣告。
+  In a roundabout way, Touko had read Alice her last rites.
+
+}
+[sha:1238e8890b7cd479cec3985a8a4e64153b8ffd16]{
+-- Page 35, Offset 15179.
+-- 自然界において、動かなくなった動物は、まだ動く動物に<肉|からだ>を捧げるのが習わしだ。
+  In nature, it was common for the weak that could no longer move to offer their bodies up to feed the strong.
+
+}
+[sha:766a2f944f0f94861271cb453e20e034a33ba599]{
+-- Page 36, Offset 15180.
+-- 「じゃあ私は行くよ。歩く事も満足にできないだろうが、無事に帰れるといいね、有珠」
+"Well, Alice, I think that's everything. It's a long walk back, but hopefully you make it safely."
+
+}
+[sha:9a0577b834dfc320a84a7809218937d96ce73e67]{
+-- Page 37, Offset 15181.
+-- 口元をいびつに歪ませて、魔術師は退場した。
+  With a twisted grin, the mage headed into the darkness.
+
+}
+[sha:3f75d7b9bfc7108844e2473f3c3c928fc134f8d1]{
+-- Page 37, Offset 15182.
+-- それと入れ替わるように、飢えた<彼|・><ら|・>の声が集まってくる。
+  As her footsteps faded, the sound of growls grew louder.
+
+}
+[sha:01ce873eb9acb9b141d6488c34101795e9b29407]{
+-- Page 38, Offset 15183.
+-- 「…………、――――――」
+"..."
+
+}
+[sha:c06e1f4e29aefd02cd329d3d8180f738f9293036]{
+-- Page 38, Offset 15184.
+-- ……有珠の視界はいまだ定まらない。
+  Alice could still barely focus her eyes.
+
+}
+[sha:2845f31bcb703ae97b43e17fb9532d77e674a3b7]{
+-- Page 38, Offset 15185.
+-- 集まりだした野犬は、絵本に出てくるお化けのようだ。
+  The hounds looked like monsters out of a picture book.
+
+}
+[sha:6e6993bce74509fcd0e84e29cd2696a7531aede3]{
+-- Page 38, Offset 15186.
+-- 薄れゆく意識の中で、有珠は大きく息を吐いた。
+  Alice took a deep breath, her consciousness slipping away.
+
+}
+[sha:ec2d163125aeb0252cf8649391e221461038ab5b]{
+-- Page 38, Offset 15187.
+-- 空は青く、森は高く、広場に救いはない。
+  The sky was blue... The trees were tall... The park was a graveyard...
+
+}
+[sha:e51c831167a8f999976a643b9968cd4d02c3b3b1]{
+-- Page 38, Offset 15188.
+-- うつろな視界の隅には、場違いな電話ボックスがひとつ。
+  In the corner of her eye, though, Alice could just about make out a solitary phone booth.
+
+}

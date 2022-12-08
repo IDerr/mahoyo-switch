@@ -1,0 +1,84 @@
+[sha:827a8f609c59a617396e98277f277d9191b45f8f]{
+-- Page 0, Offset 22386. Mods: @k, @e.
+-- 「うーん。ほとんど屋敷にいたんだけど、パーティーの準備が忙しくてあまりみんなと話していないな。
+"Hmm. I've been in the mansion most of the time. Been too busy preparing for the party to really talk to anyone.
+
+}
+[sha:f8963ecaa24908384635e757628e5de6e8da15b7]{
+-- Page 0, Offset 22387. Glued. Mods: @x.
+-- 誰かさんと誰かさんが手伝ってくれないから。
+ Mainly because a certain duo didn't want to help.
+
+}
+[sha:46f6b2c6fc43061ff859b8543b140e787ecaf33b]{
+-- Page 0, Offset 22388.
+-- それはともかくとして、基本的には居間にいたよ。
+  Aside from that, I was mostly in the drawing room.
+
+}
+[sha:f4222fd85dfd05f312edecd13e81d8b93b55eb1f]{
+-- Page 0, Offset 22389. Mods: @k, @e.
+-- 買い出しとか庭の手入れもしたけど、あれは午後だったかな。
+  I did go shopping and tend to the garden, but that was earlier in the afternoon.
+
+}
+[sha:f18023107ff41becc488bd4c5be823dc96cc0259]{
+-- Page 0, Offset 22390. Glued. Mods: @x.
+-- 夕方になって部屋に戻ったら、土桔さんがたいへんなことに」
+When I returned to my room in the evening, Mr. Tokitsu was already dead."
+
+}
+[sha:540cda80dc4eb845e7363f47bd6d3acca77dadd4]{
+-- Page 1, Offset 22391.
+-- 「わたしは……そうね。人手がなかったから、トッキィーが来る前に自分で西館の施錠をすませて居間に移動したわ。
+"As for me... Nobody else was on hand, so I locked the west wing myself before Tokie arrived.
+
+}
+[sha:3406af2e1b1012b32f4fba6a864354ecdf2dea01]{
+-- Page 1, Offset 22392.
+-- プロイの保管庫を含めて、西館には立ち入り禁止の部屋が多いから。
+  The west wing contains many rooms that are off-limits, including the Ploy vault.
+
+}
+[sha:8c3b10ffead188901f315a9c7a6bf5f8f265ef47]{
+-- Page 1, Offset 22393.
+-- それからはずっと居間でゲストの様子を見ていたけど、誰がいつ、どのくらい席を立っていたかまでは把握していないわ」
+  From there, I went to the drawing room to look after the guests; I couldn't tell you who left their seat or for how long."
+
+}
+[sha:a9ed5d8e33b36c17076415c4e4b6f8ceb10f9c34]{
+-- Page 2, Offset 22394.
+-- 「わたしも蒼崎と同じだけど、一応証言はしとく。
+"My story's the same as Aozaki's, but I guess I should tell you anyway.
+
+}
+[sha:a259b4b4c21de323f8d01b615461bc65e7307d64]{
+-- Page 2, Offset 22396.
+-- 午後イチに蒼崎、山城先生と合流して、午後二時過ぎに久遠寺邸に到着。
+  I met up with Aozaki and Mr. Yamasiro at one in the afternoon, and arrived at the Kuonji Estate sometime after two.
+
+}
+[sha:8f5c9fa58e27e8e555497851fc6bb746c1eab18f]{
+-- Page 2, Offset 22397.
+-- 客室で一度休憩をとったのが三時半から四時。
+  I took a short break in my room from 3:30 to 4:00.
+
+}
+[sha:6bb2ce29b319061750440866d4fade75685eeb47]{
+-- Page 2, Offset 22398.
+-- 四時にロビーに神父さんたちがやってきたのを覚えています。
+  I remember the priest and the sisters coming to the foyer at around four o'clock.
+
+}
+[sha:e867772f9a9ff2641afe9c9f9dbab77c2d80ae90]{
+-- Page 2, Offset 22399. Glued. Mods: @x.
+-- あ……あと、そうだ。仮眠中、誰かの笑い声が聞こえた気がするけど、気のせいかもしれないし、これは推理の材料にしないで。混乱させるだけだわ」
+Oh, also... while I was napping, I thought I heard laughter, but it might've been my imagination. Don't read into it too much. Might make things confusing."
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 3, Offset 22400.
+-- わたしは、
+  I...
+
+}

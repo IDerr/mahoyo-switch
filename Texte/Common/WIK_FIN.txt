@@ -1,0 +1,414 @@
+[sha:86f3e5fa5258432ef95f045dad3cf8a14cfbdf86]{
+-- Page 0, Offset 22082.
+-- 目を覚ますと、そこは木の床の上だった。
+  I woke up to find myself on a wooden floor.
+
+}
+[sha:3fff211427790c63c7fd0f5f899028f96ada98ca]{
+-- Page 1, Offset 22083.
+-- 「あれ……わたし、なんでこんな所に？」
+"Huh...? What am I doing here...?"
+
+}
+[sha:1fc1785552273919cdb4501b37e34d04a5d4ddab]{
+-- Page 1, Offset 22084.
+-- ゆっくりと体を起こす。
+  I slowly picked myself up.
+
+}
+[sha:31b38587198c2f191d35c38df621ed9686c9a0de]{
+-- Page 1, Offset 22085.
+-- 場所は久遠寺邸のホール。
+  This was the hall of the Kuonji Estate.
+
+}
+[sha:36570f0d3fcf22463388ffb832f53e8275a2a0b7]{
+-- Page 1, Offset 22086.
+-- 柱時計は午前七時に差し掛かろうとしている。
+  The grandfather clock told me it was almost seven in the morning.
+
+}
+[sha:e912324d0aa05802b7ab8d77afac8f09c9cb6adc]{
+-- Page 1, Offset 22087.
+-- ロビーの端っこにはシスター服の女性が、わたしと同じように倒れている。いや、眠っている。
+  At the edge of the foyer was a woman dressed like a nun, collapsed on the floor like me. Oh, she was just asleep.
+
+}
+[sha:f14d92d17be918034ad999df41c109b40683e619]{
+-- Page 2, Offset 22088.
+-- 洋館は静かで、けれど、耳を澄ますと様々な音が聞こえてきた。
+  The mansion was quiet, but I could hear several noises if I strained my ears.
+
+}
+[sha:dbb028709cdbd14db88cc345ae93bbe3f408ed57]{
+-- Page 2, Offset 22089.
+-- 台所からは食器と食器の重なる音。
+  There was the clinking of kitchenware.
+
+}
+[sha:63c473ce984e8eaea306421551c614387181f361]{
+-- Page 2, Offset 22090.
+-- 廊下を行く足音や、<蝶番|ちょうつがい>の軋む音。
+  Footsteps down the corridors. Old doors creaking.
+
+}
+[sha:a750020776aba4d0dc2f5be580e8719b7403d670]{
+-- Page 2, Offset 22091.
+-- それと、
+  And...
+
+}
+[sha:1b773530322804d2f0243ced35cf35500806f5aa]{
+-- Page 3, Offset 22092.
+-- 「……？　おい、どうなってんだこりゃ。なんで俺ら久遠寺の家で寝てんだ？　起きろ木乃美、話きかせろ！」
+"...? Hey, what's going on here? What're we doing sleeping at Kuonji's place? Hey, wake up, Kinomi! Get your head on straight!"
+
+}
+[sha:43568ead9c2f58648c5626fcc264ca4f00247d6e]{
+-- Page 3, Offset 22093.
+-- 二階からは、聞き慣れたアイツの声。
+  A familiar voice echoed from the second floor.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 4, Offset 22094.
+-- 「――――――」
+"..."
+
+}
+[sha:67ef92c9549badca51f741f7efa7d4d9cc2131c0]{
+-- Page 4, Offset 22095.
+-- わたしはなぜか胸が楽になって、体を起こした。
+  Somehow, the tightness in my chest lightened, and I stood up.
+
+}
+[sha:46e187392ccab6ada146d581ea992508cef57d4c]{
+-- Page 4, Offset 22096.
+-- 有り体に言えばホッとしていた。
+  To be honest, I was relieved.
+
+}
+[sha:8101d0c80f0690af993a6c60c4f2262011e5562e]{
+-- Page 4, Offset 22097.
+-- ふと視線を下にやると、そこには卵のカラのようなものと、一枚のメモがあった。
+  I glanced down, and saw something like an eggshell and a note.
+
+}
+[sha:1eb01f65113c7b1147f73269b3d037e40d4521ad]{
+-- Page 4, Offset 22098.
+-- メモにはピンクのクレヨンでたった一言。
+  There were just a few words on the note, scribbled in pink crayon.
+
+}
+[sha:1337d383c235427300f9bd9365c6a2fb114accab]{
+-- Page 5, Offset 22099.
+-- 『恋に生きたっていいんじゃない？』
+            "Why not just live for love?"
+
+}
+[sha:5087790d432c0a2a801bf760e271aae048754fba]{
+-- Page 6, Offset 22100.
+-- 「は」
+"Huh?"
+
+}
+[sha:1427626ebb2f7c62a07064d03005f03a9e4cf90f]{
+-- Page 6, Offset 22101.
+-- さすがスイーツ脳。死んでもゴメンだ。
+  Stupid sweet-brain. Even after you're dead, you're still a pain in the ass.
+
+}
+[sha:c6d33c113a64ca179ff2b19a357464b090a2f0c6]{
+-- Page 6, Offset 22102.
+-- そもそも、そんな簡単に開き直れないから、アンタの魔の手に引っかかったんじゃない。
+  Besides, I was too passive to do that. It's how I fell for your trap to begin with.
+
+}
+[sha:749e8990e9247f0995fe3833f12d680b2a46946e]{
+-- Page 7, Offset 22103.
+-- “だよねー！”
+(Well, duh!)
+
+}
+[sha:3576158f414ef24d21c9eaa82457f4008b108ec7]{
+-- Page 7, Offset 22104.
+-- 妙に元気のいい、こちらを<励|はげ>ますような音。
+  Sweets Hearts's tone was lively, yet strangely encouraging.
+
+}
+[sha:f5374e20fe7fd89f0b4fb70970db14dacf8a1eac]{
+-- Page 7, Offset 22105.
+-- 卵の表面に<罅|ひび>が入る。
+  Cracks began forming in the eggshell,
+
+}
+[sha:624cbeea02eb8aa1db5d4e27fdf14a6aab68c1ea]{
+-- Page 7, Offset 22106.
+-- それはあっさりと砕けて、
+  and then it crumbled,
+
+}
+[sha:51da4f3ccf3ce2f8e788fb2362cc9a37d52841f7]{
+-- Page 7, Offset 22107.
+-- 何もかも、記憶すら持ちさって退場した。
+  taking everything, even my memories, with it.
+
+}
+[sha:21e2b142668ae45838e4f95ceddb9d0a022e697f]{
+-- Page 8, Offset 22108.
+-- 「あれ―――？　何かあった気がするん、だけど」
+"Huh. I feel like I was right in the middle of something."
+
+}
+[sha:3c07c426f43e26b9d9241f68678882d0eccaebdc]{
+-- Page 8, Offset 22109.
+-- 目の前のおかしなメモを手にして、首をかしげる。
+  I picked up the note in front of me and frowned at it.
+
+}
+[sha:ec020b9d46c65d0599090e87d29078452490e58a]{
+-- Page 8, Offset 22110.
+-- あまりに脳天気かつ単細胞な走り書きに怒りを覚えたわたしは、メモをクシャッと握り潰して、ちょっと迷った後、ポケットにしまい込んだ。
+  Irritated by the presumptuous, obnoxious scribbling, I crumpled it up... and after a moment's hesitation, stowed it in my pocket.
+
+}
+[sha:8af9171ca7b3312756c6ab07b2d8440d3a7b6fd7]{
+-- Page 9, Offset 22111.
+-- 「お？　久万梨も来てるじゃねえか。
+"Oh, Kumari. You're here too?
+
+}
+[sha:07ada6e60d8f5c12c2e8a3e55a41ae46f6c22652]{
+-- Page 9, Offset 22112.
+-- どうなってんだこりゃ、パーティーの開始、午前中に変更したのか？」
+  What's going on? Did they move up the party?"
+
+}
+[sha:4f9fe70327d65275b90c0d27150c7a7f5c4676cb]{
+-- Page 9, Offset 22113.
+-- 階段の上からは、がやがやと人の気配。
+  There was a commotion coming from the stairs,
+
+}
+[sha:a75e519b5be37c1d567fe81997d7101f5f4d906b]{
+-- Page 9, Offset 22114.
+-- プラス、来ていると聞いていなかったヤツの顔。
+  plus the face of a guy I hadn't heard was coming.
+
+}
+[sha:f38b78f89c614f8fc93b73a9d17013d28525a515]{
+-- Page 9, Offset 22115.
+-- わたしは急いで顔をそむけて、ロビーにある鏡で自分をチェック。よし、おかしなところはとりあえず無い。
+  I quickly turned away and checked myself in a nearby mirror. Good. Nothing too out of place.
+
+}
+[sha:634e84a0cfed3516d93305d8957202a1e0fe3374]{
+-- Page 10, Offset 22116.
+-- 「どうなってるか聞きたいのはこっちの方よ。
+"That's what I'd like to know.
+
+}
+[sha:05fac43a6b1efb3c0aabb2bea45f1ad475438ceb]{
+-- Page 10, Offset 22117. Mods: @k, @e.
+-- 久遠寺さんの誕生会って、ほんとに今日なの？　招待状の日付、間違えてたんじゃ……
+  Is Miss Kuonji's birthday party really today? The date on the invitation could've been wrong...
+
+}
+[sha:8793c21c21e6e8a8861ad5d017ffbc37eaf717de]{
+-- Page 10, Offset 22118. Glued. Mods: @x.
+-- って、あれ？」
+Wait, huh?"
+
+}
+[sha:3ddbd9683010c796dca063d73007ed54d7c1d328]{
+-- Page 11, Offset 22119.
+-- この台詞、なんか言った覚えがあるような……？
+  Where was this déjà vu coming from?
+
+}
+[sha:d8937fe8b3d26345f86737798e9dc75b9aad1fee]{
+-- Page 11, Offset 22120.
+-- ま、ただの気のせいだろう。
+  Must have been my imagination.
+
+}
+[sha:352e4764b01c355fa00d9e05aa683eb2c67284fc]{
+-- Page 11, Offset 22121.
+-- 今日は<稀少|レア>と言えば<稀少|レア>な、久遠寺邸での誕生会だ。
+  It was awfully rare to have a birthday party out at the Kuonji Estate.
+
+}
+[sha:b5d71906af9ef0118723b6ed7f151dd329eeaa06]{
+-- Page 11, Offset 22122.
+-- 高校生活は残り少ない。
+  Our high school days were numbered.
+
+}
+[sha:4c47310f021f4226548ac1d1a46ec959f10b4a86]{
+-- Page 11, Offset 22123.
+-- 気を抜けば終わってしまうだろう最後の季節を、わたしは後悔のないよう、自分らしくクリアしないと。
+  The season would be over before we knew it. I had to make sure I finished it with no regrets.
+
+}
+[sha:585bbda85fa7e523b1641fb4c2808e95773b669f]{
+-- Page 12, Offset 22124.
+-- 「うお、金鹿じゃん！？　おまえも呼ばれたワケ！？
+"Whoa, Kojika?! You were invited, too?!
+
+}
+[sha:cbb6a6f8bc5549c7e7deea05558f44702079184d]{
+-- Page 12, Offset 22125.
+-- 有珠ちゃんと面識あったのかよ！？」
+  Do you know Alice?!"
+
+}
+[sha:1d80a46ec7d1b2fb86cdd911de62a0423370d602]{
+-- Page 12, Offset 22126. Mods: @k, @e.
+-- 「そりゃあるわよ、蒼崎と友達やってれば。
+"Anyone who's friends with Aozaki knows her.
+
+}
+[sha:1039cc960b575b512c5e8b1adfae334fd6b15239]{
+-- Page 12, Offset 22127. Glued. Mods: @x.
+-- ってか少しは落ち着け芳助。アンタ、ガキの頃から成長ないんだから」
+ Anyway, simmer down, Housuke. You ever thought about growing up?"
+
+}
+[sha:e483e8b1a89d840ab6a069a97271d012c1ff3de8]{
+-- Page 13, Offset 22128.
+-- 「おーおー。さすが幼なじみ、仲が良いコトで。
+"Hey, it's good to see childhood friends getting along.
+
+}
+[sha:4565760bbe4bb4a8cbc58dd05585231b3a995221]{
+-- Page 13, Offset 22129.
+-- その調子で木乃美を仕付けてやれよ久万梨。まわりと、何より本人の為になるぜ」
+  You should coach him, Kumari. You'd be helping him and everyone around him, too."
+
+}
+[sha:477e485d3ac0c64c7cbb51248089fc59dda06f63]{
+-- Page 14, Offset 22130. Mods: @k, @e.
+-- 「嫌。億つまれたってお断り。労働と報酬が釣り合わないし。わたし、<無駄骨|むだぼね>折ってる時間ないし。
+"No way. No amount of money would be worth that much effort. I may as well bang my head against a wall.
+
+}
+[sha:9efff1821a0fbee39a117e75cd9b222ab09abba9]{
+-- Page 14, Offset 22131. Glued. Mods: @x.
+-- こいつ、叩いても叩いても元通りになる形状記憶合金だし」
+ No matter how many times you smack him, he won't change."
+
+}
+[sha:ffe5331adf3a3182ac5d8a8704efa7267e761e2c]{
+-- Page 14, Offset 22132.
+-- 「はは、違ぇねえ！　んじゃまあ、コイツはほっといて久遠寺に挨拶に行くか。蒼崎と久遠寺は居間かねぇ」
+"Haha! I guess you're right! In that case, let's leave him and go say hi to Kuonji. She's probably in the drawing room with Aozaki."
+
+}
+[sha:ee12fe7cbbc10884fea29e5dfb66f3e9c4640b6e]{
+-- Page 15, Offset 22133.
+-- 「ちょっ、その前にあそこ！　シスターが倒れてるぜ殿下！
+"Hey! Wait, before you go! There's a nun on the floor over there, Your Highness!
+
+}
+[sha:138ea6b5c025b7141fe8b6d857739ac494e34f60]{
+-- Page 15, Offset 22134. Glued. Mods: @x.
+-- おおお、俺が抱き起こしちゃっていいかな！？」
+  Maybe I can help her get to her feet and be her hero!"
+
+}
+[sha:ee806bc0c35b9b9727af8cfac2ab1fc4b719dbd4]{
+-- Page 15, Offset 22135.
+-- 「いいんじゃねえの？　最悪、テメエがのされるだけだし」
+"Go ahead. All she'll do is knock you out, at worst."
+
+}
+[sha:27ba3e99029143da327673c8b0507b1f78946cd2]{
+-- Page 16, Offset 22136.
+-- 平凡で、楽しげな話し声はホールへと下りていく。
+  Tsukiji sounded like he was enjoying himself. His traveled through the hall.
+
+}
+[sha:2c359d333150d39be36f00ae2377bc407fc8e001]{
+-- Page 16, Offset 22137.
+-- 風に散った粒子は天窓を透り抜けて、太陽に焼かれるように消えていく。
+  Dust particles flitted in the air, appearing and disappearing in the rays coming through the skylight.
+
+}
+[sha:a76f93974f290e351b19616f95bd7296b5eb0f18]{
+-- Page 16, Offset 22138.
+-- “んー、まあそういうオチもいいっちゃいいか！”
+    (Mm, I guess this could've ended worse!)
+
+}
+[sha:3e6994243906289f4a8ee614ca7e404f8f12a1d8]{
+-- Page 16, Offset 22139.
+-- 妙に清々しい、カノジョの素直な気持ちを代弁しながら。
+  An oddly cheerful voice summed up her honest thoughts.
+
+}
+[sha:867e272628fef3fab383fb042ae0dfd8f973ccf9]{
+-- Page 17, Offset 22140.
+-- 狂想曲はこれにて終了。
+  The mad rhapsody drew to a close.
+
+}
+[sha:3a1d68fedc4def7f01d0d83d0497acf1e5fd05c7]{
+-- Page 17, Offset 22141.
+-- 彼女は「自分らしく」と微笑んだけれど、それもやっぱり人それぞれ。
+  She smiled in her own way. Each to their own.
+
+}
+[sha:092fb520a6c9dd4a24bfd8657295fb39b4f37f8a]{
+-- Page 18, Offset 22142. Mods: @n.
+-- 少ない時間を惜しむのも、
+  Everyone had a choice. To lament the little time one had left,
+
+}
+[sha:51f61156f0adb8ed18044104fa75dac8baf4e40d]{
+-- Page 18, Offset 22143.
+-- 残った時間に賭けるのも、人それぞれの選択だ。
+  or to gamble on it?
+
+}
+[sha:65ff67465008b508f8a7ee995ea47dc5014ee4ea]{
+-- Page 18, Offset 22144.
+-- けだし、過ぎ去るものはみな美しく。
+  Perhaps we find things beautiful because they don't last.
+
+}
+[sha:f2fb49aab492c8fe59171ec39717fb1d04a1f0b3]{
+-- Page 18, Offset 22145.
+-- 終わりはいつか訪れるにしても、それは<暫|しばら>く先の話。
+  Someday, this would all end. But, not just yet.
+
+}
+[sha:84ac5662b551afb88d50b6a70e4f348a256fc080]{
+-- Page 19, Offset 22146.
+-- この華やいだ一日も、一編、本棚に収まる程度の<物語|はなし>。
+  This jolly tale was simply another book to add to the shelf.
+
+}
+[sha:9b8ce2714854c0c72e140dd066ba8eff9914ffe7]{
+-- Page 19, Offset 22147.
+-- ―――青春時代は短く長く。
+  Youth is both fleeting and never-ending.
+
+}
+[sha:1a5c26d67374af79fed8de2bd1bc50a0176a6acf]{
+-- Page 19, Offset 22148.
+-- 少年少女の物語は、まだ見ぬ波乱に満ちている。
+  The stories of young boys and girls are full of hardships yet unseen.
+
+}
+[sha:c531a36129e51d3745edf55036677065b3d1e392]{
+-- Page 19, Offset 22149.
+-- であれば皆さま。
+  Which means, my friends,
+
+}
+[sha:509b4bca86c753f8244600aae9247ddc38fc0a23]{
+-- Page 19, Offset 22150.
+-- いつかまた、次の機会にお会いしましょう―――
+  we shall no doubt meet again.
+
+}

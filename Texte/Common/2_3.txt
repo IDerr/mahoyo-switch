@@ -1,0 +1,1026 @@
+[sha:2aa52bb80f83340446f76b6f8dca3f11ca22119d]{
+-- Page 0, Offset 2501.
+-- 「静希君、いる？」
+"Sizuki, you in here?"
+
+}
+[sha:73f6d0507771930357614a3721b8c128df887c34]{
+-- Page 0, Offset 2502.
+-- 昼休みも終わろうとしている十二時五十分。
+  It was ten to twelve and lunchtime was quickly coming to an end.
+
+}
+[sha:cc2d7eb08fd3d19ee1630ad73a7b66dd7d687a9a]{
+-- Page 0, Offset 2503.
+-- 一向に活気の<衰|おとろ>えない二年Ｃ組の教室に顔を出し、
+  Her face popped into Class C. As lively as ever,
+
+}
+[sha:47a80fbf5d6cf1ae83e15bdf80b2cbd52c31e774]{
+-- Page 0, Offset 2504.
+-- ……彼女にとってはごく普通の仕草で……
+  as if it were an everyday occurrence...
+
+}
+[sha:dcebe5ded6b9e0165edd558fccee48b3d3870f7a]{
+-- Page 0, Offset 2505.
+-- 蒼崎青子はそう告げた。
+  ...Aoko Aozaki announced her presence.
+
+}
+[sha:8186e8b8ebe44edf3adeebf649ba720aa2a20428]{
+-- Page 1, Offset 2506.
+-- 青子にとってＣ組は<余所|よそ>のクラスだが、そんな事はおかまいなしで気軽に教室へと入っていく。
+  While Aoko wasn't part of Class C, she didn't let it bother her as she casually entered the classroom.
+
+}
+[sha:4c44d2e8d7d319e7d3ea6e551c99d5d81b4a09fc]{
+-- Page 1, Offset 2507.
+-- 一方。リラックスした彼女とは対照的に、今まで餌を前にした<雛鳥|ひなどり>の如く騒がしかった生徒達は白々しいほど静かに、行儀よく席につきはじめた。
+  In contrast, the baby birds who had been so noisily chirping while eating lunch quickly quieted and began to rearrange their seats.
+
+}
+[sha:10f540105acaaf6655cb62300ebb28a459de8be7]{
+-- Page 2, Offset 2508.
+-- 『……どういう意味よ、それ……』
+(Hmph. Are they trying to tell me something?)
+
+}
+[sha:da5a99ebff08026649614e36ca5b9f3b915ded12]{
+-- Page 2, Offset 2509.
+-- 内心で舌打ちしつつ、青子は教室を見回した。
+  She bristled internally before looking around the room.
+
+}
+[sha:12540c16215c174347cfed4a7594a0ce8cd96d69]{
+-- Page 2, Offset 2510.
+-- 目当ての男子生徒の姿はない。
+  She could not see the male student she had come here to find.
+
+}
+[sha:21a9e7ae4df375fd21d74f1e023d07cdc7045b37]{
+-- Page 2, Offset 2511.
+-- 目立たない奴だから、はじっこに隠れているかと思えばそうでもなさそうだ。
+  He hardly stood out, so she thought he might be hidden in a corner somewhere, but that appeared to not be the case.
+
+}
+[sha:d4634932a0fceea5cf70acc7df8a3f6bc55fec51]{
+-- Page 3, Offset 2512.
+-- 「有里君。出席番号12番の静希君は？」
+"Arisato, do you have any idea where Sizuki from seat 12 is?"
+
+}
+[sha:f80ff1d6da9a8722a9a4e64e496b56222f659e35]{
+-- Page 3, Offset 2513.
+-- 青子はあくまで事務的に問う。
+  Aoko kept her tone professional.
+
+}
+[sha:9b414b2ce7f6c98b11ccee3c9671a60d1d883f40]{
+-- Page 3, Offset 2514.
+-- 「え、俺……？　えーと、静希ならさっき鳶丸<殿下|でんか>が連れていったよ」
+"Wait, me? Umm, Sizuki left with His Highness Tobimaru a while ago."
+
+}
+[sha:b4d027ce7b039de82bc4bd885edfe5fb87afa7e9]{
+-- Page 3, Offset 2515.
+-- 名前を呼ばれた男子生徒は、青子が自分の名前を知っている事に驚きつつ返答した。
+  The boy was shocked that she actually knew his name.
+
+}
+[sha:f6de10cfbc40a3584fe5a9fa538822b4199a4212]{
+-- Page 4, Offset 2516.
+-- 余談ではあるが、<槻司|つきじ><鳶丸|とびまる>が殿下と呼ばれるのは彼が理事長の息子だから……という訳でもなく、純粋に彼の振るまいが王子のようだからである。
+  One might think that the reason students referred to Tobimaru Tsukiji by a royal title was because he was the chairman's son, but it was because he actually acted like royalty.
+
+}
+[sha:29d09e01c9ba54aa29dc1d9300376013ea0d2d77]{
+-- Page 4, Offset 2517.
+-- 本人もそのアダ名は気に入っているらしい。
+  In fact, the vice-president was said to have taken a liking to the title.
+
+}
+[sha:3f57de71c8611c598d957cf41c209eec1b9b9151]{
+-- Page 5, Offset 2518.
+-- 「鳶丸が……？　あいつ、静希君と仲いいの？」
+"He's with Tobimaru? Are those two friends or something?"
+
+}
+[sha:5d7816cd63895ea196d5739606158944239e8a3a]{
+-- Page 5, Offset 2519.
+-- 意外そうに訊く青子と、
+  She seemed surprised.
+
+}
+[sha:cc5c1332c6de4c3b1e6c83d260acf748f147cc3b]{
+-- Page 5, Offset 2520.
+-- その台詞を意外そうに聞くクラス一同。
+  The class seemed surprised at her surprise.
+
+}
+[sha:edf3d4cbdb2e7a540da20600c9956188ccf5ef25]{
+-- Page 6, Offset 2521.
+-- 「良いも悪いも、槻司くんが男子と仲良く話してるのって今まで見たことなかったよ、あたし達。
+"No idea, but we've never seen Tsukiji be that friendly with another boy before.
+
+}
+[sha:1debf59904e1d716e85e7b77220a55a0e2924d25]{
+-- Page 6, Offset 2522.
+-- あ、木乃美くんはバカだから別だけど」
+  Well, maybe Kinomi, but he's an idiot, so that hardly counts."
+
+}
+[sha:887578a5a03601758c14d7e3bc2325f75999000f]{
+-- Page 6, Offset 2523.
+-- 「そうだよなあ。はじめは殿下もあんまり話してなかったけど、三日もしたら楽しそうに口喧嘩してたもんなぁ」
+"Yeah. His Highness was slow to warm to him, but since the third day, it's been nothing but friendly arguments."
+
+}
+[sha:523a4174b7c355932a7964bba0371b84a8957623]{
+-- Page 6, Offset 2524.
+-- 「ま、静希相手につっぱっても仕方ないじゃん？　あいつ変だけどいい奴だし」
+"Well, you can't really help but like Sizuki. He may be a little odd, but he's good people."
+
+}
+[sha:79b72b9611aa8fb2c000cbd9fb35443135072ae0]{
+-- Page 6, Offset 2525.
+-- 「そーよねー。いい人だもんねー草十郎くん！」
+"Totally! Soujyuro is really nice!"
+
+}
+[sha:e550e83176afbc03e55c0d898194ea338de1f551]{
+-- Page 7, Offset 2526.
+-- 調子を取り戻しつつあるのか、二年Ｃ組の面々はざわざわと会話をリレーしはじめる。
+  Having recomposed themselves, Class C started chatting again.
+
+}
+[sha:44e1693e530d1253a017ca6bdab17169b006c3d4]{
+-- Page 7, Offset 2527. Mods: @n.
+-- それをしばらく聞いていた青子だったが、唐突にくるりと背を向け、
+  Aoko listened for a bit before turning around
+
+}
+[sha:c17933d28c57878e4cbb3b414dcebec1073cd51f]{
+-- Page 7, Offset 2528. Glued.
+-- 「それじゃ」と二年Ｃ組を後にした。
+ and leaving the class with a, "later."
+
+}
+[sha:ebcfa39fbb64ec97e8cc4c59e468c6aeba941263]{
+-- Page 8, Offset 2529.
+-- とりあえず手短に、草十郎の話は済んだ。
+  All the Soujyuro talk finished as quickly as it had started.
+
+}
+[sha:7a161f72f8704ec76b209e8202256196d8114aad]{
+-- Page 8, Offset 2530.
+-- 昼休みも残り数分と迫った生徒会室。
+  Lunchtime was coming to a close in the student council room.
+
+}
+[sha:06b64ab31dfd69a6a40bcdc509651a7a4ba3b1f6]{
+-- Page 8, Offset 2531.
+-- 話し終えて満足顔の草十郎と、
+  Soujyuro, having told his story, was smiling in satisfaction.
+
+}
+[sha:9c5ec9e268215ad2c1eabf9ec0fff185cc69c1a0]{
+-- Page 8, Offset 2532.
+-- 聞き終わって難色顔の鳶丸が、机をはさんで向かいあっている。
+  Tobimaru, still sitting across from him, was frowning.
+
+}
+[sha:887645175f7d0fdf95c7479c3dc1ffb5910af9e6]{
+-- Page 9, Offset 2533.
+-- 「さ、感想を聞かせてくれ」
+"So, what do you think?"
+
+}
+[sha:78a4060fd8722949afe008db9aa10faaf9687a8e]{
+-- Page 9, Offset 2534.
+-- 話す事はすべて話した、と草十郎。
+  Soujyuro told his yarn as best he could.
+
+}
+[sha:e5e1c781a2cc11910ba91eb54e47fbad2873ac06]{
+-- Page 9, Offset 2535.
+-- 鳶丸はというと、怒っているような、悩んでいるような、曖昧な表情で額に指を当てていた。
+  Tobimaru fingered his brow as if he was angry or concerned.
+
+}
+[sha:69e15f94810c8ba3c2a86af44b65319664fbd375]{
+-- Page 10, Offset 2536.
+-- 「……なあ、草の字。おまえ、人を馬鹿にできるほど器用な奴じゃねえよな」
+"Sono-G. Are you trying to make fun of me? A word of advice, leave that to us smart people, hmm?"
+
+}
+[sha:9284aa552d149fdf4ccff47fc64474b3941c919d]{
+-- Page 10, Offset 2537.
+-- 「失礼な。器用な方だぞ、俺は」
+"Take that back. I'm more clever than you think."
+
+}
+[sha:9d0f7582b8519f4a7188bd92baff4035c0632515]{
+-- Page 10, Offset 2538.
+-- その返答に、つくづく不器用な性格だと確信する。
+  His response only confirmed Tobimaru's suspicions.
+
+}
+[sha:4453796b46810567138ecfca5d26df81be6f8e20]{
+-- Page 10, Offset 2539.
+-- となると結論は二つに一つだ。
+  It had to be one of two possible conclusions.
+
+}
+[sha:525ecbf1fed32f301d353d29ab97b2965fedcf74]{
+-- Page 11, Offset 2540.
+-- 一つは、いま聞いた話は真実だという事。
+  That what Soujyuro had just told him was true...
+
+}
+[sha:6860ddfa4bbafde253bf775e8aab4a50586d43e1]{
+-- Page 11, Offset 2541.
+-- あるいは、彼が幻覚を見るほど疲れきっているという事。
+  ...or that Soujyuro was so tired that he must have been hallucinating at the time.
+
+}
+[sha:e3e8537e4a2aa261728527cc80406f43132d94b6]{
+-- Page 11, Offset 2542.
+-- 鳶丸としては後者であってほしいものだが……。
+  Tobimaru sincerely hoped it was the latter.
+
+}
+[sha:8e69962cfeb3d81c5b1e0fb826f05f0ba705f29f]{
+-- Page 12, Offset 2543.
+-- 「……草十郎。率直に言って、俺はおまえが気に入っている。
+"To be honest, Soujyuro. You're growing on me.
+
+}
+[sha:0ea1d56ac3da75dc3cfdb15a06fb692bf8cb5e8d]{
+-- Page 12, Offset 2544.
+-- 嘘のない人間なんてのは人間じゃねえ。
+  Anybody that never lies can't really be considered human.
+
+}
+[sha:75eaf18f0fbe82e6b9d7ff477964f26207771d51]{
+-- Page 12, Offset 2545. Glued. Mods: @x, @k, @e.
+-- 俺は人間嫌いだから、そんなおまえさんが気に入ってたりするんだが……
+So for a misanthrope like me, I suppose you could say its easy to like you.
+
+}
+[sha:7cb863757853a20124cdec21c4eafdc12e2135c3]{
+-- Page 12, Offset 2546. Glued. Mods: @x.
+-- そんなヤツまでバカげたコトを言い出したら、俺は明日から何を頼りに昼メシを食えばいいんだ？」
+ But if you're gonna stick to your dumb story, I'm not sure what I'm going to do for lunch starting tomorrow."
+
+}
+[sha:adb9d95586360cc22f9c4ab510a5816db969ba12]{
+-- Page 12, Offset 2547.
+-- 「学食で食べればいいんじゃないか？」
+"Why not just eat in the cafeteria?"
+
+}
+[sha:242e83f155e79dfbd696bff07b67c84d71def858]{
+-- Page 12, Offset 2548.
+-- あっさりとした一言に、鳶丸はいっそう表情を暗くする。
+  Hearing his suggestion, Tobimaru's face darkened.
+
+}
+[sha:e66cab96d451e2121cd069b124811ca8598d3fd8]{
+-- Page 13, Offset 2549.
+-- 「分かった、はっきり言おう。それは幻覚だ。
+"Okay. I'll spell it out for you. You were hallucinating.
+
+}
+[sha:8078f5ba57393278a5376eacc006801ff8537fb8]{
+-- Page 13, Offset 2550.
+-- 幽霊の正体見たり<枯|か>れ<尾花|おばな>ってヤツだろうさ。それでも納得いかないってんなら、いい精神科を紹介してやる」
+  If you still insist you saw a ghost, I'd be more than happy to introduce you to a good psychiatrist."
+
+}
+[sha:a4d46a0e7adfb591796dbb41dfae3fbde82c8c3d]{
+-- Page 13, Offset 2551.
+-- 「それが君の感想か。よし、ならいいんだ」
+"So that's your take on it. Good to know."
+
+}
+[sha:b290720ac929cc98c90c93706a79102640306ce9]{
+-- Page 13, Offset 2552.
+-- 聞きようによっては侮辱としか取れない鳶丸の言葉を、草十郎は<泰然|たいぜん>と受けとめた。
+  As bitter as Tobimaru's words might have sounded to most, Soujyuro swallowed them whole.
+
+}
+[sha:7a3c3a7c5557606551728134e39c4350d3662403]{
+-- Page 14, Offset 2553.
+-- 「そりゃあ俺だって神隠しの<類|たぐい>だと思ったよ。
+"I already figured as much. It sounds like a tall tale to me, too.
+
+}
+[sha:10f91afe290ee5dbd718e9f7dfae5934a6369779]{
+-- Page 14, Offset 2554.
+-- けど、都会じゃもしかしてそれも有りなのかもしれないだろ。確かめたかったのはそこなんだ」
+  I was starting to wonder if it was normal for that kind of thing to go on in a city, so I wanted to hear your opinion."
+
+}
+[sha:47f3539f6e43bc75b168c6dd2fe2480395ee8b9b]{
+-- Page 14, Offset 2555.
+-- 良かった、とばかりに草十郎は残った最後の握り飯をぺろっと平らげ、包み布をたたむ。
+  Satisfied, Soujyuro finished off his last rice ball and neatly folded the cloth.
+
+}
+[sha:0bbcff303b1e2a1fca839b6ae28162241cae02c4]{
+-- Page 15, Offset 2556.
+-- 「……おい。すると何か？
+"Hey, hold on a second.
+
+}
+[sha:4b3d87fc0b325e1d2e04887e993087a14dc6e5b4]{
+-- Page 15, Offset 2557.
+-- おまえは都会の人間は口から火を吹いたり、腕が伸びたりするのが普通だと思ったのか？」
+  You didn't actually think it was normal for people in the city to breathe fire or extend their arms like they're made of rubber, did you?"
+
+}
+[sha:9892f6eebc68bacaef0755c46eeb699550bed9b9]{
+-- Page 15, Offset 2558.
+-- 「……まあ、普通じゃないけど、特別でもないんじゃないかと思ったんだ。
+"Well, not normal, as much as within the realm of possibility.
+
+}
+[sha:982e0c9f7a7dce6628d739c6ad5b214bbd47583f]{
+-- Page 15, Offset 2559.
+-- ここは山に無い物があふれている、何でもありの場所だ。だから、それぐらいやってのける人だって、もしかしているのかなと」
+  This city is full of extraordinary things we don't have up in the mountains. I thought it might have some extraordinary people as well."
+
+}
+[sha:2cf59870dc85c22f09b1b2a606622aa7f69e1e42]{
+-- Page 16, Offset 2560.
+-- 真顔で返す草十郎を見て、鳶丸は自分と彼を<隔|へだ>てている文化レベルの違いを痛感した。
+  That his face was as serious as it was made Tobimaru realize just how big a culture shock Soujyuro must've been experiencing.
+
+}
+[sha:9b7182bdba72ba0b5dde4fc857701ea55c7358fa]{
+-- Page 16, Offset 2561.
+-- 電気も通わない山奥。
+  Living up in the mountains, with no electricity.
+
+}
+[sha:1c02d591adccf48c957a346b19d47dcfe754bf4b]{
+-- Page 16, Offset 2562.
+-- 夜は太古のままの夜で、人間は主役ではなくどうでもいい端役、自然を構築する一パーツに留まっているのなら、たしかに、この少年のような人間が出来るのだろう。
+  In a place where the night sky was as it always had been, where humans were just one more organism in nature's garden. It makes sense that those conditions would create a boy like him.
+
+}
+[sha:e4a02d2f445971ef816fb96adca8875a17c2e6fb]{
+-- Page 17, Offset 2563.
+-- 赤子が無垢なまま成長したと言えば聞こえはいいが、要は人が少なすぎて文明が発達するまでもなかった、
+  The idea of children growing up so pure was an appealing one, but maybe it was natural to forgo civilization when your population was so small.
+
+}
+[sha:e3d3236a8ea0a953e232ee8e0ef5b9a0b13299f6]{
+-- Page 17, Offset 2564.
+-- あるいは、余分な知識体系を必要としなかった素朴な世界だったのだ。
+  Or perhaps it was so simple a world that excessive knowledge was deemed irrelevant.
+
+}
+[sha:af843aba34e2d846c08b6b6192e5cea7ea6f15ba]{
+-- Page 17, Offset 2565.
+-- 都会の生活を“今までの生活では全てありえなかった事”と感じる彼だからこそ、逆説的に、“起こりえる事は全てありえる事”に取ってしまう。
+  It was precisely because city life offered him so much that was impossible up till now that he had come to the conclusion that anything was possible here.
+
+}
+[sha:9abbdbc3302f50d0bf743e64a309130535377d86]{
+-- Page 18, Offset 2566.
+-- 「安心しろ。たしかにこっちには<性質|たち>の悪いヤツらばっかりだけどな、そんな魔法使いみたいなヤツはいねえよ」
+"Relax. The city might have its share of shady guys, but none of them are magicians in disguise."
+
+}
+[sha:609026a386a291053554bd873057a446127976ae]{
+-- Page 18, Offset 2567.
+-- 「そうだと良いんだけど」
+"I hope you're right."
+
+}
+[sha:f2cb3dd2a7017a1e01410ccfdbc7d01dbe567ca5]{
+-- Page 18, Offset 2568.
+-- どこか納得のいかない様子の草十郎。
+  But Soujyuro seemed unsure.
+
+}
+[sha:be596db3417a9ff32532f300e1c7d4c9a122ee89]{
+-- Page 18, Offset 2569.
+-- ……確かに、今の話の中で納得のいかない点は鳶丸にもあった。
+  And on Tobimaru's part, there were things to Soujyuro's story that he found hard to swallow.
+
+}
+[sha:7ac51083841dd451f4819730e68bae0b705c1e56]{
+-- Page 18, Offset 2570. Glued. Mods: @x.
+-- アリかナシかはともかくとして、いま聞かされた出来事は人道的によろしくない。
+Whether true or not, the incident Soujyuro had described was disturbing.
+
+}
+[sha:700f54cccba374ea0a8a43ad33bfd76469030b48]{
+-- Page 19, Offset 2571.
+-- 「まあ、事の真偽というか、どんな間違いでそう見えたかは置いておいてだ。
+"For the time being, let's assume what you say actually happened.
+
+}
+[sha:6177e9273dcbac5bbb74429d68b40f1072691342]{
+-- Page 19, Offset 2572.
+-- 結果だけ見ればうちの生徒が夜の公園で人を殺したって事になる。しかも双方控えめに表現しても普通じゃねえ」
+  That would ultimately mean that one of our school's students killed someone in the park last night and that neither of the parties involved were... normal."
+
+}
+[sha:ed17140353327470302a015cf9aca0accc139bc5]{
+-- Page 19, Offset 2573.
+-- 町にやってきて日の浅い草十郎は、同い年の少年少女は『みなこの学校の生徒である』と誤認していたのだが、幸か不幸か結論として間違いではなかった。
+  As a newcomer to town, Soujyuro assumed that everyone his age was a student at this school. For better or worse, he was right.
+
+}
+[sha:167615b5e13415e42e6d0f98b025a3578417eb60]{
+-- Page 20, Offset 2574. Mods: @n.
+-- 「一人は火炎放射器を持って、もう一人は……
+"One of them was equipped with a flamethrower, while the other...
+
+}
+[sha:7151cb001ccf2ac5818198937f22a31a0244613d]{
+-- Page 20, Offset 2575. Glued.
+-- まあ、なんだ。<長刀|なぎなた>でも持ち出したのか、刃物らしきものが何メートルも伸びたときた」
+ ...had a naginata... or at least a bladed weapon resembling one that was a good few feet in length."
+
+}
+[sha:c4b25270200d97a6fd137990d54fa40df856defa]{
+-- Page 20, Offset 2576.
+-- 鳶丸の呆れ声を聞きながら、なるほど、と小さく頷く草十郎。こうして<他人|ひと>の口から聞くと、相手を馬鹿にしてるとしか思えない内容だ。
+  Soujyuro bobbed his head up and down as he listened to the disbelief in Tobimaru's voice. Hearing it repeated by someone else, he could see how someone might think he was taking them for a ride.
+
+}
+[sha:b3b60e4d0bc769158029ce719179cb63dbcc249a]{
+-- Page 21, Offset 2577.
+-- 「正気を疑うな。尋常じゃないぞ、その話」
+"Look, I'm not crazy, it really did happen like I said."
+
+}
+[sha:d9f519e184ca8f5a3d75ac5c1714a4a3276aa5a8]{
+-- Page 21, Offset 2578.
+-- 「草十郎。おまえ、実は俺をからかってんだろう？」
+"Give it to me straight, Soujyuro. You're pulling my leg, aren't you?"
+
+}
+[sha:5cca11a8b4df26e7c978385c54db711db8e800c3]{
+-- Page 22, Offset 2579.
+-- 「いや、まったく。
+"No, I'm not.
+
+}
+[sha:81fec2b1b502510c255f5ab2dbee7e72c261b43b]{
+-- Page 22, Offset 2580.
+-- けどまあ、都会にはそんな人間はいないんだろう？
+  But I get it. There's no one in the city who can do that...right?
+
+}
+[sha:40def5567ff9dbc4b218d1f0746851a6d879b779]{
+-- Page 22, Offset 2581.
+-- なら鳶丸の言う通り、夢でも見てたんだ。ここのところアルバイトと試験が重なって辛くて」
+  If not, I was probably just hallucinating like you said. Working part-time while studying for exams has been pretty trying."
+
+}
+[sha:3e70a65d3cfaebddf912a6bddd668987d2217b2b]{
+-- Page 22, Offset 2582.
+-- 今は冬休み直前。期末試験は一週間後に迫っている。草十郎にとっては何よりも手強い難敵だ。
+  Winter break was just around the corner and the end of term exams were but a week away. Both were proving formidable opponents for Soujyuro.
+
+}
+[sha:fbb5813b75a558af6120ef7398007e35f096dcb4]{
+-- Page 23, Offset 2583.
+-- 「俺は基本ができてないから、人の倍程度の勉強じゃ追いつけない。ほら、勉強ばかりしているとノイローゼをするんだろう？」
+"I don't even know the basics, so I need to study twice as hard as everyone else. I mean, anyone would start to lose it if they did nothing but study, right?"
+
+}
+[sha:817dafa060c722a0067f04ac58d9855b15b4d800]{
+-- Page 23, Offset 2584.
+-- 「そりゃするんじゃなくてなるものだが、ま、なんにせよやり過ぎ飲み過ぎはよくねえわな。試験前ぐらいはバイト減らしたらどうだ？」
+"I wouldn't say you're losing it, but you're definitely pushing yourself too hard. Maybe cut back on work a bit until the exams are over?"
+
+}
+[sha:f3a1d6c9f1c6af3cafdadba914664c0d2e549df2]{
+-- Page 24, Offset 2585.
+-- 「減らしてはいるんだけどね。年末ってアルバイトを休む人も多くて、その代行も頼まれがちだし」
+"I've tried to cut back, but a lot of people take off at the end of the year, so they often ask me to fill in for their shifts."
+
+}
+[sha:833bb09196bf3fea9e8627dc7727a35f38298e66]{
+-- Page 24, Offset 2586.
+-- 草十郎はやれやれと肩をすくめる。
+  He shrugged helplessly.
+
+}
+[sha:bd16c01611c757c62b67ae4781d4fc1043478920]{
+-- Page 24, Offset 2587.
+-- その口ぶりから彼の忙しさは読み取れる。
+  It was obvious from his words that he had been busy.
+
+}
+[sha:e69257f298859f38e3808ab9c01f542f4f3b9732]{
+-- Page 24, Offset 2588.
+-- ノイローゼはともかく、睡眠不足で白昼夢を見るぐらいあるかもしれない。……実際、その場面にでくわしたのは深夜とのコトではあるが。
+  Even if he was not going crazy, lack of sleep could have caused him to daydream, even if this all did go down in the middle of the night.
+
+}
+[sha:73f09f859a2be03c26399d5b60f49e16d0b50206]{
+-- Page 25, Offset 2589.
+-- 「なんだか大変そうだな、草十郎」
+"Sounds tough, Soujyuro."
+
+}
+[sha:184a7c56f7234146c5d0101d5b599bb24e91e744]{
+-- Page 25, Offset 2590.
+-- 「ああ、実はかなりまいってる。都会の暮らしは深刻だ」
+"Yeah, city life has been exhausting."
+
+}
+[sha:f7e8bea4343362a423a5f38690354df47459c345]{
+-- Page 25, Offset 2591.
+-- 困ったもんだと真顔で頷く草十郎。
+  Soujyuro nodded with a pained look on his face.
+
+}
+[sha:6535a487690cc78bf8a3a177face8b7a94c602db]{
+-- Page 25, Offset 2592.
+-- 毛ほども疲れていないように見えるのが困りものだった。
+  What was strange, however, was that he did not look the least bit tired.
+
+}
+[sha:6202364f561f7e35b6f47e21291088f2eac864e8]{
+-- Page 26, Offset 2593.
+-- 「泣き言いわねえのは感心するけどな。
+"I'm impressed you never complain about it.
+
+}
+[sha:6acbf8f276aa9251e9592dd63ec726e0df14b19e]{
+-- Page 26, Offset 2594.
+-- おまえ、心労は顔に出ない<性質|タチ>か？」
+  You always look like nothing bothers you at all."
+
+}
+[sha:7f1bd404d76f457b5c2519bfe81ee5346f39026a]{
+-- Page 26, Offset 2595.
+-- 「？　そりゃ、心労はどこも痛まないからね」
+"Hm? That's just because it isn't bad enough to bother me."
+
+}
+[sha:1cdd85f229d07df59301f1a2c794a93d80792d1e]{
+-- Page 26, Offset 2596.
+-- 答えて、草十郎はちらりと壁の時計を見る。
+  As he answered, Soujyuro looked up at the clock on the wall.
+
+}
+[sha:22b52d8a048aa855501cde8081dab049cd05054d]{
+-- Page 26, Offset 2597.
+-- そろそろ昼休みも終わろうとしていた。
+  Lunchtime was almost over.
+
+}
+[sha:86e1a4c47b12c2c3a6910d6ab90342b2b4709966]{
+-- Page 27, Offset 2598.
+-- 「鳶丸、時間だ」
+"Tobimaru, the time."
+
+}
+[sha:c29ab12ff103d493f7c98436088c670796ee4672]{
+-- Page 27, Offset 2599.
+-- 「お？　ああ、もうそんなに経ったか。気にせず先に行ってていいぜ。俺はまだ用があるからよ」
+"Really? It's that late already? You can go on ahead. I still have things to do."
+
+}
+[sha:9b6622ea3da4cbd66859c96e66745600441c7a78]{
+-- Page 27, Offset 2600.
+-- 生徒会役員は大変なんだとジェスチャーする鳶丸を、草十郎はマジマジと見つめる。
+  Soujyuro watched as Tobimaru made a gesture that seemed to lament the life of a student council member.
+
+}
+[sha:6fac7fce707e9dee00c0f4cd27bf88e77355e3d9]{
+-- Page 27, Offset 2601.
+-- 価値の分からない美術品を見るような目で。
+  His eyes looked as if they were looking at a piece of art and not understanding its value.
+
+}
+[sha:e46ce8377495a9de285b00865388c4c830585d07]{
+-- Page 28, Offset 2602.
+-- 「授業をさぼれる身分っていうのは羨ましいな。
+"I'm jealous that you can just skip class whenever you want.
+
+}
+[sha:1f9054da70035becc0bcf9d5f7f921fc97805daf]{
+-- Page 28, Offset 2603.
+-- そういうの、鳶丸が嫌いな手抜きじゃないのか？」
+  I would have thought you were a stickler for the rules."
+
+}
+[sha:ae706ef51ba7dd9cfc703730de24ed131918be40]{
+-- Page 28, Offset 2604.
+-- 「そりゃ誤解も<甚|はなは>だしい！　俺の欠席は手抜きじゃねえ、特権ってヤツだと言ったろう!?」
+"How many times do I have to tell you?! It's not skipping when I've got special permission!"
+
+}
+[sha:04d893aea710742a81d61a5774f3140d0e102e4e]{
+-- Page 28, Offset 2605.
+-- 心外だ、とばかりに席を立って力説する副会長。
+  The vice-president angrily defended himself as he stood up.
+
+}
+[sha:f1455ffd0cbc364ebb4d78ab1452f2749a1c8dab]{
+-- Page 28, Offset 2606.
+-- それをふーん、と無感動に眺める転入生。
+  The transfer student merely gazed at him, unfazed.
+
+}
+[sha:33894d6a264a96a86efd18ffdd107fef9f6a3a5f]{
+-- Page 29, Offset 2607.
+-- 「おいおい、アレだけ説明したのにぜんっぜん分かってなかったのか!?
+"Hey! You're not honestly implying you still don't understand after all that, are you?!
+
+}
+[sha:3c3abb877bcc130230f8e865c06d32aa91d6b746]{
+-- Page 29, Offset 2608.
+-- しょうがねえ、まず座れ。いいか草の字。
+  Oh well. Just sit down and listen, Sono-G.
+
+}
+[sha:14c09e5eadfe9cd7678ed10909313acd9f57fb9c]{
+-- Page 29, Offset 2609.
+-- 常人をうわまわる英気と幸運を兼ね備えながら、座する事なく精進してきた俺でも、ここを卒業しちまえば裸一貫になっちまうんだぞ？」
+  I was granted talent and luck beyond that of most people, but I always put the work in. But once I leave here I'm on my own, now do you get it?"
+
+}
+[sha:742fa2fc4c05be89debb1c64d323a33418c7d609]{
+-- Page 30, Offset 2610.
+-- 「ひでえ話だ。
+"I'm sick of explaining this to people.
+
+}
+[sha:5cfc8262abacbcda7f4802c50d2dd7a19be26e3a]{
+-- Page 30, Offset 2611.
+-- <自分|テメエ>の家柄を活用できんのはあと一年ちょいだけなんだぜ？　これの一体どこが羨ましいってんだ？
+  My family's status will only keep me afloat for one more year. What about that could you possibly envy?
+
+}
+[sha:57d35bd7bbfcaf41cc0162d316b1e5889629a6e1]{
+-- Page 30, Offset 2612.
+-- ふつう一生続くはずの親の七光って<権利|ヤツ>が、俺の場合はたった三年間しかねえんだからな！」
+  Most people can live off privilege for their entire lives, but the best I get is three measly years!"
+
+}
+[sha:88ca9ad0f2ac9a39b92b53faf54ea941eb8b63f4]{
+-- Page 31, Offset 2613.
+-- 「となりゃあ、有効なうちに使っておかなきゃもったいなくてオチオチ眠ってもいられねえ。
+"So I have to take advantage of what I have while I have it.
+
+}
+[sha:976dd7eee5fa6f3f8dd366e044fe98f28859afaf]{
+-- Page 31, Offset 2614.
+-- ああイヤだイヤだ、何がイヤかってバカどもと<雁首|がんくび>ならべて金勘定するのがイヤだ！　ったく、嫉妬渦巻く大人の世界じゃ俺のオブラートみたいな心なんてぱっくり呑まれて溶けちまうコト請け合いだろうさ！」
+  Just the thought of having to count beans like the rest of the idiots out there gets me livid. The adult world is going to kill me. The envy alone will be enough to destroy my fragile heart!"
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 32, Offset 2615.
+-- 「――――――」
+"..."
+
+}
+[sha:02f0750c0f0d34cb6b4663c1c021c90e2fe4493e]{
+-- Page 32, Offset 2616.
+-- 冗談にしか取れない熱弁は、草十郎の聞くかぎりどうも本気のようだった。
+  While he must have been joking, Soujyuro took his tone to be completely sincere.
+
+}
+[sha:349ba923671d075d101dfa245b03211cd0b5793a]{
+-- Page 32, Offset 2617.
+-- そういう事を本気で言える人間性が羨ましい、などと思いつつ、草十郎はなるほど、と納得する。
+  He listened as he envied Tobimaru's ability to be so open about his feelings.
+
+}
+[sha:4abfe83f0aee24a8f7cf07ceea95afd272218ca1]{
+-- Page 32, Offset 2618.
+-- 本人が言うのだから彼の主観的には正しいのだろうと。
+  From his frame of reference, there was nothing he could do but take Tobimaru for his word.
+
+}
+[sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
+-- Page 32, Offset 2619.
+-- だが、
+  However...
+
+}
+[sha:268ba37ca4f50c95baf2054a5f4773966d8d41d1]{
+-- Page 33, Offset 2620.
+-- 「あら、そんな権利なんて留年すればいくらでも引き延ばせるのに。なんなら協力してあげましょうか、この私でよろしければ」
+"If you're looking to extend your privileges, why not stay in school? I'd be more than happy to arrange that for you."
+
+}
+[sha:5738a860caec5723963f3b35a9f84a4a819ca5a4]{
+-- Page 33, Offset 2621.
+-- 草十郎の骨のない相づちを蹴散らすように、生徒会室の扉が勢いよく開かれた。
+  The door to the student council room flew open, washing away Soujyuro's half-hearted responses to his friend.
+
+}
+[sha:f28b8388baa58734ef12a4de70efceb42457613b]{
+-- Page 34, Offset 2622.
+-- ほんわかした空気を一撃で打ち砕く<冷静|クール>な一言。
+  This frosty statement destroyed the warm atmosphere of the room.
+
+}
+[sha:7ea93aa094228a9167d6ba0deb81fa2eb92dc13a]{
+-- Page 34, Offset 2623.
+-- 槻司鳶丸にあったこの場の支配権は、<蝙蝠|こうもり>より<潔|いさぎよ>く彼女の手に飛び立ったのだった。
+  And it also marked the abrupt end to Tobimaru Tsukiji's reign there.
+
+}
+[sha:cada01be6243595fd9cb5544115d43662773e077]{
+-- Page 35, Offset 2624.
+-- 「……いや、いい。自分の夢は、自分の力だけで叶えようとつねづね思ってるんだ」
+"...No, I just meant that our dreams are something we take hold of ourselves."
+
+}
+[sha:dab1a971ae05db2a08f03739783b9be750e2b239]{
+-- Page 35, Offset 2625.
+-- 「そ。なら今みたいな恥ずかしいこと力説しないでね。
+"Really. Then why not spend more time on that than this pathetic display.
+
+}
+[sha:2db2ad8d3c07a56e72bffd5e888e7e46ed4cb6c2]{
+-- Page 35, Offset 2626.
+-- 廊下にまで聞こえてたわよ、副会長さん」
+  I could hear you all the way from the hallway, Mr. Vice-President."
+
+}
+[sha:939af8c22d87bc8602425733074af16dd39279dd]{
+-- Page 36, Offset 2627.
+-- さらりと言って、彼女……蒼崎青子が生徒会室に入ってくる。
+  Not missing a beat, Aoko Aozaki stepped inside the room.
+
+}
+[sha:8e230b6b2680b19566a6e7b13a77fb5b753aeda8]{
+-- Page 36, Offset 2628.
+-- 長い黒髪がわずかに乱れているのは、ここまで走ってきたせいか。
+  Her dark hair was slightly disheveled as if she had been running.
+
+}
+[sha:3b56f46b113d0bf2ffdc10fc04b33bb824c6b27f]{
+-- Page 36, Offset 2629.
+-- 青子の視線は座ったままの草十郎にではなく、熱弁していた副会長に向けられている。
+  Her gaze missed the sitting Soujyuro entirely and was focused completely on the ranting vice-president.
+
+}
+[sha:4995dec0fcb9b8eded2d3bdc02aecec5ef523895]{
+-- Page 37, Offset 2630.
+-- 「頑張れ、鳶丸」
+"Good luck, Tobimaru."
+
+}
+[sha:3d4f27d06484a4f7f5a8bfdb31041583d4757beb]{
+-- Page 37, Offset 2631.
+-- そろそろ教室に戻らないといけない、と草十郎は静かに立ち上がる。
+  Soujyuro quietly got up to head back to his classroom.
+
+}
+[sha:8c31130662e9fcf6a17e8cad3bd5afee23cbb82e]{
+-- Page 37, Offset 2632.
+-- 「……わりと薄情なんだな、おまえって」
+"...That's cold, man."
+
+}
+[sha:d364b93900dfb43b9091e50cc14c7cc71f745447]{
+-- Page 37, Offset 2633.
+-- 青子を前にして呟く鳶丸。
+  Tobimaru grumbled in front of Aoko.
+
+}
+[sha:3f28f1dd4577751a1f2e31e77192aaea3d4c5043]{
+-- Page 38, Offset 2634.
+-- 「だって時間がない」
+"But it's almost time for class."
+
+}
+[sha:e7af941c5e1cfbd326580a4571c40fadc4ab649a]{
+-- Page 38, Offset 2635.
+-- 「だから、そういうのが薄情とだな……」
+"You're just proving my point, you're-"
+
+}
+[sha:3a00c7348b92c879f6b890f2dc3eee466856124f]{
+-- Page 38, Offset 2636.
+-- 言いかけて言葉を呑む鳶丸。
+  He cut himself off.
+
+}
+[sha:208db34f1bda84ee51a4b423989956ded450832a]{
+-- Page 38, Offset 2637.
+-- 今まで自分しか見ていなかった青子の視線が、草十郎をちらりと見たからだ。
+  Aoko briefly shifted her gaze to Soujyuro.
+
+}
+[sha:3e8980660f975467a2b094e63258ce63791fe772]{
+-- Page 39, Offset 2638.
+-- 「時間がないのは私も同じよ。貴方にはいつも振り回される」
+"It's not like I have time for this, either, you know. It feels like I'm always having to clean up after you."
+
+}
+[sha:a26f64bd154dbc124f5fd0552f39a3323ded8e96]{
+-- Page 39, Offset 2639.
+-- これは文句ではなく、素直な意見らしい。
+  Not a complaint. It was her honest opinion.
+
+}
+[sha:c3493f5c82de48b43aa98610523a4f8caaedb98f]{
+-- Page 39, Offset 2640.
+-- 「なんだ、用件は草十郎かよ」
+"Wait, you're here for Soujyuro?"
+
+}
+[sha:08850a33c8355086673e88cbd6de37f6c38e666c]{
+-- Page 39, Offset 2641.
+-- 「安心なさい、貴方にもあるから」
+"Don't worry. I'll deal with you next."
+
+}
+[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+-- Page 40, Offset 2642.
+-- 「……？」
+"...?"
+
+}
+[sha:14ecff587fb31e660c87c9df4a5a7c19e25f0acb]{
+-- Page 40, Offset 2643.
+-- 心なしか、青子の目に殺伐とした<翳|かげ>りがある。
+  Her eyes shimmered with a murderous glee.
+
+}
+[sha:02a89f8b731fcb000d731678f75b4681c727416c]{
+-- Page 40, Offset 2644.
+-- いつも不機嫌そうな青子の視線に見慣れている鳶丸だからこそ気づける、微妙な差異だ。
+  It was slightly different from the more sullen gaze to which Tobimaru had grown accustomed.
+
+}
+[sha:70e9d79a8c05034b5fda8cabf910d920300b27c4]{
+-- Page 40, Offset 2645.
+-- ……理由は不明だが、蒼崎青子はいつになくご機嫌ななめという事らしい。
+  For whatever reason, Aoko's mood seemed worse than usual.
+
+}
+[sha:78bc034e25f09ca9436f72d9a54344ab7784a3b7]{
+-- Page 41, Offset 2646.
+-- 「静希君。貴方、走るのと泳ぐの、どっちが好き？」
+"Sizuki. Which do you prefer, running or swimming?"
+
+}
+[sha:4fcccd9044db9c1628a556586c2e3512b0164426]{
+-- Page 41, Offset 2647.
+-- 唐突に青子が訊ねる。
+  Aoko asked abruptly.
+
+}
+[sha:2ec8a58aee3dccd8478651c7c4221ac1b2c1e0c0]{
+-- Page 41, Offset 2648.
+-- 草十郎は少し顔を曇らせてから、どっちも、と答えた。
+  Soujyuro frowned a little before saying he was fine with either one.
+
+}
+[sha:462638a5c01f714618da97c0ecad8f7d081def69]{
+-- Page 41, Offset 2649.
+-- 「だめよ、ひとつにして」
+"That won't do. Pick one."
+
+}
+[sha:e8d1580b9e3936e7cbe794257d21612a1d29d655]{
+-- Page 41, Offset 2650.
+-- 「……泳ぐほう、かな。けど、どうして？」
+"...Swimming, I guess. Why do you ask?"
+
+}
+[sha:233058a61a63b9beb6eb697908db2c953c455442]{
+-- Page 41, Offset 2651.
+-- 「貴方がまだどこの部にも所属してないから」
+"Because you still haven't joined a club."
+
+}
+[sha:4361cae79ce893fd2d6f0510fbdd7e524f48a96d]{
+-- Page 41, Offset 2652.
+-- 実に無駄のない答えだった。
+  A succinct reply.
+
+}
+[sha:ad94ced2b199bfec3ad95ceae4488cadccb25287]{
+-- Page 41, Offset 2653.
+-- 無駄がなさすぎて、草十郎の意見をはさむ隙間もない。
+  One that left no room for Soujyuro to object.
+
+}
+[sha:bf4f1c6a7c60d87a23c84d2d54b34fc5428d68a5]{
+-- Page 42, Offset 2654.
+-- 「うちの校則、読んだわよね。生徒はただ一人の例外もなく部活動に参加しなくてはならない。
+"You've read the school regulations. All students must participate in club activities.
+
+}
+[sha:828db669b8078a2a6193e24b0d6a5e249765b10b]{
+-- Page 42, Offset 2655.
+-- 正直どうかと思う校則だけど、決まりは決まりだから」
+  I'm not the biggest fan of it myself, to be honest, but a rule is a rule."
+
+}
+[sha:88ef1ce2bdcb694d4ba3f87a48241a20f78ed7f0]{
+-- Page 42, Offset 2656.
+-- 「そんな無茶な。悪いけど、そこまでの暇はないんだ」
+"That's crazy. How could I possibly find the time for that?"
+
+}
+[sha:815ae9f99eb93818ec49fcac68a0a0974c8379b7]{
+-- Page 42, Offset 2657.
+-- 「でしょうね」
+"How indeed?"
+
+}
+[sha:9a090a2e3726d4f8e7b4e70f75838b88ff5758ba]{
+-- Page 42, Offset 2658.
+-- 短い返答。
+  An equally terse response.
+
+}
+[sha:27640b0da51692fd4f1e1ca1fa5bcbe7e1ef1106]{
+-- Page 42, Offset 2659.
+-- 青子に容赦がないのはいつもの事だが、鳶丸には、彼女が草十郎との会話を避けているようにも見える。
+  She was typically to the point, but Tobimaru got the impression that she was expressly trying to keep her interaction with Soujyuro short.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 43, Offset 2660.
+-- 「――――――」
+"..."
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 43, Offset 2661.
+-- 「――――――」
+"..."
+
+}
+[sha:06b33dfd5b99fe3a6e340a433d65637efa0a55bb]{
+-- Page 43, Offset 2662.
+-- 無言で見つめあうふたり。
+  They stared at each other in silence.
+
+}
+[sha:00a0f2180b5d1ec131f23589f6aafb8c48556ffa]{
+-- Page 43, Offset 2663.
+-- 第三者の鳶丸すら息がつまりそうな沈黙は、そうか、という草十郎の一言で破られた。
+  Tobimaru stood breathlessly silent on the sidelines until Soujyuro broke the impasse.
+
+}
+[sha:9165389c7c9113095f9e81fbb3315cdceedc62eb]{
+-- Page 44, Offset 2664.
+-- 「蒼崎は分かってると思ってた。
+"I thought you of all people would understand, Aozaki.
+
+}
+[sha:c0e42c461ac7f2c7c6f02f1f9cfde531a3f69358]{
+-- Page 44, Offset 2665. Glued. Mods: @x.
+-- ああ、いや違う、きっと分かっているんだな。
+I mean, of course you do.
+
+}
+[sha:0107ab2f7ed16e225eab4398d89da5e145d250e5]{
+-- Page 44, Offset 2666.
+-- うん。だから、そこが強いんだろうね」
+  That's what makes you strong."
+
+}
+[sha:20bcf9e0a2df5cc795fa95327010f26064060e4d]{
+-- Page 44, Offset 2667.
+-- 席を離れる草十郎。
+  Soujyuro stood up from his seat.
+
+}
+[sha:e5eca27b2842de9817abb6bdc6f6ac91cfbe7a3a]{
+-- Page 44, Offset 2668.
+-- 青子の横を通り過ぎ、あっさりと廊下に出る。
+  He walked past Aoko and into the hallway.
+
+}
+[sha:af69d0972774f595775806c17f6cbcef8cc80dd4]{
+-- Page 45, Offset 2669.
+-- 「それ、明日からでいいんだろ？」
+"Do you mind if I start tomorrow?"
+
+}
+[sha:40d705c01d8d3d2fdabdae45ca3d185472a25be5]{
+-- Page 45, Offset 2670.
+-- 「静希君がいいならね」
+"Whatever works for you, Sizuki."
+
+}
+[sha:55f7c6886e67f117954c6fdc5616b34542a0de5a]{
+-- Page 45, Offset 2671.
+-- できるだけ頑張るよ、と苦笑して、草十郎は生徒会室を後にした。
+  He did his best to force a smile before leaving the student council room.
+
+}

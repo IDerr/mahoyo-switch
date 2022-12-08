@@ -1,0 +1,348 @@
+[sha:68147f87163e18d21bd33f17325f1515322fb994]{
+-- Page 0, Offset 18974.
+-- あれからずっと<抱|かか>えていた疑問。
+  It had bothered him ever since that night.
+
+}
+[sha:f30795b6b979ccc9c8fae425d508f069c35fd2df]{
+-- Page 0, Offset 18975.
+-- 今回の事件の<顛末|てんまつ>と、姉妹間の決着。
+  What was the truth behind it all, and how would the two sisters' drama unfold?
+
+}
+[sha:950cab214e33dee12145f368832ff453b23de763]{
+-- Page 0, Offset 18976.
+-- そういった余分な話を、草十郎は口にする。
+  Soujyuro ventured to press Aoko for details.
+
+}
+[sha:9c3196273a77b4ed107d4297b9729e365e3b5a7e]{
+-- Page 1, Offset 18977.
+-- 「それで、橙子さんは何がしたかったんだ？」
+"So what was it that Miss Touko wanted to accomplish?"
+
+}
+[sha:f976797b2f6287e85d9ae5fe059cf85822b326ee]{
+-- Page 1, Offset 18978.
+-- 「あれ、言わなかった？　<蒼崎|わたし>への復讐と、根源に接触する事だって。
+"I thought I told you. She wanted to get revenge against me, and then there's the whole coming in contact with the Root thing.
+
+}
+[sha:98792a4316a5875efc18c3e50641d8363baef2e9]{
+-- Page 1, Offset 18979. Glued. Mods: @x.
+-- 根源の渦については前に少しだけ話したでしょ」
+We already talked about the Swirl of the Root, remember?"
+
+}
+[sha:c62ac4f127fb72a70e557969976afde4fa817a75]{
+-- Page 1, Offset 18980.
+-- 「……たしか、魔術の源だっけ」
+"It's like... the source of magecraft, right?"
+
+}
+[sha:cc66be28bce05780882e337b7fdc4c8b596e8a26]{
+-- Page 2, Offset 18981.
+-- 「そう。そして最終目的でもあるわ。
+"Right. And also its end goal.
+
+}
+[sha:e572b68b16605d7dc6da95c340d630914a1d3685]{
+-- Page 2, Offset 18982.
+-- 根源の渦っていうのは、全ての<叡知|えいち>が記録された位置、全ての事柄が決定された場所。
+  The place where all knowledge is recorded, where all matters are settled.
+
+}
+[sha:1518bd2ff002950d508a7de76e1b4782f42a62f4]{
+-- Page 2, Offset 18983.
+-- そこを見て、触れて、理解できれば不可能なんて言葉すら作り替えられる。伝承によって呼び名は様々だけど、ようするに神さまのいる位置なんでしょうね」
+  To see, touch, and understand it makes even the impossible possible. It has gone by many names over the years, but you could say it's where God lives."
+
+}
+[sha:038eed4c2a690adcf9a240051619ecf8348f8115]{
+-- Page 3, Offset 18984.
+-- 「神さまっていうのは、<八百万|やおよろず>的なものじゃなく？」
+"God? So there's just one then? Not a bunch, like in Shinto?"
+
+}
+[sha:250283901523ea5346754329d543ec62fec48520]{
+-- Page 3, Offset 18985.
+-- 「……たまにそういうコト言いだすから厄介よねアンタは。
+"There you go again with your annoying questions.
+
+}
+[sha:91a2e365f967193382bbfe136038d477019fd5f4]{
+-- Page 3, Offset 18986.
+-- そりゃ万象に宿る神さまもいるでしょうけど、これはその前、そういうのを決めた大前提みたいなものよ」
+  There are gods in everything around us, but there's also one big underlying force that existed way before all that."
+
+}
+[sha:db986b52130b1adb1bd3b8d2aef212f4edf90592]{
+-- Page 4, Offset 18987.
+-- 「そんなものの入り口がどうして三咲にあったのかは知らないけど、祖父はそれを発見して、新しい魔法を作り出した。
+"Who knows why an entrance to the Root is located in Misaki, but my grandfather discovered it and was able to create a new kind of Magic.
+
+}
+[sha:d918eb504a2b4288f9db3a5ede67abe86171a0c6]{
+-- Page 4, Offset 18988.
+-- でも、その後に根源への<路|みち>を閉ざしちゃったのよ。
+  But then he closed the way to the Root.
+
+}
+[sha:08f7fafa3e4ed883c65527010b564ab5b9d4db9e]{
+-- Page 4, Offset 18989. Glued. Mods: @x.
+-- 魔法さえ成立したのなら、神さまへの<路|みち>は消えるべきだって」
+He said that if this path to God enabled us to create Magic, then no one should be allowed to go there."
+
+}
+[sha:9ba111cf3afa6ead1b46200faf02eb056d86056a]{
+-- Page 5, Offset 18990.
+-- 「……たぶん、私たちが生きているかぎり開放する気はなくて、橙子はそれが腹立たしかったんだと思う。
+"He has no intention of opening it again as long as we're alive, which made Touko crazy mad.
+
+}
+[sha:85a1645459c03a75551e430a2abc19d3540a0745]{
+-- Page 5, Offset 18991.
+-- たとえ力不足で取り込まれても、道があるのなら試すべきだ。自己の消滅を恐れるぐらいなら、そもそも魔術なんて学ばなかった―――ってね」
+  She said that the path is meant to be explored, even if we aren't strong enough to handle what we find. And that you shouldn't be studying magecraft in the first place if you're afraid of getting killed."
+
+}
+[sha:25b433bd53ec5603fe7c4ae0ed371c75208fb29e]{
+-- Page 6, Offset 18992.
+-- 「でも祖父は<礎|いしずえ>になろうとする意志さえ認めなかった。
+"But my grandfather didn't appreciate her ambition.
+
+}
+[sha:6159eaadba0eee992b7880979fc87010d94de13f]{
+-- Page 6, Offset 18993.
+-- もっと強力な後継ぎが生まれるまで、根源の解析は許可しない。後継ぎに魔法は<譲|ゆず>るけれど、根源への路だけは閉ざしていたのよ。
+  He refused to allow anyone to investigate the Root until a stronger heir was born. He's willing to pass on True Magic, just not the way to reach the Root.
+
+}
+[sha:020c787ce5f7d79bfab86bd3068104cc59685abd]{
+-- Page 6, Offset 18994.
+-- ……橙子の気持ちも分かるけど、私は祖父に賛成だわ。
+  I understand where Touko's coming from, but I agree with my grandfather.
+
+}
+[sha:07206e1c018a8fc76e6f57ec64cb4b915a6b8d2d]{
+-- Page 6, Offset 18995.
+-- 根源なんてものに興味はないし、第一、今まで一人も生還者がいないんだもの。それが本当に神々の座なのか保証もないし」
+  I don't care about the Root, and anyway, to this day there haven't been any survivors. There's not even proof that it's really the seat of the gods."
+
+}
+[sha:c2aebfc0f809717b9e9e034e97cd52f6b6ea175c]{
+-- Page 7, Offset 18996.
+-- 話しているうちに機嫌を損ねたのか、後半はなかば文句になっていた。
+  Her mood had gradually soured as she spoke and towards the end it sounded more like a list of complaints.
+
+}
+[sha:03118876304c23693ad03f8e8bba65ae2da2d0aa]{
+-- Page 7, Offset 18997.
+-- なんだかんだ言って、青子本人も祖父には賛同しきれない部分があるらしい。
+  Despite her words, however, part of Aoko was unable to agree completely with her grandfather's decision.
+
+}
+[sha:e6e9ba60545407270daed43a1f213ceaab748886]{
+-- Page 7, Offset 18998.
+-- それを気にしながら、草十郎は今の話のおかしな部分について訊き返す。
+  Soujyuro took note and followed up with a question about something he found strange.
+
+}
+[sha:677dee64efeda2c33f519fe2fe17bc233f053a7e]{
+-- Page 8, Offset 18999.
+-- 「蒼崎。一人も生還者がいないって、どういう事だ？」
+"What did you mean about how there haven't been any survivors?"
+
+}
+[sha:f653af5d901101853fc25b8540c921720a8af50b]{
+-- Page 8, Offset 19000.
+-- 「根源に触れて、帰ってきた者は一人もいないの。世界規模でね。
+"I meant that no one's ever come in contact with the Root and made it back to talk about it. Not a single person in the entire world.
+
+}
+[sha:392c0fb04104e8057d030acdab0a306247fb48ce]{
+-- Page 8, Offset 19001.
+-- 触れれば即消滅。人間程度の魂だと触れた瞬間に<元|・><に|・><戻|・><る|・>とか、根源に取りこまれるとか」
+  Coming in contact with it means instant death. The soul of a mere human simply 'returns to the source,' so to speak. In other words, it gets sucked into the Root."
+
+}
+[sha:4215cb1beee23ea12ef7f2d43832696413ba0095]{
+-- Page 9, Offset 19002.
+-- 「なんで、どんなに歴史に名を残した魔術師でも、あれにだけは触れていないわ。せいぜい間近にして、大急ぎで自分の魔術を安定させた程度だもの」
+"That's why not even the greatest mages in history dared to touch it. Just coming close is enough to send them frantically trying to stabilize their magecraft."
+
+}
+[sha:78c69def726bc837fffea577dfaf16b569cb2015]{
+-- Page 9, Offset 19003.
+-- そこがおかしい、と草十郎は眉をひそめる。
+  Soujyuro furrowed his brow at the oddness of it all.
+
+}
+[sha:e55cbc0659a35f70dba4a8564a5e7b32382fbfd2]{
+-- Page 10, Offset 19004.
+-- 「それじゃあ、どうしてそこがそういう場所だって分かるんだ」
+"Then how does anyone know so much about this place?"
+
+}
+[sha:061c99b669303c2d6d414a5ba116208164d1f594]{
+-- Page 10, Offset 19005.
+-- 「そりゃあ、中に入って伝えた人がいたからでしょう」
+"Because there is one person who went and made it back."
+
+}
+[sha:c143e10ca639a3426623698bb5ac971832433f21]{
+-- Page 10, Offset 19006.
+-- 「でも生還者はいないって」
+"But you said there were no survivors..."
+
+}
+[sha:56def54e2decfe50f7cc3a3cb14b6ad1269af369]{
+-- Page 10, Offset 19007.
+-- 「だから。そういう人たちは、中で神さまにでもなっちゃったんじゃない？」
+"Yeah, because everyone who's gone in turns into God, too."
+
+}
+[sha:3bef392d27e17153245aa5294037dae771e34483]{
+-- Page 10, Offset 19008.
+-- 実にきっぱりと彼女は言った。
+  She spoke very matter-of-factly.
+
+}
+[sha:c531c911b5f82da591f1bd29d38290fc2fc398c5]{
+-- Page 10, Offset 19009.
+-- 何でもない話のように、昨日の話をするように。
+  As if it was only a minor detail about something that had happened the other day.
+
+}
+[sha:019d2e57204a17fcc857127f6d0d85a80edcf6d3]{
+-- Page 11, Offset 19010.
+-- 「そうなればこっちに帰ってくる必要はないでしょうし、もしかすると、単に帰って来られないだけかもね。
+"So why would they even bother coming back to our world? Or maybe they can't, who knows.
+
+}
+[sha:dd54cdde127a1c9198f23d569f4394c54e349f96]{
+-- Page 11, Offset 19011.
+-- ……ま、神さまって位置づけが私たちが思っているようなものとは思えないから、あまり幸福そうには思えないけど」
+  Being God is probably totally different than what we imagine. I doubt it's very fun."
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 11, Offset 19012.
+-- 「………………」
+"..."
+
+}
+[sha:94d677a142a3a89b67b50528112526f89ed8d2ac]{
+-- Page 12, Offset 19013.
+-- 成功者も失敗者も、それに触れては、こちらの世界に帰っては来られない。
+  Whether they succeed or fail in their endeavor, those who reach the Root become unable to return to the normal world.
+
+}
+[sha:6040ffa65238ad0c39cee10bf5bce914e42676c9]{
+-- Page 12, Offset 19014.
+-- 根源の渦とやらを人々に伝えたのは、
+  Maybe the first person to become God felt lonely
+
+}
+[sha:8d5f1afe60ec42cadcf9478d5d8a8998b24989a2]{
+-- Page 12, Offset 19015.
+-- 一番初めに神さまになった誰かが、淋しさから仲間を欲しがった結果なのかもしれない。
+  and spread the word about the Swirl of the Root in order to have others join them there.
+
+}
+[sha:213559ec5e2a11af067561f90d6f66c4c35d684c]{
+-- Page 12, Offset 19016.
+-- ……あるいは、あちらの仕事はあまりにも膨大で、他にも仲間を欲しがったのか。
+  Or maybe they had so much work to do as God they just needed some help.
+
+}
+[sha:a4f9c7f1730117938f12bcd3da67b5f686861dfb]{
+-- Page 12, Offset 19017.
+-- 草十郎には、いくら考えても掴めない事ではあるが。
+  None of it made any sense no matter how long Soujyuro thought about it.
+
+}
+[sha:f134f48ed898ece50f19d0f9382f1cd8a2e69578]{
+-- Page 13, Offset 19018.
+-- 「……橙子さんは、そうなりたかったのかな」
+"You think Miss Touko wanted to become a god?"
+
+}
+[sha:bd828c7d7b0f22c99058c7c05136762120f00f7f]{
+-- Page 13, Offset 19019.
+-- 「まさか。あの人は単に知りたかっただけよ。
+"Oh, please. She just wanted to know the truth.
+
+}
+[sha:62db76e5702c9b04fb27f814e1aa243805530185]{
+-- Page 13, Offset 19020.
+-- その後に残された人たちの事なんて興味はないの。昔から、目標に没頭しても成果を愛する人じゃなかったから」
+  She doesn't care what happens to the next person. That's how she's always been. She just focuses completely on her goal and doesn't worry about what comes next."
+
+}
+[sha:6d2628b1ec85332b67993eea09c53ba6b3d046cd]{
+-- Page 14, Offset 19021.
+-- 「正直なところ、そのあたり姉貴は突き抜けてるわ。
+"She's a bit on the extreme side, to be honest.
+
+}
+[sha:7574527291543dac973ebdb9892edef914a5ca51]{
+-- Page 14, Offset 19022. Glued. Mods: @x.
+-- ホントの天才ってのはああいう非人間のコト言うのよ。苦労して作り上げたモノの、その後をまったく考えないんだから」
+But geniuses always have an inhumane side to them like that. They work and work on their masterpiece without so much as considering what will happen once it's complete."
+
+}
+[sha:5d6afdc7096bfcb24b25cdae0aaadc0e15b46247]{
+-- Page 14, Offset 19023.
+-- 呆れているようにも認めているようにも取れる口ぶり。
+  Soujyuro wasn't sure whether she spoke out of disgust or respect.
+
+}
+[sha:cc9ade5689107eec098483a17cbff87afb44d4c1]{
+-- Page 15, Offset 19024.
+-- 「でも、そのくせ面倒見はいいって言うか。
+"But she's still pretty considerate to others in the moment.
+
+}
+[sha:a6d62ab3cff3286ec62c75d9bf7636313a1ed4a1]{
+-- Page 15, Offset 19025.
+-- 未来の事は考えないのに、今あるものには何にでも興味を持つんだから」
+  Since she doesn't worry about the future, she focuses all her energy on the here and now."
+
+}
+[sha:e9862e6787c7794992e72e34d07e6a88d9043071]{
+-- Page 15, Offset 19026.
+-- これだから天才肌の女は、と悪態をつく青子。
+  Aoko praised her sister's genius even while cursing her every being.
+
+}
+[sha:4f9a2c76034c8325fa843ce7e1036946a1a20f10]{
+-- Page 15, Offset 19027.
+-- <敵意|てきい>の<欠片|かけら>もない声は、聞くものとしては微笑ましい。
+  Though her tone of voice was perfectly pleasant and lacked any audible animosity.
+
+}
+[sha:eb40f55c0e460586924070ea6b538e83f719f974]{
+-- Page 16, Offset 19028.
+-- 「そうだね。それに、橙子さんはこっちの方が好きみたいだったから」
+"Right. Miss Touko seemed to really like me a lot."
+
+}
+[sha:ee4e8565ef605af61d0205727c1d6d6a1a0fdd75]{
+-- Page 16, Offset 19029.
+-- そんな事を口にしたら、草十郎は先ほどの言葉の意味も分かってしまった。
+  As soon as he spoke, he was struck by the meaning of Aoko's earlier words.
+
+}
+[sha:7f2714f619d18ade8de2917953688f053bf449ad]{
+-- Page 16, Offset 19030.
+-- “根源になんて興味はない”
+"I don't care about the Root."
+
+}
+[sha:e2830ebf5d19b58cbc43ddaaf77a9a88a6486031]{
+-- Page 16, Offset 19031.
+-- つまり青子も、橙子と同じ気持ちなのだろう、と。
+  He realized that she must feel the same way as Touko.
+
+}

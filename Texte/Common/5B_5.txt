@@ -1,0 +1,1260 @@
+[sha:4ac49c5cad04bb7f834c5c237d4939997d46959b]{
+-- Page 0, Offset 6889.
+-- 「静希君、正門ってこっち！？」
+"Sizuki, is this the way out?!"
+
+}
+[sha:c5b8a44c76665b00f8b7fd38a3e49f1807f718d1]{
+-- Page 0, Offset 6890.
+-- 「ああ、その店を曲がれば出口だ！」
+"Yeah, the exit is just around that store!"
+
+}
+[sha:fc96a6b202c8311279d21d6e1e2183cf448d3ffe]{
+-- Page 1, Offset 6891.
+-- 全力とは言わずとも、休まずに走り続けてはや十分。
+  Running nonstop at full speed had them at their limits.
+
+}
+[sha:c56e5f72f964510cd3b6a0c8d0ae1fcaeaa4339d]{
+-- Page 1, Offset 6892.
+-- 息を乱しながらふたりは曲がり角に飛びこんだ。
+  Their breath ragged, the two flew around the corner.
+
+}
+[sha:6ae4335469c3d2ff98f488e07902d027228e1d85]{
+-- Page 1, Offset 6893.
+-- 遊園地と言っても所詮はキッツィーランド。
+  Amusement park though it was, this was still the infamous Kitsy Land.
+
+}
+[sha:c795f889f166d9a53f5f1ad33d6ddb8d9f38b72b]{
+-- Page 1, Offset 6894.
+-- 高校生が全力で走れば二十分ほどで一周できる。
+  It would have taken a high school student twenty minutes to sprint the entire circumference of the park.
+
+}
+[sha:74b491db88eb0f493535ad1dcecf84edeaf9a6b8]{
+-- Page 1, Offset 6895.
+-- そんな地域密着型のアミューズメントパークは、しかし。
+  And though they were now intimately familiar with the park's geography...
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 2, Offset 6896.
+-- 「――――――」
+"..."
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 2, Offset 6897.
+-- 「――――――」
+"..."
+
+}
+[sha:ac0a120f3d2f9a503aafaf77116e965735e12c36]{
+-- Page 2, Offset 6898.
+-- ……このように。
+  ...It was changing beyond recognition. 
+
+}
+[sha:46d1014ba2c3f9aa07b8f3517648a46e413175e4]{
+-- Page 2, Offset 6899.
+-- 住人ばかりか、遊園地そのものを変化させていた。
+  The transformation was not limited to the park's residents, either.
+
+}
+[sha:c5b620409b60d3ab81f84455138afe9428b8eec0]{
+-- Page 3, Offset 6900.
+-- 「……蒼崎」
+"Aozaki?"
+
+}
+[sha:40d40d1cb222a7c181d1ba9f839dc1034716d013]{
+-- Page 3, Offset 6901.
+-- 「……なによ」
+"...What?!"
+
+}
+[sha:3cd561f2d95058ee130ba48597ce6e4cc6a4c364]{
+-- Page 3, Offset 6902.
+-- 「……言いたくないんだけど。この遊園地、広くなってないか？」
+"I hate to ask, but... is it just me, or is the park getting bigger?"
+
+}
+[sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
+-- Page 4, Offset 6903.
+-- そう。
+  It could only be.
+
+}
+[sha:d95fccf55886ba71c9a1c887856a307178be1562]{
+-- Page 4, Offset 6904. Glued. Mods: @x.
+-- 出口を間違えたとか、地形が変わっているとか、そんな現実的な間違いではない。
+Their problem wasn't as mundane as mistaking the location of the exist, or getting lost in the terrain.
+
+}
+[sha:daa31fc5687cccae4b90a017860698696ccf9f88]{
+-- Page 4, Offset 6905.
+-- あらゆるものが、ねじ曲がっている。
+  No, the park was warping and twisting in upon itself.
+
+}
+[sha:6627b28de70108e6a5374c1f43b5cccbfc62c686]{
+-- Page 4, Offset 6906.
+-- 遊園地はそれ自体が生き物のように、いまもって、その規模を成長させていた。
+  Even now, its structure was expanding and growing, like that of a living creature.
+
+}
+[sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
+-- Page 5, Offset 6907.
+-- 「―――」
+"..."
+
+}
+[sha:59cd6ba42b48be107c4976ae634c4c7b04db4fa1]{
+-- Page 5, Offset 6908.
+-- 気が付けば包囲網は一段と強固になっている。
+  Soon, the pair noticed that the mob encircling them had grown even stronger.
+
+}
+[sha:3d90af4f73e7af8dad06dbefc699ebc5b726c682]{
+-- Page 6, Offset 6909.
+-- 草十郎に背中をあずけながら、青子は懸命に泣き言を抑えこむ。
+  Entrusting her back to Soujyuro, Aoko summoned all of her effort just to keep from whining.
+
+}
+[sha:a5ad6fdb8db8a0e8aac97bb7f4828772b0389216]{
+-- Page 6, Offset 6910.
+-- 草十郎は驚き、怖がるだけでいい。
+  No one would have thought twice if it had been just Soujyuro cowering in shock and terror.
+
+}
+[sha:b05dbf3958ed4ee3011318e94d1340d66e21df28]{
+-- Page 6, Offset 6911.
+-- けれど青子はそうはいかない。
+  But Aoko doing the same?
+
+}
+[sha:76be611dcd01cbeba47dc812f13d1e9263771478]{
+-- Page 6, Offset 6912.
+-- この状況を招き、彼の手を取った責任がある。
+  She bore responsibility for causing and then dragging him into this mess.
+
+}
+[sha:a134d666563dca1c3232bf1a54ddb90e6dadd7c5]{
+-- Page 6, Offset 6913.
+-- おいそれとパニックに<陥|おちい>るワケにはいかないのだ。
+  She could not afford to succumb to panic.
+
+}
+[sha:5d085d35f83d8f463b1ef358ddec28c0fa5439db]{
+-- Page 7, Offset 6914.
+-- “……大丈夫、落ち着け私……
+(...Pull yourself together, Aoko.
+
+}
+[sha:65bd681c4a67cf565b2651bc4b1f8a95b59f48c4]{
+-- Page 7, Offset 6915.
+-- 遊園地の果てはある。遠いけど、鉄柵はちゃんと見える。
+  The park has to end somewhere. It may be far, but the fence is right there.
+
+}
+[sha:0e752b9dfc0b3b008e28bdbc88d84570d0d5839d]{
+-- Page 7, Offset 6916.
+-- フラットスナークだって制限無しってワケじゃない。外に逃げるって選択は正しいはず……。
+  Even Flat Snark has limits. Getting to the exit is the right choice, I think.
+
+}
+[sha:d99607bb50fcd6ec686e19db6f8954e0297f1458]{
+-- Page 7, Offset 6917.
+-- 現状、外までは目算で一キロぐらいだけど―――”
+  But from here, it looks the better part of a mile away.)
+
+}
+[sha:32d72731ecb21d4def2773d169c3e5e304b7357c]{
+-- Page 8, Offset 6918.
+-- ここまで夢中で走りすぎた。
+  Up until now they had been too concerned with simply running.
+
+}
+[sha:d394e11faba907fa913322c02abe8ef2021334a5]{
+-- Page 8, Offset 6919.
+-- 青子も草十郎も息が上がっている。
+  Their breathing had become labored.
+
+}
+[sha:9a3b21bfae69e457265cef3b43e412c55d185e81]{
+-- Page 8, Offset 6920.
+-- あと一キロ走るのなら、いったん休憩をいれないと途中で足が止まってしまう。
+  If they had to run another mile without rest, they'd end up collapsing along the way.
+
+}
+[sha:e82fc8de60e7ab3b56d12398a5949fd6d5a29745]{
+-- Page 9, Offset 6921.
+-- 「……蒼崎。体、大丈夫か？」
+"...Aozaki? How are you holding up? Physically, I mean."
+
+}
+[sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
+-- Page 9, Offset 6922.
+-- 「へ？」
+"Eh?"
+
+}
+[sha:7c86c83c93e6945f2daa717a0f728507c434493f]{
+-- Page 9, Offset 6923.
+-- 背中ごしに<囁|ささや>きかけられ、青子は現実に引き戻された。
+  The whisper from her behind pulled Aoko back to reality.
+
+}
+[sha:0a0243e248c4c99d681daed884dc465c1412993d]{
+-- Page 10, Offset 6924.
+-- 「大丈夫だけど……ちょっと、一息いれたいわね」
+"I'm fine... but... I need to catch my breath."
+
+}
+[sha:32712f232114ab9fca3c454a82b9e2ccb873a292]{
+-- Page 10, Offset 6925.
+-- 「……賛成。ここから休みなしで外周まで走るのは、やめた方がいい」
+"...Good idea. We'll never make it outside if we don't rest."
+
+}
+[sha:4c8b0bbbb2c722f952a8997558915283622d337a]{
+-- Page 10, Offset 6926.
+-- 「―――驚いた。静希君も外まで走ろう派とは」
+"...You know, I never would have thought you'd be okay with making a run for it."
+
+}
+[sha:5606ba7b40e9192ca6c210596daa22f7c1329de3]{
+-- Page 11, Offset 6927.
+-- 言って、くすりと笑ってしまった。
+  After saying this she let slip a giggle.
+
+}
+[sha:54cd3e4db5aa1f4662e0cefb8e0f2b635895ae9f]{
+-- Page 11, Offset 6928.
+-- 背中の戦友はパニック状態どころか、きちんと現状と、その打開策を考えていた。
+  Far from debilitated by panic, her comrade in arms had been analyzing the situation and forming an escape plan.
+
+}
+[sha:0c427d393f0e1344e91ba267c646556a1f61328f]{
+-- Page 12, Offset 6929.
+-- 「ちょっとだけ建物に逃げこむのは？」
+"Why don't we hole up in one of those buildings for a while?"
+
+}
+[sha:b94413e04dfa54ed32ff0de37fae7c232f8b2fa5]{
+-- Page 12, Offset 6930.
+-- 「………気は進まないけど、それしかないわね」
+"...I don't like it, but it's our best option right now."
+
+}
+[sha:709a6a8eb67eb3bdd9277fb5491c82c6a9bc45e3]{
+-- Page 12, Offset 6931.
+-- 焼きたてパンたちの包囲網。
+  The bread-men had them completely surrounded.
+
+}
+[sha:f3225b8ba7546aa673dd9fcc29853c3d55d65c0d]{
+-- Page 12, Offset 6932.
+-- 常人ならいざ知らず、青子ならこの囲みを破って建物に逃げこむのは<容易|ようい>だ。
+  Perhaps this might have been a problem for an average person, but for Aoko, breaking through their formation to get to the building would be a cinch.
+
+}
+[sha:e22827496dc1444206d1cedb72447e92a506a144]{
+-- Page 12, Offset 6933.
+-- 問題は―――
+  The issue was...
+
+}
+[sha:345d10a0ea1525bc3ec900625e1881d346377abd]{
+-- Page 13, Offset 6934.
+-- “……問題は、どんな店を選ぶかってコト―――”
+"...Which store to pick?"
+
+}
+[sha:0f3fc995dee90cdeb01ae655018fd4283ff2d528]{
+-- Page 14, Offset 6935.
+-- 変貌する遊園地の特性を考慮する。
+  She considered the characteristics of the transforming park.
+
+}
+[sha:196e196db18b73d62d3c1c665d98c944849beda7]{
+-- Page 14, Offset 6936.
+-- 何が危険で、何が安全なのか。
+  What would pose a danger, and what was safe?
+
+}
+[sha:62060b8c85337a768728be0b74ae042afa5f93ad]{
+-- Page 14, Offset 6937.
+-- 大事なのは建物の強度や複雑さではなく―――
+  The most important factor was not the strength or the complexity of the building...
+
+}
+[sha:0ff4366727ba82ac203430dcb3e4d8972d572943]{
+-- Page 14, Offset 6938.
+-- “そうだ、選ぶなら<あ|・><の|・><単|・><純|・><さ|・>で正しいはず……！”
+(Keep it simple, stupid!)
+
+}
+[sha:72e5087ab68c55e16171d8be2b34b3ff90bc00fc]{
+-- Page 15, Offset 6939.
+-- 「静希君、あっち！」
+"Sizuki, this way!"
+
+}
+[sha:f025537887868432c99e99c4f1ac4999835da1a4]{
+-- Page 15, Offset 6940.
+-- 怪物たちを蹴散らしてカウンターに飛びこむ青子と、その後に続く草十郎。
+  After routing the monsters, Aoko hopped behind the counter, soon followed by Soujyuro.
+
+}
+[sha:de43c7cff4036b5a76273649af4a2bb81ec3b583]{
+-- Page 16, Offset 6941.
+-- 「カウンターに隠れてて！」
+"Get behind the counter!"
+
+}
+[sha:16679498f0931a0514a62ce7f0bd9899c15e9650]{
+-- Page 16, Offset 6942.
+-- 青子は西部劇の銃撃戦のように、カウンターを盾にして怪物たちと対峙する。
+  Like she was in a Western shootout, Aoko squared off against the monsters, using the counter as cover.
+
+}
+[sha:0e8b2f297a301d1054de17ad40084c8762a69d60]{
+-- Page 17, Offset 6943.
+-- 「ビンゴ……！　ここならスナーク化しないんだ！」
+"Bingo! Nothing in here can get Snarkified!"
+
+}
+[sha:ca160b68eaf314d2e2bc28e02d95052091a9b6c3]{
+-- Page 17, Offset 6944.
+-- 敵の様子を確認し、青子もカウンター内部に腰を下ろした。
+  After assessing the current state of the enemy, Aoko sat herself under the counter.
+
+}
+[sha:acb256b43228dc0acc5dcad74d576ff40e8ea98c]{
+-- Page 18, Offset 6945.
+-- 「アイツらは……？」
+"What are they doing?"
+
+}
+[sha:86c2af711ac922b6131bd9b3e1ec5facf4ad1671]{
+-- Page 18, Offset 6946.
+-- 「店の周りで<地団駄|じだんだ>踏んでるわ。理由があってね、アイツらはここには入ってこられないのよ」
+"They're stamping their feet in frustration, because they're angry that they can't get in."
+
+}
+[sha:8a3a8a415d20948c81872eba0c377dff5864c5c6]{
+-- Page 18, Offset 6947.
+-- 「？？」
+"Huh?"
+
+}
+[sha:97661eb99e2aaefb0123461b14e7f87f1f7dcfbf]{
+-- Page 18, Offset 6948.
+-- 不思議がる草十郎にまあまあと笑いかけて、青子は大きく胸を上下させた。
+  Aoko gave the perplexed Soujyuro a grin and took a deep breath.
+
+}
+[sha:e0eac6473c84800ba1677981cff27103836005f8]{
+-- Page 18, Offset 6949.
+-- 安堵と、おそらくは疲労からきた大きな息継ぎ。
+  She heaved a heavy sigh of relief, and fatigue.
+
+}
+[sha:9ea0e753a9f3982a8cbe89e1de2bf39a1892a022]{
+-- Page 19, Offset 6950.
+-- 「とりあえずコーヒーブレイクね。ここは遊園地の中でも遊びのない場所だから、アイツらにとっては鬼門なのよ。
+"We'll take five here. This restaurant is the blandest place in the park, which makes it their Achilles' heel.
+
+}
+[sha:87b4251d78cb58511d73f138dcc9bd1bf3b27e06]{
+-- Page 19, Offset 6951.
+-- レジスターも調理道具も最近のものだし、擬人化されたマスコットもないし。スナーク化するには、ちょい文明圏すぎるってコト」
+  The registers and utensils are all modern, and there are no mascot characters. It's just a bit too civilized for Snark to mess with."
+
+}
+[sha:b303f2de1fa104b9486e29424053a0027497cf58]{
+-- Page 19, Offset 6952.
+-- 「すなーく？」
+"Snark?"
+
+}
+[sha:515a842ee03f0f918384c00f6bc73e538c09c1cb]{
+-- Page 20, Offset 6953.
+-- 「アイツらの名前よ。つけたのは私じゃなくて有珠……なのかしらね。あの子の性格的にちょっと想像できないけど、まあ、とにかくそういう名前」
+"That's their name, though Alice is the one who came up with it... I think. It doesn't really sound like her, but whatever. That's what they're called."
+
+}
+[sha:6f87440d04ab050b9a88d7def5de9ddbe63b39af]{
+-- Page 21, Offset 6954.
+-- 安全と分かって落ち着いたのか、草十郎は興味津々とばかりに耳を傾ける。
+  Perhaps now at ease from knowing they were safe, Soujyuro seemed enthralled in her explanation.
+
+}
+[sha:52d0d9069bade4663d5e020555cff67fa4a2f45b]{
+-- Page 21, Offset 6955.
+-- なるほど、なんてしかつめらしく頷いているが、きっと分かってないだろうなー、と青子はつい笑ってしまった。
+  Aoko could not help but chuckle as Soujyuro nodded sagely. It was certain that he had no idea what she was talking about.
+
+}
+[sha:a7059f5804c74e535ad5ddeefa5c66928d7c3e68]{
+-- Page 21, Offset 6956.
+-- 普段ならイラっとくるところだが、今は彼の妙な真面目さがありがたく、あたたかい。
+  Normally this would have irritated her, but this time she was grateful for the warmth of his strange sobriety.
+
+}
+[sha:0276afab6bab0debf0f836cec0e4a9f3c81bf504]{
+-- Page 22, Offset 6957.
+-- 「それはともかく。調子良さそうだな、蒼崎」
+"It's good that you seem better, Aozaki."
+
+}
+[sha:08bb561d173015662e8b21db6087e60a2d3fef42]{
+-- Page 22, Offset 6958.
+-- そんな青子の笑みを余裕と勘違いして、草十郎も顔をほころばす。
+  Mistaking her smile for composure, Soujyuro broke into a smile himself.
+
+}
+[sha:0e3000a859b0f1d7d256bd9f4b5ecb17e3d2e4a7]{
+-- Page 22, Offset 6959.
+-- 誤解の連鎖だが、今はそれを<糾|ただ>すこともない。
+  It was just another link in a chain of misunderstandings, but there was no need to redress it.
+
+}
+[sha:c23f6b0734e6a47c9230e2cc0d5e078b6c9524a8]{
+-- Page 23, Offset 6960.
+-- 「あれ、貴方から見ても分かる？
+"Oh, you can tell?
+
+}
+[sha:604be9115d0b3020a46c31b831160af80af4ced5]{
+-- Page 23, Offset 6961.
+-- 私の魔弾の威力が上がっているの」
+  Yeah, my magic bullets are getting more powerful."
+
+}
+[sha:268a939c099e59f883c136e91fdbb5a805153e9b]{
+-- Page 23, Offset 6962.
+-- 「そりゃあ、ミラーハウスでさんざん追いかけ回されたからな。あの時と同じ動作なのに物騒さが増していれば、イヤでも分かる」
+"Well, you did chase me all around that house of mirrors while firing those things at me, so I guess I've become really familiar with them, for better or worse."
+
+}
+[sha:0c2870ec9fd20e3700a59531a1d299217201d03b]{
+-- Page 24, Offset 6963.
+-- 「でもいいのか？　たしか、数にかぎりがあるとか言ってただろ。もうずいぶん撃っちまったけど。二十、三十じゃきかないぞ」
+"Are you sure you're okay, though? I remember you mentioning that you had a limited number of shots, but you've fired at least twenty or thirty so far, right?"
+
+}
+[sha:04d143504bd0bcc29c8fb3ffa4c85dc1648cbdd2]{
+-- Page 24, Offset 6964.
+-- 「―――アンタ、時々、アレよね」
+"You know, every now and then, you..."
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 24, Offset 6965.
+-- 「？」
+"?"
+
+}
+[sha:fb4d55e549264f3d156dd15c6bf7103833ed7d76]{
+-- Page 24, Offset 6966.
+-- 不覚にも、ちょっと見直す青子だった。
+  Her opinion of him improved, just a little bit.
+
+}
+[sha:151654f9d207e34b0702ecd076e66767c119b660]{
+-- Page 25, Offset 6967.
+-- 「なんでもない。
+"Never mind.
+
+}
+[sha:33e2fb00200de0f9ad722dbdc09bb2522fcf4632]{
+-- Page 25, Offset 6968.
+-- 私の魔弾の威力が上がっているのは、単純に魔力の濃度の問題。さっきから霧がかかってるでしょ？　あれ、全部魔力なのよ。<魔|タ><弾|マ>を撃つための燃料と思って」
+  My bullets' increase in power is a simple matter of the density of their magical energy. You've seen that fog around the park from a bit ago, right? It's all just magical energy. Think of it as fuel for my bullets."
+
+}
+[sha:8511cd96744058527f854d4518b38a717a511685]{
+-- Page 26, Offset 6969. Mods: @n.
+-- 魔力とは大きく二種類あり、
+  Magical energy was divided into two broad categories.
+
+}
+[sha:4e7cab6ded86e56587b15952a49bafb8be791ba0]{
+-- Page 26, Offset 6970. Mods: @n.
+-- 魔術師が肉体から生成する<小源|オド>と、
+  First was od, produced inside a mage's body.
+
+}
+[sha:a03de41a4077691c5c09be4ce36f8de8025b5927]{
+-- Page 26, Offset 6971. Glued.
+-- 大気に満ちている<大源|マナ>とがある。
+  Second was mana, which filled the atmosphere.
+
+}
+[sha:c08926ecd436d28b84411ec05c2173401f2871af]{
+-- Page 26, Offset 6972.
+-- この遊園地はいま、マナに満ちあふれた御伽の国だ。
+  At the moment, the amusement park had turned into a fairy-tale land, overflowing with mana.
+
+}
+[sha:1e554e383fa23093f146416baaa52a0012ca274f]{
+-- Page 26, Offset 6973.
+-- 一般人にとっては何の効果もないが、魔術師にとっては術式を使いたい放題の楽園と化している。
+  Although it meant nothing to the average person, to a mage it was a paradise where spells could be cast as much as one pleased.
+
+}
+[sha:d222417349a988530215e5fcc5ba5f4bea7180ab]{
+-- Page 27, Offset 6974.
+-- 「じゃあ残り魔力とやらは気にしなくていいのか。
+"So that means you don't have to worry about how much magic-whatever you have left then.
+
+}
+[sha:7d90e83e1693478c614bd98fd9caef69055f1c25]{
+-- Page 27, Offset 6975.
+-- 注意すべきは怪我と体力だけ？」
+  All we need to worry about are injuries and stamina?"
+
+}
+[sha:7d39ebd0385e3b584fc473d74496020e790f6310]{
+-- Page 27, Offset 6976.
+-- 「……まあ、個人的な責任においてはそのかぎりね」
+"...Well, as far as our own lives are concerned, yeah."
+
+}
+[sha:4b5566d68b6fed4342c8b9bc14e67427ac2d61b0]{
+-- Page 28, Offset 6977.
+-- 良かった、と息をつく草十郎。
+  Soujyuro breathed a sigh of relief.
+
+}
+[sha:8db8d1ef51944aec000cfee0f870a72bfa5f09b3]{
+-- Page 28, Offset 6978.
+-- 草十郎から見れば、青子は怪物たちをなぎ払う遊園地最強の暴れん坊だ。
+  From Soujyuro's perspective, more so than the monsters she mowed down, Aoko was the biggest bully on the playground.
+
+}
+[sha:d88fc13e41c4189d3d311179051762f68758f0eb]{
+-- Page 28, Offset 6979.
+-- 不安なのは魔力が尽きる事だったが、それがないのであればまさに百人力である。
+  He had been concerned about what would happen should her magical energy be exhausted, but luckily for him she was far from surrendering her crown.
+
+}
+[sha:337a3c435ad91717341aca8ad928ade4dd365a9c]{
+-- Page 29, Offset 6980.
+-- 「頼りにしてくれるのは嬉しいけど、ぬか喜びよ。
+"It's nice that you trust me and all, but let's not get ahead of ourselves.
+
+}
+[sha:03f88dfcee048341948b5e3d40095059ba028108]{
+-- Page 29, Offset 6981. Glued. Mods: @x.
+-- あんな雑魚たち、ただ動いているだけのガラクタなんだから。
+Those minions out there are just walking garbage.
+
+}
+[sha:3451264e0afe112eee6530c730df8132f5076c68]{
+-- Page 29, Offset 6982.
+-- スナーク本体は当然として、有珠が<他|・><の|・><童|・><話|・><の|・><怪|・><物|・>を出してきたら私じゃどうにもならない」
+  If Alice summons any other fairy-tale monsters, let alone the actual Snark making an appearance, there's nothing I'll be able to do."
+
+}
+[sha:72516dbacb2a7ad10c2ed7253d00c95ad0c9bd42]{
+-- Page 29, Offset 6983.
+-- 「他の童話の怪物？　……遊園地をこんなふうに変えたヤツ以外に、まだいるのか？」
+"Other fairy-tale monsters? You mean there are others apart from the thing that changed the park?"
+
+}
+[sha:b27b430cc870d3b8e4b3685c5dd66b7da910b118]{
+-- Page 30, Offset 6984.
+-- 「そ。プロイキッシャーって名付けられた、<魔術師|わたしたち>でさえ目を背けたくなる反則。
+"Yes. They're called Ploy Kickshaws, aberrations that even we mages can't stand to look at.
+
+}
+[sha:e0ac5210bb3163984d690f4621be4d75b970c9e2]{
+-- Page 30, Offset 6985. Glued. Mods: @x.
+-- 不可能な夢物語をも再現する、時代に取り残されたデタラメよ」
+They're nonsense lost to time, used to revive impossible fantasies.
+
+}
+[sha:8a3a8a415d20948c81872eba0c377dff5864c5c6]{
+-- Page 30, Offset 6986.
+-- 「？？」
+"Huh?"
+
+}
+[sha:b3f100bd5feab5316da8467fb8ed4f779e6f4334]{
+-- Page 30, Offset 6987.
+-- 自分の事は棚にあげて？　と言いたげな顔である。
+  Soujyuro's expression seemed to be calling her out on the hypocrisy.
+
+}
+[sha:dbf3859d85fe77b5e32f44daf9e8c7c9729b92f7]{
+-- Page 31, Offset 6988.
+-- 「あのね、私たちはちゃんと現代によりそった魔術師よ。
+"Hey, most of us have modern standards, you know.
+
+}
+[sha:82b39f52d5708392688528f639445ded8e402519]{
+-- Page 31, Offset 6989.
+-- できない事もあるし、当たり前の事だけど、近代兵器には敵わない。二十世紀―――ま、色んな戦争の後押しで、兵器の進化は私たちを越えちゃったから」
+  Obviously there are things we can't do, and we're no match for modern weapons. The twentieth century-well, a bunch of wars helped weapons technology catch up to us."
+
+}
+[sha:28c3748330e61af86eb96256de237bdd2efbf381]{
+-- Page 32, Offset 6990.
+-- 「……けどあの子のは違う。どんなに人間の技術が進歩しようと関係ないって怪物なの。
+"...But that girl is a different beast altogether. Mankind's evolution can't hold a flame to her power.
+
+}
+[sha:eac5dcd7d46ad5ccf56aa1a712e9fea55579836d]{
+-- Page 32, Offset 6991.
+-- たとえば、あのブレッドマンいるでしょ？
+  Take those bread-men, for instance.
+
+}
+[sha:e20b62775ee95a6ea1cba81e2a32f1868f6bd982]{
+-- Page 32, Offset 6992.
+-- あいつには自動拳銃とかきかないわよ。たぶん、意味が分かっていないから」
+  Something like a machine gun would have no effect on them, probably because guns make no sense to them."
+
+}
+[sha:47f5afeb967ad3367a672b6a71f3f4713dc7362f]{
+-- Page 32, Offset 6993.
+-- ひょい、とカウンターから外を指す青子。
+  Aoko casually gestured outside, past the counter.
+
+}
+[sha:b2e21fe802c9bfee5de79accbc6f8159c4c6d578]{
+-- Page 33, Offset 6994.
+-- 「有珠の使い魔は全てが空想によってこねられた神秘なの。
+"Alice's familiars are Mystics kneaded from fantasies.
+
+}
+[sha:69362d0295a790f676f6524cdc6c9138626dfc3d]{
+-- Page 33, Offset 6995.
+-- 前提からしてあり得ない事だから、通常の物理法則と折り合いが悪い。空想と現実は両立しないっていう、ごく当たり前の理由でね」
+  They're all impossible in the first place, so they don't play nice with the laws of physics. That shouldn't come as a surprise, since fantasy and reality can't exist together."
+
+}
+[sha:3c5b1143292da39b4ca886b39cdb862610358841]{
+-- Page 33, Offset 6996.
+-- 「……なるほど。ブレッドマンってのは、あの動く焼きたてパンの事なんだな」
+"...I see. So they're literally walking loaves of bread."
+
+}
+[sha:a5ffaf3bfb02964252782ddaaaf538d3d726b408]{
+-- Page 33, Offset 6997.
+-- 青子の説明の大部分をスルーして、気になるコトだけ拾う草十郎だった。
+  Soujyuro seemed to have ignored the majority of Aoko's explanation and only reacted to the part that caught his curiosity.
+
+}
+[sha:dde195434ecc5a67ff9493f5a4ef4f3033d883ab]{
+-- Page 34, Offset 6998.
+-- 「…………話を戻すけど。
+"...To get back on topic,
+
+}
+[sha:4c7399bd965cb7c88a62175f61b7727a3fd3be05]{
+-- Page 34, Offset 6999.
+-- あいつらと近代兵器の相性は最悪。ロケット弾でも効果はないわ。意思の疎通、秩序の共有ができてないから」
+  Modern arms don't stand a chance against those things. Even rockets would be useless. They aren't part of the same order or shared consciousness as us."
+
+}
+[sha:f7c6ba3ea7ed330b50de8ca4a32e49a60def7972]{
+-- Page 35, Offset 7000.
+-- 「<童話の怪物|プロイキッシャー>にとって、彼らの世界には存在しないもの、意味が分からないモノは、触れるコトなく霧散する。
+"To the Ploy Rickshaws-to the fairy tale monsters-anything that doesn't exist in their world, anything they don't understand, disintegrates before it can even touch them.
+
+}
+[sha:a30d9b213dd0ea536d458c823f6d9e0b3a835278]{
+-- Page 35, Offset 7001.
+-- 彼らに<通|つう>じるのは同じ神秘を帯びた“魔力”だけっていうデタラメぶりよ。もう完全に<概念|がいねん>空間っていうか、概念宇宙っていうか―――」
+  Only something equally nonsense can touch them, like magical energy infused with the same level of Mystics. They exist wholly in their own conceptual space or cosmos-"
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 35, Offset 7002.
+-- 「――――――」
+"..."
+
+}
+[sha:605409040d53f98e274172504c1fd8abf019e379]{
+-- Page 36, Offset 7003.
+-- 「…………こほん。
+"...Ahem.
+
+}
+[sha:ec49dae9ef951d582cd9eb5af443f8e4988b9673]{
+-- Page 36, Offset 7004.
+-- 要するに、アイツらは伝承防御っていう特別なルールを持っていて、単純に強い力、強い魔術じゃ効果は薄いの。元になった童話にちなんだ欠点をつかないと倒せない。
+  In short, they exist according to a special law known as Folklore Defense, meaning that neither pure force nor strong magecraft have much effect. They can't be taken down without exploiting the weaknesses found in their original stories.
+
+}
+[sha:391cd40dac24d174a012e6f0911329fb07e41ba3]{
+-- Page 36, Offset 7005.
+-- ギリシャ神話のアキレスあたり分かりやすい喩えなんだけど……知ってる？」
+  Are you familiar with the Greek myth of Achilles? It's a good, straightforward example."
+
+}
+[sha:4c3dc847b87106c14648258102c5b8141f1b3eb6]{
+-- Page 36, Offset 7006.
+-- 草十郎はぶんぶんと首を振る。
+  Soujyuro shook his head.
+
+}
+[sha:3b918a05b8614a6b18df8ce1b040a80bb2d0e124]{
+-- Page 37, Offset 7007.
+-- 「そ。無事帰れたら、鳶丸あたりに教えてもらって。
+"Of course you aren't. If we get out of this alive, have Tobimaru tell you about it.
+
+}
+[sha:1eaaab738674960faccca36d043a25ec6546243c]{
+-- Page 37, Offset 7008.
+-- 定番だけどいい<教訓|はなし>よ、アレ」
+  It's a cliché, but it's a good story."
+
+}
+[sha:5275d10cd761a47a516b367a0663088d7429e126]{
+-- Page 37, Offset 7009.
+-- ……かなりおいてけぼり感ただよう草十郎だが、彼は彼なりに現状把握に努めてみた。
+  Soujyuro was feeling pretty lost, but he did his best to grasp the situation.
+
+}
+[sha:2adec9a078afdbb9ddd62e35780270fa3c52772a]{
+-- Page 38, Offset 7010.
+-- “<童話の怪物|プロイキッシャー>”とやらは、青子やミラーハウスの自動人形ですら<裸足|はだし>で逃げだすモノだという。
+He thought that Ploy Kickshaws were scary enough to chase Aoko and that puppet from before out of the house barefoot.
+
+}
+[sha:3922baddf49c872297fdaf8fc5860cc1b11852b9]{
+-- Page 38, Offset 7011.
+-- たしかに目の前の光景は誰かの悪夢の中に迷いこんだとしか思えない。
+  Certainly, the scene before them was the stuff of nightmares.
+
+}
+[sha:740bc4378e85a36c5fdf58f79439e9e7fb534adb]{
+-- Page 38, Offset 7012.
+-- だがしかし、と草十郎は思うのだ。
+  But Soujyuro had a different way of thinking.
+
+}
+[sha:697085f9d067dfe10b3c8cce795e05ab466abbdd]{
+-- Page 39, Offset 7013.
+-- 「やっぱり、蒼崎の方が怖くないか？」
+"I think you're more scared than me, Aozaki."
+
+}
+[sha:13933f2ed60598c4e5ef25e858d0851eddac1831]{
+-- Page 39, Offset 7014.
+-- 「アンタ死ぬの？」
+"Do you want to die?!"
+
+}
+[sha:2e3c7deff798512fe767bb3a6ed9ea4ab17cdf79]{
+-- Page 39, Offset 7015.
+-- ほら、と無言の抗議をする草十郎。
+  Soujyuro waved in protest, silently pointing out that she had made his case for him.
+
+}
+[sha:72c0873846df123a5d9a1d90d3e3b7f8a70c877d]{
+-- Page 40, Offset 7016.
+-- 「……あのね。いま私たちを取り囲んでるのはオマケにすぎないの。
+"Listen to me: the things surrounding us now are little more than fodder.
+
+}
+[sha:9977cba059e8546821a9be12c53973aeca380486]{
+-- Page 40, Offset 7017.
+-- 有珠にとって、あのブレッドマンもロブスターもソーセージ屋のミンチマシーンも、全部が全部、私が撃ってる魔弾より価値がない。
+  As far as Alice is concerned, the bread-men, the lobster, the meat mincer at the sausage place-they're all worth even less than my magic bullets are to me.
+
+}
+[sha:95c14ec58d3580b508246f62f589d5c5f9b1db72]{
+-- Page 40, Offset 7018.
+-- いい？　あの動くマスコットたちはね、<た|・><だ|・><の|・><オ|・><マ|・><ケ|・>なの。有珠が解放した“童話の怪物”の、一呼吸みたいなものなのよ」
+  Got it? The moving mascots and all the rest are a sideshow. They're nothing more than the breath of the monster she unleashed."
+
+}
+[sha:06b4c0bb959a1f05ffe7d5b8b37263229a1ee775]{
+-- Page 41, Offset 7019.
+-- 「―――呼吸って、これが？」
+"These thongs... are just the breath?"
+
+}
+[sha:e64234efe83395c7fdd0aae4db981fb1da08f8c4]{
+-- Page 41, Offset 7020.
+-- 「……私だって考えたくないわよ。
+"Yeah, crazy, I know.
+
+}
+[sha:ac3a91f9b765387015d6dc0e6c1f92938dc60f5b]{
+-- Page 41, Offset 7021.
+-- でもそれが現状。たった一体の“童話の怪物”だけで私たちは手一杯。
+  But that's what we're dealing with right now. Just one of those fairy-tale monsters is enough to keep us busy.
+
+}
+[sha:82c938358bcd71ffe7524fed5f9b3d2c0f6301e6]{
+-- Page 41, Offset 7022. Glued. Mods: @x.
+-- そういう訳だから、有珠があと一体でも追加したら諦めて」
+So if Alice decides to add another, we might as well give up."
+
+}
+[sha:def987813c84f4c4233d2d60295d3c00e983fe3a]{
+-- Page 42, Offset 7023.
+-- 「追加って……これに制限はないのか？」
+"Add another? Isn't there some sort of limit?"
+
+}
+[sha:b37501c1043adcdf0ff880bc634b354d1647234f]{
+-- Page 42, Offset 7024.
+-- 「あの子が出し惜しみしなければ、まだ何体かストックはあるでしょうけど……ま、成立する条件はあるわね。
+"If she decides not to be stingy, she has a few more up her sleeve. Though... well, there are conditions to bringing them out.
+
+}
+[sha:7aae3f4ac8c0a976ccb8597ec50f9887cf4b3d77]{
+-- Page 42, Offset 7025.
+-- たとえば川がないと目を覚まさない怪物もいる。この遊園地、噴水はあるけど川はないでしょ？　元になった童話しばりなの、あの子の使い魔は」
+  Like one monster that won't wake up if there's no river nearby. The park has fountains, sure, but no river, right? Her familiars are bound by their underlying stories."
+
+}
+[sha:8d76a462a5899817634ec26838c87fde89731d40]{
+-- Page 43, Offset 7026.
+-- 「童話って、かけそばとか？」
+"By fairy tale, you mean like the one about a bowl of soba noodles?"
+
+}
+[sha:3bdf8db74fa0f4409e187880d17150a30586a4b0]{
+-- Page 43, Offset 7027.
+-- 「<遊園地|ここ>に川がないのは不幸中の幸いね。もしあったら、もっと直接制圧に向いた奴が出てきてた」
+"Let me tell you, it's a small mercy there's no river here. Otherwise, something way better at squishing us would have appeared by now."
+
+}
+[sha:9169dbac8da12d4d21dc8811320567f4d43cfd87]{
+-- Page 43, Offset 7028.
+-- 草十郎の合いの手をサラッと無視する青子だった。
+  Aoko continued, completely ignoring Soujyuro.
+
+}
+[sha:65df1aba479b09d7f1837b556cd67dd391173e45]{
+-- Page 44, Offset 7029.
+-- 「―――話の続きだけど。
+"Anyway, as I was saying...
+
+}
+[sha:02c5865c44ba68ae50aaf2d70819600d96f26e6d]{
+-- Page 44, Offset 7030. Mods: @k, @e.
+-- 有珠の魔術の基本はマザーグース……
+  The foundation of Alice's magecraft is Mother Goose.
+
+}
+[sha:ea09f9fc664d99b260e06f6174739090b21cfe7c]{
+-- Page 44, Offset 7031. Glued. Mods: @x.
+-- って知らないか。イギリスの唄で、遊び心にとんだ、メルヘンチックな内容よ。
+Right, you wouldn't know that either. Mother Goose was an author of whimsical English nursery rhymes.
+
+}
+[sha:a9e02ef6a10333c5923504c430ee5943f8371c11]{
+-- Page 44, Offset 7032.
+-- ただ、そっち系のプロイキッシャーは怖くないの。
+  To be honest, this type of Ploy Kickshaw isn't all that scary.
+
+}
+[sha:6cd396cef0c7e954738adaeb335bd9604803e485]{
+-- Page 44, Offset 7033. Glued. Mods: @x.
+-- みんなそれなりに、なんとか魔術にも落としこめる範囲だから」
+Taking them down with some form of magecraft is totally possible.
+
+}
+[sha:c7b18848647fa8779f23fdffe67a646a70f477f4]{
+-- Page 44, Offset 7034.
+-- 「……聞きたくないんだけど、そっち系じゃないのは？」
+"...I'm afraid to ask, but what about the scary kind, then?"
+
+}
+[sha:7bec2f1fa99c4439f422ee0b4497e87a83a4f6ab]{
+-- Page 45, Offset 7035.
+-- 「マザーグースを下地にした、とある創作童話系。
+"They follow a another fairy tale also inspired by Mother Goose.
+
+}
+[sha:1b3ee58ef72098087280517e06345d7ff0bd1bdc]{
+-- Page 45, Offset 7036.
+-- ……<有珠|あの子>のお母さんが好きでね、<こ|・><っ|・><ち|・><系|・>のはドイツもコイツも尋常じゃない。<魔術師|わたしたち>から見ても勘弁してって言いたくなるわ」
+  Alice's mother was particularly fond of it, and every single one is bizarre. No mage wants to go up against one of those things."
+
+}
+[sha:f302291e663d8811783d1f20196b7976e16e5ce6]{
+-- Page 46, Offset 7037.
+-- 「で、この遊園地を生き返らせたのは<こ|・><っ|・><ち|・><系|・>よ。
+"As it happens, that's exactly what brought the park back to life.
+
+}
+[sha:e6aa028e0a3e2099da8506f91d4d53279556d4d7]{
+-- Page 46, Offset 7038.
+-- たぶんフラットスナークってヤツだと思う。……私も聞き流していたから、詳しくは分からないけど」
+  I'm pretty sure it's the one she calls Flat Snark, though I wasn't particularly paying attention, so I'm a little hazy on the details."
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 47, Offset 7039.
+-- 「――――――」
+"..."
+
+}
+[sha:904d5cc1929854e1f60a50e8d0699ec58f300092]{
+-- Page 47, Offset 7040.
+-- のど元まで出た不満を飲みこむ。
+  Soujyuro swallowed the discomfort making its way up his throat.
+
+}
+[sha:56f51df7ec77dcc97bfa04b132010d6360ab3613]{
+-- Page 47, Offset 7041.
+-- こっち系とかそっち系とか曖昧な言い方はやめてほしい草十郎だったが、今の台詞には、他に追及すべき事があったからだ。
+  He really wanted her to explain things a little less vaguely, but something she had just said necessitated further investigation.
+
+}
+[sha:04109d8cd2072abf6507548f1384664b40e65132]{
+-- Page 48, Offset 7042.
+-- 「待て蒼崎。あの子の話を聞き流したって、なんで」
+"Wait a second, Aozaki. You mean to tell me you weren't paying attention?"
+
+}
+[sha:aa7953f67b66eca6ee7115cd9b0b7c4822662169]{
+-- Page 48, Offset 7043.
+-- 「いやぁ、説明してもらったのは随分と前だし……あの頃は有珠の話、あんまり信じられなかったのよね。
+"Well, you know, it was a while back that she explained it all to me, and I didn't really believe anything she had to say around then.
+
+}
+[sha:7f1984aeccf0d1ce0d0f8bd0d2f1952517977a84]{
+-- Page 48, Offset 7044.
+-- 私が素人だと思って大げさに自分の魔術を語ってくれてるなあ、舐められてるなあ、とか。あはは」
+  I thought that maybe she was talking up her own magecraft to a newbie, or that she wasn't taking me seriously. Ahaha."
+
+}
+[sha:faddfc5b8c97de5bf530bdfb5df06699bd6f9ff5]{
+-- Page 49, Offset 7045.
+-- 無論、舐めていたのは青子の方だった。
+  In truth, if anyone hadn't taken the lesson seriously, it was Aoko.
+
+}
+[sha:dfb800bde89cdd4447df20af955a392815c19953]{
+-- Page 49, Offset 7046.
+-- 有珠を守る怪物が「本物」だと青子が経験するのは、二人が出会ってからしばらくしての事だ。
+  She would learn that lesson firsthand soon enough, when she experienced just how real Alice's monsters were.
+
+}
+[sha:f80ce39a5bc96d895a723b6a0bc9e0d1d210bcc3]{
+-- Page 49, Offset 7047.
+-- マインスターの魔女が魔術世界においてどれほど異端なのか、青子は身をもって経験する事になる。
+  She'd also discover how heretical the Meinster witches truly were, in the world of magecraft.
+
+}
+[sha:20d3f3064877689bf9c35bbf777239216edf049b]{
+-- Page 50, Offset 7048.
+-- 「……その聞き流した内容は？」
+"...Can you remember anything else about them?"
+
+}
+[sha:8076d7fb89e39ca507af6754910648dfc44911c6]{
+-- Page 50, Offset 7049.
+-- 「なんでも強力な結界を張るプロイだって。
+"From what I understand, it's a Ploy that puts up a powerful Bounded Field.
+
+}
+[sha:c6eead362ef6f9dc4b5ed5000a4d0433d3d2fb25]{
+-- Page 50, Offset 7050. Glued. Mods: @x.
+-- 有珠が受け継いだ<玩具|プロイ>は山ほどあるけど、その中でも<選|え>りすぐりの一つよ。
+Alice inherited a lot of Ploys, but this is one of her finest.
+
+}
+[sha:075d62e764697f79d1142ee0cdc4ac6f9dd4e697]{
+-- Page 50, Offset 7051.
+-- <棄|す>てられたモノ、忘れられたモノを童話的に蘇らせるヤツで、今まで誰も破ったコトがないとか。
+  It takes discarded and forgotten things and resurrects them like what happens in fairy tales. Supposedly, nobody's ever defeated it.
+
+}
+[sha:613e2ffed5b2f18b6a8854dfeae9904cd5695898]{
+-- Page 50, Offset 7052.
+-- それで、ついたあだ名が“<触|ふ>れられぬもの”」
+  Oh, and its nickname is 'The Untouchable.'"
+
+}
+[sha:07ec3ffa09555db850c059cf578e5d4f4e598803]{
+-- Page 51, Offset 7053.
+-- 「？　ふらっとすなーく、じゃないのか？」
+"So it's not Flat Snark, or whatever it was?"
+
+}
+[sha:9ea4afc0d34056608a101e5afea3bf5f9b3d1e1e]{
+-- Page 51, Offset 7054.
+-- 「それもあだ名。とにかく正体が分からないヤツばっかりなんで、一つの個体に複数の名前がつけられるの。
+"That's just a nickname, too. Since nobody knows what its real form is, it picked up a few names along the way.
+
+}
+[sha:c05f922e493e77900c2bca4ed1bac6cfe3b8266b]{
+-- Page 51, Offset 7055.
+-- フラットスナークはその中でも、正体不明さはトップランクのデタラメぶりよ。
+  One of them is 'Flat Snark,' and it ranks high among her other nonsense in terms of how little is known about it.
+
+}
+[sha:7a3a58e1638e2c11e4d8ae1d54672f3fdb8f56e6]{
+-- Page 51, Offset 7056.
+-- ―――貴方、ルイス・キャロルの『スナーク狩り』って本、知ってる？」
+  Have you heard of the book The Hunting of the Snark by Lewis Carroll?"
+
+}
+[sha:45cc1993411f396956f7f0cef1e1a0b724eff751]{
+-- Page 52, Offset 7057.
+-- 「いや。そもそもルイスキャロルというのは？」
+"No, and who is Loo-wis Car-rel?"
+
+}
+[sha:772336aabdb78c28e1189f3ede94927357d3d527]{
+-- Page 52, Offset 7058.
+-- 「……そっからかあ……えーと、ドジスン教授は、そうね。特殊性癖を持った妄想紳士ってトコ？　ま、こっちは別にどうでもいいか。人によっては時間の無駄だろうし」
+"Okay, then... let's start from the beginning. Professor Dodgson was, hmm. He was a delusional gentleman with a peculiar disposition. Not that it matters right now. It's a waste of time to explain to some people."
+
+}
+[sha:8ac00cb7f38745119808016d23e604cbcc075bb6]{
+-- Page 53, Offset 7059.
+-- 「いま重要なのは、彼が残した著作の方。
+"What's important is the work he left behind.
+
+}
+[sha:b01947b7a0b4ad07577a74abc28e6ad47a7e94c5]{
+-- Page 53, Offset 7060.
+-- 『スナーク狩り』はね、スナークって呼ばれる正体不明の怪物を捕まえようと奔走する冒険家たちの話なの」
+  The Hunting of the Snark is a book about a band of adventurers who try to capture an unidentified monster known as the Snark."
+
+}
+[sha:b9328ebcabbdd72b67eade35e3e60e7ed420c7d3]{
+-- Page 54, Offset 7061.
+-- 「キャロルらしい、皮肉ばっちり、支離滅裂、意味不明、結末不在のホントに困った本で、一行は島で苦しみつつ、最終的にはスナークを見つけるものの、見つけた<主人公|ベイカー>は唐突に姿を消して終わってしまう。
+"It's very Carroll: satirical, nonsensical, and cryptic. It doesn't even really have an ending, either. Though the party does ultimately find the Snark on its island after much hardship, it ends with the protagonist who found it, the Baker, suddenly disappearing.
+
+}
+[sha:455cad497eead306ec08e6c211ad7da630b2ae9e]{
+-- Page 54, Offset 7062.
+-- “よく分からないもの”探しに奔走する人間の風刺なんだけど―――この遊園地において、誰が<主人公|ベイカー>で、何が<怪物|スナーク>かは言うまでもないでしょ？」
+It's a satire about people who run about busily trying to find something they don't understand. But when it comes to the park here, it's pretty clear who the Baker is and who the Snark is, right?"
+
+}
+[sha:8fa3bd804b7e9117276685be69f0aa8283dfa7df]{
+-- Page 55, Offset 7063.
+-- 青子は語らないが、フラットスナークには他にも俗称がある。
+  Aoko elected not to share this, but Flat Snark had other popular names as well.
+
+}
+[sha:b8c425a917b60a997607780b56b6844cd5cb00e3]{
+-- Page 55, Offset 7064.
+-- 不可解の島、五次元平面。
+  The Enigmatic Island. The Five-Dimensional Plane.
+
+}
+[sha:2d30fb0bc297070e0cb39096d78e567345408ce2]{
+-- Page 55, Offset 7065.
+-- こちらは有珠が口にしたものではなく、かつてマインスターに破れた魔術師たちのうわごとだ。
+  These names were not given to it by Alice, but rather muttered by mages whom the Meinsters defeated.
+
+}
+[sha:91ba1b33218abb3f9c46bf90874e7a4c3d7f4ce2]{
+-- Page 56, Offset 7066.
+-- 数学において、スナークとはグラフ理論で用いられる、矛盾した、決してあり得ないある平面グラフを指す。
+  In mathematics, 'snark' is a term used in graph theory to refer to contradictory and impossible planar graphs.
+
+}
+[sha:f93d93d0e14ccde0ee46012e8d6c50cd49b9195d]{
+-- Page 56, Offset 7067.
+-- この世に『無い』と立証されながらも名を与えられた平面。逆説のみで構成された不遇の存在。
+  A plane, proven to be unable to exist in this world, was given the name, apt for an ill-fated existence paradoxical in nature.
+
+}
+[sha:4ac5ef2337fe042692e8fa5e83c9b807995c7c97]{
+-- Page 56, Offset 7068.
+-- その名を冠した“童話の怪物”は、誰にも正体を明かす事がないという。
+  The fairy-tale monster ascribed this name was said to hold no form discoverable by man.
+
+}
+[sha:814f48bf303778fc93642936f421351d405abb6f]{
+-- Page 57, Offset 7069.
+-- ……そして、青子は語らない。
+  Aoko also declined to mention something else:
+
+}
+[sha:e7facfcd87b02c6fd567e860b06a56c74f79df93]{
+-- Page 57, Offset 7070.
+-- フラットスナークは成長する“童話の怪物”だ。
+  Flat Snark was a fairy-tale monster that could grow.
+
+}
+[sha:8b69de2a189d70f22f1cf0e3e510bed2bb7ec631]{
+-- Page 57, Offset 7071.
+-- どこかに隠れている本体は、こうしている今も遊園地を完全な御伽の国に変えようと、<魔|い><力|き>を吐き続けている事を。
+  It would hide somewhere in the amusement park, continuously exhaling magical energy until the park completely transformed into a fantasy land.
+
+}
+[sha:686a3deefc022446925b045f47a82adead8c906c]{
+-- Page 58, Offset 7072.
+-- 「……ま、<脅|おど>かしてもしょうがないし」
+"...Well, it's not like there's any point in scaring him."
+
+}
+[sha:edb6f4697c997fe7d05d6691737084e579090c2a]{
+-- Page 58, Offset 7073.
+-- 「なにか言ったか？」
+"Did you say something, Aozaki?"
+
+}
+[sha:1dde2725e849b4ef4c232701b3a42476944c7157]{
+-- Page 58, Offset 7074.
+-- 「別に。簡単に言って、『童話世界の再生』がフラットスナークの力なの。
+"Nope. I was just thinking, Flat Snark's power is its ability to bring fairy-tale worlds to life...
+
+}
+[sha:7f79fc3f4929db15e55615e143b43cbd8f269d28]{
+-- Page 58, Offset 7075.
+-- この遊園地との相性は抜群でしょうね。なにしろ、元々が童話を元にした遊び場だから」
+  When you think about it, the park makes for the perfect backdrop. I mean, it was originally a playground based on fairy tales, anyway."
+
+}
+[sha:f082e356b981f030f952b332e0e099b49d9d48f2]{
+-- Page 59, Offset 7076.
+-- ……仮にオフィス街であったのなら、フラットスナークもここまでの脅威は持たなかっただろう。
+  If this had been a business district, for example, Flat Snark would have posed far less of a threat.
+
+}
+[sha:fc8cf378b9ff0c9e704d06742798ca7984577e80]{
+-- Page 59, Offset 7077.
+-- せいぜいビルの窓硝子に恐竜の影絵を映す程度の力だ。
+  At most, its power would be limited to projecting the shadow of a dinosaur onto a building's window panes.
+
+}
+[sha:d78ffb432884e068e36e1d2b86c1fbc8c1e0b4d0]{
+-- Page 60, Offset 7078. Mods: @n.
+-- 「あ。だからここは安全だって―――
+"Ah, so that's why it's safe he―
+
+}
+[sha:c1fac88e7fd2363457828fffcfab50db63108505]{
+-- Page 60, Offset 7079. Glued.
+-- ん？」
+ Hmm?"
+
+}
+[sha:0629bba61fed05cace325bab553abdf4102598a2]{
+-- Page 60, Offset 7080.
+-- 草十郎が“その異変”に気が付いたのは、背中にぴちょん、と<粘|ねば>つく液体が落ちたからだ。
+  Soujyuro realized that something was wrong when he noticed a glutinous liquid dripping onto his back.
+
+}
+[sha:24bf8a8cfd525a58e90f465903f0674e608b5219]{
+-- Page 61, Offset 7081.
+-- 「あ、あ―――」
+"Oh, oh no..."
+
+}
+[sha:088ae8c1b34deb47b7d13a9d94b6d0540e7463d2]{
+-- Page 61, Offset 7082.
+-- 天井を見上げる。
+  He looked up to the ceiling.
+
+}
+[sha:9edfa9c79cf64b570bc5361b0f116e83a26396a8]{
+-- Page 61, Offset 7083. Glued. Mods: @x.
+-- <ソ|・><レ|・>と目が合う。
+Their eyes met.
+
+}
+[sha:7fa4f85ffbd0db32350320c03551ec38203bf60a]{
+-- Page 61, Offset 7084. Glued. Mods: @x.
+-- どうなっているのか考える前に、草十郎の腰は跳ね上がって―――
+Before he had a chance to think, Soujyuro hopped up from the floor.
+
+}
+[sha:e10cd2ff03dc0b1b5641690f9ad408b1a3582b4b]{
+-- Page 61, Offset 7085.
+-- 「蒼崎、外だ！」
+"Aozaki, get out, now!"
+
+}
+[sha:59b439dc22af20f119aec4b3923e4ec68524d4d4]{
+-- Page 61, Offset 7086.
+-- 彼は<率先|そっせん>してカウンターから飛び出した。
+  Taking the initiative, he jumped out from behind the counter.
+
+}
+[sha:e23235ce8f1fe0451c4628628c6589863d96ec1c]{
+-- Page 62, Offset 7087.
+-- 「バカ、何して―――」
+"Are you mad? What do you think you're―"
+
+}
+[sha:6530eba7b61cc3202a26bc232a84213d6bf7fc94]{
+-- Page 62, Offset 7088.
+-- 自殺行為に等しい愚行を止めようと、つられて青子は腰を浮かす。
+  Busy trying to stop him from committing an act of suicide, she also came to her feet.
+
+}
+[sha:4840d872338bfc19ea9567ad3709f04c65362a87]{
+-- Page 62, Offset 7089.
+-- 瞬間、頭上に何が生まれているのかに気が付いた。
+  Immediately she noticed something being brought to life overhead.
+
+}
+[sha:00d7a04023821c713bfdbb9780d58a1eb493a2f0]{
+-- Page 62, Offset 7090.
+-- 「！　って、ヤバ―――!?」
+"What the―!? Oh crap!"
+
+}
+[sha:9aecb90566f0cd7c09d653b569aa11e0b1aeaedf]{
+-- Page 63, Offset 7091.
+-- 「あ、危なかったぁ……！」
+"Oh my god, that was close!"
+
+}
+[sha:61ccafa6b1829f159354147d9d0b86e0b579530b]{
+-- Page 63, Offset 7092.
+-- ばくん、と閉じられる巨大な口。
+  The gargantuan mouth clamped shut.
+
+}
+[sha:c294f5dd1884f1da860445819b2e9fcf8edff433]{
+-- Page 63, Offset 7093.
+-- 呼びこみマスコットのいないバーガーショップは、その店ごと怪物に変貌していた。
+  With no mascot to speak of, the burger joint itself began to transform into one giant monster.
+
+}
+[sha:9260deebf31b12a14679ad5afec3a16d4723a9cf]{
+-- Page 64, Offset 7094.
+-- 「もうっ、なんで天井にピエロの絵なんて描いてんのよあの店！？
+"Who the hell paints a giant clown on the ceiling!?
+
+}
+[sha:853dbdcc714914ae3bef21f1fe69982dd65e0696]{
+-- Page 64, Offset 7095. Glued. Mods: @x.
+-- 普通、もっと違うところに労力さかない！？　そんなにピエロが好きなら入り口にでも飾っとけ！」
+  Shouldn't they have flexed their creative muscle somehow else?! If they liked clowns that much, why didn't they put it at the entrance?!"
+
+}
+[sha:2fae939a40fe1cfcbb0399d46c1c27c70ccd95e3]{
+-- Page 64, Offset 7096.
+-- 罵倒しながら走る青子。
+  Aoko aired out her grievances as she ran.
+
+}
+[sha:fd8c7c7670c509f8706d7fccc8d6cd3068eeccc9]{
+-- Page 64, Offset 7097.
+-- ……もう安全な場所はどこにもない。
+  ...There was no safe haven left.
+
+}
+[sha:db02728287d8dbaeea7d42a9f37a0b8da54f5497]{
+-- Page 64, Offset 7098.
+-- かろうじて残っていた文明圏すら、刻一刻と童話に侵食されていた。
+  Moment by moment, the last remnants of civilization were being eroded away by fairy tales.
+
+}

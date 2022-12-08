@@ -1,0 +1,666 @@
+[sha:0f8f2cc26a3ed8741e297a9ba497c0641a9fe7de]{
+-- Page 0, Offset 15288.
+-- 有珠が裂かれたのは腹部だけではなかった。
+  Alice's injuries were not limited to her abdomen.
+
+}
+[sha:b72706a6567a21e43ba3068854c9d8c7017cce22]{
+-- Page 0, Offset 15289.
+-- 正確には腹を貫通して背中まで。
+  The wolf had punched a hole straight through to her back,
+
+}
+[sha:e45aa7bb79155a111160d0334a22f9b9928126df]{
+-- Page 0, Offset 15290. Glued. Mods: @x.
+-- 腰のやや上にある<脊椎|せきつい>まで砕かれた有珠の両足は、ぴくりとも動かなかった。
+crushing her lower vertebrae and leaving both of her legs paralyzed.
+
+}
+[sha:1004467310287df22bb1707ed827b3304a24be17]{
+-- Page 0, Offset 15291.
+-- いずれ魔術刻印によって復元するにしろ、最短であと一時間。
+  Though her Magic Crests were repairing the damage, it would likely take another hour before recovery.
+
+}
+[sha:96f6738ac0153390bab3975f1732ed702f5ad98f]{
+-- Page 0, Offset 15292.
+-- かろうじて動くのは心臓と、細い両手だけ。
+  At the very least, her heart and slender arms still worked.
+
+}
+[sha:6ca711c0435132ad5ad4598afc06fcb571dd51a5]{
+-- Page 1, Offset 15293.
+-- その希望も、地を這って電話ボックスに入った時点で、もう満足に動かなかった。
+  Although, after crawling along the ground to the phone booth, those too were failing her.
+
+}
+[sha:ac681b3566d3cdcef96103ac5ea2cb96a7fd6211]{
+-- Page 1, Offset 15294.
+-- 腹部の傷を癒すために起動した刻印は、凶悪な炉熱を放って、有珠の小さな体を押し潰そうとする。
+  As the crests healed her wounds, a searing heat ran through her body that threatened to overwhelm her.
+
+}
+[sha:7624b9aa2833ea0b77eaf882c57c5c2660a6b43c]{
+-- Page 1, Offset 15295.
+-- ―――自分の体が自分の物でなく、何か得体の知れない、別の生き物に変わっていく感覚。
+  It was as if her body was no longer her own, like she was transforming into another creature.
+
+}
+[sha:e417a979879c8e7307f8b4798368b84c6d18c7b3]{
+-- Page 2, Offset 15296.
+-- 裂かれた腹部に渦巻く猛毒は、痛いというより辛い。
+  The poison throbbing through her open wounds hurt emotionally more than physically.
+
+}
+[sha:58927b7659d20496b4efc07c6f03e448de431cb7]{
+-- Page 2, Offset 15297.
+-- 痛みには慣れているが、この不快感だけは慣れようがない。
+  She was used to pain, but she could not accept this disquieting feeling.
+
+}
+[sha:cfceef2e0618304093ca2aebaa7285269abf2810]{
+-- Page 2, Offset 15298.
+-- 慣れた時には、彼女はもう彼女ではなくなっているのだから。
+  Not that she had any intention to. The moment she did it would be her last.
+
+}
+[sha:ba23661bab8e09779893619c0193196a82d2ced8]{
+-- Page 3, Offset 15299.
+-- 「……、―――」
+"..."
+
+}
+[sha:cdc4f11f9aed7957037398f610372e92e0c37ced]{
+-- Page 3, Offset 15300.
+-- 腹部の痛みと、魔術刻印による不快感。
+  Alice wrestled with the discomfort from her abdomen and her Magic Crests,
+
+}
+[sha:fe1339a65c39a8da2ac84584b5153fe0f1608624]{
+-- Page 3, Offset 15301.
+-- いつ消えてもおかしくない意識の中、有珠は受話器を手に取った。
+  and with her consciousness holding on by a thread, she took the phone in her hand.
+
+}
+[sha:65b68f674668b0e5ba6d36fcb11c268fd609f5ee]{
+-- Page 4, Offset 15302.
+-- 青子が帰還している可能性は低い。
+  It was unlikely Aoko would be there to pick up.
+
+}
+[sha:c48049f2c28be42d93e3fe1d10ad141ede27cafe]{
+-- Page 4, Offset 15303.
+-- それを知りながら洋館に電話をしたのは、電話ボックスに集まりだした野犬達の目つきに<圧|お>されての事かもしれない。
+  Even so, with the stray dogs gathering around the booth, she had to try.
+
+}
+[sha:c573eb7f50790c25b5fb4d54e1be186456d2e5c4]{
+-- Page 4, Offset 15304.
+-- けれど、電話に出たのは草十郎だった。
+  It was Soujyuro who picked up.
+
+}
+[sha:5afe82dd2adb63019d689ae97e870feaffb24f50]{
+-- Page 4, Offset 15305.
+-- 関係のない彼なら無言で切るべきだったのに、有珠は名前を呼んでしまった。
+  Alice knew she was better off just hanging up, but his name slipped out of her mouth.
+
+}
+[sha:f77e4983c221f535379d82b2bd7e07ce892107af]{
+-- Page 5, Offset 15306.
+-- ……長い沈黙と葛藤の末、受話器ごしに凡庸な草十郎の顔が思い出されて、有珠はなんとか電話を切った。
+  After pausing and fighting with herself for some time, an image of the innocent boy came to mind, and she hung up.
+
+}
+[sha:5e503257f4865b2b25b604386624351c7ecbe526]{
+-- Page 5, Offset 15307.
+-- どうあっても彼を関わらせるのはいけない、そう本能が律したのだ。
+  Her instincts had won out. She could not let him get involved.
+
+}
+[sha:562fd90cd7968b011f42f8c3b11917edb2251aae]{
+-- Page 6, Offset 15308.
+-- ……それは、一般人だからとか、そんな事とは関係なく。
+  And not just because he was an innocent bystander. It was more than that.
+
+}
+[sha:83840fde23f68732b752fb7d07788fcda1ec3b37]{
+-- Page 6, Offset 15309.
+-- あの日ささやかな秘密を共有した時から、少女にとって、静希草十郎はそういう風に映っていた。
+  To Alice, Soujyuro appeared that day because he was merely in the wrong place at the wrong time.
+
+}
+[sha:64e478300c495a08291428f59e626872f893c15e]{
+-- Page 7, Offset 15310.
+-- 「…………、―――――――――」
+"..."
+
+}
+[sha:95e01b37126d71ac39a9aeaf6367fb380040e0bb]{
+-- Page 7, Offset 15311.
+-- 喉からこぼれる息が、細い。
+  Only the lightest of breaths passed her lips.
+
+}
+[sha:bb7c44ef8857f38461b03e46eed193c7ca5e8bab]{
+-- Page 7, Offset 15312.
+-- 頭上の月が薄らいでいく。
+  Above her, the moon began to blur.
+
+}
+[sha:8d1f1e0d836be1a98ba232854f4bebc2866c35d5]{
+-- Page 7, Offset 15313.
+-- 降り始めた雪が遠くなっていく。
+  Snow was falling again, so close yet so far.
+
+}
+[sha:32a768a351583065f412fee02b4daf63b32df08e]{
+-- Page 7, Offset 15314.
+-- 周囲からは野犬たちの騒ぎ声。どん、と電話ボックスに体当たりをする音も聞こえだした。
+  The dogs began hurling themselves at the phone booth to the chorus of hungry snarls. Thunk. Thunk.
+
+}
+[sha:ce0132c25cf88330e7ae8df65f1d621e23a98bb8]{
+-- Page 7, Offset 15315.
+-- ……少女は最後に大きく息をついて、目蓋を閉じる。
+  She took one last deep breath and closed her eyes.
+
+}
+[sha:8de3f46070bb5130a14d0b2efa57a1f939806b95]{
+-- Page 8, Offset 15316.
+-- 硝子の<棺|ひつぎ>の中で意識を手放す。
+  Glass. An unusual material for a coffin.
+
+}
+[sha:a50a11ac76b913b79da359a6b3458b4bca3603ed]{
+-- Page 8, Offset 15317.
+-- 少年に助けを乞わなかった事を最後まで正しく、そして不思議に思いながら。
+  But the girl knew, in some corner of her mind, that she had made the right choice not to ask the boy for help.
+
+}
+[sha:8c3ac584f9ba7adab8445ff120fdb00af50c115f]{
+-- Page 9, Offset 15318. Mods: @n.
+-- ―――合間。
+          Some time passed.
+
+}
+[sha:0761edd002e422cd8b15d13e4205c5a0c2a12088]{
+-- Page 9, Offset 15319. Glued.
+-- おかしな風景を見た。
+ A peculiar sight came into view.
+
+}
+[sha:fdb5f0c41f212f225431682ac2102be6c2bbf38b]{
+-- Page 10, Offset 15320.
+-- 一面に花が咲き乱れた野原。
+  A field of wild flowers.
+
+}
+[sha:314b15feeb7eafeb759bcb6266a5f4d2cba0e9b7]{
+-- Page 10, Offset 15321.
+-- 雲ひとつない空は青すぎて、
+  The clear sky was too blue;
+
+}
+[sha:e2fa45e1bfe17daa35543bd8a3e72657bdf737e5]{
+-- Page 10, Offset 15322.
+-- 野原いっぱいの花は白すぎて、
+  the flowers, so numerous they made the field look barren.
+
+}
+[sha:cc82b5c39799e20aa7c8f63df524186db4faeacd]{
+-- Page 10, Offset 15323.
+-- こんなにも美しいのに、目を<背|そむ>けたくて仕方がない。
+  The sight was so dazzlingly beautiful, she wished she could look away.
+
+}
+[sha:98c6dbee6a5bc248b433f3651ac3df72802eabaa]{
+-- Page 11, Offset 15324.
+-- ……それはたぶん、冬の出来事だった。
+  ...This was probably all thanks to Father Winter.
+
+}
+[sha:ffb83471f8082980db71ca406847dbbff314553e]{
+-- Page 11, Offset 15325.
+-- 冷たい風は人里離れた<桃源|とうげん>の匂いがして、太陽すら人の<手|て><垢|あか>に汚れていない。
+  The cold wind carried a scent of a paradise far removed, untainted by man or beast.
+
+}
+[sha:6aaace32ca67a976d2791cb664d2e409e7413425]{
+-- Page 11, Offset 15326.
+-- 楽土と錯覚する<彼岸|ひがん>の原。
+  It was a glimpse of the fields beyond winter. One could be forgiven for thinking they were the afterlife.
+
+}
+[sha:402337e5663e13296136b4a7ef7980b2b49a4468]{
+-- Page 11, Offset 15327.
+-- そう言えば、<弔|とむら>いは悲しいものなのに、いつも<華|はな>やかな事を思い出す。
+  Come to think of it, she remembered how funerals were sad, yet always beautiful.
+
+}
+[sha:bf2f0b63964a3d43e9dc075dc7b3d2851cfa7d90]{
+-- Page 12, Offset 15328.
+-- ……<嗚|あ><呼|あ>。
+  She cried.
+
+}
+[sha:eb71f67e42ab4ca9a8cf67db658cee1e65d4f7ca]{
+-- Page 12, Offset 15329.
+-- なのに不釣り合いな呻き声と、<生命|いのち>の音がする。
+  She made an incongruous whine, a sound of life.
+
+}
+[sha:025ef1a9d6f7bcec2189cb8a729f2b625afbb845]{
+-- Page 12, Offset 15330.
+-- 断片的にこぼれる<吐|い><息|き>は<絞|しぼ>るように。
+  Her breathing was strained and erratic.
+
+}
+[sha:7b50dc60bab692b3dc764fcf55a53cac9be60da0]{
+-- Page 12, Offset 15331.
+-- 痛みを訴えるはずの<感情|しんぞう>は、<虚|うつ>ろになって機能不全。
+  Hollow and useless was the heart that she once used to fend off pain.
+
+}
+[sha:27945346aa213b8e575ffcd315a341dea5ae7c39]{
+-- Page 12, Offset 15332.
+-- 切断するかのような締め付けは胴と頭の中間に。
+  It was as though she was in the space between disconnected body and mind.
+
+}
+[sha:9ab1e5af04a1af6be897a91861706a4c3df15f28]{
+-- Page 12, Offset 15333.
+-- 女は泣きながら、鳴き声ひとつあげぬ幼子の―――
+  A crying woman and a silent child...
+
+}
+[sha:bbea22ed1d07b1cdcef5ef4d570c72b5d8ce9826]{
+-- Page 13, Offset 15334.
+-- 空は高く、森は深く、人は途絶え。
+  High was the sky, deep was the forest, unmoving were the people.
+
+}
+[sha:58522913abe813432045eff487d265d860e8435c]{
+-- Page 13, Offset 15335.
+-- 駆けつける足音も、助けを求める<意|こ><思|え>もない。
+No footsteps or voices of salvation came.
+
+}
+[sha:29031d6e981d37a80e16083524bc946e5c054f81]{
+-- Page 13, Offset 15336.
+-- そんな静けさの中で、無心で空を見上げていたのは、一体、誰だったのだろう―――
+  Who was that looking innocently up at the sky in the stillness?
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 14, Offset 15337.
+-- 「………………」
+"..."
+
+}
+[sha:2ff83b09f9afba8523421b934cbc1e86a36413f9]{
+-- Page 14, Offset 15338.
+-- 気が付くと、有珠は見慣れた坂を上っていた。
+  When she came to, Alice was going up a familiar hill.
+
+}
+[sha:f4476234902b3e07e01c860d229255d924eb7c72]{
+-- Page 14, Offset 15339.
+-- 夜気は冷たく、手足は凍てついたように動かない。
+  The cold, night air had all but frozen her hands or feet.
+
+}
+[sha:213641a9a263a874074f3d750c2b058731d2333f]{
+-- Page 14, Offset 15340.
+-- 当然と言えば当然だが、金狼によって裂かれた腹部は剥きだしで、体はしきりに震えていた。
+  She shook, as you would expect from someone whose abdomen had been torn apart.
+
+}
+[sha:8e3b809de7eef67c348b41e1afb488a69a21fbea]{
+-- Page 15, Offset 15341.
+-- 「……静希……君？」
+"Sizuki...?"
+
+}
+[sha:e8c71301d87ae1cf580669a1190107f143b65564]{
+-- Page 15, Offset 15342.
+-- 自分がその人物におぶられて白犬塚の坂を登っている事を、有珠はうつろな意識で認めた。
+  She could barely comprehend that she was being carried slowly up Shiroinuzuka.
+
+}
+[sha:fc77d4ae76b594829e94473131545374fd9de76d]{
+-- Page 16, Offset 15343.
+-- 草十郎は有珠を背中におぶったまま、無言で坂を上っていた。
+  Soujyuro had Alice on his back, and was silently ascending the slope.
+
+}
+[sha:f72e201d69e19492296d070bee54fe155e9f683f]{
+-- Page 16, Offset 15344.
+-- 落ち着いた瞳は、寒さのせいか辛そうな色をしている。
+  His calm eyes seemed to be suffering from the bitter cold.
+
+}
+[sha:e67dc7b04ce1549b67895d537843150ef6e7432b]{
+-- Page 16, Offset 15345.
+-- 見れば、この寒さの中で歩き回る服装ではなかった。
+  He did not seem to be dressed for the time of year.
+
+}
+[sha:666f7b92fd5e9ba123d370fbe58a8f2f3d034bdf]{
+-- Page 16, Offset 15346.
+-- 草十郎は上着も着ておらず、首もとや手の平が哀れなほど冷えきっている。
+  Not even a coat. His exposed neck and hands were ice-cold.
+
+}
+[sha:09942b76eb45d5e0a468028f3f7bead0e35dc094]{
+-- Page 17, Offset 15347.
+-- 「……どうして、ここにいるの……？」
+"Wh-What...are you...doing here?"
+
+}
+[sha:45d7d7607602b3ca48d4421585aa86ec0dc4d5e7]{
+-- Page 17, Offset 15348.
+-- おぶられたまま有珠は問うた。
+  Alice asked, still slumped over his frame.
+
+}
+[sha:9d20928054c4c186e789705852a305dae1356236]{
+-- Page 17, Offset 15349.
+-- 体を起こしたくても力が入らない。
+  She tried to move, but to no avail.
+
+}
+[sha:43b76ef211e8488b0d4ffcb3e7bd5fa7bf68f122]{
+-- Page 17, Offset 15350.
+-- 自分の重さがすべて他人に預けられている事が、今はひどく気にかかる。
+  The last thing she wanted was to rest her entire weight on someone else.
+
+}
+[sha:b41a764d30ffb42578a11481254fc265e8fd36f2]{
+-- Page 18, Offset 15351.
+-- 「橙子さんから電話があった。有珠が危ないって。
+"Touko called me. She said you were in trouble.
+
+}
+[sha:d4811abf7eeb74f9208c11e5ba32db029be83747]{
+-- Page 18, Offset 15352.
+-- ……蒼崎はともかく、有珠は意地を張りすぎだ。あの状況で助けを呼ばないのはどうかしてる。そりゃあ、自分が行っても何もできなかっただろうけど」
+  You're more stubborn than Aozaki, you know. Why didn't you ask me for help? Not that I could be much help, but still."
+
+}
+[sha:15879e08d17490ebf1d1c10529190cdf13b59dcb]{
+-- Page 19, Offset 15353.
+-- 草十郎は前だけを見つめて、叱るように返答した。
+  Soujyuro spoke with a scolding tone, his eyes kept firmly ahead.
+
+}
+[sha:b3ec16b9594619da71453b61332d4d53745574e0]{
+-- Page 19, Offset 15354.
+-- その叱責は背中の少女に向けたものではなく、力になれなかった自分に対してのものだ。
+  His words were directed at himself rather than the girl on his back.
+
+}
+[sha:e01f6e9113af8e169ba48719b79e4d19b7fef8c8]{
+-- Page 20, Offset 15355.
+-- 「…………静希君は、関係ないもの」
+"This... doesn't concern you..."
+
+}
+[sha:d4cb0501832b8dab5a70f7706ba14dbd5540e832]{
+-- Page 20, Offset 15356.
+-- 「だろうね。けど、これで関係はできた。館についたら話してもらうぞ」
+"Maybe you're right. But now it does. We'll talk more back at the house."
+
+}
+[sha:c1438460a475c9dd8ec29da883bda020fd1cab1a]{
+-- Page 21, Offset 15357.
+-- 草十郎はとにかく坂を登っていく。
+  Soujyuro focused on climbing the hill.
+
+}
+[sha:451ba57599e70480772d91572038402b812c8689]{
+-- Page 21, Offset 15358.
+-- ……考えてみれば、洋館までの坂は段々ときつくなっていく。
+  The slope would get steeper from here to the mansion.
+
+}
+[sha:6b50d6cc5863a9253ba9b9962dae3c8185cb8995]{
+-- Page 21, Offset 15359.
+-- その坂を、自分を背負ったまま登っていく草十郎に、有珠は意外なものを見た気がした。
+  The thought of Soujyuro climbing this steep hill with her on his back surprised Alice.
+
+}
+[sha:5139908510a401a7273cc425ffb0d973e59b4ac8]{
+-- Page 22, Offset 15360.
+-- 「降りるわ、もう大丈夫だから」
+"Let me down. I'm fine."
+
+}
+[sha:3ffce98d70d43c4ed86c72ea42d165dc73a35f78]{
+-- Page 22, Offset 15361.
+-- 「お腹をむきだしでかい。このほうが少しは暖かいよ。
+"Your whole stomach is exposed. My back will keep you warm.
+
+}
+[sha:001d7fbc8b58e113740fac27668009df53187fe5]{
+-- Page 22, Offset 15362.
+-- それに、有珠は薪より軽い。山じゃこの程度は朝飯前だから気にしないでくれ。息があがっているのは公園まで急いだからだし。
+  Don't worry. You're lighter than firewood, so this is a cinch. I'm only out of breath from rushing to the park.
+
+}
+[sha:23a480627bbb090142d3db33fc3f3a788dfdd264]{
+-- Page 22, Offset 15363. Glued. Mods: @x.
+-- ……まあ、その意味はなかったんだが」
+Not that I needed to hurry in the end."
+
+}
+[sha:0305c0fc6fa06226e61a8f241223c4baf4405cfe]{
+-- Page 22, Offset 15364.
+-- 「……なぜ？」
+"Why not...?"
+
+}
+[sha:ee7960ef0c52be025d447634405afb3e02d3e5e7]{
+-- Page 23, Offset 15365.
+-- 「俺が着いたら、犬はさっさと散っていった。はじめから、橙子さんはそういうつもりだったんだ。
+"As soon as I got there, the dogs ran for the hills. I'm sure Touko knew that would happen all along.
+
+}
+[sha:8109628a92221040390a483049374693d892f224]{
+-- Page 23, Offset 15366.
+-- 有珠をどうにかするつもりもなければ、時間制限もなかった。喜ぶべき事なんだろうけど」
+  She must not have meant to finish you off, which means I wasn't on a time limit. I suppose I should be thankful for small mercies."
+
+}
+[sha:ac589b960167b7504422f9b14010e7acf41a334b]{
+-- Page 24, Offset 15367.
+-- 憮然と言う草十郎。
+  Soujyuro said dejectedly.
+
+}
+[sha:5310f50254fcffb41b6b6a8bc299c59b5bc5ba56]{
+-- Page 24, Offset 15368.
+-- けれど、それは彼だけの勘違いだ。
+  But he was wrong.
+
+}
+[sha:f662c8396f0d9638ca6375adf6289300b79f584d]{
+-- Page 24, Offset 15369.
+-- 橙子に殺意はなかったが、結果として有珠が死んでしまう事には何の罪悪感もなかっただろう。
+  While Touko did not want to kill Alice per se, she would not have cared if she had died.
+
+}
+[sha:b3a6016fb1cf93c54ad218f98073d7d2b0deb4c8]{
+-- Page 25, Offset 15370.
+-- ……有珠は思う。
+  At least that was the way Alice saw it.
+
+}
+[sha:d8838b95b4d214e06291bbcca30d7d969973d677]{
+-- Page 25, Offset 15371.
+-- この少年がどれほどの速さで公園に着いたかは知らないけれど、彼が来なければ間違いなく電話ボックスは破られて、自分は生きてはいなかったと。
+  She did not know how long it took Soujyuro to get to the park, but if he had not come, the phone booth would have collapsed and she would be dead.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 26, Offset 15372.
+-- 「………………」
+"..."
+
+}
+[sha:ad5c464eff360a40fbee3042f1c1d3a18835069c]{
+-- Page 26, Offset 15373.
+-- 有珠は様々な所感、感情をのど元で押し止める。
+  Alice did her best to suppress her thoughts and feelings.
+
+}
+[sha:a3a0e72627b8e48e4e0304755fcd8328b7c793a9]{
+-- Page 26, Offset 15374.
+-- 言っても仕方のない事だし、草十郎の甘い勘違いを正すのも気が引けたからだ。
+  She felt silly at the thought of correcting him, and it would matter little anyway.
+
+}
+[sha:785d8ddfa783d9cb66068403039f6371d366a197]{
+-- Page 26, Offset 15375.
+-- ……ただ。言いかけた<感謝|ことば>を飲み込むのは、傷を堪える事より辛かっただけ。
+  The thought of her trying to thank him was more painful than her open wounds.
+
+}
+[sha:cffba5eff90a3fc3a89a3558085cb4afd9675987]{
+-- Page 27, Offset 15376.
+-- 「……もしかして、公園からずっと？」
+"...So you carried me all the way from the park?"
+
+}
+[sha:14fe0d9666fdaa65ce7a9c7844e2ec1ada523fe3]{
+-- Page 27, Offset 15377.
+-- 「仕方ないだろ。電車、終わってたんだから。タクシーを使えば良かったんだけど、あいにく持ち合わせがなくて。
+"Had to. The trains stopped running. I should've gotten a taxi, but didn't bring my wallet.
+
+}
+[sha:ba97418d1fb4a09544f659e63eb3271b2685d845]{
+-- Page 27, Offset 15378.
+-- ……ほんと。今日ほどお金の不便さを思い知った日はない」
+  ...Honestly, I've never felt how limiting money was until today."
+
+}
+[sha:f8a45e15704d987e29c2dde2066dd7dd58cdb34c]{
+-- Page 28, Offset 15379.
+-- 少年はようやくため息らしきものをついた。
+  For the first time today, Soujyuro let out a sigh.
+
+}
+[sha:c1df6e449841c5bb8416441d485b6ad6d3459dee]{
+-- Page 28, Offset 15380.
+-- 休み休みとは言え、彼は実に十キロ近い距離をこうして踏破してきた。
+  There was no point taking a break; he had already traveled close to six miles like this.
+
+}
+[sha:462ab6051845b7f8fb7156a5329a95afe69f1a7e]{
+-- Page 28, Offset 15381.
+-- 疲れきっているだろうに、草十郎はその困難さより、自分の頼りなさに呆れたらしい。
+  Perhaps the fatigue was getting to him. Soujyuro was more upset with his own weakness than the difficulty of the trek.
+
+}
+[sha:2938bdb8dccd43600b3546e39a6502d58e9b66c0]{
+-- Page 29, Offset 15382.
+-- 「……でも。それを言うなら、お金の大切さ、じゃない？」
+"...Don't you mean how important money is?"
+
+}
+[sha:890a7e8c3d627199eb7a546b3778e3f5a697a910]{
+-- Page 29, Offset 15383.
+-- 「使えるものがあるのにお金がないだけで使えないんだから、それって不便って言わないか？」
+"What I mean is, if there's something you can use only if you have money, isn't that incredibly limiting?"
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 29, Offset 15384.
+-- 「――――――」
+"..."
+
+}
+[sha:ec7d9b208d783199e615b2079f2f289656bd0228]{
+-- Page 29, Offset 15385.
+-- 純粋な疑問に、有珠は一時、傷の痛みを忘れてしまった。
+  The innocence of his question made Alice briefly forget her pain.
+
+}
+[sha:6b4f5e9d06c23d99017ddb5fb7cda3c706a0f80b]{
+-- Page 29, Offset 15386.
+-- 自分も、それなりに文明社会とは縁がないつもりだったけれど。
+  She, too, felt distant from the real world,
+
+}
+[sha:40d2d73c23b4c9b63a39c9742a8751053461c109]{
+-- Page 29, Offset 15387.
+-- この少年の素朴さに比べれば、ちゃんと文明人らしいのだ。
+  but compared to the boy carrying her, she felt like a regular citizen.
+
+}
+[sha:7c28dd10eb450e3f5d20e1cb65ac105801cd1ea2]{
+-- Page 30, Offset 15388.
+-- 「なにか、貴方らしいわ」
+"That's just like you to say."
+
+}
+[sha:52a06766b1e6f9ca3aa73986e3bbfb9baf031185]{
+-- Page 30, Offset 15389.
+-- 気付かれない様に小さく笑う。
+  Alice smiled to herself.
+
+}
+[sha:4555ff52aca7e71a1ed3472a288f56c6c5f6fa88]{
+-- Page 30, Offset 15390.
+-- 有珠が顔をあずけると、こつん、と柔らかいものが頬に当たった。
+  As Alice rested her head, something soft touched her cheek.
+
+}
+[sha:cbf55f44a3183705475639816797a058d1e9d10f]{
+-- Page 30, Offset 15391.
+-- 少年の首に巻かれた、青子からの首輪だった。
+  The collar Aoko had given him.
+
+}
+[sha:cfdc35c95e60a72ed4b5e3211ed72bf8d1456f02]{
+-- Page 31, Offset 15392.
+-- 「館についたら着替えるんだ。お腹の血も拭って、落ち着いたら居間で話そう。
+"Once we get back, you should change and clean up. When you're ready, we can talk in the drawing room.
+
+}
+[sha:5d28d8ffb91bfa288acbfaa9bdf353e53eda13a7]{
+-- Page 31, Offset 15393.
+-- 橙子さんに言わせれば、俺もこれで敵らしいから」
+  Touko sees me as her enemy now, too."
+
+}
+[sha:4c06b0822b05d000b79fe5edd445900d76484604]{
+-- Page 32, Offset 15394.
+-- その言葉を有珠が聞いた時、彼はもう坂を登りきっていた。
+  With those words hanging in the air, they reached the top of the hill.
+
+}
+[sha:8afb67582e33ad44e10ff65657436afbcb8d65fd]{
+-- Page 32, Offset 15395.
+-- 森の入り口にあたる正門。その奥には、月明かりの下に佇む彼女の洋館がある。
+  The gate in the woods stood before them. Beyond it, illuminated by the pale moonlight, stood the mansion.
+
+}
+[sha:ba9638180276b8da6b950c8a26c13d164eb819ac]{
+-- Page 32, Offset 15396.
+-- それを見上げて、少女は少しだけ残念に思った。
+  Looking up at it, the girl felt a little disappointed.
+
+}
+[sha:dc9f9398d60a01ec24789633b48eeaaece050263]{
+-- Page 32, Offset 15397.
+-- ……もちろん。
+  A natural reaction, yet...
+
+}
+[sha:bfbfd90b8371a29d9ffab36dd5087024729dca98]{
+-- Page 32, Offset 15398.
+-- 何を残念に思ったのかは、気が付く事はなかったけれど。
+  She could not place where her sadness was coming from.
+
+}

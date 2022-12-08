@@ -1,0 +1,648 @@
+[sha:c8acc95eac5a2157b3413d2b639b1a881346fc5a]{
+-- Page 0, Offset 9171.
+-- 私立という事もあって、三咲高校の冬休みは早い。
+  Misaki High was a private school, and as such its winter break started earlier than public schools.
+
+}
+[sha:38129f009042621fc55b600998d116e32ef3b2bc]{
+-- Page 0, Offset 9172.
+-- 十二月の<半|なか>ばには終業式を<迎|むか>え、校舎と生徒たちはつかの間、二学期までの疲れを癒す事になる。
+  The end-of-term ceremony was in mid-December, followed by a brief respite before the next term began.
+
+}
+[sha:f0a9d41b8a0a184930641b13839634e5104de220]{
+-- Page 0, Offset 9173.
+-- 無論。
+  Of course...
+
+}
+[sha:138cab4af286e16a11de50b2157c462c4270e4c4]{
+-- Page 0, Offset 9174.
+-- 彼らにとっては恒例の関門、幸せな長期休日の前に立ちはだかる<期末試験|みっかかん>を無事に乗り越えられたら、の話であるが。
+  That was if and only if they overcame the classic obstacle lying between them and an extended break from school: final exams.
+
+}
+[sha:ca97dde40de32d920473c48c6d40d3b8a2d29fc5]{
+-- Page 1, Offset 9175.
+-- 深夜放送を受信するラジオ。
+  The radio continued its broadcast late into the night.
+
+}
+[sha:4dc2416f97c18fbe8786bf4bc0df85593b7f42f5]{
+-- Page 1, Offset 9176.
+-- <台所|した>まで下りる手間をはぶく、紅茶用の魔法瓶。
+  A thermos of hot tea eliminated the need to venture down to the kitchen.
+
+}
+[sha:b71608be9808b70cde650324a17ab2897c4359d4]{
+-- Page 1, Offset 9177.
+-- 冬の寒さから足を守る電気毛布と、夜食のカニパン。
+  An electric blanket kept away the winter cold, and a crab-shaped pastry staved off any dinnertime hunger.
+
+}
+[sha:82569ce7130b2317adc0fe17c311418237f176aa]{
+-- Page 1, Offset 9178.
+-- このように。
+  This is what Touko had become.
+
+}
+[sha:f46a22645d9a0b6bc2cda113d45a8fcf3dee1b8b]{
+-- Page 1, Offset 9179.
+-- 青子の部屋は<一分|いちぶ>の<隙|すき>もない、一夜漬け強制空間になっていた。
+  She needed to ensure that every aspect of her surroundings helped her pull a successful all-nighter.
+
+}
+[sha:d04a37e609078cb7421c006122066f9ca1e40ef0]{
+-- Page 2, Offset 9180.
+-- 「期末試験一日目、ご苦労さま。
+"Congrats on surviving the first day of exams.
+
+}
+[sha:0ef9800e66d0ca47e6d5b05f7185104b996605d1]{
+-- Page 2, Offset 9181.
+-- それで、生まれ変わる覚悟はできた？」
+  Are you ready to leave your old study habits behind and be reborn as a new student?"
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 2, Offset 9182.
+-- 「――――――」
+"..."
+
+}
+[sha:f984bb42a1b6b9bd114e106c8a2fa70f62b2e179]{
+-- Page 2, Offset 9183.
+-- こくこく、と頷く草十郎。
+  Soujyuro nodded earnestly.
+
+}
+[sha:9cf2c8502f98a08997899924f4baeefb796b9c13]{
+-- Page 2, Offset 9184.
+-- アルバイトから戻ってきた彼を待っていたのは、魔術師ではなく、鬼の生徒会長としての蒼崎青子だった。
+  Upon returning from work he encountered not the mage he expected but the demon student council president-Aozaki.
+
+}
+[sha:998deab5bdc0d01eebc546fbc4a2691f8edc4190]{
+-- Page 3, Offset 9185.
+-- 時をさかのぼること半日前。
+  Half a day earlier.
+
+}
+[sha:a5ec52f9bec38698597a7f99883cce1fb0497b6e]{
+-- Page 3, Offset 9186.
+-- 期末試験一日目を終え、かねてからの計画を実行しようと洋館に向かう草十郎の前に、
+  The first day of exams were over, and Soujyuro was about to head back to the mansion where he hoped to put his plan into practice, when...
+
+}
+[sha:06c2c603b6169151f10ea6f9ec7c14e66e6257da]{
+-- Page 4, Offset 9187.
+-- 「今夜、私の部屋で監禁ね。
+"Tonight, I'm holding you prisoner.
+
+}
+[sha:fd3371e606ecb5704de739942e4d054df8f7668a]{
+-- Page 4, Offset 9188.
+-- あ、夕方からのアルバイトは当然キャンセル。ちょっと本気で、あの点数はあり得ないから」
+  Your grades are simply unacceptable. Cancel your shift and any other plans you have."
+
+}
+[sha:a5e42f18c446a7976e3404462430285da038af1a]{
+-- Page 4, Offset 9189.
+-- 青い炎に包まれた笑顔が現れたのである。
+  ...a cold, blue grin greeted him in the hallway.
+
+}
+[sha:21a2295a526a75502080d9b700a9135f41c7a6f1]{
+-- Page 4, Offset 9190.
+-- その手にはしわくちゃに握りしめられた静希草十郎のテスト用紙。
+  Clenched in her fist was Soujyuro's exam paper.
+
+}
+[sha:37bf21e1885ab3f7bc55bdea6d00b7cae62cd821]{
+-- Page 5, Offset 9191.
+-- おそらく職員室で山城教諭から
+  Mr. Yamasiro had no doubt said,
+
+}
+[sha:03dd69d43ec5bc5924e37064c91be061b64a2b29]{
+-- Page 5, Offset 9192.
+-- 『ま、転校してきたばかりだし、しょうがないよね』
+"He only just transferred. We can't expect miracles."
+
+}
+[sha:76b3ea556d99e5d3dd9bb33fd10e2edf8b5d27a3]{
+-- Page 5, Offset 9193.
+-- と見せられたものを、<勢|いきお>い<奪|うば>い取ってきたに違いない。
+  But she had snatched the exam out of the teacher's hands the minute he tried to show her.
+
+}
+[sha:f4b2daa447ea37d403e33972f08d8527c4aaba72]{
+-- Page 6, Offset 9194.
+-- かくして、今日まで屋根裏部屋で寝泊りしていた草十郎は、この日にかぎって青子の部屋に通された。
+  That was how Soujyuro had ended up in Aoko's room, instead of the room in the attic to which he was accustomed.
+
+}
+[sha:16db7d4af2419eb60cd2e3627fc0df1b59e80b5d]{
+-- Page 7, Offset 9195.
+-- 色々疑問視する点はあるものの、青子とて年頃の女学生である。
+  Though her situation was far from normal, at the end of the day she was an adolescent girl like any other.
+
+}
+[sha:978f408d4ff7cd375fe1e8377a28a183cd821d33]{
+-- Page 7, Offset 9196. Glued. Mods: @x.
+-- 同年代の男子を自分の部屋に立ち入らせることに抵抗はある。
+Naturally, she felt uncomfortable letting a boy her own age into her room.
+
+}
+[sha:bb203426900fa3b989d40f62f76b2ac4e054fcab]{
+-- Page 7, Offset 9197.
+-- が、それ以上に草十郎の答案用紙はあり得なかったのだ。
+  However, his grades were truly something that called for desperate measures.
+
+}
+[sha:a469f7a656973974c1af9e173e5eae75e3084044]{
+-- Page 7, Offset 9198.
+-- なので、今日の不機嫌度は五割増し。彼女のこめかみから怒りマークがとれないのも無理からぬ事である。
+  That explained why her mood was even worse than normal today and the vein on her forehead was pulsing visibly with anger.
+
+}
+[sha:923d6414167af1179ca4161ead5ee6a83232233a]{
+-- Page 8, Offset 9199.
+-- 「先に自分の復習、済ませる。
+"I need to finish my own studies first.
+
+}
+[sha:2d1c47c857cdbc9d7b120186492dd66a4f55fdcc]{
+-- Page 8, Offset 9200.
+-- アンタはそのテーブル使ってて」
+  You can use that table in the meantime."
+
+}
+[sha:0b76b8604930104f8ece1c3049c700794eba2761]{
+-- Page 8, Offset 9201.
+-- 青子はテーブルに背を向け、愛用の机に向かった。
+  Aoko turned her back to him and sat down at her favorite desk.
+
+}
+[sha:d9f1649cd4c169032c0004b6c0e20fb2b11091e4]{
+-- Page 8, Offset 9202.
+-- 一方、草十郎の前には安物のガラステーブルが一つ。
+  Soujyuro was left standing before a cheap-looking glass table.
+
+}
+[sha:3d8e8a2566d12ef6e3f1841c2ec6f94e2ec982ca]{
+-- Page 9, Offset 9203.
+-- 「……なんか色々と慣れないな。
+"I'm still really not used to all this.
+
+}
+[sha:015881a8ba511009318336d4d82fd5ed63e7b70b]{
+-- Page 9, Offset 9204.
+-- なあ蒼崎、この青いのなんだ？」
+  What's that blue thing over there, Aozaki?"
+
+}
+[sha:d97bc083dc16a08c6ccd7ecbdff0bc60c199de51]{
+-- Page 9, Offset 9205.
+-- 落ち着かないのか、草十郎は部屋の隅にたてかけられたギターを眺める。
+  Restless, Soujyuro found his eyes drawn to the guitar propped up in the corner.
+
+}
+[sha:1fe26ebba80d787d74454d11cb26e3de461414a8]{
+-- Page 10, Offset 9206.
+-- 「なんか薄いし青いしとんがってるし、きっと蒼崎の事だし。
+"It's thin, blue and intense-looking, it's got your name written all over it.
+
+}
+[sha:398174f57f8f30fca43de13e275a486789aef0d5]{
+-- Page 10, Offset 9207. Glued. Mods: @x.
+-- ……もしかしなくても、武器か？」
+Don't tell me it's some kind of weapon?"
+
+}
+[sha:a71a8415d6682fa0306135d2e18809ee14b47876]{
+-- Page 10, Offset 9208.
+-- 「楽器よそれ。エレキはともかく、アコギは音楽室で似たようなのあったでしょう。あとこれ以上<青青|あおあお>言ったら、そのとんがってるので殴るからね」
+"It's a musical instrument. I understand if you've never seen an electric one, but you must've seen an acoustic guitar in the music room. Keep talking, though, and you'll soon see if it also works as a weapon."
+
+}
+[sha:5a65a203aab1935f709548bd18113059a9c9d667]{
+-- Page 11, Offset 9209.
+-- やっぱり武器じゃないか、という感想を<堪|こら>えて、草十郎もクッションに腰を下ろす。
+  Soujyuro plopped himself down onto a cushion, struggling to suppress the desire to retort that it was a weapon after all.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 12, Offset 9210.
+-- 「――――――」
+"..."
+
+}
+[sha:074e074289f0079204d4ceaeab68b198c75d0748]{
+-- Page 12, Offset 9211.
+-- 「ちょっとは落ち着きなさいよ。いつもは耳の遠い大型犬みたいに鈍感なクセに。何か気になるものでもあるの？」
+"Don't play the victim. Usually you're as oblivious as an old and deaf dog. What's got you worked up this time?"
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 12, Offset 9212.
+-- 「………………」
+"..."
+
+}
+[sha:402818ccb32434493a70d3d7e6584b1484766380]{
+-- Page 12, Offset 9213.
+-- この場合、鈍感なのは青子の方なのだが、
+  In fact it was Aoko who was oblivious for once.
+
+}
+[sha:478e01bbe749abb5edcc3c541b90d7686c3f2880]{
+-- Page 12, Offset 9214.
+-- 草十郎もなぜ自分が落ち着かないのか分かっていないので、鈍感なのはお互い様である。
+  For his part, Soujyuro could not figure out why he felt so restless either. Suffice it to say, they were both pretty clueless in this moment.
+
+}
+[sha:2b5831b3aa0aec026126ee29ccbbc4bcba894b76]{
+-- Page 13, Offset 9215.
+-- 「あ、もしかして内装？　この部屋の家具のグレードが居間とは違うから不思議がってるのね。
+"Is it the way I decorated my room? My furniture's totally different to the stuff in the drawing room, so I understand if it seems a little weird.
+
+}
+[sha:07199f10bc9fbdc9570af07749d52c23fd7f6b7f]{
+-- Page 13, Offset 9216.
+-- ここ、ベッド以外は私の家から持ちこんだ物なの。引っ越してから二年経つけど、まだ屋敷には馴染んでないでしょ？」
+  I brought everything from home except the bed. It's been two years since I moved here, but I still don't feel like me and my stuff belong in this big, old house."
+
+}
+[sha:c8adfe0979052db5eb0f7ee211ae02fc950eac83]{
+-- Page 14, Offset 9217.
+-- そわそわと落ち着かない草十郎の心情を曲解、納得いったのか、青子は自分の勉強を始めてしまう。
+  Though she misunderstood the real reason for Soujyuro's nervousness, Aoko seemed satisfied that she had resolved Soujyuro's anxiety for the time being and returned to her studies.
+
+}
+[sha:77d4747a0ce177f2d1c657d3217c5ab2d663bcff]{
+-- Page 14, Offset 9218.
+-- 早送りのようにめくられていくノートと教科書。
+  She flipped through her notes and textbooks as if fast-forwarding a tape.
+
+}
+[sha:0b7a4f597cc5a65b435932408187dade7fc2cf08]{
+-- Page 14, Offset 9219.
+-- そこに余人の立ち入る隙間はない。
+  There was no opening for an outsider like him to intrude in her high-speed study session.
+
+}
+[sha:19da979ad95e97ae559278071e72375d1d04f556]{
+-- Page 14, Offset 9220.
+-- 青子の背中から立ち上るオーラに圧倒され、草十郎も気を引き締めてテーブルに向かった。
+  Repelled by her intensity, he retreated to his table. He was at least sensitive enough to pick up on her desire to be left alone.
+
+}
+[sha:06185557838923013f1bfacef4be6d3f0732b98b]{
+-- Page 14, Offset 9221.
+-- 完全に無視されていながら平然と自分の作業に入れるあたり、草十郎も只者ではない。
+  It was a testament to Soujyuro that having his needs utterly ignored was now second nature to him, to the extent that he could now happily go about his business in solitude.
+
+}
+[sha:b5fc6eabbe0811197dd04bc0640a148fedbd1541]{
+-- Page 15, Offset 9222.
+-- それから二時間。
+  Two hours passed.
+
+}
+[sha:30ba599d223c86a6d6246f73edfd07f5f70f2fe9]{
+-- Page 15, Offset 9223.
+-- 十一時近くなって、ようやく青子の<集中力|スピード>が減速していった。
+  Then, as the clock neared eleven, Aoko's speed and concentration began to slip.
+
+}
+[sha:60dbe9ec1f01cc3313ce6249e77d36420b85e4f8]{
+-- Page 15, Offset 9224.
+-- それを<頃合|ころあ>いと見て、草十郎は凛と伸びた青子の背中に話しかけた。
+  Seeing his window of opportunity, Soujyuro seized the moment to strike up a conversation.
+
+}
+[sha:e6a4f83201814cb7f46e41f4951afb0fbfc58c8c]{
+-- Page 16, Offset 9225.
+-- 「蒼崎、ちょっといいかな」
+"Aozaki, can I talk to you for a minute?"
+
+}
+[sha:2d83893fe124a63465d97f5c9f81d88b6964d87b]{
+-- Page 16, Offset 9226.
+-- 「ん、なに？」
+"Hm? Yes?"
+
+}
+[sha:e148916ae4cbdcda455c85202b7bda813b715cbd]{
+-- Page 16, Offset 9227.
+-- 遠慮がちな声に、青子は振り向かずに応えた。
+  She spoke hesitantly, not bothering to turn to face him.
+
+}
+[sha:238ce20addfb72ec56773c373479c951bcb1afa1]{
+-- Page 16, Offset 9228.
+-- 減速しているといっても、青子のノートをめくる動作は止まらない。
+  She continued to flip the pages of her textbook, albeit at a slower speed than before.
+
+}
+[sha:b23f98d5602917a432cb67047d45e24586c4d6db]{
+-- Page 17, Offset 9229.
+-- 「この三日間、蒼崎たちの夕食事情を見てきたけど。
+"I noticed how you and Alice have been acting at dinner these past three days, and, uh...
+
+}
+[sha:246905496f7ec714bb96addb7dcc4e82958e260e]{
+-- Page 17, Offset 9230.
+-- 君たちの食事はいつもああなのか？」
+  Is it always like that?"
+
+}
+[sha:3223a9a61993d6d03c7e66ab34a6796e13f019f0]{
+-- Page 17, Offset 9231.
+-- 「そうだけど、おかしい？」
+"Yes, it's normal. Do we not look normal?"
+
+}
+[sha:38f142bd32dbfba1e7a266480fd04ee71ff14d82]{
+-- Page 17, Offset 9232.
+-- 「む……そう言われると困るな。
+"Hm... I'm not sure how to answer that.
+
+}
+[sha:c34b7c5b15b1fe41147eb32cca66229137e9ee9a]{
+-- Page 17, Offset 9233.
+-- ただ、学校じゃみんな楽しそうだった。誰かと食事を摂るって事は、ああいう風になるコトだって思ってた。だから、もしかすると」
+  It's just, at school people seem to enjoy eating together, so I thought it was strange that the two of you don't look like you enjoy it, and I thought maybe it's because of... you know..."
+
+}
+[sha:8ab2bfdf6527f55a29fc5106721368c1ac503e0b]{
+-- Page 18, Offset 9234.
+-- 「もしかしないわよ。別にアンタのせいで有珠と話さないワケじゃないわ。私たちはいつもああだから」
+"Don't worry, it's not because of you that we haven't been talking at mealtimes. We've never talked to each other during meals."
+
+}
+[sha:eb1aa170cfee709c3ad9c66701a4d7ef7d722149]{
+-- Page 18, Offset 9235.
+-- 平然と語る青子の背中は、そんな事実をどうも思っていないようだった。
+  Aoko spoke calmly with her back still turned, seemingly unaware of what he was getting at.
+
+}
+[sha:1f8e1111d1a7265d3af9bee8152e985e14245654]{
+-- Page 19, Offset 9236.
+-- 「張りつめた食卓だな。
+"Well, it can get pretty tense.
+
+}
+[sha:917ff63ba850e767b905e9f971970b780c58a63c]{
+-- Page 19, Offset 9237.
+-- 蒼崎と有珠は、仲がいいと思ってたのに」
+  And here I thought you two were close friends."
+
+}
+[sha:49f52a6a357df98d6f48c4945d8668481266713e]{
+-- Page 19, Offset 9238.
+-- 青子は否定も肯定もしない。
+  She neither confirmed nor denied his statement.
+
+}
+[sha:b3d0620d5d46a3765ebd69b686dd7fbc08290adb]{
+-- Page 19, Offset 9239.
+-- ただ、草十郎の残念そうな呟きが、少しだけ意外だった。
+  She was, however, surprised by the disappointed tone in which he had made it.
+
+}
+[sha:39985c5e972adf8405c7ab129961181e55f785f5]{
+-- Page 20, Offset 9240.
+-- 「ま、張りつめた食卓っていうのは合ってるわね。
+"You're not wrong. It can get tense.
+
+}
+[sha:8877f3e99056740dae71a9b0047298e90bb7ce4f]{
+-- Page 20, Offset 9241.
+-- 有珠が何回アンタの飲み物にメスカリンを入れてたかなんてもう覚えてないし、昨日なんか堂々とサラダの中にナナカマドなんか混ざってるし。
+  I can't remember how many times she's put mescaline in your drink, and yesterday she was adding rowan to your salad.
+
+}
+[sha:f7bcf5675a04447d1e0707d3e1d8e42c6d0da9d9]{
+-- Page 20, Offset 9242.
+-- ……ほんと、あの娘なに考えてるんだろう」
+  ...Beats me what the hell she was thinking."
+
+}
+[sha:dd4062c4cee7362d6fb623e9661a4aab42d31c2f]{
+-- Page 20, Offset 9243.
+-- 思い出すように苦笑しながら、青子は教科書をめくっていく。
+  A bitter smile spread across her face in reminiscence. The pages of her textbook continued to turn.
+
+}
+[sha:112f924437d700b21180ac27181949782febdf28]{
+-- Page 21, Offset 9244.
+-- 「メスカリン……？」
+"Mescaline? What's that?"
+
+}
+[sha:f0a8b25c31c62be5812a5dd0afd63d3c9ba1b60c]{
+-- Page 21, Offset 9245.
+-- 「サボテンからとれる<植物塩基|アルカロイド>よ。有珠が使う以上、ただの幻覚剤じゃないでしょうけどね。……っと、私はこんなもんでいっか」
+"It's a hallucinogenic alkaloid produced by the peyote cactus. I'm assuming it's more than just your average hallucinogen if Alice is using it, though... And I'm done!"
+
+}
+[sha:bc76e0d8e5c50638f3285cbe48a4ce26191dc797]{
+-- Page 21, Offset 9246.
+-- そう言う彼女の手元で、ぱたん、と四冊目の教科書が閉じられた。
+  With that she slammed shut her fourth textbook of the night.
+
+}
+[sha:27c0425635372a05d9fa439f4e0f34e2bac28539]{
+-- Page 21, Offset 9247.
+-- 今まで微動だにしなかった背中がくるりと反転する。
+  After having scarcely changed position the whole night she finally turned in her chair to face him.
+
+}
+[sha:ceeb978d86b75f4ad2aad2306de305ef165f2d89]{
+-- Page 22, Offset 9248.
+-- 「さ、今度はアンタを仕込まなくちゃね。
+"Now it's time to put you to work.
+
+}
+[sha:5eb10e9fb6791beafb9cb927d0536e0791088441]{
+-- Page 22, Offset 9249.
+-- 今日の四科目の答案、実に草十郎らしい出来栄えで卒倒しそうになったわ、私」
+  I don't know what else I was expecting, but I still almost fainted when I saw your scores."
+
+}
+[sha:9fa2a85001cc1e63220d12bc08e89f2a142ab03a]{
+-- Page 22, Offset 9250.
+-- 口調は楽しそうに、けれど視線は不機嫌そうに、青子はあぐらをかく草十郎を見つめる。
+  Her tone was light but her gaze was heavy as she stared at Soujyuro, seated cross-legged on the floor.
+
+}
+[sha:5750f5ed40045c848fe3a2d5577b0970b2fc16b2]{
+-- Page 23, Offset 9251.
+-- 「現国、地理、数学、電子工学。
+"Modern literature, geography, math, and electronics...
+
+}
+[sha:4c7a2249d7917e254c118ae17e0f3f4b2c12c02c]{
+-- Page 23, Offset 9252.
+-- あの調子であと二日続けたら、冬休みが消えるのは当然でしょうね。そうなると困るのは私なのよ、実際」
+  If you don't up your grades over the next two days your winter break is as good as gone. And that'll be more of a problem for me than you."
+
+}
+[sha:f911f7554f2337cc71064260630bad6e96d2f57a]{
+-- Page 24, Offset 9253.
+-- 「いや、俺も困るぞ。休みなのに学校に行くのは、なんか気が乗らない」
+"I disagree. I think it'll be worse. Going to school during the break would not work out for me."
+
+}
+[sha:ed1673fa6e5a28b77cf60099c2b75384b3a99e3d]{
+-- Page 24, Offset 9254.
+-- 冷静に誤りを訂正する草十郎。
+  Soujyuro calmly corrected her.
+
+}
+[sha:3c16bd20122c86392f9950ee489b323cffd49738]{
+-- Page 24, Offset 9255.
+-- 「そりゃあ私の台詞だ！　アンタが学校に行くってコトは、必然、こっちまでとばっちりがくるっての！」
+"For you?! If you have to go to school over the break, what do you think will happen to me?"
+
+}
+[sha:f7b8ccf94c2a384cf07190343ce366ccb23c541b]{
+-- Page 24, Offset 9256.
+-- 思い出したくもない、山城教諭のニヤニヤ顔を想像してしまう青子だった。
+  All she could think about, as much as she tried not to, was Mr. Yamasiro and his annoying grin.
+
+}
+[sha:8add7985ea10ca46da209e4e6bf8e9728bc49acb]{
+-- Page 25, Offset 9257.
+-- 「それ以前に、私の目が黒いうちはオール赤なんて<生徒|ヤツ>は許さない。
+"I cannot allow any student to fail every single class. Not on my watch.
+
+}
+[sha:5df80b1d3047b8f698b862e0f839c415cd49fe51]{
+-- Page 25, Offset 9258.
+-- 本来なら性根から叩き直すところだけど……」
+  If I could beat good grades out of you I would."
+
+}
+[sha:dd5396de2f244dbebe92d6053f920a8e10411839]{
+-- Page 26, Offset 9259.
+-- 「ま、アンタは色々事情があるから、とりあえず点数だけで勘弁してあげる。
+"Lucky for you, you have 'extenuating circumstances,' shall we say, so I'll give you a pass just this once.
+
+}
+[sha:710621f5629678e6db96f0365ba1896941fe3d36]{
+-- Page 26, Offset 9260.
+-- 私もテストは一夜漬けで片付ける方だから、アンタ一人仕込むのに、そう時間はかからないだろうし」
+  A good all-nighter is usually enough for me to prepare for exams, so it shouldn't take too long to get you up to speed either."
+
+}
+[sha:090dee6c710194b1f8cf5264ca880724a32b0fd9]{
+-- Page 26, Offset 9261.
+-- 青子の宣言に、草十郎は露骨に表情を曇らせる。
+  Soujyuro's expression openly soured in response to her declaration.
+
+}
+[sha:8cd9fd4941a17f32c55cf63e49e0ea5ede32b05d]{
+-- Page 26, Offset 9262.
+-- そんなお節介はいらない、とでも言いたげな顔である。
+  It was obvious he did not think he needed her meddling in his studies.
+
+}
+[sha:101a2877f9af9d8877732055cdbb0b71dc95dc9c]{
+-- Page 27, Offset 9263.
+-- 「アンタね。苦労するのは私と貴方、どっちだと思う？」
+"Oh, please. Which of us do you think is going to have the harder time of it, me or you?"
+
+}
+[sha:c811e4f6d515d9f688907159549e2f406d9ab317]{
+-- Page 27, Offset 9264.
+-- 間違いなく自分だな、と運命的に悟りながらも草十郎は静かにうなだれた。
+  Soujyuro got the feeling that it would be him, but he nodded slowly nonetheless.
+
+}
+[sha:08c35df8d3405cc87f7492e814a868797fe85961]{
+-- Page 27, Offset 9265.
+-- どのみち断ったところで断りきれるはずがないし、青子の言う通り、苦労の度合いは彼女の方が大きいだろう。
+  Then again, it would probably take more effort on her part than on his, and in any case he knew there was no way to talk her out of it.
+
+}
+[sha:7e8b8f9605a21877c4c4a6e652c3684691278807]{
+-- Page 28, Offset 9266.
+-- 「……この度は、ご迷惑をおかけします」
+"...I feel bad for making you do this."
+
+}
+[sha:a74782668537f0008c2838e4c491ea5ff1d3a4e4]{
+-- Page 28, Offset 9267.
+-- 観念と感謝の意をこめて、ぺこりと一礼する草十郎。
+  Soujyuro summarily bowed his head to show gratitude and willingness to work.
+
+}
+[sha:b2fd1bd42da0a0d2db5c0c628beb31c7829f90ab]{
+-- Page 29, Offset 9268.
+-- 「よろしい。
+"Good.
+
+}
+[sha:a72b68e5d85f3877e6dfddab03c67baed181705b]{
+-- Page 29, Offset 9269. Glued. Mods: @x.
+-- 安心なさい、私だって鬼じゃないから。
+And don't worry, I'm not a demon, like they say.
+
+}
+[sha:568fadee779e22b347fb6de9719284d9c10f8203]{
+-- Page 29, Offset 9270.
+-- 別に平均点狙うってワケでもなし、予定通りこなしていけば三時には眠れるわよ」
+  You can get less than average marks and still pass. You'll probably be able to go to bed by three."
+
+}
+[sha:6f5ed1ff9c352d392f2af832723685e2763678ff]{
+-- Page 30, Offset 9271.
+-- 殊勝な教え子の態度に、青子は満足そうに頷いた。
+  She nodded with satisfaction, pleased by his studious attitude.
+
+}
+[sha:a1331eaaa84d33f59bbf616df452bf8cbb1c93c6]{
+-- Page 30, Offset 9272.
+-- ほんとうに色々問題のある草十郎だが、この素直さがあれば大抵のコトはなんとか出来てしまうだろう、と。
+  He had plenty of obstacles ahead of him, but that sense of humility might be enough to see him through.
+
+}
+[sha:bc36dfb7503297f041d0b80e01189409d48aba22]{
+-- Page 31, Offset 9273.
+-- 「……って、なにホトケ心だしてるんだ私。
+"Wait, what was I thinking? I can't afford to be this soft on you."
+
+}
+[sha:73f6f6bb15e7884de720a0e83ec338cfd4600d4f]{
+-- Page 31, Offset 9274.
+-- いい、静希君？　このあと頼られちゃたまんないから<釘|くぎ>さしておくけど、私がマンツーマンで誰かを仕込むなんてコト、滅多にないから。
+  Sizuki, let me be straight about this... temporary arrangement. It's not every day I offer private, one-on-one lessons like this.
+
+}
+[sha:3ead1be33b0f9348930c83d386525498d74d8247]{
+-- Page 31, Offset 9275.
+-- これはあくまで、異例中の異例だって覚えておいてね」
+  This is beyond rare, an exception among exceptions. And don't you go forgetting that."
+
+}
+[sha:b681efde77a96650ad991b606c6eca12769535eb]{
+-- Page 32, Offset 9276.
+-- 自分に言い聞かせるような青子の宣言に、えー、と顔を曇らせる草十郎。
+  She spoke more to convince herself than him, but his expression still darkened.
+
+}
+[sha:fef6c2f620bbc26032f4a504c8606aed37f82ae5]{
+-- Page 32, Offset 9277.
+-- その顔の上に“拾ってください”なんて単語を連想してしまい、自らの甘さにうなだれる青子だった。
+  It made one want to hang a side around his neck that read, "please take me home," like an abandoned pet. Aoko chided herself for being so soft.
+
+}
+[sha:ba33fe8de16d8bff895bddcdc9aad2efa0fae656]{
+-- Page 32, Offset 9278.
+-- そう言えば、初めて出会った日は雨だったっけ、などと思いながら。
+  For some reason, in that moment she recalled that it had been raining the day they met each other.
+
+}

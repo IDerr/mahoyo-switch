@@ -1,0 +1,684 @@
+[sha:46c4dfa0ea39a35b7d51bda9e1414e755244a915]{
+-- Page 0, Offset 4928.
+-- 青子は背中の痛みに耐えながら、鏡張りの通路を走る。
+  Aoko fought against the pain in her back as she ran through the mirrored corridor.
+
+}
+[sha:bdd4be0b438612f3c27fd69e6a0465bac21208b2]{
+-- Page 0, Offset 4929.
+-- その手に引かれておまけ状態の草十郎も走る。
+  She dragged Soujyuro by the hand.
+
+}
+[sha:6dfb30800de293fce822098cdafecfb3ba504aad]{
+-- Page 1, Offset 4930.
+-- 「蒼崎、傷は？」
+"Aozaki, are you okay?"
+
+}
+[sha:4c1493350016c85221b3623ddf511fcf24cf4cb8]{
+-- Page 1, Offset 4931.
+-- 「……べつに、背骨が<痺|しび>れてる程度よ。内臓は平気だし、出血もないみたい」
+"...My spine is numb, but it could be worse. My internal organs seem fine, and I don't think I'm bleeding internally."
+
+}
+[sha:f5eacf19179a7dfd3c389fd6c9c3ce35c30f3cb6]{
+-- Page 1, Offset 4932.
+-- ま、肝心の<神経|かいろ>はズタズタだけど、と内心呟く青子。
+  She cursed inwardly at how much of a mess she felt, though.
+
+}
+[sha:c8c19cb4ed4e007f70f5112973bf75ffa4535b1f]{
+-- Page 1, Offset 4933.
+-- 草十郎と違い、青子は透明の壁にぶつからない。
+  Unlike Soujyuro, Aoko did not run into any transparent walls,
+
+}
+[sha:bab587dcd383cdd01db95b82e0a2063af10eaeab]{
+-- Page 1, Offset 4934.
+-- 目がいいのではなく、ミラーハウスの構造を頭にたたきこんでいるからだ。
+  thanks not to superior sight, but rather preparation-she'd hammered the layout of the building into her memory.
+
+}
+[sha:61f773125323cb2c539cfa1ddee45e12cfc4ce1b]{
+-- Page 2, Offset 4935.
+-- 「……平気って、分かるのか？」
+"...You're really okay? How can you tell?"
+
+}
+[sha:d6e8b7632a0030effb8452d2409d17e160e14525]{
+-- Page 2, Offset 4936.
+-- 「そりゃ自分の体だもの。身体管理は基礎中の基礎よ」
+"Because it's my body. One of the first things a mage learns is how to keep track of your body."
+
+}
+[sha:0ba77bb9694ac8cdc2a8d5082f5e350de010ea5a]{
+-- Page 2, Offset 4937.
+-- 恐る恐る訊ねる草十郎と、つまらなそうに答える青子。
+  Aoko's matter-of-fact answer contrasted with Soujyuro's nervous questioning.
+
+}
+[sha:0f269a87824febb9a5fddec7b1a61d0ad0e1314d]{
+-- Page 2, Offset 4938.
+-- 左曲がりの回廊は段々と、その直線距離を短くしていた。
+  The corridor grew shorter with each and every left turn.
+
+}
+[sha:61b837ecb6af99f63caddb586f21bab9b28caca3]{
+-- Page 2, Offset 4939.
+-- 先ほどまではまっすぐに三十メートル。
+  At first, they were able to advance in a straight line for about a hundred feet at a time.
+
+}
+[sha:21f01550682aa535a9a33694de0d486bebf0c8b1]{
+-- Page 2, Offset 4940.
+-- 今では十五メートルほどで曲がり角に突き当たる。
+  But by now, they were forced to turn a corner every fifty feet or so.
+
+}
+[sha:0bad15aa9542c8599b3f0d4da79c10c9a68316cf]{
+-- Page 3, Offset 4941.
+-- 「あいつは、あの夜の……？」
+"Is that the one from... the other night?"
+
+}
+[sha:ed3f9b334af11287cb01aba031fb2bd9ca1f9d85]{
+-- Page 3, Offset 4942.
+-- 「たぶんね。同じタイプだと思う。貴重な<自動人形|オートマタ>を惜し気もなく使い捨てるなんて、よっぽどお金持ちなんだろうけど」
+"Probably the same pattern, at least. Whoever's behind it must be pretty wealthy to be throwing a valuable automata around like it's a toy."
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 3, Offset 4943.
+-- 「………………」
+"..."
+
+}
+[sha:65ded178c0a8b91e1c162f266e3bbe6827fec5a5]{
+-- Page 3, Offset 4944.
+-- む、と眉間に<皺|しわ>の草十郎。
+  Soujyuro furrowed his brows.
+
+}
+[sha:403dcb0ffb2dd45560f3028f2e25c69453626b58]{
+-- Page 3, Offset 4945.
+-- 質問にきちんと答えてくれるのはありがたいが、聞けば聞くほど聴き慣れない単語が出てくるのは困りものだ。
+  He was grateful that she was answering his questions, but baffled by the strange words she was using.
+
+}
+[sha:debf24e92207ea08762c03f3d6d319c370be2e0c]{
+-- Page 4, Offset 4946.
+-- 「蒼崎、ストップ。もうずいぶん走ったぞ。
+"Hold up, Aozaki. We've been running for a long time.
+
+}
+[sha:1601791c101f3d34828524c78a68f2959962b7cb]{
+-- Page 4, Offset 4947.
+-- あいつは曲がり<角|かど>一つぶん向こうだ。少し休もう」
+  We're a good corner ahead of it, we can afford to rest a moment."
+
+}
+[sha:2e8430e4189ad8c2f6b00a6d27d7922be1977098]{
+-- Page 4, Offset 4948.
+-- 青子の傷を気遣って声をかける。
+  His words suggested that he was still concerned about her injuries.
+
+}
+[sha:e87e439520f06d5f9e6f383dfd83f4c43b828533]{
+-- Page 4, Offset 4949.
+-- しかし、彼女は不機嫌そうに首を振った。
+  Aoko shook her heard in irritation.
+
+}
+[sha:a419ef9149ce16d8071476aaa9f61c554fec3598]{
+-- Page 5, Offset 4950.
+-- 「あの距離を狙ってくる相手に通路一つ分のリードは無意味よ。せめて二つ分に行くまで走るの」
+"Not enough against something with that kind of range. We need to keep running until we're two or three turns clear at least."
+
+}
+[sha:5675ef91938f697fa7b453803402aec7316c2a48]{
+-- Page 5, Offset 4951.
+-- なるほど、と頷く草十郎。
+  This made a lot of sense to Soujyuro.
+
+}
+[sha:84ad6a111af3f98dee4fc69aa808c5d50ae23739]{
+-- Page 5, Offset 4952.
+-- と、それはともかくとして、
+  With that matter settled, he asked,
+
+}
+[sha:8d70c039e1fb076eef104f2647955b277d5da1bf]{
+-- Page 6, Offset 4953.
+-- 「なんで俺を連れていってるんだ？」
+"Why didn't you leave me behind?"
+
+}
+[sha:1cda3d21039273c3c1e8cb446a4abb54bc23f455]{
+-- Page 6, Offset 4954.
+-- 「逃げられたくないからじゃない、馬鹿」
+"Why do you think? So you couldn't get away, idiot."
+
+}
+[sha:889f4a2ad44a3c1040e4876ccd8ea516907bb4c9]{
+-- Page 6, Offset 4955.
+-- 実に簡潔な返答をしつつ、平和ぼけした獲物をむっと睨む青子だった。
+  Answering curtly, Aoko glared at her naïve prey.
+
+}
+[sha:adfaa0a29684fcc11028a557ff15832657af2265]{
+-- Page 7, Offset 4956.
+-- ふたりはさらに先の曲がり角へ。
+  The two of them headed for the next corner.
+
+}
+[sha:2de2a7a2bdd9701254ee607b8e4d0177a55a80bb]{
+-- Page 7, Offset 4957.
+-- 通路二つ分のリードをとって、ようやく足が止められる。
+  Their legs began to slow as they rounded one more.
+
+}
+[sha:a04a34647a9b5c8b0f50f80c41e204d6a363c2db]{
+-- Page 8, Offset 4958.
+-- 青子は息を整えながら背中に手を当てた。
+  Aoko rubbed her back as she tried to catch her breath.
+
+}
+[sha:68f5c1a7639e0915301e2555d0f68d3713499f15]{
+-- Page 8, Offset 4959.
+-- 先ほどは“ぜんぜん平気”と断言した青子だが、どうも強がりだったらしい。
+  Though Aoko had insisted that she was fine, it appeared to have been bravado.
+
+}
+[sha:5963210d23f09311f7135e244fd89ea02f5c81ad]{
+-- Page 8, Offset 4960.
+-- なぜなら、空気の読めない草十郎にも分かるぐらい空気が重い。
+  Even the usually clueless Soujyuro felt the desperation they were in.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 9, Offset 4961.
+-- 「………………」
+"..."
+
+}
+[sha:654fae21a73ac6e63a4ef0435572dbe13eaaf41f]{
+-- Page 9, Offset 4962.
+-- そんな青子の後ろで、さて、と腕を組む草十郎。
+  He stood behind Aoko with his arms folded.
+
+}
+[sha:bde640f536efa2acc4b648bb65f64b25d1e8b866]{
+-- Page 9, Offset 4963.
+-- 鬼の居ぬ間になんとやらで、この隙に、彼は彼なりに現状把握などにトライしてみた。
+  While they had a moment, he tried to make sense of everything.
+
+}
+[sha:72f2bb43332a3ff68db3ee6d7e715abe2eda5a37]{
+-- Page 10, Offset 4964.
+-- まず、自分は蒼崎青子に殺されかけた。
+  First, Aoko had nearly killed him.
+
+}
+[sha:bc5ca4d0692b5abcbec13d046f2b3587e1ea2f20]{
+-- Page 10, Offset 4965.
+-- あわやというところで助けが入ったが、割って入った人物は二日前の夜、青子によって燃やされた『怪奇腕が伸びる人間』だった。
+  Though he was saved at the last possible second, it was by the strange, stretchy woman Aoko had burned to ashes two nights prior.
+
+}
+[sha:6d2fd4edd625abaa887388cb7e5cedbf3ffe2b14]{
+-- Page 10, Offset 4966.
+-- よく見えなかったが、とりあえず女性っぽかったので彼女と呼称する。
+  He could barely make it out that night, but he considered it a "her" because it looked female.
+
+}
+[sha:94940fff675c14db820648ff2d84fa92369c59c9]{
+-- Page 11, Offset 4967.
+-- その彼女の攻撃で青子は背中を負傷し、一旦逃走。
+  The woman's attack wounded Aoko's back and forced her to flee.
+
+}
+[sha:98e82bbee90f28b467c3d405e57e5ac45bc4cb90]{
+-- Page 11, Offset 4968.
+-- その際、なぜか草十郎の手を取ったが、それはどさくさに紛れて<草十郎|エモノ>が逃げ出すのを阻止するため、とのコトだった。
+  Aoko had taken Soujyuro with her, claiming that the reason she did so was to prevent her prey from escaping.
+
+}
+[sha:ce366d4efbbc16ef667ccd57cb9dd3a9e5ae6773]{
+-- Page 11, Offset 4969.
+-- つまり―――
+  In other words...
+
+}
+[sha:669a60e7d07b9cf2b3be7987ba384076eb974167]{
+-- Page 12, Offset 4970.
+-- 「蒼崎は、まだ<諦|あきら>めてないんだな？」
+"You haven't given up, have you, Aozaki?"
+
+}
+[sha:de9e5314f5fd801583784716201b9af8e42d5767]{
+-- Page 12, Offset 4971.
+-- 「あったりまえよ。あんなヤツ、仮に二体と半分始末してもアンタ用の余力は残せるわ」
+"Of course not! Even if I had to face two of those things, I'd still have plenty left to take care of the likes of you."
+
+}
+[sha:4e20d9b5485e64db77f7ea9c6f0200617cbf8be3]{
+-- Page 12, Offset 4972.
+-- などとタンカをきる青子の表情は、<草十郎|しろうと>目にも厳しい。
+  Her tone was sharp, but even Soujyuro could see that she was struggling to stay confident.
+
+}
+[sha:397a2b7587edfb6a7ae7aff76e2704bce641f92b]{
+-- Page 12, Offset 4973.
+-- 彼女の体のダメージは無視できるものではなく、状況は楽観できるものではない。
+  The damage to her body was too much to afford her any optimism.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 12, Offset 4974.
+-- 「――――――」
+"..."
+
+}
+[sha:190b36c19853a63b595db628c07e21eb0bc7821f]{
+-- Page 12, Offset 4975.
+-- だが、彼女の目に秘められた激情が、その一切を否定する。
+  Still, the fury in her eyes refused to accept her circumstances.
+
+}
+[sha:9ce44743831a87dc661e024891dad935780fea07]{
+-- Page 13, Offset 4976.
+-- “<魔術回路|なか>がところどころショートしてる……
+"My Magic Circuits are shorting out like crazy...
+
+}
+[sha:aec737e5a94428aaa21c948d992a68a30a6bcf06]{
+-- Page 13, Offset 4977.
+-- あの右腕は回路を混線させる<術式妨害|ジャミング>ってワケね―――”
+  Which means that right arm of hers must be jamming my spells."
+
+}
+[sha:d8fcc20853c3e5d6d7cc18947912435494e45b3c]{
+-- Page 13, Offset 4978.
+-- 本来ならピンチに震え上がるところだが、青子の拳を震わせたのは怒りだけだ。
+  Though the proper response would have been for her to tremble in fear, she did nothing but shake her fists in anger.
+
+}
+[sha:23b10f2a26a266b161d3721177b5710403daba7c]{
+-- Page 14, Offset 4979.
+-- 術式妨害なんて初歩の初歩、かけだしの半人前にしか通じない。
+  The disruption of formulae was only supposed to work on absolute beginners.
+
+}
+[sha:65bb4a725eed919c2a191bdc2712dce2672d4081]{
+-- Page 14, Offset 4980.
+-- 彼女の同居人レベルなら、あんなジャミングはそれこそ腕が触れた時点で弾き、接触しようとした相手の回路を逆に焼き切ってしまうだろう。
+  If it had been her roommate, the arm would have been repelled the instant it hit her and the attacker's circuits burned out, rather than her own.
+
+}
+[sha:2b70501407169131d29d1205bb5b7e9309a9feff]{
+-- Page 14, Offset 4981.
+-- このように、他の魔術師と回路を繋げよう、なんて行為は自分の心臓を差し出すに等しい。卓越した魔術師同士の術理戦において、何の役にもたたない<駄機能|だきのう>だ。
+  Attempting to establish a link to the Magic Circuits of another mage was like presenting your heart on a silver platter. It would be of no use in a battle against a superior mage.
+
+}
+[sha:4cee491f4ddc9bde47d3174987d0fe927202be51]{
+-- Page 15, Offset 4982.
+-- なのに、あの敵にはそんな“余分な”機能が備えられていた。
+  And yet, her adversary had been designed to do just that.
+
+}
+[sha:68d385b86ef824ae8d7d8fc72286354f7fa2a6fe]{
+-- Page 15, Offset 4983.
+-- ここ数週間の、三咲の管理地を巡る戦いっぷりから出た、敵の結論。二日前、正式に魔術師として踏みだした彼女に対する評価がそれ。
+  Coupled with the attacks on areas of Misaki under Aoko's jurisdiction these last few weeks, it was a clear statement from the enemy, who as of two days ago had revealed itself as a fellow mage.
+
+}
+[sha:238d35c2318c7b8233c0a35598c75f7743bbd982]{
+-- Page 15, Offset 4984.
+-- 要するに―――
+  In other words,
+
+}
+[sha:52ccf22d16a49b637267134e81d096e4813be098]{
+-- Page 15, Offset 4985.
+-- あの<人形|てき>は、蒼崎青子を完っ全に舐めている。
+  the puppet saw Aoko as no threat at all.
+
+}
+[sha:b44f71a7e2cf4ce871cff29aaa2a48381140e92f]{
+-- Page 16, Offset 4986.
+-- 「……ふん。敵ながら精確な判断だこと」
+"...Hmph. Played right into their hands, huh."
+
+}
+[sha:37ba09aed8caa89f037f3408392e5903fb16618c]{
+-- Page 16, Offset 4987.
+-- 怒りはそのままに、浮き足立つ激情を冷却する。
+  While she was still angry, the whirlwind of emotions within her started to fade.
+
+}
+[sha:436064dc5416d28ff8a687bc5384d5f8f6e52be6]{
+-- Page 16, Offset 4988.
+-- 十七歳の少女には似つかわしくない、達観した狩人の顔。
+  Her face was that of a hunter far beyond her years.
+
+}
+[sha:276dacd15bb3c910f173f90204079036430ba3f7]{
+-- Page 17, Offset 4989.
+-- 「なんか、俺の時より真剣だな」
+"You seem to be more concerned about this thing than you were about hunting me."
+
+}
+[sha:4749a2fadd119521baf4a11e333cb976e9cdee7a]{
+-- Page 17, Offset 4990.
+-- 「まあね。アンタの時は遊びが入ってたし」
+"Well, naturally. I was only playing with you."
+
+}
+[sha:c20d12bcfff3813a1e0c047d42012c654de061fe]{
+-- Page 17, Offset 4991.
+-- 「……む」
+"...Hm."
+
+}
+[sha:134c32bf026040cf186069d7a0c79e784aa03a6e]{
+-- Page 17, Offset 4992.
+-- 喜んでいいのか悲しんでいいのか、草十郎には難しい返答だった。
+  Soujyuro was not sure whether to be happy or sad at that.
+
+}
+[sha:0a282d05830ca9a50e9a509dae1c0943171b19d2]{
+-- Page 18, Offset 4993.
+-- 「分からない事だらけで何を聞いていいか分からないんだけど、ひとつだけいいか？」
+"This is all so confusing that I don't even know where to start, but can I ask just one question?"
+
+}
+[sha:5fa72207c5e74ffa905b2912ae39e128998fff71]{
+-- Page 19, Offset 4994.
+-- 青子は<応|こた>えず、目前の闇を見詰めている。
+  Aoko didn't respond. Her eyes were focused on the darkness before them.
+
+}
+[sha:f33042fab2aa93efd0f6d5d05fa55ed7fad84463]{
+-- Page 19, Offset 4995.
+-- 沈黙は重く、まとわりつく闇は締めつける<真綿|まわた>のようだ。
+  The silence was heavy and the darkness was like a noose closing in on them.
+
+}
+[sha:0442d6ececb0d6cd748dec51c2219ebe193254ef]{
+-- Page 19, Offset 4996.
+-- それでも、完全に自分を無いものと扱う青子に臆さず、草十郎は続けた。
+  But Soujyuro continued in spite of her indifference.
+
+}
+[sha:de2f0dcfb65f99ae649202aa0bc3299da2ab6e2a]{
+-- Page 19, Offset 4997.
+-- 「蒼崎は、あいつも殺すのか」
+"Are you going to kill her, too, Aozaki?"
+
+}
+[sha:0ca796e32f98ed2b4db0f9daba60a7dafe27dd73]{
+-- Page 19, Offset 4998.
+-- <粛々|しゅくしゅく>と。
+  A silence fell over them.
+
+}
+[sha:b823a6b16e1d6fe09a9cde5999d9b5add6861e0e]{
+-- Page 19, Offset 4999.
+-- その行為を、暗闇から引きずりだすように。
+  It was as if the gloom was pulling them in.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 20, Offset 5000.
+-- 「――――――」
+"..."
+
+}
+[sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
+-- Page 20, Offset 5001.
+-- 返事はない。
+  The room was silent.
+
+}
+[sha:d55b68dbc71bb69655e59bde476f84860834d397]{
+-- Page 20, Offset 5002.
+-- 薄影の廊下に、ふたりの息遣いだけが響く。
+  Their breathing was the only sound echoing in the dim corridor.
+
+}
+[sha:fbe41df6d0faae4608e27aafebc51a57f696ef73]{
+-- Page 21, Offset 5003.
+-- 罪を問いかける草十郎と、それを無視し続ける魔法使いの少女。
+  There stood Soujyuro, forcing her to confront her sins, and the magician girl who continued to ignore him.
+
+}
+[sha:f96a78a8deb1c3239afa49c1d79a8e625f089121]{
+-- Page 21, Offset 5004. Glued. Mods: @x.
+-- ……凍りつくような数秒の<後|のち>、
+They spent a few seconds, seemingly frozen in time.
+
+}
+[sha:f6cdbe4f66c2395ff388b6ecc58a7674074b7503]{
+-- Page 21, Offset 5005.
+-- 「―――そう。
+"...I see.
+
+}
+[sha:2c18d1805b7cb641545ef5eec9189f8a43c1bdf0]{
+-- Page 21, Offset 5006.
+-- それが貴方のキーワードみたいね」
+  That's a sticking point for you, isn't it?"
+
+}
+[sha:f9cd66ce9498af3dd6cc1d24123bf9b93c04a991]{
+-- Page 21, Offset 5007.
+-- 抑揚のない声で、青子は呟いた。
+  Aoko whispered in a lifeless tone.
+
+}
+[sha:dae21a9ee2485c48f798ea840eed86c144e50b16]{
+-- Page 21, Offset 5008.
+-- 観念したようにも、軽蔑したようにも取れる、ため息をこぼしながら。
+  Her sigh was tinged with both resignation and contempt.
+
+}
+[sha:323fa0095259752e0fefba542f86dc4ac9d69d22]{
+-- Page 22, Offset 5009.
+-- 「キー……なに？」
+"A sticky... what?
+
+}
+[sha:a3b24652d9f511daa90088e65946564f4c867fb2]{
+-- Page 22, Offset 5010.
+-- 「独り言よ。忘れて。
+"Nothing. Forget it.
+
+}
+[sha:5156f42b7d54922253bd40dc792fa430691b5872]{
+-- Page 22, Offset 5011.
+-- それと。言っとくけど、あいつは人間じゃないわ。
+  But just so you know, that thing that's following us isn't human.
+
+}
+[sha:c84161aaab38bcad2a67a894da50295c9813b933]{
+-- Page 22, Offset 5012.
+-- 信じられないだろうけど自分の意志で動く人形なの。この前のも、今のヤツもね」
+  You might not believe this, but it's a puppet that can move of its own will. Just like the one from the other night."
+
+}
+[sha:c358074a68c1ba3dc13c965a926a431283f01a67]{
+-- Page 22, Offset 5013.
+-- ふーん、と素直に頷く草十郎。
+  Soujyuro nodded as he processed the information.
+
+}
+[sha:c36af29a9dafdc1762804d9830874c7d40c5293f]{
+-- Page 22, Offset 5014.
+-- 青子の話を信じないどころか、納得さえしている風だ。
+  Not only did he not doubt her story, but he seemed to have accepted it at face value.
+
+}
+[sha:105cc3678bf36ae5526554c878575f9bc3a9fed0]{
+-- Page 23, Offset 5015.
+-- 「……なんか落ち着いてるわね、貴方」
+"...You're awfully calm."
+
+}
+[sha:9be9e9f727c52148e02a6cd5160495705f5ba499]{
+-- Page 23, Offset 5016.
+-- 「まさか。もう何がなんだか分からないから、あまり考えない事にしてるだけだ。
+"No way. I have no idea what's going on, so I'm just trying not to think too hard about it.
+
+}
+[sha:484556e268d8f5a2753d064d745f3d3692c3dd51]{
+-- Page 23, Offset 5017. Glued. Mods: @x.
+-- ただ、人形に関しては別に、どうという事はない」
+The part about it being a puppet isn't too surprising to me, though."
+
+}
+[sha:8e016838bdabdb8f946a3aff2ef1465e36dc4079]{
+-- Page 23, Offset 5018.
+-- 「え？　もしかして、他でも自動人形を見た事あるとか！？」
+"What? Are you saying you've seen one before?!"
+
+}
+[sha:5652e134845b3d577ad3e92ee3ed241b483c78cc]{
+-- Page 23, Offset 5019.
+-- 「？　都会の人形ってああいうものじゃないのか？」
+"What do you mean? Aren't all puppets in the city like that?"
+
+}
+[sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
+-- Page 24, Offset 5020.
+-- 「な―――」
+"Wh..."
+
+}
+[sha:7d1ce0e8734e40b993e3d4547e70d0bb1b1878cb]{
+-- Page 24, Offset 5021.
+-- ばたり、と倒れこみたい衝動をギリギリで<堪|こら>える青子。
+  She barely stopped herself from falling to her knees.
+
+}
+[sha:005079dfd54064d633802dcdebbfb9b90482e211]{
+-- Page 24, Offset 5022.
+-- そうなのだった。
+  Of course. How could she have forgotten?
+
+}
+[sha:c97883027aa0a01188d34a8f08b727651e178678]{
+-- Page 24, Offset 5023. Glued. Mods: @x.
+-- この、神がかった<呆|ほう>け者はそういう男なのだった。
+She was dealing with a bona fide, natural-born moron.
+
+}
+[sha:9a3e48dae9d2afb8f411578d78b1a9043e205ae1]{
+-- Page 24, Offset 5024.
+-- 天然保護動物なみに隔離された山奥からの転入生で、常識はずれの常識の無さで、見るものすべてが奇想天外という異邦人。
+  As a student who transferred from the isolation of the mountains like an endangered species, his utter lack of common sense rendered anything miraculous as mundane.
+
+}
+[sha:b4c556d5b839cd001bd0d9538506825a8eb7de25]{
+-- Page 25, Offset 5025.
+-- 自動車という鉄の塊が動くなら、人形だって動くと思っても不思議はない。
+  If automobiles were moving hunks of metal, then moving puppets were nothing to write home about.
+
+}
+[sha:dfc3d789d75f838efbcffcf8ffb8ef5ba74010b5]{
+-- Page 25, Offset 5026.
+-- ……なので、もしかしたら。
+  Wait. That meant...
+
+}
+[sha:fae8f03e12c8b41088211030657a97ddd12300e9]{
+-- Page 25, Offset 5027.
+-- 彼にとってあの夜の出来事は“特別”なことではなく。
+  To him, the incident from the other night hadn't been extraordinary at all.
+
+}
+[sha:195979ae4a844ea4460eeb73ce1e2a4cb9ff88b0]{
+-- Page 25, Offset 5028.
+-- 都会ではよくある風景として、誰に言いふらすような事ではなかったのかもしれない。
+  He might have even assumed it was an everyday occurrence in the city.
+
+}
+[sha:3bcb370ac3e47f7a46f881f52b0a01291fc2bd77]{
+-- Page 26, Offset 5029.
+-- 「……まいった。いっぺん頭のなか覗いてみたいっていうか、ほんと、ここまでくると感心するわ。
+"...I give up. You know, I'd really like to get a look inside your head someday. I honestly have no idea how you've made it this far in life.
+
+}
+[sha:8897e6177eb6d68a84d018607c2b337ea8128b74]{
+-- Page 26, Offset 5030.
+-- ……調子が狂うのも当然だった。普通は私に襲われた時点でもっと違う反応をするはずなのに。
+  No wonder you're such a weirdo. Normally, people wouldn't react the way you did when I attacked you.
+
+}
+[sha:d6ebaf4d568b01c1f0bbc1b9952735bce0c4411e]{
+-- Page 26, Offset 5031. Glued. Mods: @x.
+-- 化け物とか、お化けとかさ。でも貴方にとっては『そういう事もある』で済まされてたワケなんだ。
+I could have been a monster or a ghost, but for you, it was just another new fact of life.
+
+}
+[sha:85b8f1f5f0ec9069e54cc2dce967614cbe83af64]{
+-- Page 26, Offset 5032.
+-- ……なんか<莫|ば><迦|か>みたいね、私」
+  ...I'm starting to feel like the real moron here."
+
+}
+[sha:2cadbd255ae9d4e63d569f62b42d6a99c97c3de4]{
+-- Page 27, Offset 5033.
+-- 張りつめた彼女の顔が、一瞬だけ元に戻る。
+  Her strained face returned to normal for a moment.
+
+}
+[sha:89479f2eff836fd8973783c70a4474a33ca1f1f2]{
+-- Page 27, Offset 5034.
+-- そう。それならもっと違った方法で、誰も傷つかずに済む選択があったかも知れない。
+  It hit her; there had been another way to handle this without anyone getting hurt.
+
+}
+[sha:5a18948ec7bcf4002948ddaf16194de71385a9ec]{
+-- Page 27, Offset 5035.
+-- けれどもう遅い。
+  But the damage had already been done.
+
+}
+[sha:b0da280d8f4280c6c32189da014c910fa254baa0]{
+-- Page 27, Offset 5036.
+-- 基本、人生にやり直しはない。あってはならない。
+  There were no do-overs in life, nor should there be.
+
+}
+[sha:04b1efcb696af54194dff73df483d932b28e11b2]{
+-- Page 28, Offset 5037.
+-- 些細な勘違い、勝手な思いこみで状況は悪化しすぎた。
+  Her own mistaken assumptions had sent that situation spiraling out of control.
+
+}
+[sha:3687459cea0f8efc69a383b80f8c675feaea732f]{
+-- Page 28, Offset 5038.
+-- ここまで関わった以上、彼女は草十郎を手にかけて秘密を守らなければならない。
+  But now that Soujyuro was involved, she had to make sure that her secret was safe with him.
+
+}
+[sha:04f02a895ab6bbad6baf16e27f7b4a2c8fe66852]{
+-- Page 28, Offset 5039.
+-- ……本当はもうひとつぐらい、最善の選択肢があっただろうけど後の祭り。
+  Even if there had been another, better option, that ship had sailed.
+
+}
+[sha:ffa219382039ddf652ceffccd589ef8558a80da1]{
+-- Page 28, Offset 5040.
+-- 所詮、人間の関わり合いなんて相互誤解で回るもの。
+  Human relationships were ultimately driven by mutual misunderstandings.
+
+}
+[sha:316b734b960d2d0c7c0c8f52cd2d82d7d7460907]{
+-- Page 28, Offset 5041.
+-- <意|い><図|と>の編み違いで転がっていく<織物|おりもの>だ。
+  Like tapestries, woven from mismatched intentions.
+
+}

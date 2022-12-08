@@ -1,0 +1,504 @@
+[sha:9456e15047b715783df6132d2f54ddda5e5bdccc]{
+-- Page 0, Offset 13133.
+-- 電話ボックスの一件から買い物を済ませ、正午前。
+  After the phone ordeal, Soujyuro finished up his shopping and returned to the mansion just before noon.
+
+}
+[sha:36e7d1685824b69e2890610e4266ea5df7d5b5b7]{
+-- Page 0, Offset 13134.
+-- 草十郎が洋館に戻ると、青子と有珠は暗い面持ちで黙りこんでいた。
+  He was greeted by the sight of Aoko and Alice sitting in silent gloom.
+
+}
+[sha:e07479ac25ad31711f988edd9693bbf59f0a1a3e]{
+-- Page 1, Offset 13135.
+-- 事情を知らない第三者が見れば喧嘩の後にしか見えない。
+  Though unsure of the circumstances, from the outside looking in it seemed like the aftermath of an argument.
+
+}
+[sha:b062cbbed0758628893a19c74c8d8a06acda9098]{
+-- Page 1, Offset 13136.
+-- それは<吹雪|ふぶ>くような、チクチク痛いやらヒリヒリ寒いやらな、沈黙による暴力である。
+  It was similar to the calm after a violent blizzard accompanied by biting winds and stinging hail.
+
+}
+[sha:cf01d4ae485e0ce2f9cfde8f580157ccea21770d]{
+-- Page 1, Offset 13137.
+-- 居間は巨大な冷蔵庫と化している。
+  Or a similar atmosphere to the inside of an industrial freezer.
+
+}
+[sha:f63faa426fd44fcdcb997f54e3c918b3e2c328f2]{
+-- Page 1, Offset 13138.
+-- ちょっと天井を見上げれば、<氷柱|つらら>が垂れていても不思議ではないぐらいだ。
+  It would not have been surprising to look up and see icicles hanging from the ceiling.
+
+}
+[sha:0d8f42758e18e830d6497278d0ee884a3267d0b8]{
+-- Page 2, Offset 13139.
+-- “やっぱり、今日もか”
+(They're at it again.)
+
+}
+[sha:b49bc79724be3e843761cd92c3b77a6ed4feae45]{
+-- Page 2, Offset 13140. Mods: @n.
+-- アライグマとペンギンの仲違いに心痛める飼育員……
+  He felt like a zookeeper pained to see the raccoon and penguin at each other's throats.
+
+}
+[sha:fcc073b62bf5837d669fc3adc1075099b53a7417]{
+-- Page 2, Offset 13141. Glued. Mods: @n.
+-- つい先日、日雇いで動物園の清掃をしてきた草十郎である……
+ He had seen this at his job at the zoo where he was a cleaner.
+
+}
+[sha:1850faf5381728f1fd16a1a82eea083d592a84a8]{
+-- Page 2, Offset 13142. Glued.
+-- のような顔つきで、草十郎は青子たちを流し見る。
+ Soujyuro found himself staring at them with the familiar forlorn look of the zookeeper.
+
+}
+[sha:e47bb355bdf7625432cd7f896e1e17d10ffb86c3]{
+-- Page 3, Offset 13143.
+-- 言うまでもなく、ふたりは喧嘩などしていない。
+  Needless to say, the silence meant they were not fighting at this moment.
+
+}
+[sha:974272e0d3cbd991226275806c23f3c9e69e4c2c]{
+-- Page 3, Offset 13144.
+-- 食事以外では終始この調子なだけだ。
+  Dinner served as a respite from the infighting.
+
+}
+[sha:14701b8d182d1c3933d4c6cfe4966606459d6814]{
+-- Page 3, Offset 13145.
+-- <草十郎|じぶん>の知らないところでの問題――他所からやってきた魔術師との戦いは、日に日に厳しいものになっているらしい。
+  Soujyuro was oblivious to the circumstances surrounding the quarrel, but their day-in day-out battles against the mysterious mage was clearly taking a toll.
+
+}
+[sha:840f862b51887f48134beb96e4838941efe5ec46]{
+-- Page 4, Offset 13146.
+-- “もっとも、有珠はいつも通りだけど”
+(Not that Alice looks anything but grumpy.)
+
+}
+[sha:752195e682f47392bc18c7612fdf17ac94692668]{
+-- Page 4, Offset 13147.
+-- 瞑想っぽく口を閉ざしている青子に対して、有珠は古ぼけた本を両膝に置いて読む、いつものスタンスである。
+  Facing a quiet and contemplative Aoko, Alice was reading an old book, now sat on her lap, as she was accustomed to.
+
+}
+[sha:5fc5cbf3a2eedf4a0ebe8bc27bc82b25c7455526]{
+-- Page 4, Offset 13148.
+-- 違うところといえば、その本が今までの物より遥かに重そうな物であるコトぐらい。
+  The book seemed somehow heavier than the other ones.
+
+}
+[sha:e2f7b6cb736f51218035c7d526b343ce894e14c7]{
+-- Page 5, Offset 13149.
+-- 「ただいま。煮詰まってるな、ここんところ」
+"I'm home. Looks like I made it in time for truce."
+
+}
+[sha:c5099a4908b664a1ce8104f903f44f5aa85ff025]{
+-- Page 5, Offset 13150.
+-- コートを脱ぎつつ青子たちに声をかける。
+  He asked them as he took off his coat.
+
+}
+[sha:0f440e24dc79fb8f5ad8090be17ce0f4caa9a3f7]{
+-- Page 5, Offset 13151.
+-- 「煮詰まるぐらい事態が進んでるなら、まだ面白みもあるんでしょうけどね。
+"If only. A truce would mean we were getting somewhere.
+
+}
+[sha:981dafa7a321253555c2532e830629d2499278d8]{
+-- Page 5, Offset 13152.
+-- 今の誤用よ、草十郎」
+  No. You're way off, Soujyuro."
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 6, Offset 13153.
+-- 「？」
+"?"
+
+}
+[sha:879572733f6031a128060e33388e7c1a63897085]{
+-- Page 6, Offset 13154.
+-- 青子の言わんとするところが分からず、草十郎は首をかしげる。
+  Without quite knowing what Aoko was getting at, Soujyuro quizzically tilted his head.
+
+}
+[sha:798f02028108c81d1a20df5d8cd24eb18d1ee2e1]{
+-- Page 6, Offset 13155.
+-- 考えすぎはよくないぞ、とリラックスさせるつもりが、逆に注意されてしまった。
+  He told himself not to think too hard into it, but he could not entirely help it.
+
+}
+[sha:a08ec19b9698d59b5e6aefd4c96243175a3e7740]{
+-- Page 7, Offset 13156.
+-- 「煮詰まってるってコトはもうじき完成ってコトでしょ。
+"Besides, a truce would mean an agreement has been reached.
+
+}
+[sha:8cecd9eab4c4cbeac3447ae5ab3c0542ab481ca5]{
+-- Page 7, Offset 13157.
+-- 進展がないって意味合いなら、行き詰まってると言うべきね」
+  This is more of a... temporary ceasefire."
+
+}
+[sha:efe406befd83fdcde5803a8368fb333361554881]{
+-- Page 7, Offset 13158.
+-- 草十郎を叱る余裕もないのか、青子は邪険に手を振って“余所にいってて”とジェスチャーする。
+  Seemingly too preoccupied to scold Soujyuro, Aoko waved her hand as though shooing off an insect.
+
+}
+[sha:86283028f0474c9554ca3eab7545013541525257]{
+-- Page 7, Offset 13159.
+-- 無論、
+  But Soujyuro being Soujyuro...
+
+}
+[sha:cd451a280b675128eee4475faf38c5b96ef666c1]{
+-- Page 8, Offset 13160.
+-- 「じゃあ言い直して。
+"Okay, let me rephrase that.
+
+}
+[sha:315add98dadaf4befef62bf8f0289d475bbf4012]{
+-- Page 8, Offset 13161.
+-- やあ、あれから進展はあったかい？」
+  Sooo, any progress then?"
+
+}
+[sha:70b0e4c46e3f5e1e8c3fab8d93c0d1f22908e972]{
+-- Page 8, Offset 13162.
+-- それぐらいでめげる草十郎ではないのだった。
+  Soujyuro was not willing to give up and held his ground.
+
+}
+[sha:434192f6bb5d020c1872319f351d165887f4d58c]{
+-- Page 9, Offset 13163.
+-- 「草十郎には関係ないわ。
+"That's none of your business.
+
+}
+[sha:3ea90ede5ebc818e7971934c4652e094739ef7cf]{
+-- Page 9, Offset 13164.
+-- <魔術|こっち>の事情に関しては不可侵だって、言わなかった？」
+  What did l tell you? Mage affairs are not for your ears."
+
+}
+[sha:1400db6d724e651f22ddcad4706363f0abefb668]{
+-- Page 9, Offset 13165.
+-- 静かではあるがトゲのある返答。
+  Her response was calm, but sharp.
+
+}
+[sha:8d0f3923cba4e194b8774aaf860fd9ec3841869d]{
+-- Page 9, Offset 13166.
+-- ご機嫌斜めなのはいつものコトだが、今日は六割増しのようだ。
+  Surliness was her weapon of choice, and today she seemed determined to swing it at will.
+
+}
+[sha:977995d4a0b5af1da3d2c905a81e3133a425988e]{
+-- Page 10, Offset 13167.
+-- 「もちろん聞いてる。ところで、お昼はまだだろう？」
+"Yes, I remember. ...Did you two eat yet?"
+
+}
+[sha:bb5dafc2599b7d303d2d0da0f7462049366165f3]{
+-- Page 10, Offset 13168.
+-- そんな青子の不機嫌さも気にせず、草十郎は食い下がった。
+  Soujyuro chose to brush off Aoko's attitude.
+
+}
+[sha:0130f4c948e16e31b1beebe79e688dbc9e5b3695]{
+-- Page 10, Offset 13169. Glued. Mods: @x.
+-- 青子が六割増しなら、彼の<暢気|のんき>さは二倍に増強というところ。
+If Aoko's weapon was surliness, Soujyuro's was blitheness.
+
+}
+[sha:f599786bbdfc7bcd1c69903b246d9c5ac0686360]{
+-- Page 10, Offset 13170.
+-- その強引さに、さすがの青子もわずかに怯む。
+  And he wielded just enough to make Aoko flinch.
+
+}
+[sha:a9c2beba0b90415343fd03c6b2b37d483d43324d]{
+-- Page 11, Offset 13171.
+-- 「どうしたの、今日は。なにかいい事でもあったわけ？」
+"What's with you today? You're more... upbeat than usual."
+
+}
+[sha:5681fccfad28b9e0ed130fa5345f150bb3f187bb]{
+-- Page 11, Offset 13172.
+-- 別に、と草十郎は首をふる。
+  Soujyuro shrugged his shoulders.
+
+}
+[sha:5b974ac09ddc6d368878431721489c1f7da2bcdc]{
+-- Page 11, Offset 13173.
+-- 「まだなんだ。じゃあちょっと、提案がある」
+"I'm not sure, I just have a good feeling about today.  By the way, I have a proposal for you."
+
+}
+[sha:076f04f7ff4916b3f4f9729cb0c59bd8867fb1ea]{
+-- Page 11, Offset 13174.
+-- 言って、ハンガーにかけたコートのポケットをあさる。
+  He said as he dug around in the pocket of his now hung-up coat.
+
+}
+[sha:c17a8bd6463fca35f8bde1080c04882a37315236]{
+-- Page 11, Offset 13175.
+-- 今日にかぎって積極的な草十郎の様子を、青子は訝しげに見据え、有珠は本を読みながら聞き耳をたてている。
+  Aoko gave a puzzled stare, while Alice's ears perked up at how positive he sounded.
+
+}
+[sha:a36d731759b55bd0975b3f32140255172fe32e35]{
+-- Page 12, Offset 13176.
+-- 「実は今日、給料日だったんだ。
+"I got paid today.
+
+}
+[sha:e53030b0ec56ac79a8b848b655ed6de35ef1ca41]{
+-- Page 12, Offset 13177.
+-- お金も入った事だし、外に遊びにいこう」
+  Which means I have money. Which means we should go out and do something."
+
+}
+[sha:2989001aeb23dfb5710d4cc68192cd26fb4e61c7]{
+-- Page 12, Offset 13178.
+-- コートから財布を取り出し、心温まる笑顔で言う。
+  He spoke with a warm smile as he removed his wallet from his coat pocket.
+
+}
+[sha:ee4585f0c6b4ad1a95a6233082b675a8d214c406]{
+-- Page 12, Offset 13179.
+-- 一方、ふたりは複雑な顔である。
+  The other two did not know what to make of it.
+
+}
+[sha:c3381f3aa02efd55c0dae97a8a03e6c1c939e19b]{
+-- Page 13, Offset 13180.
+-- 「……草十郎」
+"Soujyuro...?"
+
+}
+[sha:b021fb6fcb8446db9635a7357c67cd3250a71016]{
+-- Page 13, Offset 13181.
+-- 何か文句を言ってやりたかったけど、それと同じぐらい青子は草十郎に同情した。
+  She wanted to take exception to his bright mood, but found herself wrestling with the idea of reacting positively to it.
+
+}
+[sha:15446b547bba24b8f62074c2b5dfa201c1ae31a9]{
+-- Page 13, Offset 13182.
+-- 彼はいまだ不仲な有珠と融和するため、なけなしの給料をはたいて行動に出たのだろう。
+  After all, he was making a gesture of good faith to try and make things better with what little funds he had.
+
+}
+[sha:be6be7bb59bc96a1df5e269d9393dd041c9d06ab]{
+-- Page 14, Offset 13183.
+-- 考え自体は悪くない。
+  The thought itself was not a bad one.
+
+}
+[sha:e341ba3836d8b3ae5de683c611fec49f02916614]{
+-- Page 14, Offset 13184.
+-- そんな事じゃ有珠の“とりあえず今は黙っていてあげるけど、何か目障りな事をしたら消す”感は消えないと分かっていても、その健気な努力に応援ぐらいはしてあげたい。
+  And she wanted to accept his earnest goodwill, but there was always the chance that Alice would keep quiet until the slightest thing annoyed her, at which point she would dash all their plans.
+
+}
+[sha:08906c2366049a7192821b9be8165e8df2ae3f04]{
+-- Page 14, Offset 13185.
+-- けれど、今は三人で街を歩いている気分じゃないし、状況でもないのだ。
+  However, she was not in the mood to walk around town with either of the two, nor was the timing ideal.
+
+}
+[sha:bc3e7e81b3ba8bd295bd4827f67b44ed0c15ad0b]{
+-- Page 15, Offset 13186.
+-- 「悪いけど、いま忙しいの。暇になったら思い出してあげるから、しばらく我慢して」
+"Sorry, but I'm kinda busy. I'll take you up on it some other time though. Just remind me."
+
+}
+[sha:72a223fa05570662bd44701c8cc61f18bf1f461e]{
+-- Page 15, Offset 13187.
+-- 何も言わないが有珠も同意見らしい。
+  Alice seemed to give the same response, though wordlessly.
+
+}
+[sha:4a371ddefe64069cf08803e721921aaad9fd1e32]{
+-- Page 15, Offset 13188.
+-- そんな重苦しい空気にもめげず、
+  Soujyuro was not about to be held back by the sullen mood.
+
+}
+[sha:e794dbc13ea61f783b62594dc51d383e6bcf7312]{
+-- Page 16, Offset 13189.
+-- 「忙しいって、ここで黙りあってるだけじゃないか。
+"Busy doing what, sitting here in silence?
+
+}
+[sha:befde3894625eb73b129b96de50f2a00da5fb026]{
+-- Page 16, Offset 13190.
+-- 徹夜漬けの時、気分転換は必要だって言ったのは蒼崎だろ。行き詰まったら回れ右して戻らないと、どこにも行けない」
+  Wasn't it you, Aozaki, that said a change of pace was important when staying up all night? Sometimes you need to take one step back to take two steps forward."
+
+}
+[sha:7725d6ea0917910ddef492be7a3969117b178bac]{
+-- Page 17, Offset 13191.
+-- いつになく強気に言って、草十郎は財布から二枚のチケットを取り出し、とん、とテーブルに置いた。
+  Soujyuro spoke with unusual confidence, as he drew two tickets from his wallet and slapped them on the table.
+
+}
+[sha:3615876ef96aca739043b6a7f535c1a5cdccb10b]{
+-- Page 17, Offset 13192.
+-- それは映画の前売券……なんてありきたりなものではなく、有名な水族館のチケットだった。
+  At first glance they looked like advance tickets to a movie...but not quite. They were tickets to a famous aquarium.
+
+}
+[sha:5bf5c3412047cc1508cac8ef8dca0fadb22c4437]{
+-- Page 18, Offset 13193.
+-- 行き先は、快速と地下鉄を乗り継いだ先にある、三咲市より何倍も近代化の進んだ街。
+  To get there, they would take the rapid train and subway to a city several times more modern than Misaki.
+
+}
+[sha:14a34c4ba412b5cba3139798871dd14e43ab0b13]{
+-- Page 18, Offset 13194.
+-- 県内最大をうたうショッピングモールだけでなく、来年開場予定の、国際的な規模の演劇、講演を可能とする多目的ホールまで造られているという。
+  A city that housed the biggest shopping mall in the prefecture, set to open next year, as well as a multi-purpose auditorium big enough to stage international conferences and famous plays.
+
+}
+[sha:cf2597692251d2c04c6eb762e591844d03c5c8bb]{
+-- Page 19, Offset 13195.
+-- 「それと、夜はメシアンでカレーでも食べてくれ」
+"Oh, and eat some curry at Messiaen, on me."
+
+}
+[sha:7324a3d5ae58c852b48f504ea9166a24b5eeaa8e]{
+-- Page 19, Offset 13196.
+-- さらに、見ようによっては黄金にも見えるお札を二枚ほどぽん、とテーブルにそえる。
+  Saying that, he slapped two bills on the table, as if he had struck it rich.
+
+}
+[sha:fb9959568f0a9c67987a64985b77f68a81a4e7cb]{
+-- Page 19, Offset 13197.
+-- そういえば、夕食の食事当番は草十郎だった。
+  It was Soujyuro's turn to make dinner tonight, after all.
+
+}
+[sha:8f92d49838030884254ee2aa454356815b5f8f4a]{
+-- Page 20, Offset 13198.
+-- 「じゃ、そういう事で」
+"Be seeing you."
+
+}
+[sha:e74dd5514de69c70b6d1b75c3b49fa653514a276]{
+-- Page 20, Offset 13199.
+-- 草十郎は用件だけ告げ、財布をコートに戻す。
+  Finished saying his piece, Soujyuro returned his wallet to his coat pocket.
+
+}
+[sha:8cb7869f896463464df14f7b4da52661b49f8f8f]{
+-- Page 20, Offset 13200.
+-- それで、青子はようやく自分の間違いに気が付いた。
+  It was then that Aoko realized what Soujyuro meant by "be seeing you."
+
+}
+[sha:8c26606e084bab44b9696ab6a5c418033c8e4c5a]{
+-- Page 21, Offset 13201.
+-- 「ちょっと待った！　そういうアンタはどうするのよ」
+"Y-You mean you're not coming with us?"
+
+}
+[sha:3fd8dcd3dacc71d9deb274b43d5271f7c6c3ef84]{
+-- Page 21, Offset 13202.
+-- 「今日はアルバイト」
+"I have to work tonight."
+
+}
+[sha:ebf37381edcd96b8aa0a7e0ea372f2ae8dc14507]{
+-- Page 21, Offset 13203.
+-- さらっと答える草十郎に、そういうコト、と察する青子。
+  Soujyuro was almost too quick with his response, helping Aoko to see things for what they really were.
+
+}
+[sha:a1b15335f946b24f9b6412fa17b66b5027f56af4]{
+-- Page 22, Offset 13204.
+-- 草十郎は自分の為でなく、ここのところギスギスしている青子と有珠の仲をほぐそうとしているのだ。
+  Rather than for Soujyuro's benefit, his gesture was instead an attempt to ease the tension that had built up between Aoko and Alice.
+
+}
+[sha:ff366a3a407efe3085deea426e9c23bf7cce4ad9]{
+-- Page 22, Offset 13205.
+-- そんなのは彼の勝手な勘違いで、言ってしまえば迷惑なお節介に分類される。
+  Though if asked, both girls would tell you it was an unnecessary gesture.
+
+}
+[sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
+-- Page 22, Offset 13206.
+-- ……しかし。
+  That said...
+
+}
+[sha:c9ab94b0787a0d7b1f6ed242f99ed0ef20d85846]{
+-- Page 22, Offset 13207.
+-- そんな風に気を配ってくれた事と、なにより、そこまで気を遣わせてしまった自分の未熟さに反省する。
+  For him to pay this much attention to the household, if anything, gave Aoko reason to reflect on her own immaturity.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 23, Offset 13208.
+-- 「――――――」
+"..."
+
+}
+[sha:eb392ff363291bf0606165c953baba00e02ca18f]{
+-- Page 23, Offset 13209.
+-- 青子は対面に座る有珠を覗き見た。
+  Aoko glanced over to the still-seated Alice.
+
+}
+[sha:5a369f7a3e25b5ccfd6206fd767b2fbdb71607ca]{
+-- Page 23, Offset 13210.
+-- すると、ちょうど有珠も青子に視線を投げかけているところだった。
+  At the same time, Alice peeked up at Aoko from behind her book.
+
+}
+[sha:b89e1a281e6f1dedef64e9acdf5f0449120cf8b3]{
+-- Page 23, Offset 13211.
+-- ふたりはしばし無言で見つめ合う。
+  They kept still, staring at each other.
+
+}
+[sha:f7201665b2cc75339634e80424f2cef1ca52bd60]{
+-- Page 24, Offset 13212.
+-- 「……わたしはかまわないけど。
+"...I'll go if you go.
+
+}
+[sha:4f5e895165c6e61d4c4eed827bf2eb9d3decf3b8]{
+-- Page 24, Offset 13213.
+-- いまやれる事は全部やってあるし」
+  I'm almost done with my book."
+
+}
+[sha:914140b1ac12bca464e66f590dec5a31b4747f5b]{
+-- Page 24, Offset 13214.
+-- 「そうね。そういう事なら、せっかくだし」
+"Okay. It would be a waste not to."
+
+}
+[sha:66aff6140a6252b16bfb6ca10007531b4fb98c4f]{
+-- Page 24, Offset 13215.
+-- 観念したように言って、青子はソファーから立ち上がる。
+  Alice stood up from the sofa, resigned to her decision.
+
+}
+[sha:9ef5a4386edae034b1ba1e147b081a6684e8df23]{
+-- Page 24, Offset 13216.
+-- そんなふたりを、草十郎は満足げに眺めていた。
+  Soujyuro watched on, a satisfied smile upon his face.
+
+}

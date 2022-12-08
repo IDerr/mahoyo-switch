@@ -1,0 +1,1194 @@
+[sha:11ca355c2c3b43f5b40f7dacf7e3f6be191c1419]{
+-- Page 0, Offset 13312.
+-- 三咲町から地下鉄線で六駅分。
+  They took the subway from Misaki for six stations.
+
+}
+[sha:8d20994c1a4a5db3695f34710b405ed2e971aea3]{
+-- Page 0, Offset 13313.
+-- そこから更に快速で三駅分。
+  From there, they rode another three stops by express train.
+
+}
+[sha:01c2adce0bf7367356daa93ec55706dc93615833]{
+-- Page 0, Offset 13314.
+-- 一時間ほどかけて、青子と有珠は<有坂|ありさか>駅に到着した。
+  After about an hour, Aoko and Alice arrived at Arisaka Station.
+
+}
+[sha:58c25b64f2a27cf5a1832e3ac5c73d8d8a5458f5]{
+-- Page 1, Offset 13315.
+-- 有坂は政令指定によって一から開発された都市だ。
+  While Misaki City was a mixture of old and new architecture, Arisaka was a brand-new town built in accordance with recent government ordinance.
+
+}
+[sha:55371f4545dcb72b4c89ec3ccb15a9a7bdaa0060]{
+-- Page 1, Offset 13316.
+-- 三咲町は古きを残し、新しきを築く方針で生まれ変わった町だが、有坂は何もなかった土地に<高層建築|ビルディング>を築き上げた街である。
+  It was as though an entire town full of tall buildings sprouted up in the middle of nowhere.
+
+}
+[sha:03444f62caf8e338072205b27fdaafc5c19fa3ec]{
+-- Page 2, Offset 13317.
+-- 十二月末、冬休みまっただ中。
+  It was near the end of December, in the middle of winter break.
+
+}
+[sha:7b75521a68183d3020f735f6f810f09beb1477a9]{
+-- Page 2, Offset 13318.
+-- 午後を過ぎた有坂の街の賑わいは、三咲町とは比べものにならない。
+  Even the bustling plaza in Misaki was quiet compared to Arisaka in the evening.
+
+}
+[sha:1e79c29105357764e6e99efbfaa1c9733393f657]{
+-- Page 2, Offset 13319.
+-- なにしろ大型デパートや各種専門店、多目的ホールで賑わう、県内有数の近代都市だ。
+  Whether its huge mall full of countless specialty stores, or its crowded multi-purpose auditorium, there really was something for everyone here.
+
+}
+[sha:7973b9fb8d0f2f3661ad3a9bc73b38e5eb79a29e]{
+-- Page 2, Offset 13320.
+-- その結果、有坂駅前は地元の人々より、遠方からの来訪者が集まる歓楽地になっていた。
+  For that reason, beyond its local residents, Arisaka's station was crowded with people from far and wide.
+
+}
+[sha:561bd84c64dbc0abab13e86f263812ad5ed570f1]{
+-- Page 3, Offset 13321.
+-- 「へえ、あれが新しい演劇ホールかあ。
+"Cool. That must be their fancy new performance arts center.
+
+}
+[sha:6a211403e72a5ff51b2d1ef755c7a2ac7e6db6f0]{
+-- Page 3, Offset 13322.
+-- 県内最大のコンサートホールらしいけど、中はどうなってんだろ。なんか周りのビルより背が高くない？」
+  It's supposed to have the biggest concert hall in the prefecture. I wonder what it's like inside. Look how much grander it is than the buildings around it!"
+
+}
+[sha:1c25f0b6d94b9b030a2700bb1ed6c94a327a67d6]{
+-- Page 4, Offset 13323.
+-- 目当ての水族館に向かう途中、多くの人々とすれ違う。
+  They made their way to the aquarium, weaving through the crowds.
+
+}
+[sha:a676a05822cda4bbe5a7c70fcf64d148649d5b3c]{
+-- Page 4, Offset 13324.
+-- 青子は雑踏に慣れたものだが、
+  Aoko might have been used to city life,
+
+}
+[sha:d1c473f15a40774e2368b0a8f5086da45ceac726]{
+-- Page 4, Offset 13325.
+-- <傍|かたわ>らの有珠は終始無言だ。
+  but Alice was silently anxious.
+
+}
+[sha:fa65096a7c3dd1eb1caa70403db430ffbbb7cd1a]{
+-- Page 4, Offset 13326.
+-- 有珠自身も、有珠とすれ違う人々も、道を行く白い少女の姿に違和感を覚えている。
+  The people passing by must have thought this pale girl out of place, which Alice happened to agree with.
+
+}
+[sha:2a44270f25a8a1cf614771ee66857df2cec5cf89]{
+-- Page 5, Offset 13327. Mods: @k, @e.
+-- 「来年夏にはビッグアーティストも来日予定……
+"Oh! It says a big artist is coming summer of next year... 
+
+}
+[sha:5cd963a2bf0bec9d51ffdd45601c86a5ae1fb830]{
+-- Page 5, Offset 13328. Glued. Mods: @x, @n.
+-- って、ピンクトゥルーデが入ってない！？
+Oh my god, it's Pink Trudy!
+
+}
+[sha:b0949c48fe202ede29b8bb7ab71c8b9718b25e79]{
+-- Page 5, Offset 13329.
+-- ちょっと、これ日本初ライブよ有珠！？」
+  Alice, this says it'll be their first live appearance in Japan!"
+
+}
+[sha:5eaae9d82032624fdf506a1a921ec035540a29b3]{
+-- Page 5, Offset 13330.
+-- 看板にある予定表に一喜一憂する青子。
+  Aoko exclaimed, overcome by excitement.
+
+}
+[sha:5d79ff709afb8005e3894c9efeb58a4264b71b2d]{
+-- Page 5, Offset 13331.
+-- 青子的に注目株のロックバンドらしいのだが、当然、有珠はあまり関心を持っていない。
+  This kind of pop-rock band was right up Aoko's alley, but naturally, Alice did not seem very interested.
+
+}
+[sha:09fb434390a1c772d989f394ef535233147a7b9c]{
+-- Page 6, Offset 13332.
+-- 「それより、セレモニーに予定されてるポーランド楽団の方が驚きだと思うけど。
+"I'm more amazed by the Polish orchestra they've invited to open for them.
+
+}
+[sha:565b46ac18ad3c79cd3d50715dd09ae4725e08bd]{
+-- Page 6, Offset 13333.
+-- 随分とお金がかかっているようね。
+  This must be costing them a fortune.
+
+}
+[sha:5265d9bca07a928c94f2848c7256622468f99bc2]{
+-- Page 6, Offset 13334. Glued. Mods: @x.
+-- ……本当、懲りない人」
+How incorrigible..."
+
+}
+[sha:87b67f22012053703b8ee267da475e116bb3d035]{
+-- Page 6, Offset 13335.
+-- 「あ」
+"Ah."
+
+}
+[sha:1a63d8195e7c68ea510587e7c7a1c22c824ffd3f]{
+-- Page 6, Offset 13336.
+-- しまった、と口を<塞|ふさ>いで青子は足を速めた。
+  Aoko cursed under her breath before hurrying them along.
+
+}
+[sha:046d7ae5b05d3ad40f4af8644c6cff22d693c5cb]{
+-- Page 6, Offset 13337.
+-- 建設予定図の下にはお馴染みの、久遠寺財閥ゆかりの企業名があったからだ。
+  Underneath the construction map read "With the support of the Kuonji Group."
+
+}
+[sha:fedf258711e874c7862f71d08c5229228a5115bb]{
+-- Page 7, Offset 13338.
+-- お目当ての水族館は、高層ビルの最上階に造られていた。
+  The aquarium they were looking for was on the top floor of a massive building.
+
+}
+[sha:831069742a94a957fa968ddea8b0eabb404aace6]{
+-- Page 7, Offset 13339.
+-- もう目新しさはないのか、
+  Maybe it was because it was no longer a new attraction,
+
+}
+[sha:b9f4f3a9347186cdcec75339d28140da3c212eb2]{
+-- Page 7, Offset 13340.
+-- 階下の映画館に客足をとられているのか。
+  or perhaps it was because the first-floor cinema drew the crowds...
+
+}
+[sha:249398aa58919d5334d67b9a6b99fe674a65e181]{
+-- Page 7, Offset 13341.
+-- エントランスの人影はまばらで、館内の空気は落ち着いている。
+  But with only a few people scattered around the entrance, the atmosphere inside was very calm.
+
+}
+[sha:925f163f09c52b378715a3c2186266d410962c68]{
+-- Page 8, Offset 13342.
+-- 無音というほど寂しくはなく、
+  Not quiet, but desolate,
+
+}
+[sha:4278fbc25ef0f24cd0f4c8e888c391b568df9d6d]{
+-- Page 8, Offset 13343.
+-- 町中ほど騒がしくはない。
+  and far removed from the hustle and bustle outside.
+
+}
+[sha:5e4df57c84a7d0eef54e25b0c6c94313e699e3ac]{
+-- Page 8, Offset 13344.
+-- そんな美術館さながらの<趣|おもむき>が気に入ったのか。
+  Perhaps they were going for that museum-like vibe.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 8, Offset 13345.
+-- 「――――――」
+"..."
+
+}
+[sha:6320a903734179b8a5e1b46f5448fbaa963eedfb]{
+-- Page 8, Offset 13346.
+-- 有珠は静かに、感じ入るように息を呑んでいた。
+  Alice quietly caught her breath, staring in awe.
+
+}
+[sha:31719059d210a50ae8e42ab5e15d9470e7ba520a]{
+-- Page 9, Offset 13347.
+-- はじめてサーカスを見た子供のようだ。
+  Like a child seeing the circus for the first time.
+
+}
+[sha:0ba8337020c82fb9b1a05d36d44fbdd63d6efd88]{
+-- Page 9, Offset 13348.
+-- 驚きと期待に、知らず、目を見開かせている。
+  Her eyes were wide in anticipation and wonder.
+
+}
+[sha:0fd2e30b8e1ba55dd31d078bcdacd8cfe1bca887]{
+-- Page 10, Offset 13349.
+-- 「お、気に入ったみたいね。良かった良かった。
+"It's to the lady's liking I see. Good, good.
+
+}
+[sha:e34cc853da5e57933397940bc136c8db341e3e37]{
+-- Page 10, Offset 13350.
+-- 草十郎お薦めの物件は、気むずかしい有珠さんのお眼鏡にかないましたか」
+  I guess Soujyuro's idea wasn't totally off the mark, then, huh?"
+
+}
+[sha:0ba74c66d0892c25a1a4004772f82598b795d65a]{
+-- Page 10, Offset 13351.
+-- 青子もつられて笑顔になる。
+  Aoko found herself smiling as well.
+
+}
+[sha:3bfb47ce0efb80d42e816196e998ebdb3e456e2e]{
+-- Page 10, Offset 13352.
+-- 有珠の驚きはそれぐらい微笑ましいものだったのだ。
+  There was a certain joy in seeing Alice's wonderment.
+
+}
+[sha:5080c8df9a8aef8476200e5f7cdc371dc23b7ce6]{
+-- Page 11, Offset 13353.
+-- 「……別に。屋上にある水族館が珍しいだけ」
+"Not really. I just find rooftop aquariums to be kind of novel."
+
+}
+[sha:f2cfd16a0474ecb1ebd8c1ff85b0e03b323427c2]{
+-- Page 11, Offset 13354.
+-- 水族館のエントランスは久遠寺邸のホールほどの大きさで、壁には館内の見取り図が展示されている。
+  According to the guide on the wall, the entrance to the aquarium was nearly as big as the Kuonji mansion's foyer.
+
+}
+[sha:8ab4705ce7dbe0fb3a2638cb974a0e5b18544c1f]{
+-- Page 12, Offset 13355.
+-- 野外のペンギンショウは休演中だった。ペンギンのペン太くんが怪我につき治療中らしい。
+  The outdoor penguin show was apparently suspended due to the star penguin "Flippy" undergoing treatment for an injury.
+
+}
+[sha:2f44b39d4a8cf32e7e67635458e074978291c79d]{
+-- Page 12, Offset 13356.
+-- 少し残念だが、有珠は気にとめず館内案内を目で追う。彼女にとってペンギンはそう珍しいものではないらしい。
+  An unfortunate state of affairs, but one that did not stop Alice from continuing to read over the guide. Apparently she was quite familiar with penguin shows.
+
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 12, Offset 13357.
+-- ……と。
+  And then...
+
+}
+[sha:bf86b5469409ded979583449d3355ac266b71d53]{
+-- Page 13, Offset 13358.
+-- 「―――、え」
+"...Eh?"
+
+}
+[sha:8398cdb6e872409828c33d0b7e1f09897d0cd3ca]{
+-- Page 13, Offset 13359.
+-- “そんな、嘘よ”……と。
+Said like someone who could not believe what they saw.
+
+}
+[sha:a764b95374abd1eef023becf90da6d444ff3247a]{
+-- Page 13, Offset 13360.
+-- 有珠は悲鳴を飲みこむように喉を鳴らすのだった。
+  Alice quietly whimpered, as if holding back a scream.
+
+}
+[sha:0bfed93b905ce0fed6dc8f849557bba7cc338c23]{
+-- Page 14, Offset 13361.
+-- 「なになに、どうしたの？」
+"Hm? Something the matter?"
+
+}
+[sha:9bf50e72acf7611b5b9d427aa2174f04881850f3]{
+-- Page 14, Offset 13362.
+-- 館内案内を見る青子。
+  Aoko said, still looking at the floor plan.
+
+}
+[sha:d5dd29a5849b649578eedfecc3fddd35a3e6cc70]{
+-- Page 14, Offset 13363.
+-- 屋敷内ではたまに見られるが、外で有珠が取り乱すのはまずあり得ない。
+  It was rare to see Alice getting this emotional outside of the mansion.
+
+}
+[sha:925a50a7fe7ee6e1ef6c3d10368d055355e79a6f]{
+-- Page 14, Offset 13364.
+-- 一体なにが有珠を<戦|おのの>かせたのか。
+  For some reason she was trembling.
+
+}
+[sha:3bdc27a778c050577336dfd5952ca849776e64f4]{
+-- Page 14, Offset 13365.
+-- 案内にはこれといって珍しい部分はないが……
+  Nothing seemed terribly off about the aquarium's offerings.
+
+}
+[sha:029430738cf274884708e280a83a0a2b1c17c901]{
+-- Page 15, Offset 13366.
+-- 「ゾウガメがいない」
+"There's no giant tortoises."
+
+}
+[sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
+-- Page 15, Offset 13367.
+-- 「え？」
+"Huh?"
+
+}
+[sha:6818952bc5f248ee4a03c55a5bfbec71b1fdf6dc]{
+-- Page 15, Offset 13368.
+-- 「話が違うわ青子。
+"It's all wrong, Aoko.
+
+}
+[sha:a68d6aa357ef44d9818a858f76a960407d774c99]{
+-- Page 15, Offset 13369.
+-- どうしてゾウガメの展示スペースがないの？」
+  Why is there no giant tortoise exhibit?"
+
+}
+[sha:e255ee601afa7ee4dbff86277a03d4072d1f1080]{
+-- Page 16, Offset 13370.
+-- 「どうしてって……そりゃあ、ゾウガメぐらいになったらもうほとんど陸上生物だからじゃない？　大きいし」
+"Why? I don't know. Are giant tortoises even aquatic? Maybe it's because they take up too much space."
+
+}
+[sha:de004ecba428e61c981d99e3da9095777cc8a479]{
+-- Page 16, Offset 13371.
+-- 「なんで。ペンギンはいるのに、不公平よ。
+"Why though? They have penguins. It's not fair.
+
+}
+[sha:98cfc7693c386389675b46df3f4060abab67b21c]{
+-- Page 16, Offset 13372. Glued. Mods: @x.
+-- イルカだって許せないわ」
+Look, they even have a dolphin. This is absurd."
+
+}
+[sha:f688602684e06722fa703a9c386237e7f25d1280]{
+-- Page 16, Offset 13373.
+-- なんだかぜんぜん納得できない。
+  It was a bitter pill for Alice to swallow.
+
+}
+[sha:380ce4f7c7b7b96c055cbde4877ab4a6a20e3471]{
+-- Page 16, Offset 13374.
+-- ゾウガメが不在ならイルカだって不在であるべきだ、と妙な公正さからメラメラ瞳を燃やす有珠だった。
+  The idea that they did not have a giant tortoise, despite having a dolphin, had Alice's eyes hot with indignation.
+
+}
+[sha:c6917f75bf9bac9420ebe5bb53076468b58a2c8b]{
+-- Page 17, Offset 13375.
+-- 「あー……言われてみれば、確かに。
+"Ahhh... Now that you mention it...
+
+}
+[sha:436e4fadfb341c44f34a649aba5b37bc28e6b155]{
+-- Page 17, Offset 13376.
+-- ペンギンとイルカは定番なのに、なぜゾウガメだけ外されるのか。ちょっとした日常の落とし穴ね」
+  If penguins and dolphins are standard fare, you'd have thought they would at least have a giant tortoise. What were they thinking?"
+
+}
+[sha:b856a4fbc689c463b66bd18b4a8a1d998b414c03]{
+-- Page 17, Offset 13377.
+-- ま、単に不人気だからだろうけど。
+  Aoko said, certain something like a giant tortoise would be boring and unpopular.
+
+}
+[sha:84b8d8c7001360c1849589c9158248e663cd5541]{
+-- Page 17, Offset 13378.
+-- そんな感想を心の中だけに留める青子。彼女なりに空気を読んだ結果である。
+  She was sensible enough to read the room, however, and kept her thought to herself.
+
+}
+[sha:8ca19a5ee93bd59b410662560aae06a94bac0a19]{
+-- Page 18, Offset 13379.
+-- 「有珠、こっち。チケットはあるから、<販売機|そっち>に並ぶことはないわよ」
+"Let's go, Alice. We have tickets so we can skip the line."
+
+}
+[sha:44b1f670c439b70038195a5a5be873840b6446e8]{
+-- Page 18, Offset 13380.
+-- ゾウガメ論争から一分後。
+  A few moments after the giant tortoise fiasco...
+
+}
+[sha:5a7e37274df6dc9de19d610138be46097205a6d3]{
+-- Page 18, Offset 13381.
+-- 草十郎から貰ったチケットを受付に渡して、<人気|ひとけ>の途絶えた入り口に向かう。
+  Presenting the tickets they received from Soujyuro, they headed toward the once popular entrance.
+
+}
+[sha:fc98165ab7942543ff1c7e767f785f1c118f572e]{
+-- Page 18, Offset 13382.
+-- 青一色で染められたエントランスとは対照的に、ゲートから延びる通路は暗く細長い。
+  From the entrance gate, the corridor stretched into a dark hallway completely illuminated in blue.
+
+}
+[sha:44de2d1509a5ce8aaabf4d9f00f31a8c29bc7a92]{
+-- Page 19, Offset 13383.
+-- ここから先は隣人の顔も見えない密閉空間。
+  Figures and faces became mere silhouettes in the darkness.
+
+}
+[sha:e7341b3bbf69284bb97d8582528aeb4bb2686c11]{
+-- Page 19, Offset 13384.
+-- 魔術の手でもなく魔法の手でもない、文明の手によって現実と切り離された小宇宙だ。
+  Not a darkness borne from magecraft, but a man-made area of twilight.
+
+}
+[sha:2375b54bda6474edb1fed7b25ef7d5b3f737dce4]{
+-- Page 20, Offset 13385.
+-- 水槽だけがライトアップされた、影と水色の世界。
+  A world of shadow and blue, the only light being from the illuminated tanks.
+
+}
+[sha:febd5c0c762c93655b07892215b601111179be3f]{
+-- Page 20, Offset 13386.
+-- ガラス一枚<隔|へだ>てた人工の海を眺めながら、ふたりの魔女は歩を進ませる。
+  The two witches continued walking down the artificial ocean corridor.
+
+}
+[sha:f5eb1735a866ad67935b7252e6868a1660d98c7d]{
+-- Page 21, Offset 13387.
+-- 百の<異世界|コロニー>を<航|わた>る旅。
+  Water tanks like windows into hundreds of different worlds.
+
+}
+[sha:95e0e7d07509595ee02f9e3666898bcb3ceb7d2b]{
+-- Page 21, Offset 13388.
+-- それぞれ温度も環境も違う水槽たち。
+  Each with their own separate temperature and environment.
+
+}
+[sha:85e3bdd748fad228f71b8b6d1ac600c133a5e82e]{
+-- Page 21, Offset 13389.
+-- ひとつひとつが同じようで別の時間。
+  A snapshot of the same place at different times.
+
+}
+[sha:89cf28f6c8483662d47500f79ea494bd33fd4146]{
+-- Page 21, Offset 13390.
+-- 光の屈折する<水底|みなそこ>では方角は不確かで、彼女たちの会話でさえ、断片的に消えていく。
+  Mesmerized by the refracting images of the ocean floor, conversation grew sparse.
+
+}
+[sha:1309910748c8c62e68bffe38647ed786709c6e2b]{
+-- Page 22, Offset 13391.
+-- 「そういえば、有珠の家ってあれだけ大きいのにプールとかないわよね。なんで？」
+"That reminds me, Alice, you have this huge mansion without a pool. What's up with that?"
+
+}
+[sha:b003644f1840104321ed8f95d287fa62d8e0d515]{
+-- Page 22, Offset 13392.
+-- 「……呆れた。水槽を観て何を想像したのかは聞かないけど。
+"Figures. You come to an aquarium and that's what you think about.
+
+}
+[sha:f6a002d6801e8dbde6835889257f2e1f552fc007]{
+-- Page 22, Offset 13393.
+-- 必要ないものを欲しがるのは貴女の悪い癖ね、青子」
+  Wanting superfluous things is a bad habit of yours, Aoko."
+
+}
+[sha:94f573731567ea94c67c99f48c2eb4cb0dc5bd37]{
+-- Page 22, Offset 13394.
+-- 「えー、必要ないってコトはないんじゃない？　水遊びは<日|こ><本|っち>より<英国|そっち>の方が馴染み深いでしょうに。
+"Aww, a pool isn't superfluous. Besides, aren't pools more common in England than Japan?
+
+}
+[sha:e537e20aca59a0c53c335cbe2c1a70cbb65f700f]{
+-- Page 22, Offset 13395.
+-- あ。もしかして有珠、泳げない？」
+  Or... could it be that you can't swim?"
+
+}
+[sha:eb3bcdf4a933e25c585c88fa6ae1606489191ebe]{
+-- Page 23, Offset 13396.
+-- 「泳ぎの経験ぐらいあるわ。夏は湖で何度も遊んだもの。
+"I've spent enough time in a swimsuit. I often swam in the lake as a child.
+
+}
+[sha:e8f7b006b44be5339a5f8a6a3f985ed1fd09a7bb]{
+-- Page 23, Offset 13397. Glued. Mods: @x.
+-- わたし、大型のセントバーナードにだって負けなかったのよ」
+And I never once lost a race to our big St. Bernard."
+
+}
+[sha:10073913d460f14964919c0292a263465e8a95b0]{
+-- Page 23, Offset 13398.
+-- 「セントバーナードって……有珠さんったら、もしかして<息|いき><継|つ>ぎとか苦手かしら？」
+"A St. Bernard...? Wait, don't tell me. You had trouble with your breathing, didn't you?"
+
+}
+[sha:1f35e1d06dbf0913ff446650128d77c130a4ad0a]{
+-- Page 23, Offset 13399.
+-- 「この世でもっとも聞きたくない言葉のひとつね。
+"Ugh. Spare me the swimming lesson.
+
+}
+[sha:d51c55979e049fef27dfeaa2a207813d9d26b54f]{
+-- Page 23, Offset 13400.
+-- クロールとかバタフライとか、発明した人は半魚人になればいいのに」
+  'Crawl'? 'Butterfly'? The people who invented those were probably half-fish anyway."
+
+}
+[sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
+-- Page 24, Offset 13401.
+-- かつ、かつ、かつ。
+  Clack, clack, clack.
+
+}
+[sha:1abf2bb17aa9d1d381866da8f0380a79a96d5305]{
+-- Page 24, Offset 13402.
+-- 海を巡る足取りは、普段のものよりおごそかに、繊細に。
+  Their pace was more delicate and solemn than a stroll along the beach.
+
+}
+[sha:3c702f2d999ec3bd958fcc5b7528fc9debedd681]{
+-- Page 24, Offset 13403.
+-- 少女たちの会話はうわのそら。
+  Their conversation continued, but was only particular for being in particular.
+
+}
+[sha:53c61b2958b63fab3e57ef622f2e222f3f995bf3]{
+-- Page 24, Offset 13404.
+-- ここでは、視線は青いスクリーンにのみ向けられるので。
+  In here, the only thing to do was look at blue screens.
+
+}
+[sha:670aac6446503e274a8b6546eca16dc97f79a782]{
+-- Page 25, Offset 13405.
+-- 「でも驚いた。あんなにあっさり館の留守を任せるなんて。アイツがこっそり西館に入るかも、とか考えなかった？」
+"I'm proud of you though, leaving him alone in the house. You're not worried he'll go snooping in the west wing, are you?"
+
+}
+[sha:cbd02cc2dd4c51e8180ae764f40056d8e2db8f9e]{
+-- Page 25, Offset 13406.
+-- 「……彼、そこまで考えなしじゃないでしょう。
+"He... can't possibly be that foolish.
+
+}
+[sha:9eb9cf9880aac07286d91f6f113d414594a6efc1]{
+-- Page 25, Offset 13407.
+-- それに―――」
+  Besides..."
+
+}
+[sha:159631207658c1865e0157100b47cdc59b63ac97]{
+-- Page 25, Offset 13408.
+-- 「それに、それならそれで手間が省けてせいせいした？」
+"It'd save us the trouble if he did?"
+
+}
+[sha:a59671afacb6206f0e02a4c24fc9434fb4654f22]{
+-- Page 25, Offset 13409.
+-- 「……そうじゃなくて。
+"...It's not that.
+
+}
+[sha:1cb0f64b097b759e9bd3d73fbbd29dd5354e02f4]{
+-- Page 25, Offset 13410.
+-- 一度交わした約束は、破らないんじゃないかって」
+  I just don't think he's the type to break his word."
+
+}
+[sha:a68fd59bdcfb9bd93f00401728665834472a5d59]{
+-- Page 26, Offset 13411.
+-- なるほど、そういうコトもあるだろう。
+  That he was not.
+
+}
+[sha:2f0cec15287aab886dba6337fe4728fb45c8bb11]{
+-- Page 26, Offset 13412.
+-- 長い髪の少女は感心したように頷いた。
+  Aoko nodded, her long hair waving back and forth,
+
+}
+[sha:8f9bae0f53fc2eda5316e57ca76c26274fb39573]{
+-- Page 26, Offset 13413.
+-- ちょっとだけ目が開いたところを見ると、驚きも何割か。
+  a certain gleam of surprise in her eyes.
+
+}
+[sha:50447294075f31b41a3099eabb03e61999397e74]{
+-- Page 26, Offset 13414.
+-- 少女たちは次の世界にふわふわと。
+  Onward they meandered to the next aquatic world.
+
+}
+[sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
+-- Page 26, Offset 13415.
+-- かつ、かつ、かつ。
+  Clack, clack, clack.
+
+}
+[sha:31fa24040c9b97600eea801bb830e1fb9eea632b]{
+-- Page 27, Offset 13416.
+-- 「ところで、水族館は初めて？」
+"By the way, is this your first time at an aquarium?"
+
+}
+[sha:be0b39dcfc4ab9842393ccb968e76665d709c12f]{
+-- Page 27, Offset 13417.
+-- 「これで二度目。昔、友達とふたりで行ったきりよ」
+"Second. I went with a friend long ago."
+
+}
+[sha:09bd0eb9dc399c47bbc0ae668a70a067ae5a33e8]{
+-- Page 27, Offset 13418.
+-- 「うそ、ほんと？」
+"No way. Really?"
+
+}
+[sha:97adb0a86227b8e7fa9e99232510f0eb3175c71a]{
+-- Page 27, Offset 13419.
+-- 「本当。六年以上も前。まだイギリスにいた頃」
+"Yes, really. More than six years ago, when I was still in England."
+
+}
+[sha:531950738f8c5ae9e7ab5e0ad32030fe1e260aa8]{
+-- Page 27, Offset 13420.
+-- 「そうじゃなくて友達の方。アンタ、友人はいないって言ったじゃない」
+"No, I mean the friend part. I thought you said you didn't have any friends."
+
+}
+[sha:d77ff4a2fb2de2e5117b554077b87cc86bee9d96]{
+-- Page 28, Offset 13421.
+-- 「……昔の話よ。わたしたち、同じ名前だったの。
+"That was... a long time ago. We even had the same name.
+
+}
+[sha:e9df5edd57303590eaba2ace3eb506228cb725cf]{
+-- Page 28, Offset 13422.
+-- それが縁でよく遊んでいたけれど、長続きはしなかったわ」
+  We used to play all the time, but we fell out of touch."
+
+}
+[sha:402586de9dcd22ec32230b3e8ef32b18a9a1d413]{
+-- Page 28, Offset 13423.
+-- 「そっか、あっちじゃそう珍しくない名前なのね、アリスって。こっちでいうところの良子とか、花子みたいなもの？」
+"That's right, Alice must be a pretty common name over there. Here it's all 'Ryoko' or 'Hanako' and such."
+
+}
+[sha:03d59f6e54e8f1fa8368fe6315e2438b16ed1e27]{
+-- Page 28, Offset 13424.
+-- 「ええ。<青子|あおこ>とか<赤子|あかこ>とか、<黒子|くろこ>とか<白子|しらこ>みたいなものよ」
+"Indeed. Or names referencing colors, like 'Aoko,' 'Akako,' 'Kuroko,' or 'Shirako.'"
+
+}
+[sha:fc1aba50b94daac86a9e023a650bd6ceb42e40d3]{
+-- Page 28, Offset 13425.
+-- 「……後半はみんな普通名詞なんですけど」
+"They do all end with 'ko,' don't they..."
+
+}
+[sha:991ab05e214a14ff145800dda66cf0b19955adc3]{
+-- Page 29, Offset 13426.
+-- ひとつひとつに名前があるのが彼らの社会。
+  To each their own, a society of names.
+
+}
+[sha:0fab43e96f76751dc2cb7d5d4f864d1361abbf4b]{
+-- Page 29, Offset 13427.
+-- 水の中もくるくると目まぐるしいけれど、
+  The swirling of the waters was dizzying,
+
+}
+[sha:f90753ad5b8c612ace3c1888a28a5ba7f7fe3cde]{
+-- Page 29, Offset 13428.
+-- 人間も人間で、いろいろどうでも忙しいよう。
+  much like the hectic world of humans.
+
+}
+[sha:d136e7301dc5a5be8add39bb63a06a66094d22f3]{
+-- Page 29, Offset 13429.
+-- 少女たちは手を振りながら、次の世界にかつ、かつと。
+  Their hands swung back and forth as they walked toward the next world.
+
+}
+[sha:01321e73935e5ff5f7068bd5755d0517b42f9c54]{
+-- Page 30, Offset 13430.
+-- 「そう言う青子は、彼をどうするつもりなの？」
+"Incidentally, Aoko, what exactly is your plan for him?"
+
+}
+[sha:43316fda66341b2f67f6a77297f20bef695d6690]{
+-- Page 30, Offset 13431.
+-- 「どうって、今の一件を終わらせるまで大人しくしてもらって、落ち着いたら忘却のルーン探して、なかった事にするだけでしょ？　これ以上迷惑かけられないわよ」
+"Well, once our current issue is resolved and things calm down, I'll find the rune for erasing his memory, and he'll forget we ever existed. He won't be a bother for much longer."
+
+}
+[sha:a149a0b8373812f7a77ba1bbe2ae935f61d3943d]{
+-- Page 30, Offset 13432.
+-- 「……それは、わたしに？」
+"...A bother to whom? Me?"
+
+}
+[sha:ff195d7a3305c29e7535e97542f65b3b926d9732]{
+-- Page 31, Offset 13433. Mods: @k, @e.
+-- 「へ……？　―――あ、うん、そう。そうに決まってるじゃない。
+"Hm...? O-Oh.. .you know. Me .and you.
+
+}
+[sha:f27b7632be6c0f3fe09bdf42a75a193e9af6e1d9]{
+-- Page 31, Offset 13434. Glued. Mods: @x.
+-- ところでこの魚、キレイよね。なんか泳ぎたくなってくる。有珠、来年の夏は海にでも行ってみよっか？」
+Wow, this fish is really pretty! It makes me want to swim. Hey, we should go to the beach next summer!"
+
+}
+[sha:9e6aaf098dabb6a7b2b3a832e54222525067fc8b]{
+-- Page 32, Offset 13435.
+-- 「海って……あの、海？」
+"The beach... You mean...by the ocean?"
+
+}
+[sha:f60401a9ec07cfa943cf0c13a3a94ab6a8175d4a]{
+-- Page 32, Offset 13436.
+-- 「もちろん。夏の海っていったら灼熱の太陽と砂浜、水平線に沈む夕日ってね。
+"Of course. You know, fun under the hot summer sun, sand between your toes, watching the sun set on the horizon...
+
+}
+[sha:8430c81e970992ce1fbd1bdd35c7ef04fcbb9c0e]{
+-- Page 32, Offset 13437.
+-- 今年は行けなかったけど、来年は一緒に行かない？」
+  We couldn't go this year, so why don't we go together next year?"
+
+}
+[sha:6e60f3d198f1f0e962cb5f46a61d4c0b9be8f4ad]{
+-- Page 32, Offset 13438.
+-- 「呆れた。本当、貴女って楽観的。
+"Your optimism is exhausting.
+
+}
+[sha:78b2ead2c2f050ffa3e00526a825e6e154f44210]{
+-- Page 32, Offset 13439.
+-- ……でも、そうね。夏まで生きていられたのなら、そういう事もあるかもしれない」
+  But... that does sound nice. If we manage to survive until next summer, that is."
+
+}
+[sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
+-- Page 33, Offset 13440.
+-- かつ、かつ、かつ。
+  Clack, clack, clack.
+
+}
+[sha:05ce29eb98916112fe512a7b2db22607ff9f40eb]{
+-- Page 33, Offset 13441.
+-- 人間の少女たちは次の水場に跳んでいく。
+  The two girls journeyed to the next oceanic wonderland,
+
+}
+[sha:213e0399cfbe2a7d98f81dc091af26cab4cdb779]{
+-- Page 33, Offset 13442.
+-- 眺めていたのはお互いさま。
+  mutually taking in the sights.
+
+}
+[sha:9137f474354408b9e820a10d190c14cd40ee4047]{
+-- Page 33, Offset 13443.
+-- 冬の海に訪れた客人は、涼しい顔で消えていった。
+  The visitors to these winter waters had begun to leave, satisfied by their touring.
+
+}
+[sha:1cf1ba153a807d63da5a7c96fd6ac6953bec44b8]{
+-- Page 33, Offset 13444.
+-- それではさよなら、かつ、かつ、ばたん。
+  The sound of their footsteps heralded their farewell.
+
+}
+[sha:eafb896d350838399d1ab1611c3fa345c6731530]{
+-- Page 34, Offset 13445.
+-- ……徒歩による航海は一時間に及んだ。
+  An hour into the wayfaring sea voyage...
+
+}
+[sha:107b9c1f653bf02af4653db4c713eb7c036b5ac7]{
+-- Page 34, Offset 13446.
+-- 展示物の多さもさることながら、入り組んだ通路は迷路のようで、気付かないうちに一フロア上の階層にあがっていたりもした。
+  Losing themselves in the maze-like corridors of seemingly endless exhibits, they somehow found themselves on the next floor.
+
+}
+[sha:419d4de651a8b40d0c49afe893e7e7b8888e4241]{
+-- Page 34, Offset 13447.
+-- 最上階と聞いていた事もあり、青子も二層構造と気付いた時は感心したものだ。
+  Aoko had heard that the aquarium was situated on the top floor, and was shocked to find out there was yet another above it.
+
+}
+[sha:fc43ea42bb0d348a4a92f28efdfc32ba4dec8cef]{
+-- Page 35, Offset 13448.
+-- おそらく、本当の最上階には水族館からしか行けない作りになっているのだろう。
+  It was likely by design that the actual top floor could only be accessed from within the aquarium.
+
+}
+[sha:d6ca699701f3444e5db012fb94e7ec8cca199bed]{
+-- Page 35, Offset 13449.
+-- どのようなアトラクションであれ、サプライズはあるに越したことはない。
+  Moments of intrigue such as this are what attractions are made of.
+
+}
+[sha:6b2d7069f6b0ea99347998b8aba6ed1be8ccaa4c]{
+-- Page 36, Offset 13450.
+-- 「有珠？」
+"Alice?"
+
+}
+[sha:b9f6d4b344cffc7cbea011c4e6e084fb09302c24]{
+-- Page 36, Offset 13451.
+-- ふと振り返ると有珠の姿がない。
+  Turning this way and that, she found Alice had disappeared.
+
+}
+[sha:19b145f5e35b90253774b26698cbe6d822689f8f]{
+-- Page 36, Offset 13452.
+-- さっきまで一緒にいたのに、と同居人の姿を探す。
+  She had just been there, however, and Aoko took to looking for her.
+
+}
+[sha:3e78be62f8c388c7f206096fd13cb510aac43733]{
+-- Page 36, Offset 13453.
+-- 探し人はすぐに見つかった。
+  She soon found her nearby.
+
+}
+[sha:6a878d3e7298887cdae2d1aa43ca5fb6306baa01]{
+-- Page 36, Offset 13454.
+-- 闇に映える白い<外套|コート>が、ライトアップされた水槽の前に佇んでいる。
+  Her white overcoat shone brightly in front of the dimly lit exhibit.
+
+}
+[sha:5a4b2beb29ac5971a179d2b28fe15078fef79508]{
+-- Page 37, Offset 13455.
+-- 少女はじっと青い水槽を見つめていた。
+  She was staring motionless into the water tank.
+
+}
+[sha:7c923de89838835105275bf8858a0337ba275d15]{
+-- Page 37, Offset 13456.
+-- 散漫と、ありきたりな風景を見つめるように。
+  She almost looked to be staring through it, distracted by something.
+
+}
+[sha:3b3ecf8837543fa65ef3bf0e4c71d93fa16888a0]{
+-- Page 38, Offset 13457.
+-- 「どうしたの有珠？　気分でも悪くなった？」
+"What's wrong, Alice? Are you feeling okay?"
+
+}
+[sha:874aad31e32046cda09c4fb536793b8569be4565]{
+-- Page 38, Offset 13458.
+-- 微妙な様子の変化を感じて声をかける。
+  She spoke, hoping to snap her out of it.
+
+}
+[sha:8d2ef870c69d554b36a2fdaa570d08c0dc3ebb5b]{
+-- Page 38, Offset 13459.
+-- 有珠の体にある、いつもの張りつめた空気がなくなっている気がしたからだ。
+  Alice's typically cold aura seemed to have all but left her.
+
+}
+[sha:95f4fc9ef6264e7e752ac2c0065c2c4c1785a1d0]{
+-- Page 39, Offset 13460.
+-- 「珍しい魚でもいた？　それ、余り物を端においやりましたって感じの水槽だけど」
+"Is it a rare fish? ...This looks like the tank they use for all the fish that don't fit anywhere else."
+
+}
+[sha:66805c8ba1c8dbb3d72c711809666ee2c6f81c3e]{
+-- Page 39, Offset 13461.
+-- 有珠はそうね、とだけ返答した。
+  Alice gave a noncommittal response.
+
+}
+[sha:e52d1bbe867f5eb718b019ba9d1ba80e5cf1df66]{
+-- Page 39, Offset 13462.
+-- 少女の視線の先にあるのはひとつの影。
+  Just ahead of her gaze was a single shadow.
+
+}
+[sha:7ece6246f4f5165fb0fb5c581e24fe3f8f420c46]{
+-- Page 40, Offset 13463.
+-- 「ワォ、マンボウ」
+"Wow, an ocean sunfish."
+
+}
+[sha:335d89d145d82a76c8fac41a8351f0e17ee20d37]{
+-- Page 40, Offset 13464.
+-- 芝居がかった青子の声に、有珠は無言でうなずく。
+  Alice remained motionless, unresponsive to Aoko's sarcasm.
+
+}
+[sha:54e685b738447dcd8c15940bd34e9e35807d148e]{
+-- Page 40, Offset 13465.
+-- この、端においやられた水槽のさらに端っこで、彼は静かに漂っていた。
+  She stood in silence, watching the poor little fish, drifting listlessly in the tank where they put the fish that did not fit anywhere else, here at the end of the hall.
+
+}
+[sha:b8693cb229e178f7ca34700fbc7779e1bc5dd6db]{
+-- Page 41, Offset 13466.
+-- 一般的に言って、マンボウはカタチのいい魚ではない。
+  To put it lightly, sunfish were not especially pleasant to look at.
+
+}
+[sha:bde4103a614dcf4cf9e224f8b91fbf0b2c4090e6]{
+-- Page 41, Offset 13467.
+-- 海を泳ぐ生物として、なぜこんな進化を？　と聞きたくなる形状だ。
+  When looking at one, it begged the question of what direction evolution wanted to take with it.
+
+}
+[sha:34d34a314a01ab4d31757e03db7c6645174cc12d]{
+-- Page 41, Offset 13468.
+-- 平べったい魚身の上下にある舵びれで泳ぐらしいが、他の魚のようなスピードは期待できまい。
+  It looked like it swam using rudder-like fins on its top and bottom, but lacked the grace of other fish.
+
+}
+[sha:89a3651e0d0b2dccac17b26e291f73c41fba9435]{
+-- Page 41, Offset 13469.
+-- 青子からすれば、体も目も、その在り方ものっぺりとした不思議生物である。
+  To Aoko, its eyes, body, and strange movements made it an awkward creature.
+
+}
+[sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
+-- Page 41, Offset 13470.
+-- が。
+  Aoko Aozaki.
+
+}
+[sha:b65a605081f1e9861bd92bbd072e8f03a06e83af]{
+-- Page 42, Offset 13471.
+-- 「ね。有珠、あっちの水槽みない？　ジンベエザメの回遊とか、<見|み><目|め><麗|うるわ>しいわよ？」
+"Hey, Alice, let's check out the whale shark exhibit over there. It sounds really exciting, don't you think?"
+
+}
+[sha:31bf2a2ef297bc90adbdefd5bf63b89b7f1c7303]{
+-- Page 42, Offset 13472.
+-- 有珠はこのように、マンボウに夢中である。
+  Alice, unmoved, fixated on the sunfish.
+
+}
+[sha:1ba1ea26b52f954a2f5c72c22344da43f0c62b8b]{
+-- Page 43, Offset 13473.
+-- ふらふらと漂う魚界の<金平糖|こんぺいとう>を見つめ、彼がうまく<転回|ターン>できずコツコツと水槽にぶつかる度に、
+  It clumsily drifted around its tank, occasionally bumping into the glass as it turned.
+
+}
+[sha:05185a33183cd58ab93f2fe5afc684237edc5603]{
+-- Page 43, Offset 13474.
+-- 「青子。この子、泳ぐのが下手だわ」
+"Aoko, this little one can't swim well."
+
+}
+[sha:f8f1e2a66aa817fd056d3956d3d96fe61545996a]{
+-- Page 43, Offset 13475.
+-- 水槽に触れようと指を伸ばし、大人げないと引っ込めていた。
+  Alice extended her finger toward the glass, then retracted it feeling childish.
+
+}
+[sha:1135bdc50bdaa8787773916c8c7960cad3532326]{
+-- Page 44, Offset 13476.
+-- 「……ま、いっか。<愛嬌|あいきょう>だけはあるしね、マンボウ」
+"Well, whatever. I suppose sunfish have their own charm."
+
+}
+[sha:14806927ea74a8fea378a3f402652ca21e942528]{
+-- Page 44, Offset 13477.
+-- こうなっては有珠はテコでも動かない。
+  It did not seem like Alice was going to budge.
+
+}
+[sha:db510642a775ef1adf4968502c6133a7529d715c]{
+-- Page 44, Offset 13478.
+-- 仕方ないと観念して、青子は有珠に付き合い、<座布団|ざぶとん>のような硬骨魚を眺めるのだった。
+  Resigning herself, Aoko stayed with Alice while she stared at the cushion-shaped fish.
+
+}
+[sha:2c2f984e7ae927b2d0f11ef07e366afd65070db5]{
+-- Page 45, Offset 13479.
+-- 「へー。マンボウってフグ目だったんだ。なになに、マンボウのメスは一度に三億個の卵を海中に放出する、地上でもっとも多くの卵を産む脊椎動物である……なるほどねー。
+"Huh. They have eyes like puffer fish. It also says here that the females can produce more eggs than any other known vertebrate, up to three-hundred million at a time. Neat...
+
+}
+[sha:72faa29799fbdbf4590c73aaa6f34039434cfc46]{
+-- Page 45, Offset 13480.
+-- 他の魚たちにとっちゃ格好のエサになるから、多く産むこと、それ自体が生存のための手段になるワケか」
+  The babies become prey to other fish, so in a way giving birth to so many is a means of survival for them."
+
+}
+[sha:90e15248a8b8fe2a61cef4e2fbe5a04eb334809a]{
+-- Page 46, Offset 13481.
+-- 興味深く解説を読む青子だが、有珠はマンボウの生態はどうでもいいらしい。
+  Though Aoko seemed taken in by the biological details of the fish, Alice couldn't have cared less.
+
+}
+[sha:c1f0894250c3efb6f96ffdd61b6469829ba0ff72]{
+-- Page 46, Offset 13482.
+-- 平たい魚影がコツコツと水槽の壁に当たるたび、目を輝かせたり、落ちこんだりする。
+  She was lost in the ebb and flow of emotions between wonder and woe with every clumsy bump of the fish into the glass.
+
+}
+[sha:8362858d823d45bb2141c665a5541aa7363a9a93]{
+-- Page 46, Offset 13483.
+-- そんな中、不意に少女は呟いた。
+  When out of nowhere, she softly spoke...
+
+}
+[sha:2daf729473c8cf34e99ee8514d1764f661a45842]{
+-- Page 46, Offset 13484.
+-- 「さっきの話だけど」
+"About before..."
+
+}
+[sha:a236ded321a0ec877dd21035dfec2a66f5922140]{
+-- Page 46, Offset 13485.
+-- 「へ？　さっきの話って、なに？」
+"Before? When?"
+
+}
+[sha:ddc6e6f79a9ae646670bd4e2893c0d3910171b77]{
+-- Page 46, Offset 13486.
+-- 「彼について。留守を任せるとか、そういうの」
+"About him. About leaving the house in his care."
+
+}
+[sha:a97fbd2002b4fa2a3ca1742daf62758095edba32]{
+-- Page 47, Offset 13487.
+-- 気が付けば、少女はいつもの姿に戻っていた。
+  It seemed like Alice had returned to her normal self.
+
+}
+[sha:bb52b1005a87e2acccfa6e61485dfa1d90b1e2f0]{
+-- Page 47, Offset 13488.
+-- 張りつめた空気。
+  That cold aura.
+
+}
+[sha:d799678a0b28be37ab932bffa48879d87b83c774]{
+-- Page 47, Offset 13489.
+-- 何処であろうと、あの洋館の中であろうと、<頑|かたく>なに人を拒む冷たさに。
+  Wherever, inside the mansion or out, that stubborn chill that pushed people away was back.
+
+}
+[sha:02247b415282aa54423155f229d6d6a3f83ab960]{
+-- Page 48, Offset 13490.
+-- 「わたしの気が変わった訳じゃないわ。
+"I haven't changed my mind.
+
+}
+[sha:c11c9cc26d5b9afa450de759a819c5744d9bfb7d]{
+-- Page 48, Offset 13491.
+-- 依然として彼の事は分からないもの。分からない人を、どうやって信頼すればいいの？」
+  He is still a complete unknown. How can I trust someone I know nothing about?"
+
+}
+[sha:58b440f72b053293b0e7d657ce5669ff0bacf180]{
+-- Page 48, Offset 13492.
+-- 「……まあね。でも、じゃあどうして？」
+"...I guess. But then why let him...?"
+
+}
+[sha:6758bece75ba8958c498c9f4349d877fc993b93f]{
+-- Page 48, Offset 13493.
+-- 「青子の事は分かるわ。貴女はいつも正しい選択をする。……だから、青子を信じる彼の人間性は、信じてもいい」
+"Because I know you, Aoko. You always make the right decision. So... I'm trusting your judgment on the matter."
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 49, Offset 13494.
+-- 「………………」
+"..."
+
+}
+[sha:71949a11ceb9f7e15af9638de71fa96484b9d582]{
+-- Page 49, Offset 13495.
+-- 草十郎の事は分からないし、理解する気もない。
+  It was true. She did not know Soujyuro, nor had any intention to.
+
+}
+[sha:63f380a6529f6c964ae5011e54e7d4b1d123bbeb]{
+-- Page 49, Offset 13496.
+-- けれど、<有珠|じぶん>の協力者である青子を信じているのなら、その選択に免じて許してもいい。
+  But because of her trust in Aoko, she could trust in Aoko's decision to allow him to stay.
+
+}
+[sha:69e694d7b7a0c13596f7b335d9c23f9182b8daa3]{
+-- Page 49, Offset 13497.
+-- 有珠は今の自分の感情を、そう落としこんだらしい。
+  It seemed Alice was challenging her own feelings.
+
+}
+[sha:2121bc0cc50b8312b508e1bf9b69958f4a595b33]{
+-- Page 50, Offset 13498.
+-- 分からない人は信頼できない、と少女は言う。
+  She said she could not trust someone she did not know.
+
+}
+[sha:48efded868deb644970f6b36b00168fd4bb234ff]{
+-- Page 50, Offset 13499.
+-- けれど逆に言えば、それは―――誰かを信じたいから、深く理解したいと望んでいるようにもとれた。
+  Or in other words, she wished to trust a person, and in order to do so she needed to know more about them.
+
+}
+[sha:3cbf933967e185989b6ec86371a8f0862593e611]{
+-- Page 51, Offset 13500.
+-- 「……ま、口にするのは何だからつっこまないけどね。
+"Well, I don't really know how to respond to that, Alice.
+
+}
+[sha:420a5628234fe725afc2f11e81e48cd36ee288c0]{
+-- Page 51, Offset 13501.
+-- それより、なに？　そんなに私のこと信頼してくれてたの、有珠？」
+  Also, I had no idea you trusted me that much."
+
+}
+[sha:b294a4927c49c498b17624fcd54f2795466a37e1]{
+-- Page 51, Offset 13502.
+-- 「……ええ。好意はともかく、信頼だけはしているわ。
+"I do trust you. I may not be fond of you, but I trust you.
+
+}
+[sha:64918707ce092ac546068cbab78a54142467bec2]{
+-- Page 51, Offset 13503.
+-- だって共犯者でしょう、わたしたち」
+  Because we're partners in crime, aren't we?"
+
+}
+[sha:29e4c47e6ab9bdba02c3c1e93ecfb669c0fb211c]{
+-- Page 52, Offset 13504.
+-- 白いコートが揺れる。
+  Her white coat swayed to and fro.
+
+}
+[sha:6783ce5a033ef5b4d56fabe8bc33903d44456c9e]{
+-- Page 52, Offset 13505.
+-- ……ひとときの旅は終わった。
+  Just like that, their short excursion had come to an end.
+
+}
+[sha:8b8516e4b7a58b58c390af64520c35d609c87827]{
+-- Page 52, Offset 13506.
+-- 水の国の出口はすぐそこだ。
+  Straight ahead was the exit back to the real world.
+
+}
+[sha:f34c3f17dd2849e7c039a8008e78a23b6a3a7cc8]{
+-- Page 52, Offset 13507.
+-- 少女は水槽から視線を逸らして、付き合いのいい同居人へと歩きだした。
+  A step away from the exhibit was a step toward becoming better roommates.
+
+}
+[sha:a0a23398d4a11dd5b1ef75c7a2022d7a4a7bf5c9]{
+-- Page 53, Offset 13508.
+-- 「……優しい顔をしているのに、傷だらけね」
+"...Such a kind face, but so clearly scarred."
+
+}
+[sha:a1e5a1aad227838884dd63d948b4151dc87e7ba6]{
+-- Page 53, Offset 13509.
+-- 最後に小さく。
+  One last, small whisper.
+
+}
+[sha:15880e96d9315d52bc7fed20e316b985f19c000b]{
+-- Page 53, Offset 13510.
+-- 水槽の孤影に別れを告げるよう、呟いて。
+  And with that, she bid farewell to the lonely figure in the tank.
+
+}

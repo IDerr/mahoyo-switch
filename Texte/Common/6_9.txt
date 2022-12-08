@@ -1,0 +1,888 @@
+[sha:cc9b462a74b4fe788b266d86ba68b4af08c7be07]{
+-- Page 0, Offset 8417.
+-- 一日の仕事を終え、草十郎は洋館に戻ってきた。
+  With the day's work behind him, Soujyuro returned to the mansion.
+
+}
+[sha:0df37ba6ab68dd39e744a24711b8de499129ffb7]{
+-- Page 0, Offset 8418.
+-- 「よし。どこを探しても、二階のホールから上がれる階段はここだけだ」
+"This must be it. It's the only set of stairs leading up from the second floor hall."
+
+}
+[sha:3afed2c97494559f7222f953d957a134d8494e3f]{
+-- Page 0, Offset 8419.
+-- 日付も替わろうとする零時前。
+  It was just before midnight.
+
+}
+[sha:e22cce0e38ec8f29139bed198a2ef3082a7507c4]{
+-- Page 0, Offset 8420.
+-- くたびれた階段の先には、このような景色が広がっていた。
+  This was the scene that awaited him beyond the rickety staircase.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 1, Offset 8421.
+-- 「――――――」
+"..."
+
+}
+[sha:86661fc7b187ffb58defea84a9b0611232e31511]{
+-- Page 1, Offset 8422.
+-- たいていのコトには驚かない……もう驚きなれてしまった……草十郎をして、それは、言葉を失う光景だった。
+  Not much surprised Soujyuro. Or rather, being surprised had become normal to him. This scene, however, was enough to leave him speechless.
+
+}
+[sha:895c76db61ce5f706f00a65581b745a8b944fbd4]{
+-- Page 2, Offset 8423.
+-- 草十郎にあてがわれた部屋は、
+  The room allotted to Soujyuro,
+
+}
+[sha:c7c3433a180fb4208adba63133bc4ae895e61563]{
+-- Page 2, Offset 8424.
+-- どこをどう見ても、
+  no matter how he looked at it,
+
+}
+[sha:06af4d3d86e326bab70f06e2d1e8601be6fe5ee6]{
+-- Page 2, Offset 8425.
+-- 何をとりつくろうとも、
+  no matter how he ran it through in his mind,
+
+}
+[sha:1040ddca384098c9863e71d442c1902e402d3b72]{
+-- Page 2, Offset 8426.
+-- まがうことなき屋根裏部屋でした。
+  was without a shadow of a doubt, an attic.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 3, Offset 8427.
+-- 「………………」
+"..."
+
+}
+[sha:b78effbbd506ea24f36d0ea77587a1eaf63aaf1f]{
+-- Page 3, Offset 8428.
+-- むう、と己の<処遇|しょぐう>に<一抹|いちまつ>の不安を覚える。
+  This treatment stirred a tinge of anxiety in him.
+
+}
+[sha:f12a18b4fc70830250106a69540a8ffa069619f7]{
+-- Page 3, Offset 8429.
+-- ただでさえ気の重いことばかりなのに、こんなんでやっていけるのかな、とシーツの敷かれたベッドに倒れこもうとした時、
+  Just as he was about to flop onto the taut sheets of his bed, wondering if he could make this work despite his share of other problems,
+
+}
+[sha:f435d8294541d6c140721c118bbd9c1ca880ab9f]{
+-- Page 3, Offset 8430.
+-- ささやかすぎて役に立たない、ちぐはぐな気遣いがあった。
+  he noticed an awkward courtesy, so meager as to be useless.
+
+}
+[sha:882955dc1dc44d28dde1a097f948093356cbf815]{
+-- Page 4, Offset 8431.
+-- 『寒かったら重ねて使うこと。これはサービスとする』
+"Something to use if you get cold. Consider it a gift."
+
+}
+[sha:03c3af2895c793725bd018a39da719014e6d5a36]{
+-- Page 4, Offset 8432.
+-- メモにある文字は、几帳面な性格がにじみ出ている。
+  The message in the memo pointed to the meticulous personality of the author.
+
+}
+[sha:70f12b8091387432aef44b48bcf7605b4e6e321a]{
+-- Page 4, Offset 8433.
+-- 布団は十分用意されていた。
+  The bed had been perfectly prepared.
+
+}
+[sha:8c9fc19ce829c169737f859c8ac1275f2a50cd8c]{
+-- Page 4, Offset 8434.
+-- その上で、念のためにと置かれた毛布を大事そうに<端|はし>にどけて、草十郎は空を仰いだ。
+  Carefully, setting aside the blanket that had been painstakingly placed on the edge of the bed for him in case he needed it, he looked up at the sky.
+
+}
+[sha:44903f2a0972a7c6176a1a43565660612db2acd5]{
+-- Page 5, Offset 8435.
+-- おぼろげではあるが、天窓には星が<瞬|またた>いている。
+  Though faint, the stars twinkled through the skylight.
+
+}
+[sha:d069e71ae57d9457bab74608a53032c549251cf9]{
+-- Page 5, Offset 8436.
+-- 山育ちである彼にすれば、不満はあれ十分な明かりといえる。
+  For a mountain boy, that meager light was more than enough for him.
+
+}
+[sha:e7c4b6eb708952c36ba5fcd22aee6c60d1328d59]{
+-- Page 5, Offset 8437.
+-- 居間との格差から面食らってしまったが、冷静になれば落胆するコトでもない。
+  The stark contrast with the drawing room had caught him off guard, but now that he had collected himself, it was not so bad.
+
+}
+[sha:86d3d78fcffd40b284e716f09fe241f92fb7f8b4]{
+-- Page 6, Offset 8438.
+-- この部屋はこの部屋で彼の性格に合っているのだし。
+  This room fit his personality.
+
+}
+[sha:98252f95571af357c2b70c7fbc8bd68ffa5f0112]{
+-- Page 6, Offset 8439.
+-- いまだ勝手の分からない建物だとしても、町の建物よりは安心できた。
+  Even if he still was not used to the building, he felt more at ease here than he did in any building in the city, 
+
+}
+[sha:0a7822243869b6981a831530886de77542869079]{
+-- Page 6, Offset 8440.
+-- 丘の上、森の中に建っているからだろう。
+  perhaps because it was built on a hill, surrounded by woods.
+
+}
+[sha:c3e3e59ad11fa8d23a90fedb219974c5a8038c11]{
+-- Page 6, Offset 8441.
+-- ここは少しだけ彼の住んでいた山の空気に近いのだ。
+  The atmosphere here was a little closer to the mountains where he used to live.
+
+}
+[sha:64a50dc56b34b19203d9bc6e73477d8f04707727]{
+-- Page 7, Offset 8442.
+-- 「……あ。でも、家の中に霧が出るのはどうなんだろう？」
+"...Oh. Is it normal for there to be fog inside the house?"
+
+}
+[sha:68d7e9dc2d367e1772b0e45f80ec7711cacc5808]{
+-- Page 7, Offset 8443.
+-- 先ほどの光景を思い返して首をかしげる。
+  He crooked his neck, pondering over the spectacle he had witnessed.
+
+}
+[sha:9f1d2b0db0a8fcc5c2c297a09b67bd2d579199a7]{
+-- Page 7, Offset 8444.
+-- 草十郎はここに来る途中、二階のホールで霧らしきものを見かけていた。
+  On the way to his room, Soujyuro had encountered what looked like fog in the foyer on the second floor.
+
+}
+[sha:238778a8654cd7416c1d3620bba4a9f4efffd45c]{
+-- Page 8, Offset 8445.
+-- 白い霧は廊下の一部分にだけ漂っていて、<藪蚊|やぶか>の群を思わせた。
+  The misty fog drifted into a portion of the corridor, reminding him of a swarm of mosquitoes.
+
+}
+[sha:a07b066642df43f7618abfd55a3c7dce0f1a5677]{
+-- Page 8, Offset 8446.
+-- じっと見ていると、おかしな風景が見えた気がして近寄ったのだが、
+  As he stared at it, he swore he could make out a strange landscape, and as he moved closer to get a better look...
+
+}
+[sha:3030ddbbebdbeef960788f3dfabf2cc881482fc4]{
+-- Page 8, Offset 8447.
+-- これまたとつぜん、不自然なことに青い小鳥が目の前を横切ったのだ。館内で。
+  Again, out of nowhere, here inside of the mansion, a little blue bird darted purposefully in front of him.
+
+}
+[sha:dcaa91065ceb0b42c609619c3341a14e2f1aa324]{
+-- Page 9, Offset 8448.
+-- 「―――鳥？」
+"...A bird?"
+
+}
+[sha:74387184949f015373b0cce881fbb98fbcbee12e]{
+-- Page 9, Offset 8449.
+-- 小鳥に気を取られて立ち止まる。
+  The bird caught his attention, stopping him in his tracks.
+
+}
+[sha:7d18cd6f4c11b3c5fecfd05e7d164356d28d1172]{
+-- Page 9, Offset 8450.
+-- もう一度霧を見ると、おかしな風景は消えていた。
+  When he looked to check on the fog again, the strange scene had disappeared.
+
+}
+[sha:5316102d2fe1592176a6184496521b2d43333183]{
+-- Page 10, Offset 8451.
+-- 「……この家、隙間でもあるのかな。
+"...This house must have a draft.
+
+}
+[sha:96bdb5b0590e07a62e8a29e0a7cb4dfd0cacc73f]{
+-- Page 10, Offset 8452.
+-- 明日、蒼崎に訊いてみるか」
+  I'll ask Aozaki about it tomorrow,"
+
+}
+[sha:7f0d2a63a699fc37840288170601f30e26cadb65]{
+-- Page 10, Offset 8453.
+-- ベッドに腰掛けながら呟く。
+  he muttered to himself as he sat on the bed.
+
+}
+[sha:08f3165fc35c8d91cf550efd3e89f4bd9148fdf6]{
+-- Page 10, Offset 8454.
+-- 天窓から<覗|のぞ>く星の光は、ささやかではあるが気持ちを落ち着かせてくれた。
+  Meager as it was, the starlight peeping in through the skylight calmed him.
+
+}
+[sha:ab3d2c335d3add1e1c60c276f8b7b5689df198d0]{
+-- Page 11, Offset 8455.
+-- 「うん、これなら―――」
+"Yeah, this will work."
+
+}
+[sha:e108cfdae797016e54d2757c21cada7673c57dcb]{
+-- Page 11, Offset 8456.
+-- ほう、と息を吐いてベッドに体を預ける。
+  Exhaling slowly, he laid down.
+
+}
+[sha:cd292d4bd31cc760aee1e0563b59d8e0692d1c07]{
+-- Page 11, Offset 8457.
+-- とりあえず衣食住はあるのだし、ベッドは見た目より何倍も柔らかいし。
+  For the time being, he had the essentials needed to live, and his bed was many times softer than it appeared.
+
+}
+[sha:a4f05dfb00852a95368d5d1102857df4bae080f4]{
+-- Page 11, Offset 8458.
+-- 心配事はあまりないな、と草十郎は速やかに眠りに落ちていった。
+  Thinking his worries seemed smaller than they were, he quickly drifted off to sleep.
+
+}
+[sha:050e5b7cc660798b23129c2696e3c5ceab1983f4]{
+-- Page 12, Offset 8459.
+-- 以上が、彼の目覚めてから眠るまでの話。
+  That was the story of from when he opened his eyes, to when he fell asleep.
+
+}
+[sha:c1bdcd4996b2b91260cd4f99000e014eda1a46c1]{
+-- Page 12, Offset 8460.
+-- 長い夜のあとの、短い夜はこうして終わった。
+  Just like that, the short night following the long night was over.
+
+}
+[sha:2eed2093249544cfb2c07a77846adec652e9e695]{
+-- Page 12, Offset 8461.
+-- ……どうあれ。
+  For one thing was true...
+
+}
+[sha:581af567dcd89d63d6392767488374b8552c7adb]{
+-- Page 12, Offset 8462.
+-- 楽観的すぎるけれど、やっていけない事はなさそうだ。
+  Soujyuro was an optimist to a fault, but it wasn't the end of the world.
+
+}
+[sha:771bcf38b92578e93374024c568fde45a7f26f07]{
+-- Page 13, Offset 8463.
+-- そんな、踏まれても踏まれても応えない<天然草|てんねんそう>の話から、時間は五時間ほどさかのぼる。
+  Now, let us rewind five hours prior to this glutton for punishment going to bed.
+
+}
+[sha:37f07c8cc2d7eacc2a4c950664dfd9f3caa0a9c0]{
+-- Page 14, Offset 8464.
+-- 魔術師の当事者ふたりと、おまけの少年の不毛な話し合いが終わった午後七時。
+  It was seven o'clock in the evening, just after the unproductive discussion between the two mages and the boy had ended.
+
+}
+[sha:6d2d3e8d00a8ff70f3254caf16d30384d03bdfad]{
+-- Page 14, Offset 8465.
+-- 居間に<同居人|あおこ>と<闖入者|そうじゅうろう>を残したまま、少女はひとりロビーを歩いていた。
+  Leaving her roommate and the intruder in the drawing room, the girl walked alone through the foyer.
+
+}
+[sha:9a4b320ec168b754cb7fd958dc4f78a918329b8e]{
+-- Page 14, Offset 8466.
+-- 向かう先は館の西館。
+  From there, she headed to the west wing.
+
+}
+[sha:12d0ae88d34c5ac489bc0e3df7d00ff0325635e4]{
+-- Page 14, Offset 8467.
+-- 同居人である蒼崎青子でさえ滅多に足を踏み入れない、久遠寺有珠の居住区である。
+  These were Alice Kuonji's personal chambers, in which even her roommate, Aoko Aozaki, seldom dared to step foot.
+
+}
+[sha:88931db8626c950ce5b55dc8620b1a7df0ad5464]{
+-- Page 15, Offset 8468.
+-- 月明かりだけのロビー。
+  The foyer was illuminated only by pale moonlight.
+
+}
+[sha:23277aaf3a96b511617a5cae7de7bdb8508a2dd4]{
+-- Page 15, Offset 8469.
+-- 寒々しい明かりの下、硬い足音が<木霊|こだま>している。
+  Hard footsteps echoed through the dreary, moonlit lobby.
+
+}
+[sha:c74882255bc983603d8188073a26032e3985247f]{
+-- Page 15, Offset 8470.
+-- 洋風の屋敷では靴を脱ぐ習慣はない。
+  In such mansions in Japan, there was no custom for removing shoes at the door.
+
+}
+[sha:a0ec40a3dac64d679f89ad8be14511893776d336]{
+-- Page 15, Offset 8471.
+-- 有珠はブーツのままロビーを横断する。
+  Hence, Alice crossed the foyer in her boots.
+
+}
+[sha:bc5045f43c6c93aee6acf9145c7b6a8779dbbdcd]{
+-- Page 15, Offset 8472.
+-- 彼女が靴を脱ぐのは寝室で休む時だけだ。
+  She only removed them when she relaxed in her bedroom.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 16, Offset 8473.
+-- 「――――――」
+"..."
+
+}
+[sha:89dcf7c190ba17478238a1954349156105ba7b2a]{
+-- Page 16, Offset 8474.
+-- ……ふと、有珠は子供の頃の出来事を思い出した。
+  ...Suddenly, she remembered something from her childhood.
+
+}
+[sha:6cd6f4ae7d2dd8fb3bbe3c803586f919d785882e]{
+-- Page 16, Offset 8475.
+-- 冷たい床の感覚を楽しみたくて、日射しの強い日は裸足でこのロビーを歩いた。
+  She used to enjoy the feeling of the cold hardwood floor on her bare feet, and would walk around the foyer on particularly sunny days.
+
+}
+[sha:2a5a181b71620cbddee0fcdd7aff05b49cb1779a]{
+-- Page 16, Offset 8476.
+-- それを父に優しく<咎|とが>められて以来、彼女は裸足で歩く事はなくなったのだが―――
+  After her father affectionately scolded her for it, she never did it again.
+
+}
+[sha:60450f78c500400497b2d9e035c97bcbffc6bebf]{
+-- Page 17, Offset 8477.
+-- 「……そうだったわね。青子は結局、守らなかった」
+"And I don't know why I bother. Aoko never does."
+
+}
+[sha:2c5066378ccb079aff90fb296a9550827175ce9f]{
+-- Page 17, Offset 8478.
+-- かすかなため息がもれる。
+  She let out a quiet sigh.
+
+}
+[sha:6596c0272ae55030140335beeae9d1553316d4e7]{
+-- Page 17, Offset 8479.
+-- 日本に来てから得た新しい同居人は、有珠の言いつけには従わなかった。
+  Alice's new roommate, whom she took on after coming to Japan, would not comply with her instructions.
+
+}
+[sha:3a9c1a9221618be04eb27370be6bec69ba30aad0]{
+-- Page 18, Offset 8480.
+-- “落ち着かないものはしょうがない”
+"Old habits die hard."
+
+}
+[sha:c5fb547cd00df79474739cb9b1b45d25776215f6]{
+-- Page 18, Offset 8481.
+-- と、青子はスリッパに履き替える事がある。
+  Aoko would say, changing into her slippers.
+
+}
+[sha:c8e3fe330ee84ecbb7ca16aba335980ec019b910]{
+-- Page 18, Offset 8482.
+-- 中学生まで一般家屋で暮らしていた青子にすれば自然なのだろうが、あのペタペタいう足音でロビーを移動される度に、有珠は彼女との共同生活を破棄したくなったものだ。
+  Aoko might have found it natural to do so given that she lived in a typical Japanese house through middle school, but every time Alice heard her flip-flopping through the foyer, she wanted to cancel their cohabitation.
+
+}
+[sha:0c89c21d0470cdf5163c53c0225319b082862212]{
+-- Page 19, Offset 8483.
+-- それも今ではさして気にはならない。
+  By now, Alice was not particularly bothered by it anymore.
+
+}
+[sha:d0582eeb1dae5fc8711652de8251820b3c21febe]{
+-- Page 19, Offset 8484.
+-- 人間の順応性は時に優秀で、不義理だ。
+  Human adaptability was remarkable at times, and ungracious at others.
+
+}
+[sha:a7bc89a6a9da895faac44762c813cd8ca0154905]{
+-- Page 19, Offset 8485.
+-- 現実の<忙|いそが>しさの前には、昔からの思い入れなんて<脆|もろ>すぎる。
+  The emotional attachments of the past had proved far too brittle under the weight of reality.
+
+}
+[sha:a23d07e861256ace896db57b912559dadaffa879]{
+-- Page 20, Offset 8486.
+-- 階段の手すりには青い小鳥が止まっていた。
+  A little blue bird was perched on the banister.
+
+}
+[sha:509a7d0a46a6c7fc4698f400155a2969a715ae95]{
+-- Page 20, Offset 8487.
+-- 小さな鳴き声に、少女は足を止めて視線を向ける。
+  Its tiny chirping made Alice stop and look its way.
+
+}
+[sha:902135c28cfb01a6acd1329f48d3e0f688ae4cef]{
+-- Page 20, Offset 8488.
+-- 「……今夜は放っておくわ。今は青子の問題よ」
+"...Leave him be for tonight. Right now, he's Aoko's problem."
+
+}
+[sha:75c8db343eb65fd1e3ba1a475b497f1833458a12]{
+-- Page 21, Offset 8489.
+-- 感情の乏しい声に、小鳥は首をかしげながら鳴いた。
+  The lack of feeling in her voice made the bird tilt its head as it sang.
+
+}
+[sha:82e494a9d164bc9ffd48f78755a6aab28dc706ce]{
+-- Page 21, Offset 8490.
+-- チチチ、と。
+  Tweet tweet tweet.
+
+}
+[sha:4b12b6eb6f5bcc80ae35880093b30e76e923c3d3]{
+-- Page 21, Offset 8491.
+-- いつもの<主人|アリス>からは考えつかない、懐の深さを<訝|いぶか>しむように。
+  It trilled, as though questioning its master's uncharacteristic leniency.
+
+}
+[sha:e56a970b846f9b1a5f64c7a99db71e17e73c3b74]{
+-- Page 22, Offset 8492.
+-- 「約束は約束よ。今夜ぐらいは大目に見ないと。
+"A promise is a promise. I can at least tolerate him for tonight.
+
+}
+[sha:52f3efe20b23cdb77195d1d3824326b62e38a05c]{
+-- Page 22, Offset 8493.
+-- ……青子と彼は、それだけの活躍をしたのだし」
+  Aoko and the boy did go to such lengths, after all."
+
+}
+[sha:abfe659a01d62ecc7b8992a221ff060959b01bbb]{
+-- Page 22, Offset 8494.
+-- 小鳥に言い聞かせる声は、内容とは裏腹に不機嫌気味だ。
+  She said to the bird, her voice betraying her discontent.
+
+}
+[sha:ec592e8fd36937371d2ac4b32dcd369e22a6ebff]{
+-- Page 22, Offset 8495.
+-- “勝負に勝てば見逃してあげる”
+"If you win, I'll let you go."
+
+}
+[sha:ac4da6d27b25303f8817be476ded6d8250c8fc61]{
+-- Page 22, Offset 8496.
+-- その約束を守ってはいるものの、少女の胸には消しがたい戦意が灯っている。
+  She would keep that promise, in spite of the unquenchable desire to fight that burned in her chest.
+
+}
+[sha:7d78c11a018d0082bb2f8e6125369a9b3f9e5ff2]{
+-- Page 23, Offset 8497.
+-- 「……でも、その後の処遇は別の話。
+"...But I didn't make any guarantees after that.
+
+}
+[sha:9eb7976cc375dc42b8a75f8a64122a844b3d5719]{
+-- Page 23, Offset 8498.
+-- 条件付きのゲームに勝ったぐらいで、いつまでも得意げでいられるのは心外だわ」
+  She scraped a win even with a handicap in our little game, but I won't let her strut around childishly rubbing it my face forever."
+
+}
+[sha:59497cbaf106a07a3fd6d0683749983a1ecafbca]{
+-- Page 23, Offset 8499.
+-- 潔癖性からくる完全主義か。
+  Perhaps it was perfectionism born of fastidiousness, but 
+
+}
+[sha:a6d0f3f8109f6e82bd0367636c56d42340f9743d]{
+-- Page 23, Offset 8500.
+-- こう見えて久遠寺有珠は負けず嫌いらしい。
+  despite her prim demeanor, Alice Kuonji was a sore loser.
+
+}
+[sha:6fc5f955d19206b1b4c53e9dd5cc597f4d6dd355]{
+-- Page 23, Offset 8501.
+-- 魔術の優劣などどうでもいいが、ゲームに負けた事が今も不満で仕方がないのだ。
+  It did not matter to her whose magecraft was superior. Losing the game had proven hard to move on from.
+
+}
+[sha:d690a97fbeb023bb7505a7c47d07f1c6daa299bb]{
+-- Page 24, Offset 8502.
+-- シュタ、と翼をあげて同意する小鳥。
+  The little bird fluttered its wings in agreement.
+
+}
+[sha:81371f5f13d4f695d873270f87038de00ebd3a35]{
+-- Page 24, Offset 8503.
+-- 有珠の嫌悪感を汲んで、<草十郎|がいてき>を打ちのめさんとやる気に満ちている。
+  Drinking in Alice's contempt, it was itching to dive-bomb the invader.
+
+}
+[sha:4924b64a693b05976913297318151a2a71268465]{
+-- Page 24, Offset 8504.
+-- その<羽繕|はづくろ>いは、上官に<敬礼|けいれい>する仕草に見えなくもない。
+  It looked like a soldier saluting a superior officer as it preened itself.
+
+}
+[sha:74e9ab05184a0035f494303f5083125a85427660]{
+-- Page 25, Offset 8505.
+-- かくして、青い小鳥は主人に向き直る。
+  The blue bird turned to face its master.
+
+}
+[sha:887e8f64a03e0f76888fc67a338eb53b6f94ba2d]{
+-- Page 25, Offset 8506.
+-- チチチ、チチチ。
+  Tweet tweet tweet, tweet tweet tweet.
+
+}
+[sha:14866c0675f72c8e9a4b5a6b3dc07d7950ef61bc]{
+-- Page 25, Offset 8507.
+-- 軽快な鳴き声は、明日の朝一番で<草十郎|アイツ>をヤりましょう、と宣言するかのようだ。
+  Its lighthearted tweeting seemed to display a desire to deal with Soujyuro first thing in the morning.
+
+}
+[sha:b891a13a9f9484f76e1a48f62384212f87149d5f]{
+-- Page 26, Offset 8508.
+-- 「…………そうね。理由さえできたのなら、瓶なり本なりに入ってもらいましょう」
+"...Indeed. If he gives us a reason, let us put him in a bottle, or perhaps a book."
+
+}
+[sha:9697e9f74645ca1262425675e2dab5904a4b09b8]{
+-- Page 26, Offset 8509.
+-- だが、少女の声には張りがなかった。
+  Except, her words lacked any bite.
+
+}
+[sha:889dfac10904793a010860190c13881ab83468bd]{
+-- Page 26, Offset 8510.
+-- 魔女らしい、容赦のない台詞だったが、よくよく考えてみれば<生温|なまぬる>いコトこの上ない。コマドリ的に。
+  On the face of it, they were the chilling kind one might come to expect from a witch's lips, but then again so tame as to remind you of a certain robin's flapping.
+
+}
+[sha:4b7cd658a540fc2ac2a9a5b4ab1d2b2455398c6d]{
+-- Page 27, Offset 8511.
+-- 「しばらくの話よ。けど、それも<一時|いっとき>だけ。わたしの我慢も長くは続かないし。
+"It's only a matter of time, and there's not very much at that. My patience has its limits.
+
+}
+[sha:1be4294439a5f798f0d551f532a31151a7123c56]{
+-- Page 27, Offset 8512.
+-- ……だいたい、青子も人にかまけていられる立場じゃないわ。五日もすれば思い知るでしょう。そうすれば―――」
+  Aoko is in no position to dote on others in the first place. I give her five days. And then..."
+
+}
+[sha:a0fdc90f8779c99ce58755e93bbd7dd106fdcde7]{
+-- Page 28, Offset 8513.
+-- その時こそ、彼を<排斥|はいせき>するのは<容易|たやす>い。
+  When that time came, expelling him would be simple.
+
+}
+[sha:af53563b7ad517cfcc472c44be8112a9be872b94]{
+-- Page 28, Offset 8514.
+-- 同居人が夢のない合理主義者である事を、有珠はよく分かっている。
+  Alice was well aware her roommate was a pragmatist with no vision.
+
+}
+[sha:cf552ee4738d795fc7cc9e0b417181b2bca020af]{
+-- Page 29, Offset 8515.
+-- 青子の置かれた状況は、いつまでもあんな余分を許しはしない。
+  The situation she'd created would not allow her to wait around.
+
+}
+[sha:e47bd604114e4709b0108a18647b89b434d83607]{
+-- Page 29, Offset 8516.
+-- あの少年の保護に割り当てる<時間|よゆう>は、せいぜい三日から四日ほど。
+  She could only afford to protect that boy for three or four days at most.
+
+}
+[sha:0eddc74acfcb9df804cf43a1627a8a447fc3c83b]{
+-- Page 29, Offset 8517.
+-- それを過ぎれば青子の方から“あとは有珠の判断に任せる”と折れるだろう。
+  Beyond that, Alice sensed Aoko would crack and say something like, "You take care of this, Alice."
+
+}
+[sha:57a88e9e7f997f60e678daa848d9e7cc7d7a7d14]{
+-- Page 30, Offset 8518.
+-- 「それまで待つか、あるいはわたしの我慢がきかなくなるか。
+"Will I wait until then, or will I lose my patience first?
+
+}
+[sha:f7c3b468d8a23c0c7b162571b135c93c0a8de557]{
+-- Page 30, Offset 8519.
+-- どちらにしても結果は変わらないわ」
+  Whichever comes first, the end result will be the same."
+
+}
+[sha:dff3c8527563b2072e4d2ce3548f721499df4241]{
+-- Page 30, Offset 8520.
+-- 久遠寺有珠はこれ以上の厄介事を許さない。
+  Alice Kuonji would suffer no more irritations.
+
+}
+[sha:1e9bc4ad9aca81388130f8cd02cfe60b21dce24c]{
+-- Page 30, Offset 8521.
+-- 目撃者の保護や、まして、この洋館に住まわせるなんてもってのほかで―――
+  And protecting a witness, let alone allowing them to live in her mansion, was an *indignity*.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 31, Offset 8522.
+-- 「………………」
+"..."
+
+}
+[sha:5548642849fd1198b65f4a5a39ca4291c8b6a244]{
+-- Page 31, Offset 8523.
+-- <漏|も>れだした<濃霧|のうむ>に引かれるよう、有珠は視線を上げた。
+  Alice looked up, fascinated by the dense fog that had crawled into the foyer.
+
+}
+[sha:00e4300c00bad9afb261b34973f2757395f1ace0]{
+-- Page 31, Offset 8524.
+-- 暖炉の上には一枚の鏡がある。
+  Above the fireplace was a single mirror.
+
+}
+[sha:64bef3fa48c87ddadfc39e2bd64e80082b2a474c]{
+-- Page 32, Offset 8525.
+-- 本来なら絵画が飾られるだろう壁には、直径一メートルほどの鏡。
+  Roughly three feet in diameter, it decorated the wall where one might find a painting.
+
+}
+[sha:ec9e25b55d43e27ea06a456133788040510f1543]{
+-- Page 32, Offset 8526.
+-- 鏡の表面はぼんやりと<曇|くも>り、ロビーの様子を<曖昧|あいまい>に映している。
+  Its surface was faintly clouded, and vaguely reflected the foyer's appearance.
+
+}
+[sha:380b3c0d4dda1e19bc03cfad3da56c2a6c17c9a9]{
+-- Page 33, Offset 8527.
+-- 「……スナークを<喪|な>くした影響でしょうね。
+"This is what I get for losing the Snark.
+
+}
+[sha:1f9eee80e49c9e1b3aed00de23c182cd4fb818d4]{
+-- Page 33, Offset 8528.
+-- 鏡の機能、しばらくは制御できないみたい」
+  I suppose that means the mirror is out of commission for the time being."
+
+}
+[sha:87c4e6175c22cf9b578983254c67ecd2ca7edc29]{
+-- Page 33, Offset 8529.
+-- 主人の呟きに、小鳥は喜びの<鳴|こえ>をあげた。
+  The little bird joyfully chirped at its master's mumbling.
+
+}
+[sha:5b65d263767fffe04423137e4066f6c01bc2a03d]{
+-- Page 33, Offset 8530.
+-- それなら自分たちが手を下すまでもなく、邪魔者は鏡に落ちて退場すると。
+  The bird attempted to imply that there was no need for her to lift a finger, not if the nuisance would fall into the mirror of his own accord.
+
+}
+[sha:4c20e4b16fe914304d7cfee4061874c217aafdcc]{
+-- Page 34, Offset 8531.
+-- ……あるいは。
+  Or perhaps...
+
+}
+[sha:efc9dfa16325b2719e7a12f94f7cac45a70abad6]{
+-- Page 34, Offset 8532.
+-- この小鳥さえそんな鳴き声をあげなければ、有珠も同じ意見だっただろう。
+  Had the little bird had not sang, Alice would have come to the same conclusion.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 35, Offset 8533.
+-- 「………………」
+"..."
+
+}
+[sha:5d9acb477e599947e00e9353124cf696dcf3c38c]{
+-- Page 35, Offset 8534.
+-- 少女はなんとなしに、先ほどの会話を思い出した。
+  For some reason, she recalled an earlier conversation.
+
+}
+[sha:eb3708cc532d0bebd827b7a26adb80ba85ce19bc]{
+-- Page 36, Offset 8535.
+-- “これでも一番、無難だと思う？”
+"How about now? Still think this is the safest option?"
+
+}
+[sha:389471e64162e315b03f49df21d8572b3c149349]{
+-- Page 36, Offset 8536.
+-- そう問うた少女に、小瓶の中の少年は肩をすくめながら答えた。
+  In response to her question, the boy inside the bottle shrugged his shoulders and answered.
+
+}
+[sha:471ce3d21033d5ccb49ba7ecc977cd3920fe6e85]{
+-- Page 37, Offset 8537.
+-- 自分にとっては町も<洋|こ><館|こ>も変わらない、と。
+  From his perspective, the city and the mansion were no different.
+
+}
+[sha:d3e577f33dd61a5ad1cfee5c5ef9b0df6a18567a]{
+-- Page 37, Offset 8538.
+-- なんでも、田舎から出てきたばかりの彼にすれば、あらゆるものが“見たこともないもの”なのだそうだ。
+  It seemed that having just moved from the countryside, everything was "something he had never seen before."
+
+}
+[sha:3b86b050265e4937202fde7e430c3df43155a267]{
+-- Page 38, Offset 8539.
+-- 『自慢できるコトじゃないが、まだ書き物さえ満足にできないし、都会のルールは複雑すぎて、何が正しいのかさえ区別がつかない』
+"I'm not proud of it, but I still have trouble writing, and the city rules are so complicated that I don't even know right from wrong."
+
+}
+[sha:d8a1c5c2013faa5adc33b3880323b9d4cc918358]{
+-- Page 38, Offset 8540.
+-- ……あれは恥ずかしさより、<憤|いきどお>りに満ちた声だった。
+  More than embarrassment, his voice was full of resentment.
+
+}
+[sha:1387215e238072e41bb66994f1d5dec6e99e8c19]{
+-- Page 38, Offset 8541.
+-- 彼が何に対して怒っているのか、有珠には読み取れない。
+  He was angry about something, though Alice could not tell what.
+
+}
+[sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
+-- Page 38, Offset 8542.
+-- ただ、
+  However...
+
+}
+[sha:964d844c11fba823f250be7e74fc574c183510c9]{
+-- Page 39, Offset 8543.
+-- 『だから、どこにいても危ない事に変わりはないんだ。
+"That's why no matter where I go I'm always in danger.
+
+}
+[sha:fca6a2cb18ee90967a9e586a253cd76f92d59440]{
+-- Page 39, Offset 8544.
+-- 極端な話、道を歩くだけでも、人と話すだけでも不安になる。俺は、どこでだろうと上手くやっていける保証はないんだよ。
+  It may be an exaggeration, but even walking down the street, or talking to someone makes me anxious. No matter where I am, there's no guarantee I'll make it out.
+
+}
+[sha:e52916a0790a4f3c458d3fe307828e8bb345f578]{
+-- Page 39, Offset 8545.
+-- けど、ここにはそんなヤツに気を遣ってくれる人がいる。気遣ってくれる理由は物騒なものっぽいけど、それは本当に、贅沢なコトだと思うんだ』
+  But here, there's someone that might show concern for a person like me. Sure, my reasoning is a little messed up, but I've never known such luxury."
+
+}
+[sha:38665207d1c1beb37ecbdfe599170f0a5b40d26a]{
+-- Page 40, Offset 8546.
+-- ……少女の瞳がわずかに曇る。
+  Her eyes welled up ever so slightly.
+
+}
+[sha:60d6a7e97c7487a5df74e6041b4f878a437dfb6f]{
+-- Page 40, Offset 8547.
+-- 静かにこぼれたあの言葉は、無視できるものではなかった。
+  Those soft words were something she could not brush off,
+
+}
+[sha:5a6209746e8986ef5ac80debb68b38677965f6ce]{
+-- Page 40, Offset 8548.
+-- だって、きちんと筋が通っている。
+  because they made sense to her.
+
+}
+[sha:d1a85c0a7d54fea1bb5dedb063ac6b40825ae82d]{
+-- Page 40, Offset 8549.
+-- 彼にとって都会はどこであろうと危険なら、この洋館ですら“何も”変わらないのだ。
+  Given that everything in the city was a danger to him, nothing had changed after coming to the mansion.
+
+}
+[sha:da900727c390e5d8eeb0c2846b12bbc7341de47a]{
+-- Page 41, Offset 8550.
+-- 本当に、この洋館を恐れるだけの理由がない。
+  In reality, he had no reason to fear this place in particular;
+
+}
+[sha:bbc53a7514ada17046b02518c0b5768adbfffaa7]{
+-- Page 41, Offset 8551.
+-- 外との違いがあるとしたら、それは味方になってくれる誰かがいるかいないかという点だけ。
+  if anything was different from the outside, it would be that someone here was his ally.
+
+}
+[sha:b62c8c0dad37592c7fa62c0fc9aaf466275fd37c]{
+-- Page 42, Offset 8552.
+-- その説でいけば、彼は何ひとつ嘘を言っていない。
+  With that view, he had been entirely sincere.
+
+}
+[sha:1a494cdd45fff73f1f8b5d5440ac77ac181f2f41]{
+-- Page 42, Offset 8553. Mods: @n.
+-- 久遠寺有珠へのご機嫌とりでもなく、
+  His explanation hadn't contained any flattery towards Alice Kuonji,
+
+}
+[sha:8b83a58d43e23663be315e1873e774065dd34529]{
+-- Page 42, Offset 8554. Glued.
+-- 蒼崎青子に頼ろうとしたのでもなく。
+  mor pandering to Aoko Aozaki.
+
+}
+[sha:fe3e0734f594aadd6ee8acb92f940c10335bd62d]{
+-- Page 42, Offset 8555.
+-- 心から、『ここがいい』と告げたのだ。
+  He was simply speaking from the heart: "I like it here."
+
+}
+[sha:1e85bec67f169c7f4c9a493c69b9fed9a0993ecb]{
+-- Page 43, Offset 8556.
+-- 「……いま、鏡に迷いこまれるのは迷惑ね。
+"Perhaps having him wander into the mirror is more trouble than it's worth right now.
+
+}
+[sha:ddf6893b73ab50483b1fb1159621e0103853fdd4]{
+-- Page 43, Offset 8557.
+-- 鏡の機能は侵入者の探索に専念させたいし、彼が迷いこみそうになったら止めてあげて」
+  I want to dedicate the mirror's function to searching for intruders, so if it looks like he's going to be swallowed up by it, do stop him, will you?"
+
+}
+[sha:18a09427f487fe05b72fbe6047c7d2b013fb3d82]{
+-- Page 43, Offset 8558.
+-- 予想外の言葉に小鳥の羽が震える。
+  The bird shook its feathers at her strange instruction.
+
+}
+[sha:3e3f25f3127bdfbd20b8481086b3cffb3c84cfb4]{
+-- Page 43, Offset 8559.
+-- 少女は鏡から視線を逸らして歩きだした。
+  Alice looked away from the mirror and continued her walk.
+
+}
+[sha:1a10ce590b7f010206ec2427b9b413a13464b161]{
+-- Page 44, Offset 8560.
+-- 抗議の<鳴|こえ>をあげる小鳥。
+  The bird chirped in protest.
+
+}
+[sha:67717feb03cddb338590aed5c0d505d87d240e81]{
+-- Page 44, Offset 8561.
+-- 「貴方の仕事よロビン。それぐらいの役には立って」
+"It is your job, Robin. At least get that right, would you?"
+
+}
+[sha:911ac0d561eeb2681e7b6a9b80129232450a5d71]{
+-- Page 44, Offset 8562.
+-- それに冷たい言葉を返して、少女は西館に消えていった。
+  Leaving the bird with that icy retort, she vanished into the west wing.
+
+}
+[sha:ec52cd0105bd3fab4c05e07e8227d0f7f000f5fd]{
+-- Page 45, Offset 8563.
+-- 後に残されたのは月の明かりと、
+  All that remained was the moonlight,
+
+}
+[sha:825f8df15a27d72c0cfffcf9afd466bd4353c7e4]{
+-- Page 45, Offset 8564.
+-- かつてない変化の予兆に激震する、青い小鳥だけだった。
+  and the little blue bird, trembling at an perilous prospect of unprecedented change.
+
+}

@@ -1,0 +1,402 @@
+[sha:f745a5dbff3d0cedd2cd17dbed838fe2c07d9891]{
+-- Page 0, Offset 23757.
+-- 「だめ、根拠が薄い……
+"It's no use. There's not enough evidence...
+
+}
+[sha:ab9f823f994f74fbfc8d5c3beac156c58a3971c6]{
+-- Page 0, Offset 23758.
+-- これで指摘したら、わたしがアウトだ……」
+  If I guess wrong, I'm done for..."
+
+}
+[sha:1ad4848ecd57b65a109929f683d8c8b4d1245be4]{
+-- Page 1, Offset 23759.
+-- 犯人を特定できない。
+  I didn't know who the killer was.
+
+}
+[sha:5692e091588032b2d17684f2f8b8619faea2b7e2]{
+-- Page 1, Offset 23760.
+-- もう洋館にはわたしと真犯人しかいない。
+  But we were the only ones left in the mansion.
+
+}
+[sha:04122f7d887f8810bd49278d748b061561b89c7a]{
+-- Page 1, Offset 23761.
+-- 当てずっぽうで指名して、わたしが消えてしまったらすべてが終わってしまうのだ。
+  If I made a random guess and ended up being eliminated, I was finished.
+
+}
+[sha:d8756b7c9f22a65c1a65183e0e3fbd4e063ab4ea]{
+-- Page 1, Offset 23762.
+-- そんなコトになるのなら、このまま逃げ切ってゲームクリアを目指した方がよっぽど現実、的だ―――？
+  In that case, maybe I should just make a run for it, and win the game that way...?
+
+}
+[sha:09eded2a4debd4ff309d7b2a3088efabcf3b1068]{
+-- Page 2, Offset 23763.
+-- 「―――あなた、は―――」
+"You..."
+
+}
+[sha:84df13a5d4fb97cd01de21894e8703d4bbcf79c3]{
+-- Page 2, Offset 23764.
+-- わたしの背後に忍び寄っていた影。
+  A shadowy figure crept up behind me.
+
+}
+[sha:ce30706ebe398c4da926435e61dc901b15c7ac50]{
+-- Page 2, Offset 23765.
+-- そいつは朝の挨拶をするように「やあ」と手を挙げて、
+  It raised its hand as if to say hello.
+
+}
+[sha:6c0a9f0221c2559abe6047c8bed1cd015d25a424]{
+-- Page 3, Offset 23766. Mods: @n.
+-- 「ワ
+"I
+
+}
+[sha:1373e80eff1d4ac20d213efffbb7383aded37066]{
+-- Page 3, Offset 23767. Glued. Mods: @n.
+-- レ
+ AlieN
+
+}
+[sha:16faef19bd38f7b68a22db007b749292970cddf1]{
+-- Page 3, Offset 23768. Glued. Mods: @n.
+-- ワ
+ An
+
+}
+[sha:1373e80eff1d4ac20d213efffbb7383aded37066]{
+-- Page 3, Offset 23769. Glued. Mods: @n.
+-- レ
+ AlieN
+
+}
+[sha:5ac47ee7eb113318741887da627935e3ba1fc091]{
+-- Page 3, Offset 23770. Glued. Mods: @n.
+-- ハ
+ FrOM
+
+}
+[sha:d47fb4dcc2d888814b5948bfa5d77a5c2e590f78]{
+-- Page 3, Offset 23771. Glued. Mods: @n.
+-- 宇
+ OuTeR
+
+}
+[sha:f37dc34a29dbd557850662b7624c01ba3e8ccf45]{
+-- Page 3, Offset 23772. Glued. Mods: @n.
+-- 宙
+ SpAcE,
+
+}
+[sha:83b3c280b10a057f11bc431a61d1051ed9d6fa04]{
+-- Page 3, Offset 23773. Glued. Mods: @n.
+-- 人
+ EarTH
+
+}
+[sha:925d2355a53cf654d12b886b9b84189e8cafc425]{
+-- Page 3, Offset 23774. Glued.
+-- ダ」
+ MarTIAnS."
+
+}
+[sha:7922233f85a105683b8625799e47bc9bc4c95a0f]{
+-- Page 3, Offset 23775.
+-- 「ぶっ……！」
+"Pfft!"
+
+}
+[sha:07362929b4d07d38d417cac1f6932bb6c210e819]{
+-- Page 3, Offset 23776.
+-- あまりにも原始的、かつ直接的な手段で、わたしの感性を揺らしやがった。
+  The primitive directness of his greeting caught me off guard.
+
+}
+[sha:db474ece257aa4c7c7a6983b9368db060c26da4c]{
+-- Page 4, Offset 23777.
+-- 「静希……！　あ、あんたが犯人だったの……！？」
+"Sizuki?! You're the killer?!"
+
+}
+[sha:bd5c47543919b36c4f8728e4b414bd77bdec3634]{
+-- Page 4, Offset 23778. Mods: @n.
+-- 「ソウダ。
+"YeS.
+
+}
+[sha:bf09a5dea244afda8e93dcc7b142e418d4ceb0ef]{
+-- Page 4, Offset 23779. Glued. Mods: @n.
+-- ワレワレハ
+ wE
+
+}
+[sha:7a6752e6b99cb885097e60b2370afc6908dea92b]{
+-- Page 4, Offset 23780. Glued. Mods: @n.
+-- ヤッタゼ
+ We DId It.
+
+}
+[sha:9cef349ee599c5a8270600179244b209fab7245f]{
+-- Page 4, Offset 23781. Glued.
+-- ヤッタゼ」
+ WE DiD iT."
+
+}
+[sha:373e69bdebc08749367fd2e34b8e80efe1a8e619]{
+-- Page 4, Offset 23782.
+-- 「いや、その演技はいいから」
+"You can cut that voice out now."
+
+}
+[sha:ccf813348baf9ca7f83308e920b486e526301fe8]{
+-- Page 5, Offset 23783.
+-- 手足のしびれを気合いで押さえ込んで、間抜けメガネにツッコミを入れる。
+  I struggled to inject calm into my voice, and to keep my arms and legs from shaking.
+
+}
+[sha:26962bb02ee8274f8f67f1104de76c03dbdc4f09]{
+-- Page 5, Offset 23784.
+-- 確かにアレは凄い。
+  That voice really was something.
+
+}
+[sha:be9fc7ef4ad0d0847f73c615dd6cf8c38e1bcfda]{
+-- Page 5, Offset 23785.
+-- ここに至ってＷＨＷへの疑問より、あのしゃべり方をやめさせる方を優先させるぐらいなんだから。
+  So much that I was more concerned with making it stop than whodunits or howdunits.
+
+}
+[sha:dfd942049567186b02b0debc4b281f63795ffbf1]{
+-- Page 6, Offset 23786. Mods: @n.
+-- 「――――
+"...
+
+}
+[sha:bf09a5dea244afda8e93dcc7b142e418d4ceb0ef]{
+-- Page 6, Offset 23787. Glued. Mods: @n.
+-- ワレワレハ
+ wE
+
+}
+[sha:ecd4c7b084bd008c313191bdadca4026e9348cf0]{
+-- Page 6, Offset 23788. Glued. Mods: @n.
+-- 火星人
+ aRe
+
+}
+[sha:925d2355a53cf654d12b886b9b84189e8cafc425]{
+-- Page 6, Offset 23789. Glued.
+-- ダ」
+ MarTIAnS."
+
+}
+[sha:744aef8630f3f08d90c50de9c106a065b62cbcfe]{
+-- Page 6, Offset 23790.
+-- 「そういう話でもなくて。
+"I don't care.
+
+}
+[sha:4c3d9a8015400ad426528a58afb36172540d02aa]{
+-- Page 6, Offset 23791. Glued. Mods: @x.
+-- いいからまじめに話せバカ。
+Just explain what's going on already.
+
+}
+[sha:630ee0f0f1edf24ed60f036fc0b6020dcc6db8f1]{
+-- Page 6, Offset 23792.
+-- わたし、笑っちゃったからもうすぐ死ぬのよ。せめて最期に、どうしてこうなったのかをブチまけて」
+  I already laughed, so I'm going to die. I'd at least like to know what's going on before I do."
+
+}
+[sha:ed570247a01de08bdb42466f643a6f4b72cad128]{
+-- Page 7, Offset 23793.
+-- 「すまないが、それは説明できない。
+"Sorry, but I can't do that.
+
+}
+[sha:4cff3606822da015d156dc0f43004bd58d3e24ca]{
+-- Page 7, Offset 23794.
+-- 俺が話せるのは俺の事情だけだからだ」
+  I can only discuss my own situation."
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 7, Offset 23795.
+-- 「？」
+"?"
+
+}
+[sha:c457e2ffd61bbde1d65147b88bad74a250a38459]{
+-- Page 7, Offset 23796.
+-- それはどういう意味だったのか。
+  What was that supposed to mean?
+
+}
+[sha:ff4611c676ea1c1c497e1cd71c8497cf02ba46f1]{
+-- Page 7, Offset 23797.
+-- 静希が話せるのは静希の理由だけ。
+  Sizuki could only talk about himself.
+
+}
+[sha:22f72426a7e2450f194be02d25423286a84a4773]{
+-- Page 7, Offset 23798.
+-- それは、つまり―――静希の他に―――
+  Does that mean... there was someone else...?
+
+}
+[sha:b683ec54b34201d418b3046912bf3db7b7f1a511]{
+-- Page 8, Offset 23799.
+-- 「久万梨。君に分かるだろうか。
+"You've got to understand, Kumari.
+
+}
+[sha:d3337d229c70b31ef026676b3423f5207be8e148]{
+-- Page 8, Offset 23800.
+-- 一年間、ひたすら“冗談のセンスがない”と言われ続けた男の気持ちが。
+  Can you imagine a whole year of being picked on again and again for having no sense of humor?
+
+}
+[sha:2837bc9acf489a48ae8c09a8528fde9ea8733e6c]{
+-- Page 8, Offset 23801.
+-- パーティーを盛り上げようと勇気を振り絞るたびに、お呼びじゃない、と突っ返される男の気持ちが」
+  How it feels for a man to muster up the courage to liven the party mood, only to be shot down?"
+
+}
+[sha:e990a8ee682314f444b20794dc08a9fef84a9671]{
+-- Page 8, Offset 23802.
+-- 「よし分かった、ブン殴る」
+"I know how it feels to want to punch you right now."
+
+}
+[sha:ff8aa4631fd2ea5b5948f7ba4fa27a7affba9cdc]{
+-- Page 9, Offset 23803.
+-- もう真剣に考えたくもないが、コイツの動機は“冗談センスの証明”だった。
+  I didn't even want to think about this anymore, but did he seriously do all this to prove he has a sense of humor?
+
+}
+[sha:d9428b44fa1c91af77f278a97fbca80e048a5bea]{
+-- Page 9, Offset 23804.
+-- あの鼻メガネの段階で証明は失敗しているが、とにかく、この男はそんな理由で真犯人に手を貸していたのだっ！
+  I'd say he failed the moment he put on that ridiculous disguise, but was that any reason to help a murderer?!
+
+}
+[sha:85152a18049e7048fbd6700a09d839ae73b19642]{
+-- Page 10, Offset 23805.
+-- 「でも、それで笑うのは蒼崎と久遠寺さんぐらいよ。
+"The only people who'd laugh at something like that are Aozaki and Miss Kuonji.
+
+}
+[sha:483fe0be1c375aea09fea83792bf5027e382d5a8]{
+-- Page 10, Offset 23806.
+-- そんな一発芸で笑う文明人が、他にいるハズがない」
+  No one else on this planet would."
+
+}
+[sha:5494868530ce803bc1f1cb4eaa14826e854da67b]{
+-- Page 10, Offset 23807.
+-- 「いや、でも、久万梨は」
+"No one but you."
+
+}
+[sha:380997ad026186684c8f16d45909e7207099f5f0]{
+-- Page 10, Offset 23808.
+-- 「ほんっとにブン殴るわよ」
+"Oh, I'm gonna hit you."
+
+}
+[sha:30bd739050de6fbbbf988edb53a352c16920649a]{
+-- Page 10, Offset 23809.
+-- 「ごめんなさい、なんでもないです」
+"I'm sorry. Never mind."
+
+}
+[sha:0ddb1048ee9cc12e12f477963fc3e6570d4f84c8]{
+-- Page 11, Offset 23810.
+-- 「……あれでしょ。
+"So...
+
+}
+[sha:630f6139149d31e014d00d27c7953be85f6cfb25]{
+-- Page 11, Offset 23811.
+-- 槻司たちを笑わせたのは、蒼崎の写真でしょ？」
+  ...it was Aozaki's photo that made Tsukiji and the others laugh, wasn't it?"
+
+}
+[sha:b39cab8cfc2836d569f2187b49f3a5ec59543fa7]{
+-- Page 11, Offset 23812.
+-- 「そうだ。あれこそ切り札だ。
+"Yeah. That was the ace up my sleeve.
+
+}
+[sha:e51f69bb830c93c94a15840a273b7d91c87f8f0d]{
+-- Page 11, Offset 23813.
+-- 同時に、それは俺への報酬でもある」
+  And a treat for me, too."
+
+}
+[sha:8d168abcf7711e9c3ac06d8d1a0982507cce0dd6]{
+-- Page 12, Offset 23814.
+-- あの写真。蒼崎の痴態を撮ったアレなら、蒼崎を知っている男連中は笑ってしまう。
+  Any of the guys who knew Aozaki would laugh at that picture of her.
+
+}
+[sha:bede6d82df0f4faee2efd7f1d6b397a036ce8a3c]{
+-- Page 12, Offset 23815.
+-- とくに山城先生と槻司、詠梨神父にとってはガード不能の攻撃だったに違いない。
+  Particularly Mr. Yamasiro, Tsukiji, and Father Eiri.
+
+}
+[sha:7f5f132d589357dc95e3e3d91c04a0529e85a2d8]{
+-- Page 12, Offset 23816.
+-- 「つまり、犯人は―――」
+"So that means the killer must be..."
+
+}
+[sha:45d584c55d2392f48c5ed588f116a5f28ad3b981]{
+-- Page 12, Offset 23817.
+-- 口にしようとした喉が、ざらりと崩れ去る。
+  I tried to speak, but the words didn't come out.
+
+}
+[sha:41729a6da4fa79305b7238e474897433d213cab9]{
+-- Page 13, Offset 23818.
+-- すべてはスイーツハーツの思惑通り。
+  I'd played right into Sweets Hearts's hands.
+
+}
+[sha:d0a119088d69673ed499d6a3c2991f66ca5b0495]{
+-- Page 13, Offset 23819.
+-- 犯人である静希は最後まで残り、犯人当ては失敗し、わたしはここで真っ白になる。
+  The killer-Sizuki-was the last person left standing, while I'd failed to guess correctly and just stood here, mind blank.
+
+}
+[sha:6e6470501f4f5beb676d3fd20e791104ea0d0a56]{
+-- Page 14, Offset 23820.
+-- ―――あともう一歩。
+  I was just one step away...
+
+}
+[sha:73095c421e3a8e179fb0707dd4f7407046eb9d54]{
+-- Page 14, Offset 23821.
+-- あともう少しで元凶にたどり着いたのに。
+  I'd almost figured it all out.
+
+}
+[sha:1cfba78ffda9532421d31083772961587d29f51e]{
+-- Page 14, Offset 23822.
+-- 夕方からこっち、もっとまじめに、
+  If I'd just focused more in the evening...
+
+}
+[sha:e2270bfc3b40fb5e8877c3d306687224f43f1dad]{
+-- Page 14, Offset 23823.
+-- 正しい推理を重ねていれば―――
+  ...and thought it through a bit more...
+
+}

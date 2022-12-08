@@ -1,0 +1,624 @@
+[sha:3659df9d31bb0ea08cc37c05f4c3270f0e0f2f6a]{
+-- Page 0, Offset 6696.
+-- かくして、遊園地は遠き日の輝きを取り戻した。
+  Faded glory returned to Kitsy Land.
+
+}
+[sha:dddcd6a326a66ca11ed8623d6946cf1be022096d]{
+-- Page 0, Offset 6697.
+-- 夜を照らす無数の電飾。
+  The neon glow of innumerable lights illuminated the night.
+
+}
+[sha:659bc4f4c59845e178cf08f4bb5eb7cdeb23241e]{
+-- Page 0, Offset 6698.
+-- スピーカーから流れるレコードの音。
+  Speakers filled the air with the sound of vinyl music.
+
+}
+[sha:bfc28242e0427ca84644b9d5ac218865234fe47b]{
+-- Page 0, Offset 6699.
+-- くるくると回りだす大小のゴーラウンド。
+  Merry-go-rounds, small and large, whirled round and round.
+
+}
+[sha:091cd501e6a270426e575bae07e61c5e3ef7d21c]{
+-- Page 1, Offset 6700.
+-- ……言うまでもなく、すべてあり得ない光景だ。
+  All in all, it made for a mind-bending spectacle.
+
+}
+[sha:7c5afea4d142e05756d90469ecd49330a446c1c8]{
+-- Page 1, Offset 6701.
+-- 魔力を電流に変換して施設を動かす、というのも錬金術なら可能だろう。
+  It was certainly possible to power the facilities by transmuting magical energy into electricity via alchemy.
+
+}
+[sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
+-- Page 1, Offset 6702.
+-- ―――だが。
+  That said...
+
+}
+[sha:1d08e86e051d11eba24369de190129267431f29f]{
+-- Page 1, Offset 6703.
+-- 仮に電気が供給されたとしても、壊れたものは蘇らない。
+  Simply supplying the park with electricity would not have brought back to life that which was broken.
+
+}
+[sha:7e809c68c11db03b379eb8002c178f62a40ec70a]{
+-- Page 1, Offset 6704.
+-- 少女が調合しているものは化学式ではなく、摂理を<融|と>かす魔女の鍋に他ならない。
+  The young woman did this not by mixing chemicals into a compound, but by melting down divine providence into a witch's brew.
+
+}
+[sha:5337ea7946df14dce937b38f415c778ff5c81b1d]{
+-- Page 2, Offset 6705.
+-- “……まずいわね。有珠のプロイは何個か見てきたけど、今回のはケタが違う―――”
+(...This is bad. I've seen her Ploys, and this one is something completely new.)
+
+}
+[sha:a080ecc63a011dc467075aa3c0222271e93daf3d]{
+-- Page 2, Offset 6706.
+-- 「――――<接続|セット>」
+"...<Connecting.|Set.>"
+
+}
+[sha:da365c342fe945c967f5deaf2e421ddb97367faf]{
+-- Page 2, Offset 6707.
+-- 不安を押し殺し、青子は右腕の刻印に火をいれる。
+  Stifling her anxiety, Aoko fired up the crest on her right arm.
+
+}
+[sha:3961aafdc6c9beba7f8a9f27ced1d99126c74633]{
+-- Page 3, Offset 6708. Mods: @n.
+-- 魔術回路が魔術師の<基|エ><本|ン><性|ジ><能|ン>なら、
+  If Magic Circuits were a mage's engine,
+
+}
+[sha:3d745aee44ce8ce1ccecc1661212669ffdb11f32]{
+-- Page 3, Offset 6709. Glued.
+-- 刻印は魔術行使を補助する<演算装置|ソフトウェア>だ。
+  then their crest was software that assisted their magecraft.
+
+}
+[sha:635d9dbe2649fd9a65f466189077ff7e6095f063]{
+-- Page 3, Offset 6710.
+-- 魔術師として半人前の青子を助ける切り札。
+  For the fledgling mage Aoko, this was her trump card.
+
+}
+[sha:3a3cbc896294b71ab861385abe0a157d07940d00]{
+-- Page 3, Offset 6711.
+-- 刻印化された術式なら魔力を通すだけで……その効能は劣化するにしても……再現できる、蒼崎の後継者の証である。
+  All she had to do was supply magical energy to her crest-based formula. It may not have been the strongest magecraft, but it was hers; proof that she was the successor of the Aozaki lineage.
+
+}
+[sha:fede538ce3c4c4731ed3e4e351350f6b44180aba]{
+-- Page 4, Offset 6712.
+-- 「―――行使二層、直流数紋」
+"Execute double layer. Direct current to crest."
+
+}
+[sha:e26dcafe1f9463446716540773b8e90509e19034]{
+-- Page 4, Offset 6713.
+-- 刻印の紋様を術式再現のカタチに切り替え、自身の魔力回路に繋ぐ。
+  The pattern of her crest shifted to execute the formula, which then connected to her Magic Circuits.
+
+}
+[sha:5e64b2fee6b4e0276bec5132024c128266eb1efe]{
+-- Page 4, Offset 6714.
+-- 列車の<路線変更|レールチェンジ>じみた、何十という回路の<形成|パズル>。
+  The process resembled trains changing rails, a puzzle involving dozens of circuits.
+
+}
+[sha:b6bca0fe10fc41778fabc602646e9f15dec1d414]{
+-- Page 4, Offset 6715.
+-- それをできるだけ迅速に、可能な限り丁寧に組みたてる。
+  She constructed it as swiftly as possible without sacrificing the quality of its construction.
+
+}
+[sha:66cf3142cf154f0f94e56aa3dbe7a21413aa0197]{
+-- Page 5, Offset 6716.
+-- <無詠唱|そくせき>の魔術では久遠寺有珠に届かない。
+  Instant magecraft cast without an incantation would not be enough to reach Alice Kuonji.
+
+}
+[sha:45dde5a17b00c37681de69b0f05e50f4fec19c6d]{
+-- Page 5, Offset 6717.
+-- 先の魔弾で有珠を守る防壁の強度は<測|はか>った。
+  Aoko had gauged the strength of Alice's defense with her initial shots.
+
+}
+[sha:8e7e12b8f040358278797cd4bd99b308ce2a968e]{
+-- Page 5, Offset 6718.
+-- 今度は先の五倍、二十トンの衝撃を叩きこむ。
+  She would dial up the power five times the next time, driving twenty tons of force into her target.
+
+}
+[sha:127ec028bb64950e79f4fe2a92a0ba7f5f91261e]{
+-- Page 5, Offset 6719.
+-- 漂いだした濃霧の守りと、有珠が常に<纏|まと>っている障壁。
+  Alice had the protection of the thick, hanging fog and the dense barrier around her.
+
+}
+[sha:a9e0d4f91299c0d042f40e23db999f240572fb5a]{
+-- Page 5, Offset 6720.
+-- 両方合わせても十分に貫通する。
+  However, this attack would be more than enough to pierce through both.
+
+}
+[sha:b6ece30bf44af56c623678da20b3810ee843287c]{
+-- Page 6, Offset 6721.
+-- なので、当たりどころが悪ければ胸骨が心臓に刺さってノックアウト。
+  If Aoko struck home, at best it would cave in Alice's chest and end the fight.
+
+}
+[sha:8b604b1d5ff14c725010d5ca10eb43342cfeebbd]{
+-- Page 6, Offset 6722.
+-- <最悪|さいあく>でも時計台からは撃ち落とせる、のだが―――
+  At worst, it would at least knock Alice down from her position atop the clock tower.
+
+}
+[sha:f7e83966c54f990efb3bcaa0dadf3ae2e7acb367]{
+-- Page 6, Offset 6723.
+-- 「あの、そろそろいいかな」
+"Hey, I have a question."
+
+}
+[sha:36a790fa5657378bfe3cfd8e7a9f767eda47a243]{
+-- Page 6, Offset 6724.
+-- 殺し合いモードに入った緊張感を台無しにする男がひとり。
+  As always, there was one guy who spoiled the deadly tension, pulling Aoko out of killer mode.
+
+}
+[sha:7582ea064b6b54379f6db942fc9c296485ae173c]{
+-- Page 7, Offset 6725.
+-- さっきから難しい顔で青子と有珠を交互に観察していた草十郎は、
+  Soujyuro had been looking back and forth between Aoko and Alice in confusion.
+
+}
+[sha:e1e1c6bd46d039ee2ef822f49f604c3ef0fcaa16]{
+-- Page 7, Offset 6726.
+-- 「それで、どういう話になったんだ？」
+"What's going on now?"
+
+}
+[sha:6c22a1f0f79f2495c203d6e9c6d4dab4f54f6919]{
+-- Page 7, Offset 6727. Mods: @n.
+-- 駅まではどう行くんですか？
+  He said it like he might ask
+
+}
+[sha:bef951d0a581333f52312660136c7ee992c91977]{
+-- Page 7, Offset 6728. Glued.
+-- みたいな質問を口にするのだった。
+for directions to the train station.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 8, Offset 6729.
+-- 「――――――」
+"..."
+
+}
+[sha:77c6e203f960cc6fcbad14257d7e23be1251014a]{
+-- Page 8, Offset 6730.
+-- 怒鳴り返したいところだが、こう真剣に訊かれると怒るより呆れてしまう。
+  Normally she would have lashed out screaming in response, but his entirely-serious tone shocked her more than it angered her.
+
+}
+[sha:78eeab861b5646bfa5daf64beeee76bdfcc1fb0a]{
+-- Page 8, Offset 6731.
+-- “……信じられない。慣れてきた、私……”
+"...Unbelievable. Is this my life now?"
+
+}
+[sha:723a8b2cc5e7e5b9185ddc10475af53c7481aaee]{
+-- Page 8, Offset 6732.
+-- 青子はぐっとため息を飲みこんで、刻印の起動に意識を集中する。
+  Aoko swallowed back a sigh and returned her focus to activating her crest.
+
+}
+[sha:d0ae78942afbc2118c1fdad91b70f64dc38b625e]{
+-- Page 9, Offset 6733.
+-- 「交渉は決裂。ちょっと怒らせすぎた。
+"Negotiations have broken down. I pissed her off a bit too much.
+
+}
+[sha:5279dd529b7217e3540b96909e03b3d16d2df827]{
+-- Page 9, Offset 6734.
+-- あの子から見れば、まあいい機会だし、遊園地ごと私を亡きものにしようってハラね」
+  From her perspective, this is a good chance to kill me off. Along with the entire theme park, I guess."
+
+}
+[sha:41936f6f076d4143f27641e03978562f3c861d7b]{
+-- Page 9, Offset 6735.
+-- 「？？？」
+"???"
+
+}
+[sha:cd4cd56cdbaaaaedfbbe755781c68925bc4a66ce]{
+-- Page 9, Offset 6736.
+-- もっと簡単な言い回しプリーズ、と首をかしげる草十郎。
+  Soujyuro tilted his head, as if begging for a simpler explanation.
+
+}
+[sha:1257f7f7668f4e5d2bf870b15e9c398a41c96ff0]{
+-- Page 10, Offset 6737.
+-- 「私、わりとあの子に恨まれてるから。捕まったが最後、どんな風に殺されるか想像すらできないわ。
+"She's really got it in for me. I can't even imagine what sort of death she has in store if she catches me.
+
+}
+[sha:44a7e6e1c2adc2e8eb891f7f966d55186e61d68b]{
+-- Page 10, Offset 6738.
+-- ……要するに、アンタも私も、あの子をどうにかしないと生きて帰れないってコトよ」
+  ...What I'm saying is, neither you or me are getting out of this alive unless we do something about her."
+
+}
+[sha:377fee21295c3d25eb988b2b4cf36136a54c953b]{
+-- Page 11, Offset 6739.
+-- 「そんな、とばっちりだ！」
+"So you're saying I got dragged into your quarrel?!"
+
+}
+[sha:aefdbf480f014518c2399f31ff5af4d1de28e52c]{
+-- Page 11, Offset 6740.
+-- 「まあ―――そういう事になるかもね！」
+"Pretty much!"
+
+}
+[sha:3d71e0d8cb4e75eaa4e523e289ee6c10222aad1e]{
+-- Page 12, Offset 6741.
+-- この期におよんで空気読めていない草十郎の叫びに、青子は渾身の右腕を放つ。
+  As Soujyuro protested in a tone wholly inappropriate to the situation, Aoko let another blast rip from her right arm.
+
+}
+[sha:a16dd6dfe6be9858605277b16c41bd60fe859c10]{
+-- Page 12, Offset 6742.
+-- 狙いは草十郎ではない。
+  She was not aiming at Soujyuro, though.
+
+}
+[sha:96122cc827a8534c82c50a11473d408beee0ccea]{
+-- Page 12, Offset 6743.
+-- ちょっと前までの青子なら草十郎へ掃射していた気配濃厚だが、今は時計台に立つ黒衣の少女が優先される―――！
+  A little earlier in the day and Aoko would have been happy to do exactly that, but now, her attention was focused on the girl in black atop the clock tower.
+
+}
+[sha:8a50a2c6e16dee2982595d1e2704aa4dfe191a13]{
+-- Page 13, Offset 6744.
+-- 「っ―――！！！？」
+"?!?!?!"
+
+}
+[sha:592107ddea058af08a7f3ee5f3d705c71b4cc483]{
+-- Page 13, Offset 6745.
+-- あまりの驚きに状況把握が間に合わない。
+  She could hardly grasp the situation amidst her astonishment.
+
+}
+[sha:1ba8d033b443d2853dde517e12af8fb2f2d366ed]{
+-- Page 13, Offset 6746.
+-- 現状で考えられる最速／最高威力の魔弾を防がれた。
+  She fired the strongest, fastest magic bullet she had the ability to conjure, and Alice blocked it.
+
+}
+[sha:c9f7582fc9475bc48636af6dd95bf5d9e7d930c8]{
+-- Page 13, Offset 6747.
+-- それはいい。
+  That was to be expected.
+
+}
+[sha:008a6197278e0937b61c6f54346814cca02531aa]{
+-- Page 13, Offset 6748.
+-- 有珠が本気で防御に徹すればそれぐらいはするだろう。
+  When Alice set her mind to defending herself, such an attack was child's play.
+
+}
+[sha:09360af5791e18e2c8b840a1587c10a7fb6961e4]{
+-- Page 14, Offset 6749.
+-- だが今のは何事か。
+  But what just happened?
+
+}
+[sha:1037fb774e8dc02289bc03a93bf9844770cf981d]{
+-- Page 14, Offset 6750.
+-- 何か得体の知れないものが飛んできて有珠を守った。
+  Something she had never seen before had leapt to Alice's defense.
+
+}
+[sha:99a7b62e0f5d2d5f3d97438dabb35c12902529c3]{
+-- Page 14, Offset 6751.
+-- 馬？バッタ？いや、そもそもあんな生き物はこの世には存在しない。
+  A team of horses? A plague of locusts? No. Those things existed in this world, unlike what Aoko had just witnessed.
+
+}
+[sha:9da89b00a94933c2682ef03ed7ee4a2ed10b1049]{
+-- Page 14, Offset 6752.
+-- あんな風に―――雲霞のように群をなして、夜空を埋め尽くしたりはしない。
+  Normal creatures could not form like a spontaneous cloud of fog and then dissipate just as quickly into the night sky.
+
+}
+[sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
+-- Page 15, Offset 6753.
+-- 「な―――」
+"Wh..."
+
+}
+[sha:e6a55a463248bf6aaf25b134cb73beddfbcf95b8]{
+-- Page 15, Offset 6754.
+-- あり得ないものが、あり得ないカタチで動き出す。
+  Impossible things moved in impossible ways.
+
+}
+[sha:616eed0063c020d007e74a7c69b8a43aaa6f5c77]{
+-- Page 15, Offset 6755.
+-- 少女は彼らに電源など与えていない。
+  Alice was not even supplying them with any power source.
+
+}
+[sha:b635446d5d4ac88d63fb81b278b1876bc413c07b]{
+-- Page 15, Offset 6756.
+-- そも必要としていない。
+  Those things never needed power in the first place.
+
+}
+[sha:43851d6e0c79a10a5cdb7530d1439843cc0c2c5d]{
+-- Page 15, Offset 6757.
+-- 壊れ、<棄|す>てられた彼らは、もう人間の<法則|ルール>には従わない。
+  Those broken and discarded things did not follow the rules of mankind.
+
+}
+[sha:d31b2374a0556507057b2b398621d94716a87632]{
+-- Page 16, Offset 6758.
+-- それは、おとぎ話の侵略だった。
+  This was an invasion of fairy tales.
+
+}
+[sha:fcd0906508651ffd62e51d6502bbd6f819c62072]{
+-- Page 16, Offset 6759.
+-- <自動人形|オートマタ>なぞ優しいものだ。
+  Compared to them, the automaton looked merciful.
+
+}
+[sha:b382a1564d9204adb82f04531ccfe30d5cd8950a]{
+-- Page 16, Offset 6760.
+-- 自律する人形は魔術の<業|わざ>によるものだが、それでも、人形としてのあり方を守っていた。
+  Autonomous puppets were products of magecraft, but even then they behaved as puppets should.
+
+}
+[sha:a57b33acdecead60822897bbd666583339bf4952]{
+-- Page 16, Offset 6761.
+-- だが―――動きだし、新たな命を得た<彼|・><ら|・>は、もう人形ですらない。
+  These newly-animated things, however, were nothing of that sort.
+
+}
+[sha:9fcfe82ba3a3fbfb81ec25da23d016b228cd8d28]{
+-- Page 17, Offset 6762.
+-- 器物が生物に、
+  Empty vessels became living creatures-
+
+}
+[sha:507aae27e5763e5d1e282ea320eb7a9673b87d62]{
+-- Page 17, Offset 6763.
+-- 模型が畸形に変貌する。
+  dummies warped into malformed beings.
+
+}
+[sha:bc58bc9788770669d6a639c114b52225f26df27b]{
+-- Page 17, Offset 6764.
+-- 広がりつつあるのは視覚化できるほど濃密な魔力の霧と、
+  There was a fog so dense with magical energy it visibly spread to all corners of the park,
+
+}
+[sha:41dfefb61d06cb3b79918d3e97aa88ebae37fdf1]{
+-- Page 17, Offset 6765.
+-- 入園者を歓迎する、千を超える<怪物|クリーチャー>たち……！
+  bringing with it a monstrous welcoming party that easily numbered over a thousand.
+
+}
+[sha:ac7d389ed817d00906af3eeac1e8623a22221312]{
+-- Page 18, Offset 6766.
+-- 「っ、―――！！！！」
+"...!!!"
+
+}
+[sha:fbb60749b8ad72a9b8de26f4adc80dbc49772047]{
+-- Page 18, Offset 6767.
+-- 背中を走る戦慄につき動かされ、青子は一工程の魔弾を掃射する。
+  Spurred on by the shuddering sensation running down her spine, Aoko fired a barrage of single-action magic bullets.
+
+}
+[sha:abf835ff772bf29c894edb5f8b77ffd153dd3117]{
+-- Page 19, Offset 6768.
+-- 無我夢中の攻撃は無様に散った。
+  Her impulsive attack scattered futilely.
+
+}
+[sha:fb6235d021cb9e0bdf56724dbd34ce92de383fc6]{
+-- Page 19, Offset 6769.
+-- 「あ―――」
+"Ah..."
+
+}
+[sha:cf977932fde65b0bf13c80da40069754a8e3c5c9]{
+-- Page 19, Offset 6770.
+-- メリーゴーラウンドの騎士は空を飛び、
+  The knights of the merry-go-round soared into the sky.
+
+}
+[sha:d27e4be1b59fc9e0d2e50ce623c68ed87ee9d1b9]{
+-- Page 19, Offset 6771.
+-- <緑|みどり>トカゲは火を吹きながら集まりだす。
+  Green, fire-breathing lizards flocked.
+
+}
+[sha:c6b9fb7e4f57e78ca1e22c7db61d0d8d6fdd6e7e]{
+-- Page 19, Offset 6772.
+-- 焼きたてべーカリーは経営を再開し、オーブンからは人間大の焼きたてパンが小隊を組んで進軍する。
+  The bakeries opened their doors once again, and human-sized loaves of fresh bread marched from their ovens as platoons of newly-baked soldiers.
+
+}
+[sha:094bdd38a0c419e82b10136f9af93552b019a2ad]{
+-- Page 20, Offset 6773.
+-- 「―――蒼崎、後ろ！」
+"...Aozaki, behind you!"
+
+}
+[sha:9305b04e4e91d44c7d122e482959002e816b3eae]{
+-- Page 20, Offset 6774.
+-- 青子と草十郎は包囲されつつあった。
+  Aoko and Soujyuro were completely surrounded.
+
+}
+[sha:c39776dfa512eaa05f9af79fafe8491996e7fbd9]{
+-- Page 20, Offset 6775.
+-- 軋みをあげてゆっくりとまわる観覧車。
+  The Ferris wheel creaked as it gently turned.
+
+}
+[sha:a049ba9448454c56df352634e1b29af4d7894954]{
+-- Page 20, Offset 6776.
+-- 涙に濡れたキッツィーを乗せて、ガラクタの車両がコースターを走っていく。
+  A rickety train car raced about the roller coaster tracks with Kitsy, tears streaming down its face, aboard.
+
+}
+[sha:4c7666a1ad936c8fd0a456f6d1a54288e4e4cea8]{
+-- Page 21, Offset 6777.
+-- あまりにも歪んだ幻想。
+  It was a grossly twisted fantasy.
+
+}
+[sha:b61afb6911fd9b5bc8003bf9f01e5a8bd89b8101]{
+-- Page 21, Offset 6778.
+-- 赤く回りだした遊園地を背に、黒衣の少女は君臨する。
+  The girl in black reigned over the insanity-fueled park.
+
+}
+[sha:ba13632fdbaf7898ddc96c9717818d9ed6e7ec0d]{
+-- Page 22, Offset 6779.
+-- ああ、これはない。
+  Oh, now we're screwed.
+
+}
+[sha:f5dfabd25cdeb0806b64204607cc6afb0f7e361d]{
+-- Page 22, Offset 6780.
+-- これはないわ、と忘我しながら、青子はこの現象が何であるかに当たりをつけた。
+  Aoko was transfixed by the scene unfolding around her. Then, she realized what was happening.
+
+}
+[sha:4e3259a7df4a9d38400fda39441294214d22bb53]{
+-- Page 23, Offset 6781.
+-- 「―――そうだ、これは」
+"...Oh, I know what this is."
+
+}
+[sha:20ad8eb86677914edfdee5d49c84146157a5d7f6]{
+-- Page 23, Offset 6782.
+-- 有珠に聞いたマインスターの使い魔たち。
+  Alice had once told her of Meinster's familiars.
+
+}
+[sha:81056643283a4a9cae4986c242e7afa3cf0e0049]{
+-- Page 23, Offset 6783.
+-- その中でも三本指に入る折り紙付きの使い魔が、これと似た出来事を起こすハズだ。
+  Among them were three of particular notoriety, one of which she recalled being capable of something similar to this.
+
+}
+[sha:8e618afedf90af5775a23f87b562138572b4bb88]{
+-- Page 23, Offset 6784.
+-- 名前は、たしか―――
+  And it was called...
+
+}
+[sha:33e95297f45d82956c4d5b7db11f70a19068af34]{
+-- Page 23, Offset 6785.
+-- 「<童話の怪物|プロイキッシャー>、フラットスナーク……！」
+"Ploy Kickshaw... Flat Snark!"
+
+}
+[sha:57aaf6df30d77d1ee9e3c8c9d211118337aa8397]{
+-- Page 24, Offset 6786.
+-- 「蒼崎、だから後ろ！」
+"Seriously, Aozaki! Behind you!"
+
+}
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+-- Page 24, Offset 6787.
+-- 「―――！」
+"...!"
+
+}
+[sha:6cd60e8691635dcb01c2f9b5d4c21537f5cd856d]{
+-- Page 24, Offset 6788.
+-- 青い魔弾を受け、木っ端微塵に砕け散るクリーチャー。
+  Struck by Aoko's bullets, the creatures exploded into splinters.
+
+}
+[sha:8dee6bcb3cd925c9f483431cecc421aebd1ccf36]{
+-- Page 24, Offset 6789.
+-- 青子の魔弾の威力があがっている、というのもあるが、一体一体は自動人形ほど頑丈ではないようだ。
+  It was clear Aoko's shots were becoming more powerful, but it was also the case that these beings were less robust than your average automata.
+
+}
+[sha:6cfe6d807d56087337e0ad788ddc39b8301a6073]{
+-- Page 25, Offset 6790.
+-- 「静希君、こっち！」
+"Sizuki, this way!"
+
+}
+[sha:113470325b3d42c32868228906e3580aee2af575]{
+-- Page 25, Offset 6791.
+-- 青子は時計台に背を向けて、草十郎の手をとって走りだす。
+  Aoko turned away from the clock tower, grabbed his hand, and began to run.
+
+}
+[sha:203b84262d2cb5f8b664d9783894bdd050a7925f]{
+-- Page 26, Offset 6792.
+-- 「ちょっ、蒼崎！？」
+"Wait, Aozaki?!"
+
+}
+[sha:d143ec07906676607c479eedaedd28a7a8734703]{
+-- Page 26, Offset 6793.
+-- 「ごめん、これ無理！
+"Sorry, no time!
+
+}
+[sha:d372c1884c9d3546245e25a2fe1a6a4c3c090b4c]{
+-- Page 26, Offset 6794. Glued. Mods: @x.
+-- 逃げるわよ！」
+  We're running!"
+
+}
+[sha:4e7275be333ea24e1681e22d5da51af02dd553b2]{
+-- Page 26, Offset 6795.
+-- 「逃げるってどこに！？」
+"Running? To where?!"
+
+}
+[sha:ecd1e535beab8ecc4c92084ec01a87ccafbba8a0]{
+-- Page 26, Offset 6796.
+-- 「どこって、とにかく行けるところまで……！」
+"It doesn't matter! Anywhere!"
+
+}
+[sha:cdfd7496091f97936f84b7cbec8949eecf8d5457]{
+-- Page 27, Offset 6797.
+-- 自分に言い聞かせるように叫んで、青子は気合いで道を<拓|ひら>く。
+  She shouted as though trying to persuade herself as she valiantly cleared a path.
+
+}
+[sha:e896f56634a017a2baf2098f2405e3a69ceca3f5]{
+-- Page 27, Offset 6798.
+-- 放たれる魔弾は悲鳴そのものだ。
+  Aoko's magic bullets flew like a scream.
+
+}
+[sha:ed34d1c4e208a4955f4554a668dbf5efd3d80a24]{
+-- Page 27, Offset 6799.
+-- 立ちふさがる……というより、ただ集まっていただけのクリーチャーたちを吹き飛ばし、ふたりは包囲網を抜けだした。
+  Blowing away the creatures that stood in their way-or rather, simply gathered around-she made a hole for them to escape through.
+
+}

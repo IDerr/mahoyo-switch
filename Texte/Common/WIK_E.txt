@@ -1,0 +1,636 @@
+[sha:75342fab802b090cd77089ac74e5a7a8b212760c]{
+-- Page 0, Offset 21879.
+-- その時、
+  Just then...
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 0, Offset 21880.
+-- 「？」
+"?"
+
+}
+[sha:df45f1f83dc924e9e995b57c4892a07642d2d28a]{
+-- Page 0, Offset 21881.
+-- 外から異様な風切り音が聞こえてきた。
+  I heard a strange sound outside, like something cutting through the wind.
+
+}
+[sha:0c8fa5e58b3ce20cc4ecafa7936553fcf179b16e]{
+-- Page 0, Offset 21882.
+-- 洋館の壁をたたき付けるような爆音。
+  It grew into a lour roar that seemed to pound the very walls of the building.
+
+}
+[sha:670c0563d4003231f3e6f21423c88d70d203ee1f]{
+-- Page 0, Offset 21883.
+-- それに、誰もが意識を取られている中、
+  While we were all distracted by that...
+
+}
+[sha:99fc3866bebda32f295c767817da31a29573a9a4]{
+-- Page 1, Offset 21884.
+-- 「このメルヘン女、アタシをのけ者とかザケてんの！？
+"You've got some nerve to exclude me, you little nursery rhyme girl!
+
+}
+[sha:9af77ce8d62a4758a164c891b833f6720ebd221b]{
+-- Page 1, Offset 21885.
+-- こんなボンクラどもはホイホイ呼んで、大本命かつ大人気、この超☆英国美少女であるリデル様を、なんで、アンタの誕生会に呼ばないのよっ！！！！」
+  You call these dimwits to your birthday party, but not everybody's favorite English beauty, May Riddell Archelot?!"
+
+}
+[sha:5a082f4e7f7a0fab5721ef5d05ee3112fb3b6b34]{
+-- Page 1, Offset 21886.
+-- 外の雨より何倍もやかましい、
+  The girl who arrived was several times louder than the storm.
+
+}
+[sha:e2ec0dacb026fc23c2b7a58c2ed29c1e9b0f0660]{
+-- Page 1, Offset 21887.
+-- 嵐の化身みたいな女がやって来た。
+  Maybe she *was* the storm.
+
+}
+[sha:436d8949f4761a5ea5cd6a1e1494732952781f32]{
+-- Page 2, Offset 21888.
+-- 「リデル！？　おまえ、今日は<余所|よそ>でイベントだったじゃねえか。どうやってここに来やがった！？」
+"Riddell?! I thought you had other plans! How the hell did you even get here?!"
+
+}
+[sha:816509d0646859b2b95bf685c718f91bb996c87a]{
+-- Page 2, Offset 21889.
+-- 「ふん、決まってるじゃない。ヘリを飛ばして、よ。
+"By helicopter, *obviously*.
+
+}
+[sha:2e29169f9a07509f3c9e781b0c3fd6cc0cb259d3]{
+-- Page 2, Offset 21890.
+-- 覚えておきなさいトビマル。アンタたちみたいな端役と違って、アタシに不可能なんてないの。ちょっと一声かければ、地球の裏側からだってミサイル飛ばせるんだから」
+  Remember this well, Tobimaru: Unlike you 'extras,' *nothing* is impossible for me. With a snap of my fingers, I can send missiles flying from the other side of the Earth."
+
+}
+[sha:cb418413276ad8bf26947c3e876479bc23f5c1d7]{
+-- Page 2, Offset 21891.
+-- 「いや、ミサイル飛ばされてもな」
+"Well, don't do that."
+
+}
+[sha:097b7263074c31436353503e4b7d637ba48531a9]{
+-- Page 3, Offset 21892.
+-- ピンク色で統一された女は、わたしや芳助には視線も投げず久遠寺さんへと歩み寄る。
+  Without so much as a glance in our direction, the girl walked right up to Miss Kuonji. She was dressed in pink from head to toe.
+
+}
+[sha:eec6f66f6d00d36c3c2137af4c105cef6cf86d74]{
+-- Page 3, Offset 21893.
+-- これみよがしにツカツカと響くブーツの音。挑発的な軍靴のようだ。
+  It was more accurate to call it a strut than a walk. Her boots made an aggressive clacking sound as they struck the ground.
+
+}
+[sha:606b1aa5651478fb041110951a5353fa0d0d95fd]{
+-- Page 4, Offset 21894.
+-- 「ほら、忙しくて引く手<数多|あまた>、史上初の億超えウィッチ、自他共に認める協会ナンバーワンのアイドルが、わざわざ専用機<飛|と>ばしてまで来てやったわよ？
+"The Association's crème de la crème, adored by countless admirers, the first witch star in history to pass a hundred million fans has taken time out of her busy schedule to come here for you.
+
+}
+[sha:97236c5ad009eeb169954faa2f246f3cc734e88d]{
+-- Page 4, Offset 21895.
+-- 悔しい？　悔しいでしょ？　夢にも思わなかったぐらいサプライズでしょ？　いいわ、遠慮なく喜びなさい」
+  How does that feel? You must feel so *terrible*. But such a wonderful surprise beyond your wildest dreams, no doubt. Go ahead, weep with joy."
+
+}
+[sha:fefea4ff31712bdb36ba23ac286ce3c98aa8e8d4]{
+-- Page 5, Offset 21896.
+-- ……すごい。
+  Wow...
+
+}
+[sha:3b337fac5396fbce99638ec85dc011240e27e358]{
+-- Page 5, Offset 21897.
+-- あの無表情な久遠寺さんが心底うんざりしている場面に出くわすとか、たしかに夢にも思わなかった。
+  I never thought I'd see the day Miss Kuonji's stoicism replaced with pure irritation.
+
+}
+[sha:0d43cd0a001fe2d3a9f78445ef0e67a1a0d4579f]{
+-- Page 5, Offset 21898.
+-- ピンク女はげんなりする久遠寺さんを見下ろし、満足そうに頷いて、ようやく周囲を見渡した。
+  The girl in pink nodded smugly down at Miss Kuonji, before finally noticing the rest of us.
+
+}
+[sha:3899e1a65e9e88313d54acb2622f1849d40af7aa]{
+-- Page 6, Offset 21899.
+-- 「バッド。なにこのトンチキな面子。せっかくの誕生会だってのに、人選どうなってるの？　親の仇まで呼んじゃって、アンタ、そこまで病んじゃった？
+"Atrocious. Who are these nobodies? I thought this was a birthday party! You have terrible taste in company. Are you really so sick in the head as to call your parents' enemies here?
+
+}
+[sha:d7a24bfd30754b28a0e2b91714fade12ba7f4fb5]{
+-- Page 6, Offset 21900.
+-- ほら、そこの神父。とりあえず私たちにドゥゲザした<後|あと>、全裸になってチキン食べながら切腹してくれない？」
+  Hey you! Priest boy! Why don't you kiss our feet, strip, eat chicken, and then hang yourself?"
+
+}
+[sha:833375718d369cce677754b983fa007882b8007a]{
+-- Page 7, Offset 21901.
+-- 「はははは。貴女にだけは言われたくありませんねぇ。
+"Hahaha. You are the absolute last person I want to hear that from.
+
+}
+[sha:64278f7a4eedd67da5bcc45c00d08483c7b372b8]{
+-- Page 7, Offset 21902.
+-- 有珠さんに謝罪というのなら、まず貴女がするべきではないですか？　奪ったものは、きちんと本人に返さなければねぇ」
+  Perhaps you're the one who should be apologizing to Alice. When you steal something, it's only right to return it to the proper owner."
+
+}
+[sha:ab51743ba8468cd6dad3edf615189c7cbed03a3c]{
+-- Page 8, Offset 21903.
+-- 「アタシはいいのよ、ちゃんと後でお金払ったし！
+"I'll have you know I paid her back in full, thank you!
+
+}
+[sha:7761d78e33715e7aa2ca82026ff0714e0fa5c687]{
+-- Page 8, Offset 21904. Mods: @k, @e.
+-- アリスだってキャッシュで受け取ったんだし、アレはもうアタシのモノっ！
+  Alice accepted the money, so it's mine now, fair and square!
+
+}
+[sha:dd47fb97ddb219f60e9f783e4149b40e0e72729f]{
+-- Page 8, Offset 21905. Glued. Mods: @x.
+-- 外野がいちいち口はさんでんじゃないわよ」
+ Mind your own business!"
+
+}
+[sha:f161e03a7b15c49eada9c65c024e4f59c69c8877]{
+-- Page 8, Offset 21906.
+-- 「なんと。有珠さんが、貴重なプロイを売却するとは」
+"Oh my. Alice sold one of her precious Ploys?"
+
+}
+[sha:b118c5a84f655c8b6ff5e0e979e411208a6c4d83]{
+-- Page 9, Offset 21907.
+-- 「……はあ。お金で解決できる問題じゃないと何度も言ったのだけど。この子、資本主義の犬だから。どう言っても返してくれないの」
+"...Haah. I told her over and over again money that money won't solve the problem, but she's a materialistic dog, so she won't return it."
+
+}
+[sha:70891e689dba163c63bc2a217e5b6e67c5ecea38]{
+-- Page 9, Offset 21908.
+-- 「またまた、照れ隠ししちゃって、この～♪
+"Oh, sweet Alice, still playing coy.
+
+}
+[sha:57a0efe6e5db71aae96e948631bdf8e420feb2b1]{
+-- Page 9, Offset 21909.
+-- アンタも取引上手よね、“お金では譲れない”とか言って巧みにレートをあげていくんだから」
+  That's just a savvy way of pushing me to increase the price!"
+
+}
+[sha:6540d96ececc6d4d837bbad2ba69e68e0b98f5b7]{
+-- Page 10, Offset 21910.
+-- 「……なあ殿下。あのすげえ女、どっかで見覚えあんだけど。有珠ちゃんの知り合い？」
+"Hey, Your Highness. That girl's something else. I could wear I've seen her somewhere before. Is she a friend of Alice's?"
+
+}
+[sha:75024cec85e391a9ef669aca6753542656e5e28f]{
+-- Page 10, Offset 21911.
+-- 「気のせいだ、忘れとけ。ありゃあ関わったら破滅する系の女だ。百害あって一利もねえ」
+"You're just imagining things. Forget about it. She's nothing but trouble. All harm, no good."
+
+}
+[sha:9fdd700a0bb458f427694dbc84f54641a71bc192]{
+-- Page 10, Offset 21912.
+-- 「そ、そうですよね。オレもあそこまでキラキラしている人は、ちょっと……」
+"Y-Yeah, you're right. I probably couldn't handle her..."
+
+}
+[sha:b750c2b36781e813ddf7bb3e89b96c578112c9cf]{
+-- Page 11, Offset 21913.
+-- 槻司はああ言っているけど、わたしは知っている。
+  Despite whatever Tsukiji was saying, I knew the truth.
+
+}
+[sha:8ec22d6c57fbf9708a3ae5d3b0e900cdbf75f7b1]{
+-- Page 11, Offset 21914.
+-- 彼女の名前はリデル。
+  Her name was Riddell.
+
+}
+[sha:9bb6ea5d66ec9f48c978131403b4ff7c7ec01efa]{
+-- Page 11, Offset 21915.
+-- 一時期、槻司の家にホームステイしていた女の子だ。
+  She stayed at Tsukiji's house for a time.
+
+}
+[sha:50dbb813576ecef1c2ae7813f1b6a32c32a90504]{
+-- Page 11, Offset 21916.
+-- 槻司のお父さんとリデルのお父さん、企業間の付き合いでのコトらしい。
+  Apparently, their fathers were business acquaintances.
+
+}
+[sha:ab244b81226ff653828eea7450594f39c08b8b6a]{
+-- Page 11, Offset 21917.
+-- ……といっても槻司の屋敷は大きいので、一つ屋根の下、という話ではないだろうし、そう親しい仲ではない、と思いたい。
+  Well, I say she stayed with him, but the Tsukiji estate was so large, they were basically in different houses... Or at least, I hope that was the case.
+
+}
+[sha:400d2d949df2323007ae8b954d0793fd5027a35a]{
+-- Page 12, Offset 21918.
+-- 「……一応、訊いてあげるけど。
+"I suppose I should ask-
+
+}
+[sha:ea90bdca6281d6d9f0af525731fe837216df751d]{
+-- Page 12, Offset 21919.
+-- リデル。貴女、何をしにきたの？」
+  Riddell. What are you doing here?"
+
+}
+[sha:01a299bbcdb8ece511fdacede572a5a23692c138]{
+-- Page 13, Offset 21920.
+-- 「なにって、アンタの誕生会でしょ？
+"What do you mean, Alice? It's your birthday!
+
+}
+[sha:f3aee48bc8bb2a5d4c323054a453805a678c320e]{
+-- Page 13, Offset 21921.
+-- トビマルの家に電話したら、“坊ちゃんなら久遠寺さんの家の誕生会にでかけた”とか言っちゃってさ。
+  When I called Tobimaru's house, they told me 'the young master is attending a birthday party at Miss Kuonji's house.'
+
+}
+[sha:002f821d8651336ba2d295052d849d45307af60f]{
+-- Page 13, Offset 21922.
+-- もうカーッと<脳髄|あたま>ハイになっちゃって、ライブキャンセルして飛んできたってワケ」
+  I couldn't let that slide, so I cancelled my concert at the last minute and flew here."
+
+}
+[sha:f25bcac24411c18aa4644484365daac00d35a4fd]{
+-- Page 14, Offset 21923.
+-- 「……貴女、わたしの誕生日、覚えている？」
+"...Do you even remember when my birthday is?"
+
+}
+[sha:dfde2df2a992938b7ea781ad706fbfdbaf86c788]{
+-- Page 14, Offset 21924.
+-- 「あったりまえじゃない！　自分のは忘れてもアンタのだけは忘れな………
+"Of course I do! I could forget mine, but I could never forget your-
+
+}
+[sha:340eb8b9b58683d913bbd8198447e44ec86b2b93]{
+-- Page 14, Offset 21925.
+-- あれ？　まだ秋よね、この国？」
+  Wait a second. It's still autumn here, isn't it?"
+
+}
+[sha:c194e8f22ad2fc5dc28e94914546024183b323a5]{
+-- Page 15, Offset 21926.
+-- 「良かった、脳は<ま|・><だ|・>正常ねリデル。
+"Glad to see you haven't lost your mind completely.
+
+}
+[sha:4279133f4ae3671f7f8ee822bb05baddd43d5687]{
+-- Page 15, Offset 21927.
+-- ほら。わたし、貴女の頭を叩きすぎたでしょう？
+  I hit your head a little too hard last time, remember?
+
+}
+[sha:8007b35df73bc3ee325f788400d5520c1ef16501]{
+-- Page 15, Offset 21928.
+-- それで気の毒な結果を招いてしまったのかと、少しだけ心配してしまったわ」
+  You had me ever so slightly worried that I might've caused you brain damage."
+
+}
+[sha:71572ab646c747b8f434bb80c613ccbd283cea0c]{
+-- Page 16, Offset 21929.
+-- 「ちょっとトビマル！　なにウソ言ってんのよ、今日はアリスの誕生日じゃないっての！」
+"Tobimaru, you liar! It's not Alice's birthday at all!"
+
+}
+[sha:58982e955765baa2386605244fadf3b55111acc0]{
+-- Page 17, Offset 21930.
+-- 「いや、でも招待状には確かに、久遠寺邸で誕生会をするから、ぜひ参加するように、とだな」
+"Wait, the invitation definitely mentioned a birthday party at the Kuonji Estate."
+
+}
+[sha:3e2d85d4b43dace858947e985b28fc06aa7f45f3]{
+-- Page 17, Offset 21931.
+-- 「そうそう。オレも会長から二千円と引き替えに招待状もらったよ？
+"Mine, too. Man, that invitation cost me a fortune. 2000 yen from the prez, can you believe it?
+
+}
+[sha:a5b8574cfb3e7ba5f918d5fb5e572f516e5d8780]{
+-- Page 17, Offset 21932. Glued. Mods: @x.
+-- ところで、料金とられたのオレだけじゃないよね？」
+Wait... I wasn't the only one who had to pay, was I?"
+
+}
+[sha:27a4d70276f71dbf554fddbe78ab4bfa4f6ea1fe]{
+-- Page 18, Offset 21933.
+-- 「はははは。知らない方が幸せな話ってどこにでもあるんですねぇ。ああ、私も久遠寺邸で誕生会をする、と覚えてきましたが」
+"Hahahaha. Some things are better left unsaid. Though, I do recall something about a birthday party at the Kuonji Estate."
+
+}
+[sha:f06659835234f572319763437f010876c37db9ac]{
+-- Page 18, Offset 21934.
+-- 「でも、アッちゃんの誕生日じゃないのよね？」
+"But it's not Allie's birthday, right?"
+
+}
+[sha:5f86057a77fecf06b73ccb58e9025a52844652ff]{
+-- Page 19, Offset 21935.
+-- 「……なぜそんな勘違いを生んだのかしら。
+"...Looks like there's been a misunderstanding.
+
+}
+[sha:75bd75f69916b9b1a4208a61b4594e7237bd2cbe]{
+-- Page 19, Offset 21936.
+-- たしかに誕生会だけど、わたしじゃなくてトッキィーの誕生会よ。
+  Yes, we are here for a birthday party, but not mine. It's Tokie's.
+
+}
+[sha:c51cfca17cf98dbcd0b8139246103855e3bd4e91]{
+-- Page 19, Offset 21937. Glued. Mods: @x.
+-- 彼、わたしに祝ってほしいというから、この屋敷を会場にしただけなのだけど」
+He wanted me to celebrate his birthday, so I simply made this mansion the venue."
+
+}
+[sha:20616a372c08be804efa033d1ef72e6b3398a193]{
+-- Page 20, Offset 21938.
+-- わたしは招待状を見直した。
+  I reread the invitation.
+
+}
+[sha:de91dd17b641d3cc2d1cc368f4d3a64751b3e864]{
+-- Page 20, Offset 21939.
+-- “久遠寺邸で誕生会を開くから、ぜひ参加してほしい”
+"You are cordially invited to a birthday party at the Kuonji Estate."
+
+}
+[sha:4af20e995a178eddfacade766db9f514c41bbc01]{
+-- Page 20, Offset 21940.
+-- なるほど。
+  Now I see.
+
+}
+[sha:49d37e2be0b49e4538893b3e2d5487bd01e798e2]{
+-- Page 20, Offset 21941.
+-- たしかに、誰の誕生日とは書かれていない。
+  It didn't say anything about whose party it was.
+
+}
+[sha:e48235ffe64aec7275383ca929ce6f1aeb8d36eb]{
+-- Page 21, Offset 21942.
+-- 「やっほー。盛り上がっちゃって、何の騒ぎ？
+"Hey, everyone! What are we all getting so worked up about?
+
+}
+[sha:649da35442857ec5e4ade96417204f289f3d9d26]{
+-- Page 21, Offset 21943.
+-- ……って、リデルリドル!?　アンタ、なんでここにいんのよ!?　ライブは!?　ねえ、いまＮＫホールでライブやってんじゃないの!?
+  ...Wait, Riddell Riddle?! What're you doing here?! What about your concert at Tokyo Bay?!
+
+}
+[sha:ba46d3753afa145d1b67003bda944750705bb63d]{
+-- Page 21, Offset 21944.
+-- 私、ビデオ録画してるんですけど!?」
+  I even set the VCR to record it!"
+
+}
+[sha:bebda8e3dbe4f87a1a6852245ac3f694e0b726ed]{
+-- Page 21, Offset 21945.
+-- 「サボタージュ。ランチのカレーが<辛|から>かったから」
+"It's been sabotaged. The curry I had for lunch today was too spicy."
+
+}
+[sha:81d05724b88fe9a5068820d74663e7f98061025c]{
+-- Page 22, Offset 21946.
+-- 「そ、そんなバカな理由でコンサートをドタキャンするヤツがいるかーーーー！　音楽の神に謝れ！　ファンをなんだと思ってんのよアンタは!?」
+"What the hell kind of a reason is that?! Apologize to the god of music, right now! What about your fans?!"
+
+}
+[sha:6898675bf521703e9bb1725ac4a34dd7b0f3f1b1]{
+-- Page 23, Offset 21947.
+-- 「チッ、やっぱりコイツマジうざい。
+"Ugh, it's always yap, yap, yap with you.
+
+}
+[sha:22522702e14f2283e9771503e746acc74be1d06e]{
+-- Page 23, Offset 21948.
+-- だいたいアタシ、音楽とかどうでもいいし。ファンなんてアタシに貢ぐだけの働きアリだし。ライブがハネた後はいつも空しくなってリスカするし。
+  I don't care about music or any of that crap. Fans support me financially. That's it. I always end up feeling all emo after concerts, anyway. That's when the razor blades come out.
+
+}
+[sha:453dcbeba8ab21c29da60504bdb225dd0446f9cf]{
+-- Page 23, Offset 21949.
+-- スポットライトは当たっても、ホントのアタシは誰も見てくれないし」
+  Even when I'm in the spotlight, no one really sees the real me."
+
+}
+[sha:e90ffbdfe62b92b4286bfa88f9042b5abccd48ad]{
+-- Page 24, Offset 21950.
+-- ピンク女の空気が突如、一変する。
+  Whoa. That took a dark turn.
+
+}
+[sha:79c562b31809f3ad036fb62c0f1b912cca0aa63a]{
+-- Page 24, Offset 21951.
+-- ぶつぶつと呟く彼女の肩に、チチチ、と可愛らしく鳴く青い駒鳥が降り立った。
+  Chirping sweetly, a blue robin landed on the girl's shoulder.
+
+}
+[sha:31505197e2ec55a4719dd5c64888399c59f98029]{
+-- Page 25, Offset 21952.
+-- 『ハハハ、さすがリデルさん、感情のオンオフ激しいっスね！　ホントのアタシを見てー、とか、メルヘン全開で恥ずかしくないッスか？　恥ずかしくないんスよね。スゲー、やっぱリデルさん、魔術師よりアイドル向けッス！』
+"Hahaha! Nothing ever rifle ranges with ye, May! Yer emotions are all over the place! You come into the room like ye own the place and then complain about no one seeing the real you! Come on! You're definitely more a mangle and wringer than a mage!"
+
+}
+[sha:f5eabeb422378a88fac59ac999c44d1258ab337a]{
+-- Page 26, Offset 21953.
+-- 「そうよ、悪い。どうせアタシは報われない、自分を主役と勘違いしている乞食みたいな最下層の生き物なのよ。道化なのよ。
+"I know. Sorry. I'm just tired of never seeing my efforts pay off. I go around thinking I'm the best of the best, when really I'm the lowest of the low. Just a dumb clown.
+
+}
+[sha:4798be23bfff74ff058606fe55ac75393ef3c789]{
+-- Page 26, Offset 21954. Glued. Mods: @x.
+-- わかってるからほっといてよロビン。後できっちり細切れにして、犬に食わせてあげるから」
+I know already, so leave it alone, Robin. Or I'll chop you up and feed you to a dog later."
+
+}
+[sha:f9a708c2a939d50bd525f2128f36b113468d945c]{
+-- Page 26, Offset 21955.
+-- ……なんか、鳥と話しているし。
+  Our newest guest... was talking to a bird.
+
+}
+[sha:efbfcff9aeb712af22116199d04bc14e880f0391]{
+-- Page 26, Offset 21956.
+-- 本格的に電波だったんだ、あのアイドル。
+  She really was one of those crazy pop stars you hear about in the tabloids.
+
+}
+[sha:da9dd65870bc73b81424af8648a53b15199d45f7]{
+-- Page 27, Offset 21957.
+-- 「なるほど、<土桔|ときつ>さんの誕生会でしたか。
+"So it's Mr. Tokitsu's birthday party.
+
+}
+[sha:ead7d749aa5128d8d59c913b14625600d69960d2]{
+-- Page 27, Offset 21958.
+-- 私たちもどうして呼ばれたのか半信半疑でしたが、それなら合点がいきます。
+  We wondered why we'd been invited, but now I understand.
+
+}
+[sha:c1dfec146f4e9b523ba1dbddeca9202496eb7f6c]{
+-- Page 27, Offset 21959.
+-- シスター唯架なんて、これは罠だから完全武装で行くべきです、とか言いだす始末ですし」
+  Sister Yuika even suggested we come fully armed, because she thought it was a trap."
+
+}
+[sha:d236aba039fc9d72e7b42e6d274c3e80174ebfd0]{
+-- Page 28, Offset 21960.
+-- 「……コホン。
+"...Ahem.
+
+}
+[sha:a95b9faf810d1dbc53bb01ec10161bacc0811bd6]{
+-- Page 28, Offset 21961.
+-- しかし久遠寺さん、肝心の土桔<由里彦|ゆりひこ>氏は何処に？
+  So, Miss Kuonji, where is the guest of honor?
+
+}
+[sha:77dda28a73dd5fcdb1cffd5939083e54701d5973]{
+-- Page 28, Offset 21962.
+-- 私たちも挨拶をしていないのですが」
+  We haven't seen him yet."
+
+}
+[sha:d46e7fd70d7122e9d45da86a7fabd8f789160af5]{
+-- Page 28, Offset 21963.
+-- 「そういえば、そうね。
+"Now that you mention it...
+
+}
+[sha:a45a26b0df216f26780465fdaa484b867b19db72]{
+-- Page 28, Offset 21964. Glued. Mods: @x.
+-- 青子、トッキィーは？」
+Aoko, have you seen Tokie?"
+
+}
+[sha:a6f0fccd258c1da2e4c77d39074e1e7f55811426]{
+-- Page 29, Offset 21965.
+-- 「え、居ないの？　夕食の手配、ぜんぶあの人が担当なのに。とびきりのシェフ団を手配するから、君たちはゆっくりしていなさいって自慢してたじゃない」
+"He's not here? But he was in charge of the dinner arrangements! He told us we could take it easy, because he'd be arranging some top chefs."
+
+}
+[sha:17654b9e1bb752474fa27277ddacfa95b74e647a]{
+-- Page 30, Offset 21966.
+-- 「そりゃおかしいな。そういう段取りなら、シェフ団とやらは四時には到着していないと間に合わねえぞ。
+"That's a bit weird, isn't it? If that was the plan, the chefs would need to arrive by four at the latest in order to make it in time for dinner.
+
+}
+[sha:f808a2f58a4443f1f48d581cc559018940098eda]{
+-- Page 30, Offset 21967.
+-- 誰か、土桔の爺さんを見なかったか？」
+  Hasn't anybody seen Yurihiko?
+
+}
+[sha:b7625489acf61d0996c08eabb0c310aaf1e2c924]{
+-- Page 31, Offset 21968.
+-- 「お昼まではここにいたけど、それ以降は見てないよ」
+"He was here until noon, but I haven't seen him since."
+
+}
+[sha:2f3462fbf457aaa6cad3ebf7dd8dbe037a94160f]{
+-- Page 31, Offset 21969.
+-- 「わたしは一度も見てないわ。
+"I haven't seen him at all.
+
+}
+[sha:0c7a4ed1b0aceea2e47fdfb89fc5496b47c4b1d2]{
+-- Page 31, Offset 21970.
+-- 何度か席を外したけど、その時も見かけなかったし」
+  I stepped out a few times, but he wasn't outside, either."
+
+}
+[sha:1d2149f5ea3505707baed3f9a54c433ed40b1688]{
+-- Page 31, Offset 21971.
+-- 「……昼過ぎから今まで、五時間近く、誰もトッキィーを見ていないの……？」
+"It's been nearly five hours since noon. Has nobody seen him during that time?"
+
+}
+[sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
+-- Page 32, Offset 21972.
+-- 返事はない。
+  The room was silent.
+
+}
+[sha:b45f82cf1dc89ecf44e723f463a4586ebcaf26d2]{
+-- Page 32, Offset 21973.
+-- ……全員、何か予感じみたものがあったのか、あのピンク女や芳助でさえ無駄口を叩かない。
+  Everyone seemed to be waiting for someone else to say something. Even Housuke and the pink girl didn't have any banter to offer.
+
+}
+[sha:9c002fa375af48a04a8e28a431afe52e0bf54718]{
+-- Page 33, Offset 21974.
+-- 『ん、なんスかこの空気？　カラオケ？　カラオケはじまるッスか？　ジブン、テディボーイブルースとか得意ッスよ？　フリッキーにも歌つけてくれないっスかね？』
+"Hmm? Why'd the place go all Simon Said? Are we about to do some karaoke? Don't you know I'm so good I'd knock your rhythm n' blues right off? I'm a rock robin, you see? Just stick a microphone under my beak and..."
+
+}
+[sha:870322269a1713e793410fbeef57ac9d6c4dabdb]{
+-- Page 33, Offset 21975.
+-- 声を上げているのは、テーブルの上で不思議そうに首を傾げている駒鳥だけ。
+  The only one making any noise was the robin on the table. It was bobbing its head in a strange way.
+
+}
+[sha:47377263e5a173782fb9e8a8ff8e49739fc17d33]{
+-- Page 34, Offset 21976.
+-- 「ああ、みんな揃ってた。夕飯の支度は終わった？」
+"Ah, everyone's here. Is dinner ready?"
+
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 34, Offset 21977.
+-- ……と。
+  And then...
+
+}
+[sha:4f7377b3667d59e9d3b70ab50060e1c52b6d4f67]{
+-- Page 34, Offset 21978.
+-- そこへ、ひとり<安穏|あんのん>とした男がやってきた。
+  A young man, looking calm and composed, had arrived.
+
+}
+[sha:4efdc059288619aa50a7c27694759bbe43a4f3c0]{
+-- Page 35, Offset 21979.
+-- 場の雰囲気を察したんだろう。
+  He must have picked up on the mood in the room... right?
+
+}
+[sha:ac6114c802c4d75dc0f9f8d40a2b56d0cd8e6553]{
+-- Page 35, Offset 21980.
+-- 静希は例の、なに考えているか分からない笑顔で集まった人々を見渡して、一言。
+  With his staple, unreadable grin, Sizuki looked around the room at everyone gathered.
+
+}
+[sha:c96c785331bf6062c7c3713e90754caacd5bf791]{
+-- Page 36, Offset 21981.
+-- 「ところで。
+"By the way...
+
+}
+[sha:bf2e82c6499247bee4bc7c384edded75df398a2c]{
+-- Page 36, Offset 21982.
+-- 屋根裏で土桔さんが死んでいるんだけど、どうしようか？」
+  ...Mr. Tokitsu's dead in the attic. What should we do?"
+
+}
+[sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
+-- Page 36, Offset 21983.
+-- 「な―――」
+"Wh..."
+
+}
+[sha:d1cb13adf029fbb8e828ea193d02b0f6e9513b32]{
+-- Page 36, Offset 21984.
+-- 「「「「なんだってーーーーーーー！！！？」」」」
+"WHAT?!?!"
+
+}

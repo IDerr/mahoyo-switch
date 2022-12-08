@@ -1,0 +1,90 @@
+[sha:29655d9a97bfdc2daf71b1dd0e8e5655f7d2caa5]{
+-- Page 0, Offset 23282.
+-- 「ま、断定できない以上、<憶測|おくそく>は憶測でしかねえけどな。
+"Well, until we can come up with any real conclusions, this is all just speculation.
+
+}
+[sha:7ffcfef3b4496df5194f89991db1f39ea8f52eec]{
+-- Page 0, Offset 23283.
+-- それよりだ、久万梨。ネックは<何時|いつ>殺したか、じゃなく、どうやって殺したか、だと思わねえか？」
+  I think the real problem isn't figuring out when the murder was committed, but how."
+
+}
+[sha:01442b86b82f759fe77dd73dd1bd186ee93cfc32]{
+-- Page 1, Offset 23284.
+-- 「山城にしろ詠梨神父にしろ、あの鉄仮面たちを笑わせられるのはよっぽどのセンスだ。
+"It takes a serious sense of humor to make someone like Mr. Yamasiro or Father Eiri to laugh out loud.
+
+}
+[sha:80cb55bfb97054a7c0402523fed399559918d1b9]{
+-- Page 1, Offset 23285.
+-- 殺害可能時間は平等にあっても、そのセンスだけは限られる。この点で言えば、まあ、草十郎やらベオやら木乃美やらは除外される」
+  Other factors like timeframe being equal, just having a sense of humor excludes some people right off the bat, like Soujyuro, Beo, and Kinomi."
+
+}
+[sha:9dc85daf39b55b073c61656c83d01b2f5ee013d6]{
+-- Page 2, Offset 23286.
+-- 槻司はさも興味深そうに、今まで検討されてこなかった問題点を挙げた。
+  Tsukiji had latched onto something big.
+
+}
+[sha:06d991f6d09949c61e83ce76be2feb9899ef6fda]{
+-- Page 2, Offset 23287.
+-- たしかにそれは盲点だった。
+  Why hadn't anyone else thought of that?
+
+}
+[sha:94edbcf80bb9ab2d05ac3fe18c6cef1b1131d187]{
+-- Page 2, Offset 23288.
+-- 笑いが滑るだけの芳助、まだジョークを理解していないベオには難易度が高すぎる。
+  Housuke's jokes only made people cringe; Beo didn't even understand the concept of humor.
+
+}
+[sha:488a9aa6e680602e22944b5dd2bfe497eb64e7c9]{
+-- Page 2, Offset 23289.
+-- 静希に至っては『冗談のセンスがない』とみんなにダメだしされるほどのボケ体質だし。
+  As for Sizuki, I've met planks of wood that get jokes quicker.
+
+}
+[sha:082b07d98cadd6e325d8ab665febcaff72425d08]{
+-- Page 3, Offset 23290.
+-- 問題点を語りあっているうちに、時間は午前三時になろうとしていた。
+  Our discussion carried on until nearly 3:00 AM.
+
+}
+[sha:afc8783ac876a5c2b9053cbcedecd0760fe42ed8]{
+-- Page 3, Offset 23291.
+-- 「ふあ……」
+"Huah..."
+
+}
+[sha:a356fe9de3c0e17c94b53dde213854981b9f805a]{
+-- Page 3, Offset 23292.
+-- 気が緩んだ訳ではないけど、さすがに眠気が襲ってくる。
+  I yawned. I was by no means relaxed, just exhausted.
+
+}
+[sha:74a851ac148d1b245de0fef86440bba9431720d7]{
+-- Page 3, Offset 23293.
+-- こんな一日を経験したら、誰だってそろそろエネルギー切れだ。
+  After everything that's happened, I'd be surprised if anyone had any real energy left.
+
+}
+[sha:1d542779a692b76cc5f938fe2a255da5a5947879]{
+-- Page 4, Offset 23294.
+-- 「夜更かししすぎたな。そろそろ眠り時だが、どうする？　念には念だ、オレもそこのソファーで眠るってのもアリだが」
+"It's late. We should probably get some sleep. Are you gonna rest? I can crash on the sofa just to be safe."
+
+}
+[sha:6cb0c320588d5024385fc3437fe24dd1e8dafc39]{
+-- Page 5, Offset 23295.
+-- 蒼崎に化けたスイーツハーツ、あるいは他の人物Ａに化けたスイーツハーツの侵入を警戒しての意見だろう。
+  He was clearly on guard for Sweets Hearts disguised as Aozaki, or someone else.
+
+}
+[sha:f73f1f4b04de8fbb2bf28a0890b6d3a913c150da]{
+-- Page 5, Offset 23296.
+-- わた、わたしは、
+  I yawned again.
+
+}

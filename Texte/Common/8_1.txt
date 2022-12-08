@@ -1,0 +1,1518 @@
+[sha:5d134d8f23940e44bf2aa3051d2570079a420baf]{
+-- Page 0, Offset 10434.
+-- 三咲高校の冬休みは十二月の中旬から始まる。
+  Misaki High School's winter vacation began in mid-December.
+
+}
+[sha:a9a3c92dac9b76a6a0aa420756878109ec7bbf2c]{
+-- Page 0, Offset 10435.
+-- 全国に名を馳せる運動部もなく、熱心な進学校でもない学校の静けさは清潔感すらある。
+  The tranquil air of the school was a refreshing change of pace from the more competitive schools and their nationally famous sports teams and exam-oriented curriculum.
+
+}
+[sha:c43a18d568a931554feb08edaa83fa858d9e3dcb]{
+-- Page 0, Offset 10436.
+-- <人気|ひとけ>の<絶|た>えた新築の建物は、冬の湖に舞い下りた白鳥を思わせる。
+  The empty, newly constructed building evoked images of a pure white swan descending upon a still winter lake.
+
+}
+[sha:d2ed37c6af38fc86243213bf5db60400fdcb9b75]{
+-- Page 0, Offset 10437.
+-- 近代化の進んだ校舎は、その血液である生徒を<欠|か>いても在り方を損なわず、粛々と<佇|たたず>んでいる。
+  The modern school building felt alive in its stillness, in spite of the absence of its lifeblood of students.
+
+}
+[sha:fe42bcc56c872afeecb32ff17cbb4cd0b91222fe]{
+-- Page 1, Offset 10438.
+-- だが、生徒の多くはその前身を知らない。
+  Most students never knew what this building used to look like.
+
+}
+[sha:79fe492cd1163d54ecba3c9cf1dea15e5a87d923]{
+-- Page 1, Offset 10439.
+-- 今の姿とは比べようのない、木造の小さな<学舎|まなびや>。
+  It was just a small, rundown wooden building, a shadow of its former self.
+
+}
+[sha:2a5011473612ff23149b4edd1da4821ca25375b7]{
+-- Page 1, Offset 10440.
+-- その旧校舎は取り壊される事もなく、今でも<鎮|しず>かに眠っている。
+  The former school was never torn down and now stood in lonely silence.
+
+}
+[sha:95881e39e8fe1722bb262510bb8da2fb4222841d]{
+-- Page 1, Offset 10441.
+-- 裏山に<延々|えんえん>と続く森のただ中に、ひっそりとその身を隠すように。
+  It was tucked away deep in a seemingly infinite wood that stretched across the mountains.
+
+}
+[sha:a1a6809289a0d0738233677fe98e09b21de04313]{
+-- Page 2, Offset 10442.
+-- 枯葉を<掃|は>く竹ぼうきの音が響く。
+  The sound of brooms sweeping dead leaves resonated in the air.
+
+}
+[sha:4071cfaeb1cb65de0b65b5045db2a79bfa348c54]{
+-- Page 2, Offset 10443.
+-- 裏山に枯れ落ちた葉は、砂浜に打ち寄せる波のようだ。掃いても掃いてもきりがない。
+  The ocean of leaves had accumulated into piles as big as sand dunes; sweeping was a futile venture at this point.
+
+}
+[sha:f4b29a42c6ba7572ef6ebfbadc0649759b1b4517]{
+-- Page 2, Offset 10444.
+-- なにしろ二年間以上放置された魔境である。
+  An ominous feeling lingered in the air, perhaps the result of two years of abandonment.
+
+}
+[sha:6bb94e040fca940264d15cbf98c4953d40e7a483]{
+-- Page 2, Offset 10445.
+-- 仮に校内あげての清掃を始めたところで、一日二日でどうにかなるものではない。
+  Cleaning the inside of the building alone would take more than a few days to finish.
+
+}
+[sha:82fc95f3c0bf069dc5bb0d3246fd3a5eb62c6339]{
+-- Page 2, Offset 10446.
+-- <況|いわ>んや、
+  Not to mention,
+
+}
+[sha:92e8cc70eab4f644b95a6f15e76f2bac2933034d]{
+-- Page 3, Offset 10447.
+-- 「あー、ほんとだりぃー、存在価値がみいだせねぇー。
+"Ugh, this SUCKS! We're students, dammit! Not machines!
+
+}
+[sha:24146fafa9118b5c35977cce0e5347789ab0a16e]{
+-- Page 3, Offset 10448.
+-- バッカじゃねえの、冬休みは短いってのに、なんでこんな事やらせんだよ生徒会は」
+  We barely get any winter break and then the student council has us out here doing this crap?"
+
+}
+[sha:056f4bb7d94b0ef533a58e606d8b7b2f95ee3ae0]{
+-- Page 3, Offset 10449.
+-- その参加者がこのような<不心得|ふこころえ><者|もの>では、裏山の美化など望むべくもないのだった。
+  The misguided youth sent here for the job wasted no time making it clear he wanted no part in the beautification efforts.
+
+}
+[sha:af2f28df9ae38dce5d397ac577817d20a172384c]{
+-- Page 4, Offset 10450.
+-- 「っていうかジャージでやらせんなよ、ジャンパーぐらい着させろよなー。
+"At least let us wear a jacket or something! It's freezing out here!
+
+}
+[sha:1ad4ae0a7707896edc41c6d7468f983915ff766f]{
+-- Page 4, Offset 10451. Glued. Mods: @x.
+-- なにこれ、もしかして体育の補習？　寒中マラソン？　オレ体育だけはサボったコトねぇんスけどねー！」
+Is this part of gym class or something? Winter marathon training? And I'm saying this as someone who NEVER skips gym class!"
+
+}
+[sha:15fe075ff95bbcf408ae95758a748ebefbe1ba25]{
+-- Page 4, Offset 10452.
+-- なげやりに竹ぼうきをブンブンと振り回し、<罵詈|ばり><雑言|ぞうごん>をまき散らす<木乃美|きのみ><芳助|ほうすけ>。
+  Housuke Kinomi continued to mumble and grumble to himself as he reluctantly swept away at the ground.
+
+}
+[sha:f89abe8004c56ea722dc5470db012aac20333108]{
+-- Page 4, Offset 10453.
+-- それを横目にしながら、草十郎は無言でざっざっと竹ぼうきを動かしていた。
+  Meanwhile, Soujyuro silently and swiftly continued his sweeping, glaring at Kinomi out of the corner of his eye.
+
+}
+[sha:7e01eb7b34fa3efcda5ba31d96ea8a46a13caa56]{
+-- Page 5, Offset 10454.
+-- 「おい、なに真面目にやってんだよ。こんなの適当でいいんだって。だいたい四十人しかいねえのに、こんな山みたいな庭の掃除なんか終わるかってんだ」
+"Are you seriously trying to clean up all this for real? There's only, like, forty of us out here. There's no way we're going to get all this cleaned up, so who cares?"
+
+}
+[sha:59067eca740a3acc218c7bdfafc9908b7646957a]{
+-- Page 5, Offset 10455.
+-- 「終わらない事なんてない。少しうるさいぞ、木乃美は」
+"Anything can be completed with diligence, Kinomi. Stop complaining so hard."
+
+}
+[sha:dd3ed691cc52c3790a6b4e6343712c4747a0443b]{
+-- Page 5, Offset 10456.
+-- 振り向きもせず<窘|たしな>める草十郎に、木乃美はますます詰まらなそうに竹ぼうきを振り回した。
+  Kinomi went back to idly swinging his broom without even glancing over at Soujyuro.
+
+}
+[sha:f3a7da3f2bbbbcd18c594260396abd186418c604]{
+-- Page 6, Offset 10457.
+-- 朝の裏山は寒い。
+  Mornings on the mountain were cold.
+
+}
+[sha:02d98205bb86aae0c7dd088408d2c1a4e95f3462]{
+-- Page 6, Offset 10458.
+-- 曇った空には太陽の影もなく、灰色の光が裏庭を照らしていた。真冬の見本みたいな寒さは、軍手ごしにも手をかじかませる。
+  There was no hint of sun in the cloudy sky above; ash-gray light illuminated the rear courtyard; the sharp cold of mid-winter pierced through everyone's gloves as if they did not exist.
+
+}
+[sha:47c8e01fe183d46ec8d7ee985b5db6016196daeb]{
+-- Page 6, Offset 10459.
+-- こんな日は部屋でぬくんでいるべきなのに、何の因果か、彼らは裏山の掃除なんてやっていた。
+  A day like this was best spent indoors under warm blankets, but for some reason they were out here cleaning.
+
+}
+[sha:721a46d4851085680973c6466e84c9c1cdec60bf]{
+-- Page 7, Offset 10460.
+-- 冬期特別清掃班。
+  The Special Winter Cleaning Team.
+
+}
+[sha:78235f905498d423eb59e7a87556854491128a95]{
+-- Page 7, Offset 10461.
+-- それは、いいかげん荒れ放題の裏山をどうにかしようと集結した有志たちによる、決死隊の呼称である。
+  That was the name given to this elite force sent to clean up this dilapidated, overgrown mountain.
+
+}
+[sha:797ba5457bc0bafcaf5fd0bc62572c0b6d45bb3b]{
+-- Page 7, Offset 10462.
+-- 一般生徒は彼らを美化という名の神に信心を捧げた、鋼のお掃除部隊と思うだろう。
+  The other students had put their faith into this team to fulfill this beautification mission, respecting them for their sacrifice.
+
+}
+[sha:02ef6952f3c9d5f8f925a75e1b0e1d2e78eda57c]{
+-- Page 8, Offset 10463.
+-- しかし、その実態は期末試験の補習の一貫として用意された、ただの罰ゲーム部隊だった。
+  The reality, however, was that this was nothing more than a ragtag dare-losing gang of students needing remedial lessons before their exams.
+
+}
+[sha:22f1aeede6699d2c5d44b35d80bf14ec3a620a8d]{
+-- Page 8, Offset 10464.
+-- 今年度の生徒会が力技で実行した、一年計画の犠牲者である。
+  They were the victims of a year-long arm-twisting scheme by the student council.
+
+}
+[sha:2cccb4dbdf0953719a272d0ed7cf725f30a235c2]{
+-- Page 9, Offset 10465.
+-- そろそろ雪が降ってもおかしくないこの季節に、誰が好き好んで枯葉拾いなぞやるものか。
+  Who in their right mind would come out here to sweep up leaves with a blizzard looming on the horizon?
+
+}
+[sha:2891fd10d41322e45bb473a476d8c0ce04210950]{
+-- Page 9, Offset 10466.
+-- 結局集まった四十人のうち一人を除いて、有志でもなんでもなかったりする。
+  Other than one of the forty assembled, none of them had any semblance of interest in the task at hand.
+
+}
+[sha:52233b8d8979e9a9f7007f3c9841c8ec9ed61509]{
+-- Page 10, Offset 10467.
+-- 「げ。おい見ろよ<静希|しずき>。<赤羽|あかばね>たち、向こうで焼き芋とかレトロなマネしてやがる！
+"Hey, Sizuki, look over there. Akabane and those guys are over there roasting sweet potatoes! What is this, the 50s or something?!
+
+}
+[sha:60ded15d5b188fd9ee1c401aeb1c1330f4dd67ab]{
+-- Page 10, Offset 10468.
+-- んが、二番煎じはいかにもあたま悪いしな。そうだ、オレたちはイカでも焼かねぇ？」
+  Looks like they don't even know how to roast them properly. Oh, I know! Wanna grill some squid?"
+
+}
+[sha:f8051b3ecf3e0d70fb781530b2f1354459b46a17]{
+-- Page 11, Offset 10469.
+-- もとより掃除をする気のない木乃美はしきりに草十郎を懐柔しようとしていた。
+  Kinomi did not want to be here to begin with, and was constantly trying to break Soujyuro into joining him.
+
+}
+[sha:93bc741533a93643a36cb7cee0cb9a06f3e326d9]{
+-- Page 11, Offset 10470.
+-- 清掃班はグループに分けられており、草十郎と木乃美は体育館裏の担当だ。
+  The cleaning squad was divided into groups. Soujyuro and Kinomi were in charge of cleaning behind the gymnasium.
+
+}
+[sha:9918140ad6c9527f4723c7f4a451d4684c9aff1e]{
+-- Page 11, Offset 10471.
+-- リーダーは草十郎で、一般兵士は木乃美である。
+  Soujyuro was the leader of the platoon. Kinomi was the grunt.
+
+}
+[sha:601ac9839a8500f5aea65d057eb0f6e566d61180]{
+-- Page 12, Offset 10472.
+-- 「ああ。こことあっちの垣根をきれいにしたら、焼き芋だろうと焼きイカだろうとネコ鍋だろうと好きにしよう。その頃にはちょうどお昼だ」
+"Look, when we finish cleaning up around this fence you can go off and eat your sweet potato or squid or whatever it is you want because it'll be lunch time."
+
+}
+[sha:7804dd1660a367ba58a80443fc4162dd099f8ad2]{
+-- Page 13, Offset 10473.
+-- 草十郎は慣れた手つきで、かき集めた枯葉をビニールのゴミ袋に詰めていく。
+  Soujyuro said, as he expertly packed his swept leaves into trash bags.
+
+}
+[sha:a0d9689109cc0d9b68c11bc1077f3528a4436692]{
+-- Page 13, Offset 10474.
+-- うっすらと霧が立ち籠める朝七時から集まって、すでに二時間。
+  Two hours had passed since they assembled on this foggy morning at seven o'clock.
+
+}
+[sha:88eb4e8a4dfbb48ea56f483816c140637cf8bccc]{
+-- Page 13, Offset 10475.
+-- 誰もが<音|ね>を上げてだらけ始めている中、草十郎は開始時と同じペースで黙々と働いていた。
+  While everyone else chatted and laughed as they worked, Soujyuro alone had worked in complete silence at the same blistering pace since he started.
+
+}
+[sha:70d9ece1b0dad68eae4fea6d80fb9a0fef16cb45]{
+-- Page 13, Offset 10476.
+-- 掃除用に着替えたジャージはえらく寒いのに、泣き言一つないのは運動量の多さ故だろう。
+  The sheer amount of work he put in was likely the only thing keeping him from complaining of the cold in his thin jersey.
+
+}
+[sha:4b276fe41801bbdf74ab72f8ffcb8694eac66ba2]{
+-- Page 14, Offset 10477.
+-- 「なー、やめようぜ。みろ、そこの池……スケートリンク……？　いや、やっぱ池……？
+"Come on, let's take a break. Look at that pond...or should I say ice skating rink? No, on second thought, it's just a pond.
+
+}
+[sha:56005b6babd20baeff25578aaa2dab288db88a7d]{
+-- Page 14, Offset 10478. Glued. Mods: @x.
+-- とにかく、そこの池らしきモノだってカチカチに凍ってるぐらいなんだぜ？
+  But it's frozen solid, dude! That's how cold it is out here!
+
+}
+[sha:47ea18439362011dd5ed1f6f598b1191c7bb89c3]{
+-- Page 14, Offset 10479.
+-- こんな雪原じゃ人体はフツー動かねえよ、機械伯爵でもなきゃだよ、そろそろ人間狩りがはじまるよー」
+  A normal human can't work in these snowy conditions unless they're some kind of robot. We're going to have to start eating each other to survive if this keeps up!"
+
+}
+[sha:b5e6d8bd971bafd071955a391c0e54843050d852]{
+-- Page 15, Offset 10480.
+-- 「なんで、いいかげん休憩しねえ？
+"Why won't you just take a break for a minute?
+
+}
+[sha:89edae4ba29db41d136aecf4668517153ddc149a]{
+-- Page 15, Offset 10481.
+-- せっかく枯葉集めたんだから、燃やして暖まんないとさー。どうせ監視役は殿下しかいないんだしさー。な、焼きイカやろうぜ、焼きイカー」
+  We got all these leaves together, why don't we burn 'em and get warmed up! Nobody's really watching, come on let's grill some squiiid! Pleeeeeease!"
+
+}
+[sha:28b79fc8565b4a99384538c79b68633d38192981]{
+-- Page 16, Offset 10482.
+-- イカに思い入れがあるのか、木乃美はしつこく主張する。
+  For some reason, Kinomi was droning on about his squid.
+
+}
+[sha:1ef19e6a247ddb081247210bdce18e8922b1676b]{
+-- Page 16, Offset 10483.
+-- 相棒の泣き言を黙って受けとめていた草十郎だが、それもそろそろ限界らしかった。
+  Soujyuro had managed to withstand the barrage of complaints from his comrade, but even he was reaching his limit.
+
+}
+[sha:552dfc6f3fb9f974d6ee05a41e7d95e7ba2933c0]{
+-- Page 16, Offset 10484.
+-- 「木乃美、頼むから……」
+"Kinomi, please..."
+
+}
+[sha:28f3560ca94498342a97652d4c8aeeaaff7be073]{
+-- Page 17, Offset 10485.
+-- その時、草十郎は相棒の背後に死神の姿を認めた。
+  Just then, Soujyuro saw the Grim Reaper himself creeping behind Kinomi.
+
+}
+[sha:a66b9c5bf5b8e5de53d5e8477bbcd41284704194]{
+-- Page 17, Offset 10486.
+-- 手に持っている物が竹ぼうきではなくクマデなのがまたらしい。
+  In his hands he held a rake instead of a soft bamboo broom.
+
+}
+[sha:64d6c1e1a0e0c2b617d445773fc87a76d84d133e]{
+-- Page 18, Offset 10487.
+-- 「いいぜ。おまえがイカなんてモンを用意してるほどの大人物だってんなら、<謹|つつし>んでイカ焼きぐらい許可してやるよ。なんなら醤油はこっちで用意してやろう」
+"Sounds good to me. I'll let a bit of grilled squid slide. Far be it for me to get between the big man and his squid. I tell you what, I'll even get you the soy sauce."
+
+}
+[sha:c28c85b332237cc77f43eae7af5a2e798779d79f]{
+-- Page 18, Offset 10488.
+-- 背中からの声に、木乃美はびくり、と背筋を伸ばし、
+  Kinomi shot to attention at the voice behind him.
+
+}
+[sha:420f7d4998eacefa747ab8f6a3af10beb90a97a8]{
+-- Page 18, Offset 10489.
+-- 「ひゃあ！　その物言い、槻司<某|なにがし>―――！」
+"Ahhh! Tsukiji, is that you?!"
+
+}
+[sha:556ba4af06342ba4ceb7e8993110792b1507efd2]{
+-- Page 18, Offset 10490.
+-- 時代劇めいた台詞を吐いて、振り向きざまに竹ぼうきを振るう。
+  Before quickly turning around, swinging his broom in the process.
+
+}
+[sha:e656b0447c1df11e47beb969ea076926e8070241]{
+-- Page 18, Offset 10491.
+-- それを鳶丸はクマデでがっしりと受けとめた。
+  Tobimaru easily blocked the swing with his rake.
+
+}
+[sha:f5b84d130e14d13dfd3a8251987b2b4f4ebde808]{
+-- Page 19, Offset 10492.
+-- 「ああ？　テメエ、やる気十分じゃねえか。あふれる労働意欲を抑えきれないってワケか？　なんなら<特別|シベリア>コースにでも行っちまうか？」
+"Oh, so NOW you wanna use that broom, huh? Just can't contain all that hard-working spirit, I see. Maybe I should assign you to the special Siberian trail, then!"
+
+}
+[sha:0ce5994bd320279756f1fae98d495dbc67f477ca]{
+-- Page 19, Offset 10493.
+-- 「はん。女ども集めて焼却炉に陣どってる野郎の言葉なんざ聞かねえよ。真冬に南国気分とかマジ寒いわ」
+"Hah. All you've done is stand over by the furnace with the girls pretending like you're on a Caribbean holiday instead of out here in the freezing cold."
+
+}
+[sha:d347e182676422ce6b66ce2f0b9f08faaea85cef]{
+-- Page 20, Offset 10494.
+-- 竹ぼうきとクマデを交差させて、ふたりは不敵な笑みを浮かべている。
+  Both boys glared at each other with a wry smile, broom and rake locked in an embrace.
+
+}
+[sha:60bc8a256d0c974433f5124b4bef68fb76f19b9a]{
+-- Page 20, Offset 10495.
+-- これでも学園内限定で仲のいいコンビだった。
+  These two were only friendly with each other on school grounds.
+
+}
+[sha:de0616fc0b2e7ac8c693619f6d5f52aec1601dbd]{
+-- Page 21, Offset 10496.
+-- 「鳶丸。いちおう、彼は戦力なんだから邪魔しないでくれ」
+"Tobimaru, please don't distract him any more than he already is."
+
+}
+[sha:ee57757eb124723b97ea5e6357986fa1249eb0c1]{
+-- Page 21, Offset 10497.
+-- チ、と心底忌々しそうに舌打ちし、矛を納める両者。
+  Both of them scoffed angrily and put away their weapons.
+
+}
+[sha:a35eaf14f2ebc9b3c9344ad48ca2d4dd0eba3e9f]{
+-- Page 21, Offset 10498.
+-- なんというか、ゴミ袋片手に、俗世のコトなど関心ありません、と掃除をする草十郎の<言|げん>には逆らえない。
+  They both knew better than to argue with Soujyuro, the only one cleaning with a garbage bag in hand.
+
+}
+[sha:3e8527221ccffd9c1de244a6675a6d93c9960be3]{
+-- Page 22, Offset 10499.
+-- 「それで、何しに来たんだ鳶丸。
+"Something we can help you with, Tobimaru?
+
+}
+[sha:3485723991b4b6e9f976c90ea970ecfe21ba2752]{
+-- Page 22, Offset 10500.
+-- 君はあったかい焼却炉の前で、永遠に火の管理をすると豪語していたんじゃなかったっけ？」
+  I thought you were too busy pretending to tend the fire over at the furnace."
+
+}
+[sha:4a2316114d2e346d5fe6b0fb2d7fbfc163e436e1]{
+-- Page 22, Offset 10501.
+-- もとい。
+  A harsh comment.
+
+}
+[sha:1a0e3ef022a89a004a04ed4a0ab37200a2e05d8e]{
+-- Page 22, Offset 10502.
+-- この男も、多少は俗世に関心があったらしい。
+  Apparently even Soujyuro had a slight taste for drama.
+
+}
+[sha:8e9760da63d1e7323932bfa62588cf58e0ab5505]{
+-- Page 23, Offset 10503.
+-- 「なんてこった……善良な生徒ですら、俺をそんな目で見るのか……」
+"So it's come to this. Even the upstanding students like you are looking down on me now."
+
+}
+[sha:f84d1b8d230ef4cc01d76a49f25bcc0215ce2d0c]{
+-- Page 23, Offset 10504.
+-- 悲しそうに鳶丸は言う。
+  Tobimaru seemed sad at Soujyuro's observation.
+
+}
+[sha:e92d84fd92887e75df564f60bb20e2c91e94b6f8]{
+-- Page 23, Offset 10505.
+-- が、集められた落ち葉を燃やして<暖|だん>を取りながら、女子の清掃班を手伝いと称してはべらせている以上、かける情けは落ち葉一枚分もないのである。
+  But as long as Tobimaru continued to claim he was helping the girls clean by doing nothing more than standing in front of a pile of burning leaves, Soujyuro found it hard to sympathize.
+
+}
+[sha:90b54e7f5589b9aa9b37e3c8d7c140c2ed93547d]{
+-- Page 24, Offset 10506.
+-- 「いいから用件を言えよ。殿下と違ってオレらはヒマじゃねえんだ」
+"Just tell us what you want. We're actually busy doing work over here, unlike some people."
+
+}
+[sha:8704a0e05c1bb27cf4517384becbec5d8330f4dc]{
+-- Page 24, Offset 10507.
+-- 「ああそうかよ。草十郎、そろそろ小休止だ。
+"Oh is that so? Well, lucky for you it's almost break time.
+
+}
+[sha:7858863c15dc4fea3c158d2f17d8ee7c74085a86]{
+-- Page 24, Offset 10508.
+-- 向こうで<暖|あたた>まろうや」
+  Let's get warmed up over there."
+
+}
+[sha:3f9932eb0f2a598185c8a3851c82c3325e81148f]{
+-- Page 24, Offset 10509.
+-- 「お、なんだブレイクかよ！　話せるじゃん、殿下！」
+"Oh, break time! Now you're talking!"
+
+}
+[sha:2cf71cb04687299b560527a323eb87e342a77943]{
+-- Page 25, Offset 10510.
+-- 「あ？　テメエは除外に決まってんだろ。特権は功労者にのみ与えられるモンだ。
+"Huh? Not for you, idiot. Only people who've actually done some work today can take a break.
+
+}
+[sha:535019b478b0810e4a6f82b2b95c29d33219e291]{
+-- Page 25, Offset 10511.
+-- 焼却炉の前に来たけりゃ、それ相応の貢ぎ物を持ってきやがれ。具体的に言うと、リヤカー一台分のゴミ袋な」
+  If you wanna come stand by the furnace then bring me enough leaves to fill a cart. Until then, keep sweeping."
+
+}
+[sha:c23fdf0e167b370cc6115bf008a92a478440f5c2]{
+-- Page 25, Offset 10512.
+-- 「ひっでぇ、生徒会横暴ー！」
+"Argh! I have rights, you know! This is abuse of power!"
+
+}
+[sha:fd9a1ce16b9b81af800bd428f874be72c3e49999]{
+-- Page 26, Offset 10513.
+-- 木乃美の抗議は当然のように届かない。
+  Kinomi's complaints naturally fell on deaf ears.
+
+}
+[sha:21acc0cc9e885c4f559a1ad139dda76ab79f0ca6]{
+-- Page 26, Offset 10514.
+-- 清掃班の指揮役として<抜擢|ばってき>された鳶丸には、こんなんでも絶対的な権力があった。
+  Tobimaru had been selected to lead the cleaning operation, and his word was final.
+
+}
+[sha:a05c9fe40369dd73e8bfdca5d9ff1a719f2de283]{
+-- Page 26, Offset 10515.
+-- 彼がちょっと記録に手を加えれば、木乃美は明日も明後日も清掃班に参加する事になる。
+  If Kinomi were to continue to push his buttons, he knew he would be on cleaning duty tomorrow and the next day, too.
+
+}
+[sha:ab919c43fd3ce3b2bb49acf65c657b07f71eef8d]{
+-- Page 27, Offset 10516.
+-- 「さ、行くぞ。誰の趣味かしらねえが、なぜかしるこの缶が山ほどあってな。中華まんの一つでもあった方が気が利くってもんなんだがねぇ。アレか、遭難用のチョコレートみたいなもんか？
+"All right, here we go, people. Don't ask me why, but we have a bunch of cans of sweet red-bean soup. Some meat buns would've been better, but that would have required a certain someone to use their brain. We've also got some emergency chocolate.
+
+}
+[sha:dc6e22df18a777d80e175f6e8431d25acd0b9655]{
+-- Page 27, Offset 10517.
+-- ……ったく、アイツの考えはいまだに分かんねぇなあ」
+  ...Goddammit. What the hell was she thinking?"
+
+}
+[sha:8293f2822c39455c6e461310ba7c1630fd963511]{
+-- Page 27, Offset 10518.
+-- それはそれで気が利いているのでは、と感心する草十郎。
+  Soujyuro reassured Tobimaru by saying that he thought the food would do just fine for everyone.
+
+}
+[sha:20b9e459253f6cded457143c3176ebacd50de014]{
+-- Page 28, Offset 10519.
+-- 「ん？　なんだよ、行かねえのか草十郎？」
+"Huh? Wait, you're not coming?"
+
+}
+[sha:62577cb490b8bea347e5a301e26abd5e818eb851]{
+-- Page 28, Offset 10520.
+-- 「ああ、自分はここに残るよ。<暖|だん>なら木乃美の言うように葉を燃やせばいい。そこに池もある。火の始末なら安心だ」
+"No, I'm gonna stay here. We can just burn some leaves to stay warm like Kinomi said. We've got a pond right there, so we can easily put it out when we're done."
+
+}
+[sha:7ea342a6cbb658df32cb5851603c83201e718b54]{
+-- Page 28, Offset 10521.
+-- 木乃美に気をつかっての返答である。
+  This was clearly for Kinomi's benefit.
+
+}
+[sha:5cd427621078a43f295fa9939efda564733e4b0b]{
+-- Page 28, Offset 10522.
+-- 鳶丸は眉をひそめ、木乃美はプルプル震えている。
+  Tobimaru furrowed his brow while Kinomi shivered from the cold.
+
+}
+[sha:ab68672cb1106c050bf094c3c96e84de496768fb]{
+-- Page 29, Offset 10523.
+-- 「おお……ぉおおお……！
+"Ohhh... Ohhhhhhhh!
+
+}
+[sha:3a6dd6751d7c9a9a23017827a03045c25110e5d6]{
+-- Page 29, Offset 10524.
+-- オ、オレはいま友情ってもんを実感している！　すげえな、真心ってほんとにあったんだ！
+  I-Is that a glimmer of friendship I just saw! You know what? You're as pure as the snow is white!
+
+}
+[sha:f3a6fe96b662c6a2d78304c11b138cea22d03da1]{
+-- Page 29, Offset 10525. Glued. Mods: @x.
+-- クソ、待ってろ静希！　いま赤羽たちからイモ奪ってくる！」
+  This is nuts, but just wait here, Sizuki! I'm gonna go grab some potatoes from Akabane!"
+
+}
+[sha:8f9c893f5402f8262122c869eca501e21c2d9427]{
+-- Page 29, Offset 10526.
+-- 根は照れ屋なのか、木乃美はとなりの班の集まりへ走っていった。
+  Perhaps shy to show his true feelings, Kinomi ran off to the neighboring group.
+
+}
+[sha:843fc1ccb9e09e97fd53c074ff9bcebfd03a8ab9]{
+-- Page 30, Offset 10527.
+-- 「……ま、予想はしてたけどな。ほらよ」
+"...Eh, I figured you'd say that. Here."
+
+}
+[sha:373114c649d1a662605951f238fa6a87ce9c2468]{
+-- Page 30, Offset 10528.
+-- やれやれと頭をかきながら、鳶丸はジャージのポケットからホット缶を取りだした。
+  Tobimaru pulled out a hot can from his jersey pocket, scratching his head in exacerbation.
+
+}
+[sha:c45aec73f4806124195641766ff5fbf011ffe035]{
+-- Page 30, Offset 10529.
+-- 左右のポケットと、ズボンの後ろ、合わせて三本。
+  He pulled out three in all, one from each jersey pocket and one from his pants pocket.
+
+}
+[sha:6903dfb416e69b282f41681a330b701f13679ade]{
+-- Page 31, Offset 10530.
+-- 「さっさと焚火の用意をしようぜ。
+"Let's get a fire going.
+
+}
+[sha:310c90c5b6c9df5d48632a35cb9c1d08686eecdc]{
+-- Page 31, Offset 10531.
+-- 俺もこっちで休む事にするわ」
+  I'm gonna chill over here too."
+
+}
+[sha:6df18da6fff6faa774e870948ca58a00a8e84c33]{
+-- Page 31, Offset 10532.
+-- 「付き合いがいいのはお互いさまだな」
+"I guess we both know how to deal with people, huh?"
+
+}
+[sha:0e366214040bc615c3d68703ffff2fb38951582c]{
+-- Page 31, Offset 10533.
+-- 草十郎は手早く焚火の用意を済ませる。
+  Soujyuro quickly prepared the leaves for the fire.
+
+}
+[sha:ad7057741e8ee0f54b419a7ca5b1afa9ca410f29]{
+-- Page 31, Offset 10534.
+-- 落ち葉を集め、きちんと<燻|くすぶ>るよう、あっさりと燃やしてみせた。
+  Carefully gathering them up for them to burn neatly.
+
+}
+[sha:c355097f768f620059c55d02e6572b6deaa93ec9]{
+-- Page 32, Offset 10535.
+-- 「…………慣れてるな」
+"...You're pretty good at that."
+
+}
+[sha:fc0f2f96dec63391b45fa7eac6482a1846b7901c]{
+-- Page 32, Offset 10536.
+-- 「マッチがあるから、楽なんだ」
+"Eh, it's easy when you have matches."
+
+}
+[sha:95b2efc0d99a88e042bcaaff3f6310f15b178c1d]{
+-- Page 32, Offset 10537.
+-- 草十郎は火をつけた落ち葉の前にしゃがみこんで、かじかんだ両手をかざした。
+  Soujyuro crouched down in front of the burning leaves and warmed his hands near the flames.
+
+}
+[sha:fd4eda8843340d582f23e78ada084d5e671da51c]{
+-- Page 32, Offset 10538.
+-- 寒そうな素振りは見られなかったが、草十郎は草十郎なりに寒かったらしい。
+  Even though he showed no signs of being cold, underneath it all, Soujyuro was cold, too.
+
+}
+[sha:5d765b00ec9f67c9871db1afcf790b45f81795f4]{
+-- Page 33, Offset 10539.
+-- ぱちぱちと煙る落ち葉の山を、懐かしむように草十郎は眺めている。
+  He gazed into the fire as the smoke rose from the pile of leaves, as if remembering the good times from his past.
+
+}
+[sha:d77f9e1d894597230300c2407df4e62430910fdd]{
+-- Page 33, Offset 10540.
+-- ……その姿に、鳶丸は一抹の不安を感じた。
+  Tobimaru felt a touch of concern as he looked at Soujyuro.
+
+}
+[sha:61f0b95a0d17d5b067be80b6a290dcf8e4e1b44a]{
+-- Page 33, Offset 10541.
+-- 望郷や追想。住む場所を奪われ追われた、異邦人のような暗い<翳|かげ>りを、その姿に見たからだ。
+  He saw within him homesickness and retrospection. He also saw a dark shadow looming over him, like a stranger in a foreign land without a home.
+
+}
+[sha:24cac77bd10df57879e7228a9b57917d4aaf12f4]{
+-- Page 34, Offset 10542.
+-- 「元気ねえな、草十郎」
+"You don't look so good, Soujyuro."
+
+}
+[sha:1e80243fb811261c9a0c946f5b9df4db9fae0ca3]{
+-- Page 34, Offset 10543.
+-- 「……まあね。少し、疲れてる」
+"I suppose I *am* a little tired."
+
+}
+[sha:f9cc8a90f74dafc7cc8199cdfae34ee7dc31f010]{
+-- Page 34, Offset 10544.
+-- 「悩みごとなら相談にのるぜ。気が向いたら話してくれ」
+"If you need to talk, I'm here for you. Just let me know."
+
+}
+[sha:165e0426b1e9fbec278a441e183759250bee3718]{
+-- Page 34, Offset 10545.
+-- お汁粉缶を開けて、人差し指に残ったリングプルを持て余しながら鳶丸は続ける。
+  Tobimaru continued speaking with the pull-tab from the can of sweet red-bean soup still around his index finger.
+
+}
+[sha:59fba161d5f19521ca4f442fdcb30c6868575896]{
+-- Page 34, Offset 10546.
+-- 草十郎は焚火に意識を向けたままだ。
+  Soujyuro was focused on the fire.
+
+}
+[sha:dfee851afec3963c9d62477c2311918491e7c41c]{
+-- Page 35, Offset 10547.
+-- 「そういえばな。おまえが学校休んでる時、蒼崎に殴られたぜ。なんでも俺は大ぼら吹きだそうだ」
+"Oh yeah, while you were taking a break from school, Aozaki slugged me. She said I've got a big mouth."
+
+}
+[sha:399a83288401d90eaa7ea4965b290647d07fa318]{
+-- Page 35, Offset 10548.
+-- 「すごいな、大抜擢じゃないか」
+"Wow, congratulations."
+
+}
+[sha:6e63de3cf33f090a1ddb83d1e7e696a4f2f09413]{
+-- Page 35, Offset 10549.
+-- 草十郎の返答は、時々このように脈絡がない。
+  Sometimes Soujyuro would reply incoherently like this.
+
+}
+[sha:8024c53165fc833233975fa414abd3f0bbdb310b]{
+-- Page 35, Offset 10550.
+-- おそらく文化圏の違いだろう、と鳶丸は気にしない事にした。
+  Tobimaru chalked it up to cultural differences.
+
+}
+[sha:6f4aaa948a6dba5960ada6891f90aa9a1d65bc04]{
+-- Page 36, Offset 10551.
+-- 「なあ、蒼崎とはどうなってんだ？　テスト前は駅まで一緒に帰ってただろ。うまくいってんのか、あれから？」
+"Say, how are things going with Aozaki anyway? You used to walk with her to the train station before exams. Have things been going well since then?"
+
+}
+[sha:3f7c2b0fe9185a4273b1f5e7d6539e1fa56162f4]{
+-- Page 36, Offset 10552.
+-- そんなハズはあるまい、と誰よりも分かっているクセに問いただす。そんな鳶丸に、
+  It was obvious to everyone that that was far from the case, yet Tobimaru asked anyway.
+
+}
+[sha:a3f1ade2d75e815ee91e5e50c92523c91ffd8b30]{
+-- Page 36, Offset 10553.
+-- 「ああ、今は一緒に住んでるよ」
+"Yeah, we live together now."
+
+}
+[sha:6d1659765c54e1f434f1fe32149669cb043d9f04]{
+-- Page 36, Offset 10554.
+-- 草十郎はあっさりと真実を告げるのだった。
+  Soujyuro went with the truthful, blunt response.
+
+}
+[sha:226606a37010b8c22a46b1cf282a71f5955eeead]{
+-- Page 37, Offset 10555.
+-- 「ほー。そうか、一緒ときたか」
+"Wow. I see, I see. That was quick, dating already, huh?"
+
+}
+[sha:032a8823dfad66ed367fce7489cfcb670e6f1e26]{
+-- Page 37, Offset 10556.
+-- あまりに自然な返答にハハハ、と鳶丸は相づちを打ち、
+  Tobimaru tried to laugh off Soujyuro's all-too casual confession, however...
+
+}
+[sha:5a4bdbe73eb5a5d505822122d1ec6fd4afdb2847]{
+-- Page 38, Offset 10557.
+-- 「あん、一緒に住んでるだぁーー！？」
+"Wait, you LIVE TOGETHER?!"
+
+}
+[sha:0e4e5c5d9f00faf2cc718324ead7f107a85606cf]{
+-- Page 39, Offset 10558.
+-- 「どうした鳶丸。火でも飛んだか？」
+"Are you okay, Tobimaru? Did a spark hit you?"
+
+}
+[sha:3e5eacc3b81e6f3056db03902b1777c74c433c56]{
+-- Page 39, Offset 10559.
+-- 「飛んでねえし、それより怖ぇ。おい、今の聞き捨てならねえ<戯言|たわごと>はホントの話か？」
+"No, worse. My friend just said the wildest thing I've ever heard."
+
+}
+[sha:fa4f8dea2d5b61fd736dc2dd3f8b230b9cd0c2d1]{
+-- Page 39, Offset 10560.
+-- 戯言とは何事だ、と草十郎は無言で抗議。
+  Soujyuro protested Tobimaru's reply with silence.
+
+}
+[sha:a82442141009ecbaeefc4e275b3efab34901ff74]{
+-- Page 40, Offset 10561.
+-- 「っ―――その余裕、マジか……女に興味なさそうな顔してて、やる事やってんじゃねえかテメエ」
+"...Y-You're not joking, are you? One day you're barely interested in girls and the next you're shacked up with one?!"
+
+}
+[sha:ea99a2122afcb17c5d0cca5426bccc194bdc0c8e]{
+-- Page 40, Offset 10562.
+-- 物理的に先を越された訳でもないのに、なぜか精神的に先を越された気がする鳶丸だった。
+  Tobimaru had always felt that he and Soujyuro were an equal match strength-wise, but for some reason he could not shake the feeling that Soujyuro was now his superior in the brain department.
+
+}
+[sha:b41d57b78d1efeeb77c84fe51c44bfded8da18ad]{
+-- Page 40, Offset 10563.
+-- そんな彼に、草十郎は珍しく怒りの視線を向ける。
+  Soujyuro cast a rare angry glare in Tobimaru's direction.
+
+}
+[sha:498d71f8261d795ce63fcf435943c8b2903b2fac]{
+-- Page 41, Offset 10564.
+-- 「こっちこそ聞き捨てならない。
+"That was awfully rude.
+
+}
+[sha:715808b5efa03fc89feeebd66f260d75a798330e]{
+-- Page 41, Offset 10565.
+-- なんだ、その女に興味はないってのは」
+  What do you mean I'm not interested in girls?"
+
+}
+[sha:6679b8d3e9674a15cfa82fabd3094538011af92d]{
+-- Page 41, Offset 10566.
+-- 本気で怒っているらしく言葉も冷たい。
+  Soujyuro seemed genuinely angry, and his voice was icy.
+
+}
+[sha:07e82eb16aea8c58aa2d7e7a9dfa10a31ce26105]{
+-- Page 41, Offset 10567.
+-- 草十郎のかつてない不機嫌さに、鳶丸も平静さを取り戻す。
+  This uncharacteristic level of anger from Soujyuro was enough to get Tobimaru to back down.
+
+}
+[sha:dd0db74b6faa857841627db5ff42f4eef03904b4]{
+-- Page 42, Offset 10568. Mods: @k, @e.
+-- 「いや、悪い。そんな雰囲気あったんだよ、おまえさんは。それは謝る。
+"Hey look, I was out of line. I just assumed a few things. I apologize.
+
+}
+[sha:4df24112acbb8e24b2071a579d2448e949c423e9]{
+-- Page 42, Offset 10569. Glued. Mods: @x.
+-- けどよ、蒼崎と一緒に住んでるってどういうことだ？　いくらなんでも<一足|いっそく>飛びすぎだろ」
+ But seriously, what do you mean you're living with her? This all seems way too fast for you."
+
+}
+[sha:ef50cbcf50616ebdd2e7ccbadd4c9cf768e05048]{
+-- Page 43, Offset 10570.
+-- 「別に、君が期待しているような事はない。彼女が住んでいるところの部屋を借りる事になっただけだ。
+"It's not what you think. I'm just renting a room in her house.
+
+}
+[sha:841e13b53a6b18244f37c096bffe1f165c4e3c23]{
+-- Page 43, Offset 10571.
+-- 屋根の裏にある部屋なんだけど、板張で山小屋を思い出すんで気に入ってる」
+  It's up in the attic, but it reminds me of a mountain cottage so I kind of like it."
+
+}
+[sha:7a1398a215cd72fa6a85d59ac1fecd633cfe04da]{
+-- Page 43, Offset 10572.
+-- それは屋根裏部屋というのだが、あえて鳶丸はスルーした。
+  Tobimaru did not bat an eyelid at hearing that Soujyuro now lived in an attic, and continued his questioning.
+
+}
+[sha:6c72e022dfcc05580c6cf2823a9667b95fa14e62]{
+-- Page 44, Offset 10573.
+-- 「屋敷って、あの久遠寺の屋敷か……？
+"I mean we're talking about *that* mansion, right? The Kuonji mansion?
+
+}
+[sha:e721cbfb1ea71e491e3eed5e83e66f645cf67f7d]{
+-- Page 44, Offset 10574.
+-- それこそまさかだぜ。草十郎。おまえ、いったいどんな手品を使いやがった？」
+  This is out of this world! What kind of wizard are you to pull that off?"
+
+}
+[sha:dd8ac40a2ab8b2e884920f4319083c57fae7c9e2]{
+-- Page 44, Offset 10575.
+-- 「？　鳶丸こそ、あの家を知ってるのか？」
+"Huh? You know the place, Tobimaru?"
+
+}
+[sha:4b44cc3ff3aaa7a16ecce45f2bcbe78893ab9864]{
+-- Page 44, Offset 10576.
+-- 「そりゃあな。これでも槻司家期待の跡取り候補だぜ、俺は。久遠寺グループのご令嬢が住んでる屋敷ぐらいは知ってるさ。礼園女学院の二年生だろ、たしか」
+"Come on, dude, you're talking to the heir to the Tsukiji throne here. Of course I know about the mansion where the first daughter of the Kuonji Group lives. She's a sophomore at the Reien Girls Academy, right?"
+
+}
+[sha:e335d0bbfdb9a828b396ac9fbea042e895a92452]{
+-- Page 45, Offset 10577.
+-- 「久遠寺……なに？」
+"Kuonji... what?"
+
+}
+[sha:5d2d45ea03ad6ea976b3e75272d908b7bd3dc574]{
+-- Page 45, Offset 10578.
+-- ますます首をかしげる草十郎に、鳶丸はやれやれと説明を続けた。もちろん、草十郎が分かるレベルに落としこんで。
+  Soujyuro was looking more confused than ever, so Tobimaru reluctantly explained everything as simply as he could so Soujyuro could understand.
+
+}
+[sha:a55fa9ab898d919bc0d4e35561f11a91a2385208]{
+-- Page 46, Offset 10579.
+-- 「久遠寺グループ……つーか財団だな。
+"The Kuonji Group. Well, they're more like a foundation, really.
+
+}
+[sha:28595c9bd5380f63dc4992c395a8a9705d0dd687]{
+-- Page 46, Offset 10580.
+-- 平たく言えば一族全部がお金持ちで、仲良く会社を経営してる連中だと思えばいい。複合企業とまではいかないが、輸出業じゃあかなりのもんだ」
+  All you need to know is, the whole family is loaded and they own and manage various companies together. They're not quite a conglomerate, but they're a big deal in the exports industry."
+
+}
+[sha:ee9136eb7e458fd93ea481b67d844738656e493b]{
+-- Page 47, Offset 10581.
+-- 「ホームグラウンドは国外で、先代の会長の英国びいきがたたって一時期は沈みかけてたんだが、五年くらい前かね。本拠地をこっちに移してからはご存じの通りだ。
+"They used to operate out of England because their old chairman loved the place, but things went south about five years ago so they moved all their operations back here.
+
+}
+[sha:757e2054a979e35227c80a9bc08ba6593860b05f]{
+-- Page 47, Offset 10582.
+-- 会長が息子に移ってからはきちんと持ち直して、今や町の名士だろ。ここでも久遠寺の名前はそこかしこで目に入る。この学校の建て直し予算の半分は連中からだしな」
+  Since their son took over, things have rebounded for them and that's why you see their name plastered around town. They contributed, like, half the funds required to rebuild our school."
+
+}
+[sha:c815735cf0ad2cd4bcd64784e0b595427b2663a1]{
+-- Page 48, Offset 10583.
+-- 極めて簡単に言ったのだが、それでも草十郎には早すぎたようだ。
+  Despite the oversimplified explanation, Soujyuro still seemed to not be getting it.
+
+}
+[sha:8386f3168dfa081d7fead48390fdbecac6887c7c]{
+-- Page 48, Offset 10584.
+-- 仕方なく鳶丸は話をきる。
+  With that, Tobimaru decided to give up on trying to explain.
+
+}
+[sha:b910b8a1974df1cdd8f9e8d2365a5da4b0c977df]{
+-- Page 49, Offset 10585.
+-- 「あれだ、想像もできない金持ちってコト。
+"They're filthy rich, okay?
+
+}
+[sha:f6a61755631338c3aa664f331a29f085af31acdd]{
+-- Page 49, Offset 10586.
+-- 草の字が働いてる喫茶店だって、久遠寺が向こうから持ってきたブランドだぜ？　今じゃ全国チェーンになっちまったがな」
+  You know that coffee place you work at? The Kuonjis brought that franchise here. Now they're a national chain!"
+
+}
+[sha:1596bb269da9ada09c8c17c53e8b36f34afeb81c]{
+-- Page 49, Offset 10587.
+-- 「つまりすごく偉いんだね。……おかしいな、ならなんであんなに倹約してるんだろう……」
+"Okay, so they're very rich and very important. ...Weird. If that's the case, then why is she so frugal all the time?"
+
+}
+[sha:6f45fdf5ea8cc0b329a138ae7b995fbbac467a91]{
+-- Page 49, Offset 10588.
+-- ぶつぶつと呟く草十郎。
+  Soujyuro mumbled incoherently to himself.
+
+}
+[sha:7bdf23ee3fb9218437bece6e93bc183deb980af4]{
+-- Page 49, Offset 10589.
+-- そんな草十郎に、鳶丸は羨ましいような、心底から同情しているような、複雑な顔を向ける。
+  Tobimaru looked at him with a complex expression on his face, somewhere between envy and heartfelt sympathy.
+
+}
+[sha:cb3e62b778043c651647f5b624430863daa604fa]{
+-- Page 50, Offset 10590.
+-- 「しっかし、うまい事やったな草十郎。
+"Whatever the case, you've done good for yourself, buddy.
+
+}
+[sha:e530b86929b65f47636e86a0759d04f70209611f]{
+-- Page 50, Offset 10591.
+-- それで、本当のところはどうなんだ？　男と女が同じ屋根の下にいれば、やる事はひとつだろう？」
+  Tell me the truth, though. When a guy and a girl are living under the same roof, only one thing can be happening, am I right?"
+
+}
+[sha:33368e71785ed88ce465dfffa00526dfaa420832]{
+-- Page 50, Offset 10592.
+-- 「あんがい古いな、鳶丸も」
+"That's a surprisingly old-fashioned thought for you to have, Tobimaru."
+
+}
+[sha:081c947092a632629629f40ac8bd53807df2e275]{
+-- Page 50, Offset 10593.
+-- 「ぬかせ。そのあたりを誤魔化してたら男なんざやってらんねえ」
+"Oh give me a break! What kind of guy is afraid to talk about this kind of stuff?"
+
+}
+[sha:a1072dd82f1db3bcae407b1bf5e6357840a18b36]{
+-- Page 50, Offset 10594.
+-- 「そりゃごもっとも。実を言うと、正直な話―――」
+"I suppose you're right. So, the truth is..."
+
+}
+[sha:8502a17ed0a498623935dbe6869955c1eb61a155]{
+-- Page 51, Offset 10595.
+-- 今のところまったく色気のない雑居ではあるが、同じ家で生活している以上、不意打ち気味のニアミスはある。
+  Though Soujyuro and Aoko were living together, there was absolutely no chemistry between them. Though that was not to say that living in such close quarters as they did, unintended mishaps did not occur from time to time.
+
+}
+[sha:e45f0cc24a1782831ec6da97990f4e042428f654]{
+-- Page 51, Offset 10596.
+-- あるのではあるが、しかし―――
+  But, even still...
+
+}
+[sha:8fde7e41fc7cf0555e46971693df99de1f1b4fef]{
+-- Page 52, Offset 10597.
+-- 「驚くぐらい、そういうコトにはなってない。
+"You'd be surprised how nothing like that goes on.
+
+}
+[sha:b4c787751987e936206fc604359546e09ddaf017]{
+-- Page 52, Offset 10598.
+-- あの屋敷、すごく広いし」
+  The mansion is pretty huge, after all."
+
+}
+[sha:2b60199012ed95025018d6cd76b689bf961deab4]{
+-- Page 52, Offset 10599.
+-- 青子たちも草十郎も私用で忙しいため、そんな浮き足だった状況にはなっていなかった。
+  Everyone was often busy with their own affairs, so there was no opportunity for that sort of thing to happen.
+
+}
+[sha:c2477820ca2dc0a03fcaea309612bd3040407985]{
+-- Page 53, Offset 10600.
+-- 「そもそもだな。もし鳶丸だったら、下宿先が同じって理由だけで、蒼崎に言い寄る気になるかい？」
+"I mean, answer me this. Would you suddenly make advances on Aozaki just because you were living under the same roof?"
+
+}
+[sha:bfab8746629e1426d7e1f8b8509042ca6390b794]{
+-- Page 53, Offset 10601.
+-- 「……いや。ならねえな、そりゃあ」
+"...Nope, never."
+
+}
+[sha:b87e8dbfd99744d54b54e8396ab9b131d7f72f44]{
+-- Page 53, Offset 10602.
+-- 数々の彼女の戦歴を思い出しているのか、感慨深くうなずく鳶丸。
+  Tobimaru nodded intently, as if he was thinking back over his many ex-relationships.
+
+}
+[sha:f77827de75f1351216d822d47d17e816ae4de1b7]{
+-- Page 54, Offset 10603.
+-- 「いや、健全だな」
+"Well, this all sounds very wholesome."
+
+}
+[sha:3a9c10fe26a4b6497c38722ce9379f0d2607e73a]{
+-- Page 54, Offset 10604.
+-- 「ああ、健全だろ」
+"Yeah, I feel great."
+
+}
+[sha:97531696ef52436dd6c1045171a9c8fbaa2e92b4]{
+-- Page 54, Offset 10605.
+-- 虚脱感のある鳶丸の呟きに、のんびりと焚火にあたりながら短く同意する草十郎。
+  Soujyuro gave no more than a quick affirmation to Tobimaru's despondent murmur.
+
+}
+[sha:6d42f64570fc1d7b420dd4f1d8935f2422c39931]{
+-- Page 54, Offset 10606.
+-- もっとも。
+  She wasn't lying.
+
+}
+[sha:10eb5cf70b283ffb97a6f4b3af489d1d232e1e8e]{
+-- Page 54, Offset 10607.
+-- 健全であるかは別にして、あの洋館に寝泊りし、青子と有珠相手に平静を保てているのは、間違いなく草十郎の<人柄|さいのう>だろう。
+  But besides his physical health, it was surely Soujyuro's personality that enabled him to maintain any semblance of peace dealing with both Aoko and Alice while living in that mansion.
+
+}
+[sha:ad04cda13e28a0622486f82f869c7230d80a9022]{
+-- Page 55, Offset 10608.
+-- 「でも、それとは別の話で蒼崎には頭があがらないんだ。
+"On an unrelated note, I'm totally indebted to Aozaki.
+
+}
+[sha:9c58949cf065b06b482f53b6543397a6c67ab708]{
+-- Page 55, Offset 10609.
+-- 彼女には、もう返せない借りがあってさ」
+  I'm not sure how I can ever repay her for what she's done for me."
+
+}
+[sha:b46e9c0b58620b0816bc9c629004a07e334e3165]{
+-- Page 55, Offset 10610.
+-- ぼんやりとしていた彼の瞳が、少しだけ真剣になって焚火を見詰める。
+  Soujyuro's eyes turned slightly serious as he stared into the fire.
+
+}
+[sha:0fa2571a581846ac2ed53731d4d302482364c386]{
+-- Page 55, Offset 10611.
+-- それが額面通りの意味でない事は、鳶丸にも感じ取れた。
+  Tobimaru felt that there was more to those words than what Soujyuro was letting on.
+
+}
+[sha:f3bffa1c3a57503bf84dfea9b4029ee2abcfd1f0]{
+-- Page 56, Offset 10612.
+-- 「もう返せない借りだあ？」
+"So you owe her big time, huh?"
+
+}
+[sha:b7d2ba9e0f38c37f6be6262d28838c7c9d7226c7]{
+-- Page 56, Offset 10613.
+-- 繰り返す鳶丸に、草十郎は無言でうなずく。
+  Soujyuro merely nodded in silence at Tobimaru's inquisitive acknowledgment.
+
+}
+[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+-- Page 56, Offset 10614.
+-- ―――と。
+  And so...
+
+}
+[sha:de25cdf6821ff01a61054c933f32f47a9efc3039]{
+-- Page 56, Offset 10615.
+-- 深刻な沈黙を破るように、森の奥から妙な叫び声が届いてきた。
+  A strange scream pierced through the still silence of the wood like a knife.
+
+}
+[sha:0feca1d86517c06fcbf31fd1bca41f9569e541b4]{
+-- Page 57, Offset 10616.
+-- 「……なんか聞こえたな？」
+"...Did you hear that?"
+
+}
+[sha:0aef2b1c5de8fc6b7e403d8a2c5ecf4b2b140190]{
+-- Page 57, Offset 10617.
+-- 「ああ、木乃美だ」
+"Yeah, and it was Kinomi."
+
+}
+[sha:22695d4f3e9fdd8bc635c06ce738e1675e2ee65a]{
+-- Page 57, Offset 10618.
+-- 答えるより早く草十郎は立ち上がる。
+  Soujyuro had already stood up before he responded.
+
+}
+[sha:c89877b1608d0c360f5c25023818d2dc2376fd91]{
+-- Page 57, Offset 10619. Mods: @n.
+-- そのまま凍った池まで走り、竹ぼうきで氷を叩き割り、
+  He bolted to the frozen pond, broke the ice with his broom,
+
+}
+[sha:bea3287bc50f4af9e3aff134b7d178692f0145df]{
+-- Page 57, Offset 10620. Glued.
+-- バケツに水を汲んで焚火にぶちまける。十秒足らずの早技だった。
+ scooped up some of the frigid water in a bucket and threw it on the fire, all in less than ten seconds.
+
+}
+[sha:747af4fceb1703d004eb6f52f77b1d74f0f904e4]{
+-- Page 58, Offset 10621.
+-- 草十郎は絶叫が聞こえた森の奥へと走り出す。
+  Then he immediately ran off into the depths of the woods from where he heard the scream.
+
+}
+[sha:3273c35e8ad5d24c79e35371c009d7b80e92264d]{
+-- Page 58, Offset 10622.
+-- 何事かとあわてながら鳶丸も後を追う。
+  Tobimaru followed after him in panicked confusion.
+
+}
+[sha:9e60ff770c3c2e82e6663f6113a51be1bec86510]{
+-- Page 59, Offset 10623.
+-- 「鳶丸、この先に何かあるのか？」
+"Tobimaru, do you know what's down this way?"
+
+}
+[sha:59404bf4bb413e3fa1fa94323b888d4a7384364c]{
+-- Page 59, Offset 10624.
+-- 「たしか旧校舎が残ってるはずだ」
+"The remains of the old school building should be there."
+
+}
+[sha:7385600a8aa62f4c3582183d751efd1c8bdd578a]{
+-- Page 59, Offset 10625.
+-- 「他には？　野犬の住みかとか、そういうイヤな話は？」
+"Anything else? You know, like a pack of wild dogs, or bad stuff like that?"
+
+}
+[sha:f7e5d92efa1b5927561eba2331db0f7abeca3650]{
+-- Page 59, Offset 10626.
+-- 「はあ？　いや、いるとしても鹿か兎じゃねえか？」
+"Huh? No, dude. If anything it'd just be some deer, or rabbits, or something."
+
+}
+[sha:034d4ac9130c88ec1c94badb2aef75cee8819619]{
+-- Page 59, Offset 10627.
+-- 「なら怖がるコトもないか。急ごう、鳶丸」
+"Then there's nothing to be afraid of. Let's hurry."
+
+}
+[sha:a7cbd2615f1b0a81c0af6e781905e080666da06b]{
+-- Page 60, Offset 10628.
+-- 山育ちで慣れているのか、草十郎は腐葉土の上でも軽々と走っていく。
+  Perhaps because of his time spent growing up in the mountains, Soujyuro quickly sprinted over the slippery dead leaves.
+
+}
+[sha:efd1f1b37930119d1711e154d8e76d72ab549b9c]{
+-- Page 60, Offset 10629.
+-- 鳶丸も足には自信がある方だが、森の中では草十郎には付いていけない。
+  Tobimaru was not particularly cautious himself, but nevertheless he could not keep up with Soujyuro in here.
+
+}
+[sha:552dd8589184a788fb096359bf9f6429b8eb3e81]{
+-- Page 61, Offset 10630.
+-- そうして、いつしか草十郎はひとりきりで走っていた。
+  Before long, Soujyuro found himself running alone.
+
+}
+[sha:c72cf977049f294baaaf9d7e4e5e23d23b34ccf8]{
+-- Page 61, Offset 10631.
+-- 木々の葉で閉ざされた獣道を、時には両手で力強く払い除けながら、時には柳のように擦り抜けながら。
+  When piles of leaves blocked the natural trail he would sometimes knock them away with both hands and sometimes expertly slip through them.
+
+}
+[sha:e29cad1bd125a784d79c4d2b468581d086586423]{
+-- Page 61, Offset 10632.
+-- この程度の緑の深さなら慣れたものらしい。
+  It was clear that he was used to dealing with this level of nature.
+
+}
+[sha:db6fda04740d4cc0d647a6c6b57651fed11176ab]{
+-- Page 62, Offset 10633.
+-- 数分後、草十郎はその広場に辿り着いた。
+  After a few minutes, Soujyuro arrived at a clearing.
+
+}
+[sha:61fd3e0a85f062d65fdf68cf5b7073ba28b6dbcc]{
+-- Page 62, Offset 10634.
+-- 木々の壁はここで終わっている。
+  The wall of trees had ended.
+
+}
+[sha:731c4d763dab13807a9bc7f14dd28b7b57a935b3]{
+-- Page 62, Offset 10635.
+-- 山の中腹に<拓|ひら>かれた人工の広場。
+  It was an obviously man-made clearing here on the mountainside.
+
+}
+[sha:10eb67f046e1cfffb0ce7dc4fbb505cef8cf6463]{
+-- Page 62, Offset 10636.
+-- 遠くに見える木造の建物が旧校舎だろう。
+  In the distance was what looked like an old wooden school building.
+
+}
+[sha:462cd592e1fdf7b3b74bb10446a41dd83f4da20a]{
+-- Page 62, Offset 10637.
+-- 小学校ほどの、小さいが趣のある建物が、人知れず冬の荒れ野に埋没していた。
+  It was a small, aesthetically pleasing building no larger than an elementary school, lost in the depths of the winter wilderness.
+
+}
+[sha:d28bbe4b1aa5f8e55e30dfaf690e1d6699cdf4e5]{
+-- Page 63, Offset 10638.
+-- 「木乃美」
+"Kinomi."
+
+}
+[sha:d25cc49f44aab8bff6dc23793cc92ac67469a649]{
+-- Page 63, Offset 10639.
+-- その旧校舎のグラウンドに、木乃美はひとりで立ちつくしていた。
+  Kinomi stood alone on the old school's grounds.
+
+}
+[sha:dbcb39d49cf8da39bf90e4be7ca5a92b0ee5cb11]{
+-- Page 63, Offset 10640.
+-- 「お？　なんで静希まで追いかけてきたん？」
+"Hey. What are you doing here, Sizuki?"
+
+}
+[sha:ebd577d5dcde386ea63f2790d3afdd17e4b43384]{
+-- Page 63, Offset 10641.
+-- 不思議そうに首をかしげる木乃美に、草十郎はむっと顔をしかめる。
+  A sour expression came over Soujyuro's face as Kinomi tilted his head in confusion.
+
+}
+[sha:cb55c118bb9cbc2e53cab1c6170de55633efc988]{
+-- Page 63, Offset 10642.
+-- 「そっちこそどうしたんだ。へんな声あげて」
+"That's what I want to know. And what was that scream all about?"
+
+}
+[sha:45714df1b38d2492894f9a15a5f4c3e8678fe023]{
+-- Page 64, Offset 10643.
+-- 「声ぇ？　いや、そりゃガキ相手に怒鳴ったけどよ。
+"Huh? What scream? I was just pissed at this dumb kid.
+
+}
+[sha:94ef02fa84e132206fe9ce2dc578ebcde458ca59]{
+-- Page 64, Offset 10644.
+-- ほら、あのガキだよ。イモ持ってるだろ……ってああ、中に逃げこみやがった！」
+  Look, there he is. I know he's got some potatoes on him. Dammit, we let him run off inside!"
+
+}
+[sha:48edba7c7f8c3d2e84a6e0712fc54996045dc65b]{
+-- Page 64, Offset 10645.
+-- 旧校舎を指差しながら<憤慨|ふんがい>する木乃美。
+  Kinomi pointed resentfully toward the old school building.
+
+}
+[sha:836024d854fb468924b2cada2719901d08433e0c]{
+-- Page 64, Offset 10646.
+-- 確かに、百メートルほど離れた旧校舎の入り口に、人影らしきものが立っている。
+  There was indeed somebody standing at the entrance to the building just over three hundred feet in the distance.
+
+}
+[sha:39d6b4e4c43dc2141e6f0eeb9823dd4df867e483]{
+-- Page 65, Offset 10647.
+-- 「ったく、こんな上まで来やがって。いつから子供の遊び場になってんだ、ここ」
+"What the hell is he doing up here anyway? Is this where kids hang out nowadays?"
+
+}
+[sha:15f217b5e0f0ca0fbdc5690f8a543cc7fe92bc41]{
+-- Page 65, Offset 10648.
+-- まあどうでもいいけど、と木乃美は肩をすくめる。
+  Kinomi shrugged his shoulders to signal how little he cared what the young children did with their time.
+
+}
+[sha:669d99818ff4c3c0edb09d64190eae61c0a824ac]{
+-- Page 65, Offset 10649.
+-- ここの森は深くはあるが、遭難するほどの場所でもない。
+  This place was deep in the woods, but it was not particularly dangerous.
+
+}
+[sha:8e955974a94054c5e7feeefa4159bf6f2a7c2592]{
+-- Page 65, Offset 10650.
+-- 草十郎は森の中をつっきってきたが、外にはコンクリートで舗装された道があるのだ。
+  Soujyuro had run through the wood to get here, but there was also a paved road leading to this spot from outside the woods, too.
+
+}
+[sha:0bdaa26dee9e8a1bea0e4def875609ab78b24824]{
+-- Page 65, Offset 10651.
+-- 木乃美はそちらを使って登ってきたようだ。
+  Kinomi apparently followed that road to get here.
+
+}
+[sha:4240eb6166b918e3f73660e9d848bc961651f8c2]{
+-- Page 66, Offset 10652.
+-- 「んー……子供………？」
+"Hmm... a child?"
+
+}
+[sha:b300a9a87fcabd66e4bad70ca4c03ee90b983006]{
+-- Page 66, Offset 10653.
+-- 目を細めて草十郎は呟く。
+  Soujyuro squinted.
+
+}
+[sha:4c76ea43201569a6b29dce7d0f212cf956667aca]{
+-- Page 66, Offset 10654.
+-- 「ああ。金髪なんでさっきはちょっと驚いたけどな。外国人の子供って、なんか怖いだろ？」
+"Yeah, he had blond hair, which kinda freaked me out at first. Foreign kids are scary, man!"
+
+}
+[sha:9679ed83026a85def72ae11b29cca442b33ed874]{
+-- Page 67, Offset 10655.
+-- 地方都市において、まだ外国人の姿は珍しい。
+  It was indeed quite rare to see a foreigner in a provincial town such as Misaki.
+
+}
+[sha:69930f539bd01a264ed38c9019da66ed8292da08]{
+-- Page 67, Offset 10656.
+-- テレビならいざしらず、生で外国の子供を見た事がない草十郎にはよけい不思議な感覚だった。
+  Soujyuro had never even seen a foreigner in person, which made the whole thing even more mysterious.
+
+}
+[sha:fa3bfa9b45469375465e5616af9bfbde0a3a2f9a]{
+-- Page 68, Offset 10657.
+-- 「それで、木乃美はなんでここまで？」
+"Why did you feel the need to run all the way up here again?"
+
+}
+[sha:f32acd7c8c0f4d68010c8d60f4b25c18a9294676]{
+-- Page 68, Offset 10658.
+-- 「いや、赤羽たちがよ、ガキに食料奪われたって言うからここまで追いかけてきたんだ。
+"Eh, Akabane said that stupid kid stole their food, so I was chasing him down and ended up here.
+
+}
+[sha:765dafab54c72cdf5e7a78c0385af1d9c2e77332]{
+-- Page 68, Offset 10659. Glued. Mods: @x.
+-- そういう事だから、ふたりがかりであのお子さまとっちめようぜ」
+Since you're here, let's team up and see if we can catch him."
+
+}
+[sha:9a59a2b7c6872f1331e3e65cba3683a563fef144]{
+-- Page 68, Offset 10660.
+-- 「怖いことを考えるな、木乃美は」
+"That's a little menacing, Kinomi."
+
+}
+[sha:93c16960ed25207fad006d62c05b91ddcbb9b358]{
+-- Page 68, Offset 10661.
+-- 賛同しかねる、と草十郎。
+  Soujyuro could not find it in him to agree with his plan.
+
+}
+[sha:b0a0253aca19c705b774a8015a1ce2430f41634a]{
+-- Page 68, Offset 10662.
+-- <多勢|たぜい>に<無勢|ぶぜい>は義に反する、といわんばかりである。
+  It seemed unfair to team up against a little kid.
+
+}
+[sha:2f11b831597e2402a65a9ace49a3841b7e0223b2]{
+-- Page 69, Offset 10663.
+-- 「いいから帰ろう。あの子、こっちを睨んでるじゃないか。
+"Come on, let's head back. That kid is over there just staring at us.
+
+}
+[sha:16eabaee780634e897418cf8eeed18cb560e199a]{
+-- Page 69, Offset 10664.
+-- それに、鳶丸にこんなところ見られたら冬休み中ずっと山の掃除で終わる事になるぞ？」
+  And besides, if Tobimaru sees us up here slacking off we're gonna be cleaning this mountain for the whole of winter break."
+
+}
+[sha:0ee5ac22023aee14aebd34f7dbe0c406cbb99a4e]{
+-- Page 70, Offset 10665.
+-- ぽん、と木乃美の肩に手を置いて、草十郎はもと来た道を戻りはじめた。
+  Soujyuro took Kinomi by the shoulders and began leading him back to the path he came from.
+
+}
+[sha:59098d69d10faf36026fa2198f2474ecfc6ebb48]{
+-- Page 70, Offset 10666.
+-- 木乃美は口惜しげに旧校舎に視線を投げて、草十郎に付いていく。
+  Kinomi cast one last gaze at the old school building before reluctantly following.
+
+}
+[sha:d5cb42b262856a39b3ee2d96cbbf1f1d0bb604fc]{
+-- Page 70, Offset 10667.
+-- そんなふたりを出迎えるように、息を切らした鳶丸が登ってきた。
+  Just then, Tobimaru appeared, panting and out of breath.
+
+}
+[sha:a2113c22402a837f04b2333f36304144ebb48d5f]{
+-- Page 71, Offset 10668.
+-- 「は、速いな、草十郎」
+"How... are you... so fast?!"
+
+}
+[sha:bf65d3c26f1479be2bcb7fe3256c5ad04dc4eaac]{
+-- Page 71, Offset 10669.
+-- 鳶丸の息は乱れている。
+  Tobimaru could hardly catch his breath.
+
+}
+[sha:e772e09b1b730db5a778ccaceebcbb2746d35d7b]{
+-- Page 71, Offset 10670.
+-- 草十郎に遅れること三分弱だが、十分に健脚だ。
+  He arrived about three minutes behind Soujyuro, despite having a good set of legs on him.
+
+}
+[sha:8479c098373b7e4790d59c99140f9b9476120f98]{
+-- Page 72, Offset 10671.
+-- 「それでどうした。木乃美、無事か？」
+"So what's going on? Are you all right, Kinomi?"
+
+}
+[sha:642b5bdead9d83741eebbb612cb5019910ec4e91]{
+-- Page 72, Offset 10672.
+-- 「？　無事も何も、殿下こそどったん？」
+"Huh? Yeah I'm fine. What about you, Your Highness?"
+
+}
+[sha:fc6c177a30c34df6d80112d0c50b217c1c59b57c]{
+-- Page 72, Offset 10673.
+-- 鳶丸に心配されるコトなど初めてなのか、目をしばたたく木乃美。
+  Kinomi seemed perplexed at Tobimaru's first-ever display of concern for him.
+
+}
+[sha:0bfb7c2b5a48e90cbfab8f874c6f357a14e4270c]{
+-- Page 73, Offset 10674.
+-- 「なんだそりゃ。テメェ、あれだけの大声をあげておいてしらばっくれる気か？　上で何かあったんだろうが」
+"What the hell is that supposed to mean? You're out here in the middle of nowhere screaming bloody murder and what am I supposed to think? We were worried!"
+
+}
+[sha:3934d0b2cdcad37da12e85a4a6eb800c5047bfc8]{
+-- Page 73, Offset 10675.
+-- 「すまない、こっちの早とちりだった。
+"That was my fault. I guess I jumped to conclusions.
+
+}
+[sha:5d4b9c9740e426aab1c3e7555fa78b2b49e578c9]{
+-- Page 73, Offset 10676.
+-- 鳶丸は知らないだろうけど、木乃美は時々、バイト先でも奇声をあげる癖があるんだ」
+  You've probably never heard him do it, but sometimes at work Kinomi has this habit of letting out a weird yell like that."
+
+}
+[sha:226bc375a4279ddccdf69159e18b3b3385b53888]{
+-- Page 73, Offset 10677.
+-- 堂々と言う草十郎の横で、木乃美は不満げに顔をしかめる。彼的に、そんな噂は初耳だった。
+  Kinomi looked disapproving as Soujyuro nonchalantly shared this insight. This was the first he had ever heard of it.
+
+}
+[sha:6786e1d099732904ae3d2e9f25e240f7ffddcec4]{
+-- Page 74, Offset 10678.
+-- 「……怪しいな。また良からぬ事でも企んでるんじゃねえか、そこの？」
+"...I'm not buying it. You're up to something, aren't you?"
+
+}
+[sha:68b176417ed941035cd73e03aca69b50b69e2ae9]{
+-- Page 74, Offset 10679.
+-- 「無いよ。戻って掃除の続きをするぞ、鳶丸」
+"Of course not. Come on, Tobimaru, there's cleaning to be done."
+
+}
+[sha:e2d19efd52d2d58c5d7ba234678b49a63af2ffef]{
+-- Page 74, Offset 10680.
+-- ぽんぽんと鳶丸の肩を叩いて草十郎は歩きだす。
+  Soujyuro pat Tobimaru on the shoulder a couple of times and started walking.
+
+}
+[sha:f37e2017f52306df60b2b2e8c9b459ef03a5227f]{
+-- Page 74, Offset 10681.
+-- そんな草十郎に、鳶丸は不審げな眼差しを向けた。
+  Tobimaru cast a doubtful glare in his direction as he meandered off.
+
+}
+[sha:d2a6efb101929f3197c48f9232ff4730e4e66ca5]{
+-- Page 74, Offset 10682.
+-- なんとなく、草十郎が木乃美の悪事を<庇|かば>っているように思えたからだ。
+  He had a feeling that Soujyuro was covering for Kinomi somehow.
+
+}
+[sha:db7846a6946927811dd781277c6bffdf728f63f5]{
+-- Page 75, Offset 10683.
+-- 「まさか、旧校舎に火なんてつけてないだろうな？」
+"You didn't set the old school building on fire or something, did you?"
+
+}
+[sha:a031ab6b1139784f70076f9be9622394f3a7dea6]{
+-- Page 75, Offset 10684.
+-- 「誰もしないよ、そんな事は」
+"Of course not. Who would even do that?"
+
+}
+[sha:1bc7a66812ef887d87f4f67d59636013194e4245]{
+-- Page 75, Offset 10685.
+-- さっさと掃除に戻りたいらしく、草十郎は背後の鳶丸を振り向きもせず歩いていく。
+  Soujyuro kept walking and did not even look back at Tobimaru as he spoke.
+
+}
+[sha:c613a9d0ed253ae1584624a1cfec98fedd6e4f17]{
+-- Page 75, Offset 10686.
+-- 鳶丸と木乃美は首をかしげながらも、めずらしく強引な草十郎に従った。
+  Tobimaru and Kinomi tilted their heads in confusion as they reluctantly followed the unusually aggressive Soujyuro back to their cleaning spot.
+
+}

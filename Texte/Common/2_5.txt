@@ -1,0 +1,780 @@
+[sha:60f3901bbcb6711f1248244c3eb06c39f3a54314]{
+-- Page 0, Offset 2876.
+-- その日の学校が終わると、草十郎は寄り道一つせずアルバイト先に直行した。
+  The school day over, Soujyuro headed straight to his job.
+
+}
+[sha:6179e7e0bd3e36d8479591142cc214fbdc1808f8]{
+-- Page 0, Offset 2877.
+-- 学校側に申告してあるのは三咲町商店街にある中華飯店と鮮魚店だけで、他のアルバイトは秘密にしている。
+  While the school had approved his jobs at the Chinese restaurant and fish market in Misaki's shopping district, there was other work he hadn't mentioned to them.
+
+}
+[sha:48d586b039599893dfb921d2e41298bde2e75a29]{
+-- Page 0, Offset 2878.
+-- それも単に数が多いからではなく、それ以前に法律に違反していそうな働き先だったからだ。
+  And it was not because he knew that they would complain at him working too many, but rather because of the illicit nature of one job in particular.
+
+}
+[sha:b607d21a6b389022f42fb324689fbdadbfd21c52]{
+-- Page 1, Offset 2879.
+-- 今日のアルバイト先はその最たるもので、<社木|やしろぎ>駅前にあるパチンコ店だ。
+  Today, his workplace was a pachinko parlor in front of Yashirogi Station.
+
+}
+[sha:4896113ead4a526d94f0dc8e7b0e42d8b458b828]{
+-- Page 1, Offset 2880.
+-- 学校の制服から店の黒いタキシードじみた制服に着替え、仕事はじめに店周りの掃除をする。
+  Soujyuro changed out of his school uniform and into a black faux tuxedo uniform, then began cleaning the storefront.
+
+}
+[sha:a6239a6c1f09581263765e0b71b15481f9527c1d]{
+-- Page 2, Offset 2881.
+-- 三咲市の顔である<社木|やしろぎ>の駅前は幾多のショッピングビルが競い合うように乱立し、アーケード街もそれらに<倣|なら>うように騒がしい。
+  Yashirogi was the jewel of Misaki City, a busy place with a vast assortment of commercial centers and shopping arcades.
+
+}
+[sha:41a0452b24ed4a73582d70a7d125f17ed277ac9b]{
+-- Page 2, Offset 2882.
+-- 人が多くなれば生み出される物も多くなる。
+  Where there were people en masse, there were products made en masse.
+
+}
+[sha:62a79744af86df800c91451a231ab39680716a46]{
+-- Page 2, Offset 2883.
+-- 浪漫として言えば笑顔であり、
+  A romantic might describe it as a place of joy,
+
+}
+[sha:b3a729dd14bc3818c099c951e517a8eadad695d2]{
+-- Page 2, Offset 2884.
+-- 現実的に言えば流通であり、
+  a realist would note the free enterprise,
+
+}
+[sha:339b7d366f43035334612c2aa6f00934f1ea50e1]{
+-- Page 2, Offset 2885.
+-- より現実的に言えばゴミである。
+  and a cynic would point at all the garbage.
+
+}
+[sha:1ecac3e17dbf7d41697a63f7688718c640123ee8]{
+-- Page 3, Offset 2886.
+-- クリーンな町作りを目指している社木だが、そのルールには逆らえない。
+  Local authorities had attempted to beautify Yashirogi, but there was one basic tenet of society they could not overcome.
+
+}
+[sha:4cb6fa5e84d2f74bfc6192b1ca6786eb9f899310]{
+-- Page 3, Offset 2887.
+-- それがこういった店なら尚更だ。
+  This establishment was the embodiment of that rule.
+
+}
+[sha:76e469a46445779d0607cc1233c0ed149f455006]{
+-- Page 3, Offset 2888.
+-- 商売柄<質|たち>の悪い人種を呼びこみやすいホールの前は、日に何度も清掃を心がけるべきである。
+  Businesses such as this attracted the dregs of society, and as such, the front of the parlor had to be cleaned several times a day.
+
+}
+[sha:445c6b6ae66f2bb2233e8353dd76f2319b8e08e5]{
+-- Page 4, Offset 2889.
+-- 冬の寒空の下、草十郎は煙草の吸い殻を集め、チラシを拾い、空き缶をゴミ箱へ。
+  Soujyuro stood outside in the winter cold sweeping used-up cigarette butts, picking up discarded fliers, and tossing empty cans into the trash.
+
+}
+[sha:eb7e5bd4ecb70e6a6f7252f063111802a4694344]{
+-- Page 4, Offset 2890.
+-- 山での生活を彷彿とさせるものがあるらしく、草十郎は気軽に、淡々と掃除をこなした。
+  Something about it must have reminded him of mountain life, because he cheerfully finished the job with ease.
+
+}
+[sha:053014e193513e45ea6d29a2c7af43bf74009e10]{
+-- Page 5, Offset 2891.
+-- ひととおり店周りを綺麗にし、晴れて暖房の効いた店内に戻る。
+  After making sure the storefront was acceptably clean, he returned to the inside of the parlor where it was nice and warm.
+
+}
+[sha:224613461a28ac463880fbd817ce3b9f05be38f9]{
+-- Page 5, Offset 2892.
+-- まぶしく目に痛い騒音、
+  Blinding lights, deafening sounds,
+
+}
+[sha:f9cafb3da1ab546948906a2668dfa60354e67c2d]{
+-- Page 5, Offset 2893.
+-- 充満するタバコの臭いに圧倒されながら店内を横断して事務所へ向かう。
+  and the oppressive odor of tobacco assaulted him as he passed through the parlor on his way to the office.
+
+}
+[sha:47916529913a9dcfd89c34e93348f92b09a817af]{
+-- Page 6, Offset 2894.
+-- 「店長。外まわりの掃除、終わりました」
+"Boss, I've finished cleaning outside."
+
+}
+[sha:34a7174312b9ae0e411886f1cd0728a9c6719690]{
+-- Page 6, Offset 2895.
+-- 「はい、ごくろうさま。それで、いいかな。二階の四十番台のお客さんの様子、見てきてくれない？
+"Good job. I've got something else for you. Could you go check on the customer on machine forty on the second floor for me?
+
+}
+[sha:c8d30b925a1522318cb65ca606cf814b8c40370e]{
+-- Page 6, Offset 2896.
+-- どうも懐にのんでそうなんだよね、あのお姉さん」
+  I have a hunch she might be cheating."
+
+}
+[sha:230ad8ac714106006e4226b33a4bf83f06079673]{
+-- Page 7, Offset 2897.
+-- 元会社員の、人の良さそうな店長さんである。
+  His boss was a good-natured man who used to work a desk job.
+
+}
+[sha:e029a9948bd3f13ff21eeb3d54cb85755f0146ec]{
+-- Page 7, Offset 2898.
+-- あきらかに学生である草十郎を採用したのはその苦学生ぶりに感動したから―――ではなく、
+  The reason he employed someone like Soujyuro, even though he was clearly a student, was not because he admired him for working his way through school.
+
+}
+[sha:3097cc5f56774867d3644fbd6ebdbc95f078a088]{
+-- Page 7, Offset 2899.
+-- 店員がみんな怖い顔をしているので一人でも心安らげる店員がほしい、という理由らしい。
+  It was because all of the other employees were scary and intimidating, and he wanted at least one employee who was not.
+
+}
+[sha:8ded177d4d69a10e25f0d6fb2b28ed253721f3fe]{
+-- Page 8, Offset 2900.
+-- 「いいんですか？　トイレの掃除、まだですけど」
+"Are you sure? I still haven't cleaned the toilets."
+
+}
+[sha:501818486e9e75b91ad69879104ab44898792ad6]{
+-- Page 8, Offset 2901.
+-- 「いいのいいの。なんかねぇ、カメラの死角にいるんでイマイチ確証とれないの。
+"It's fine, it's fine. She's in the security camera's blind spot, so we have no way of confirming whether she's up to no good.
+
+}
+[sha:e354027777769f5bf179f9d0ac9abaa5bd13f4a9]{
+-- Page 8, Offset 2902.
+-- 草ちゃん、いまのところ的中率百パーセントでしょ。様子見てきてくれないかなぁ」
+  I want you to go because you've got a sixth sense about these things. Go check on her, will you?"
+
+}
+[sha:53f4f4bb0d1a3bc0fa0c1dfcf770de9bbf35c7b7]{
+-- Page 8, Offset 2903.
+-- そういう事でしたら、と掃除用具を片付けて草十郎は二階フロアに向かった。
+  Hearing that, Soujyuro put away his cleaning equipment and headed upstairs.
+
+}
+[sha:a2dabffac9b0874ab93242f06c412355f4083b08]{
+-- Page 9, Offset 2904.
+-- 店は典型的な二階建ての、大きい部類に入るパチンコ店である。
+  It was a typically large-scale pachinko parlor with two floors.
+
+}
+[sha:fe49ae7c77964a9f6c31ec7f7b36d8729299ba4e]{
+-- Page 9, Offset 2905.
+-- 基本的には地域密着型で、あまりあこぎな調整もせず、少しずつ町の皆さんから収入を得ることを良しとしている。
+  It prided itself on being a local establishment that was satisfied with taking the locals' money little-by-little without resorting to more exploitative means.
+
+}
+[sha:5be6caeee9a6a71a484c620eb82a6c5b75e7ff77]{
+-- Page 9, Offset 2906.
+-- が、店側はそのつもりでも、お客様は千差万別。
+  But regardless of the parlor's intentions, its customers were not so scrupulous.
+
+}
+[sha:4df046e66e362a8b325df191a7588dee32c561fe]{
+-- Page 10, Offset 2907.
+-- 気軽に遊びに来る者もいれば、これで食べている<職業博徒|プ　　ロ>、はては不正を働いて儲けようという輩もやってくる。
+  Among them were casual players, professional gamblers, and cheaters looking to profit by exploiting whatever loopholes they could find.
+
+}
+[sha:f007c0d17c54651f0abf361c0e167ff3f81c6d49]{
+-- Page 10, Offset 2908.
+-- 中でも八十年代中期から流行しだしたある機械は、ゲーム台の電気系統に外部からアクセスしてプログラムを狂わせ、俗に言うスリーセブン等の大当たりをたやすく実現してしまう。
+  Of particular prevalence was a device developed in the mid-eighties that could disrupt a machine's circuitry from the outside and make it much easier to get what was called a triple seven jackpot.
+
+}
+[sha:f2ee3ff6703e53e818a7332372a1698f94c6f3c9]{
+-- Page 11, Offset 2909.
+-- 当然店側としてもそういった人種の入場はお断りしたいのだが、確たる証拠もなしにお帰り願う訳にもいかない。
+  As much as the parlor wanted to deny these cheaters entry, it needed to present hard evidence of cheating, or risk losing customers.
+
+}
+[sha:eda051c05b430aa0a18626f8e1a77f1b9095a610]{
+-- Page 11, Offset 2910.
+-- 客商売である以上、疑わしきは罰せず、がルールである。
+  Particularly in the service industry, "innocent until proven guilty" was not a rule taken lightly.
+
+}
+[sha:0ae080bf5dc63a94fb7e2702f6688605f270ae41]{
+-- Page 11, Offset 2911.
+-- 結果、現行犯としてとっ捕まえるのが店側の正義となる。
+  As a result, they could only punish the customers they caught in the act.
+
+}
+[sha:5d84930974af179b83d72f53d14d8f1d8d4918ef]{
+-- Page 11, Offset 2912.
+-- そういった不心得者をゴト師と言うらしいが、草十郎にはそのへんの事情は一切分かっていない。
+  Such cheaters were known as gotoshi, a slice of society which Soujyuro knew nothing about.
+
+}
+[sha:450d3158583cc8010169c413ecb86e6c1e2d4ca8]{
+-- Page 11, Offset 2913.
+-- 彼が承知しているのは、彼らが店側にとって厄介な相手であり、かつ、不正を働いているルール違反者である、という事だけだ。
+  What he did know was that they were inconveniencing his employer and violating their rules.
+
+}
+[sha:197126a4d86394b8bb831e9579540fe4befa3a17]{
+-- Page 12, Offset 2914.
+-- 二階に上がる。
+  He went upstairs.
+
+}
+[sha:e66333813f97b7f7c5a752442d413db661cd12df]{
+-- Page 12, Offset 2915.
+-- 有線のラジオもゲーム台の音も、一階よりは控えめに流れている。
+  The radio and game machine sounds on the second floor were quieter than the cacophony downstairs.
+
+}
+[sha:5313349ba8a5e806e1eeebb7098e8766d720c241]{
+-- Page 12, Offset 2916.
+-- 一階の百台に対して二階のゲーム台の数は八十あまり。空席はちらほらとあるものの、夕方にしては客入りは良好だろう。
+  There were a hundred game machines on the ground floor and over eighty on the second. While there were some empty seats here and there, it was a solid evening turnout.
+
+}
+[sha:20181d980f9d22af0c5422548adb95e8f197b642]{
+-- Page 12, Offset 2917.
+-- 店長の言う四十番台は店の中ごろの列だ。
+  The machine mentioned by his boss was in the center aisle.
+
+}
+[sha:1fb181a1ad423be16d680af1707b1fdeb1b3166b]{
+-- Page 12, Offset 2918.
+-- さりげなく列の入り口あたりの壁に寄りかかってみると、たしかに派手に<大当たり|フィーバー>しているお客さんがいた。
+  Soujyuro nonchalantly leaned back against the wall and watched the customer hit the jackpot over and over again.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 13, Offset 2919.
+-- 「………………」
+"..."
+
+}
+[sha:d8a48348deb1a03a28b7d192f5a2f62e19034ede]{
+-- Page 13, Offset 2920.
+-- <一目|ひとめ>見た瞬間に違うな、と草十郎は直感した。
+  The second he saw her, his gut told him that she was not cheating.
+
+}
+[sha:ca6ccc637d291b74ad7a16cc83115eb060bd9976]{
+-- Page 13, Offset 2921.
+-- 何を以てプロと言うかは疑問だが、特別という意味なら彼女は本物だ。
+  He still was not sure what made someone a master swindler, but if it meant they were special, this woman certainly fit that description.
+
+}
+[sha:42d4484b6f86094daa9bfb7f91fca703391ed925]{
+-- Page 13, Offset 2922.
+-- なんとなく、その幸運の強さが感じ取れる。
+  It was almost as if he could feel the luck emanating from her.
+
+}
+[sha:426d693c0a94bcee1ce9869214a9d4385c97139d]{
+-- Page 13, Offset 2923.
+-- 周りの客達の関心を一身に浴びながら、彼女は黙々とハンドルを回している。
+  As the customers looked on, she silently turned the handle again and again.
+
+}
+[sha:7e3d9f07dfdea3461d27a344d0c3288ce62c0c5c]{
+-- Page 14, Offset 2924.
+-- 歳は<草十郎|じぶん>より何歳か上。
+  She appeared older than Soujyuro.
+
+}
+[sha:424193fc719f98c2da549976e16150aaf42d8c29]{
+-- Page 14, Offset 2925.
+-- 緑色の、体の線がはっきりと判る洋服を着ている。上着とスカートが一体になったような服だ。
+  She wore a green, form-fitting, one-piece dress.
+
+}
+[sha:f6d2f57b1cb269557ed0d49e4315bca1d6ee409a]{
+-- Page 14, Offset 2926.
+-- 足は素肌ではなくストッキングをはいている。
+  A pair of stockings covered her legs.
+
+}
+[sha:48f46c6862d048d618eb0838938450d553bfd5f7]{
+-- Page 14, Offset 2927.
+-- 細い両足は艶やかに組まれ、パチンコをしているというよりは絵画のモデルのような優雅さだった。
+  Her slender legs were gracefully crossed, and her elegance suited a painting better than a casino.
+
+}
+[sha:269636f31e8e67f7abf38e480846fece9690694e]{
+-- Page 14, Offset 2928.
+-- 赤みのかかった黒髪は短く、涼しげにかけたメガネと赤い唇がやけに決まっていた。
+  Her dark, reddish hair was cut short in a bob, perfectly framing her stylish spectacles and crimson lips.
+
+}
+[sha:9d15bed11b5f0d5f28b56c61db5834ffe8f67b81]{
+-- Page 15, Offset 2929.
+-- 正直に言って、こんな場所でフィーバーを出していい美人ではない。
+  Truth be told, something was off about this picturesque beauty ringing the jackpot over and over again.
+
+}
+[sha:92a279078f350abc81cdae59dcda588e2bf1392d]{
+-- Page 15, Offset 2930.
+-- 彼女の足元には四つの大箱が重ねられていて、その勢いは留まるところを知らない。
+  Four boxes' worth of pachinko balls sat at her feet, and her winning streak showed no sign of abating.
+
+}
+[sha:ceb0228ef200ae85aed9210bac8e2d455b9dc925]{
+-- Page 15, Offset 2931.
+-- 退屈そうに、細い陶器のような指が長い煙草を唇に運ぶ。
+  She looked bored as her slender, porcelain fingers lifted a long cigarette to her lips.
+
+}
+[sha:21ec02567532568a60ccc821b438be230db5aac1]{
+-- Page 16, Offset 2932.
+-- 『……なんか……どっかで……』
+(Feels like... I've seen her somewhere...)
+
+}
+[sha:d2beb9f2c0e324ada1015a1946fec79712b705f9]{
+-- Page 16, Offset 2933.
+-- そう思った瞬間、メガネごしに視線が壁側―――草十郎を見た。
+  Just as that thought crossed his mind, her gaze turned toward the wall, and Soujyuro.
+
+}
+[sha:2cb04a93337e9639fbad51a3682544f21cce2f6c]{
+-- Page 16, Offset 2934.
+-- 「………！」
+"...!"
+
+}
+[sha:8e2db73a74f7d6e972990f7e95afaeac42977ab3]{
+-- Page 16, Offset 2935.
+-- とたん、背中に走る悪寒。
+  Suddenly, a chill ran down his spine.
+
+}
+[sha:50871d4917f64301be5cd60f3d70eb760c9ff710]{
+-- Page 16, Offset 2936.
+-- 反射的にこぼれる悲鳴を必死に手で押さえつける。
+  He reflexively covered his mouth to keep from shrieking.
+
+}
+[sha:b44582e80f87a6f98b01dfe99a93348d59ade27a]{
+-- Page 17, Offset 2937.
+-- 『あの<女|ひと>、昨日の……！』
+(It's her! The woman from yesterday!)
+
+}
+[sha:344208efb06c5f9081eaa9c416f3d4e0219a26ee]{
+-- Page 17, Offset 2938.
+-- 確証のない直感に弾かれて、草十郎は<脱兎|だっと>の如く走り出した。
+  Acting on pure instinct, Soujyuro took off running.
+
+}
+[sha:edb8b75d70743d5c249c27f38f4a1962523931b1]{
+-- Page 17, Offset 2939.
+-- この場から一刻も早く逃れようと、まず一階へ。
+  He headed straight downstairs, desperate to not be on the same floor as her.
+
+}
+[sha:2526afab0af762e52d4aa953c1648588861f7d79]{
+-- Page 17, Offset 2940.
+-- そのまま外に駆け出そうとしたが、最低限の責任として店長に声をかける。
+  He would have run straight out the door, but for his obligations to his job.
+
+}
+[sha:e05793c2e5ab9eff2dcd7f98d341d4ccc6eef0bd]{
+-- Page 18, Offset 2941.
+-- 「店長、早退します。それと、二階の人は問題ないです」
+"Boss, I'm leaving early. And the person upstairs is fine."
+
+}
+[sha:a026feca9bbeff81a965e36d58a6b71e35b3dfb7]{
+-- Page 18, Offset 2942.
+-- 心の動揺をなんとか抑えこみながら告げ、学校の制服を紙袋につめて店を飛びだした。
+  He tried to keep his composure as he spoke, jamming his school uniform into a paper bag as he ran out of the parlor.
+
+}
+[sha:e78e998fd0986afb5c6ddc83027d26d1da997cb1]{
+-- Page 19, Offset 2943.
+-- 曇った天候のせいか、すでに夜の影が濃い社木の商店街を走り抜けて駅に向かう。
+  Cloudy weather brought the shadow of night over Yashirogi as he ran through the shopping arcade toward the station.
+
+}
+[sha:b0d6338654edf1b9b10840081db4a0eef42f1ffa]{
+-- Page 19, Offset 2944.
+-- 長い階段を矢のように駆け上がり、定期を財布から素早く取り出して改札を通り過ぎる。
+  He shot up the long staircase like an arrow, quickly pulled his train pass from his wallet, and passed through the ticket gate.
+
+}
+[sha:0ab0f981beb687520b91271c483a022844714ad2]{
+-- Page 20, Offset 2945.
+-- 改札には大勢の人々がそれぞれの事情で立ち止まったり、歩いたり、話し合ったりしていた。
+  The ticket gate was crowded with people standing around, walking, and talking.
+
+}
+[sha:89e3aadb78c0f16a9daaaa03b87416dc2a9aa054]{
+-- Page 20, Offset 2946.
+-- その中で無愛想な顔をしているのは自動改札の横にある駅員室の駅員ぐらいで、ここにはちょっとだけ騒がしい安心があふれていた。
+  The station attendant by the automatic ticket machine had an unpleasant look on his face. There was now a familiar, comforting hustle and bustle around him.
+
+}
+[sha:c0b8d0718cffe6130abca16aa88ec1e4cf0886a9]{
+-- Page 20, Offset 2947.
+-- 都市の日常、と言い換えてもいい。
+  Just another day in the city.
+
+}
+[sha:447a32523be2fd6ad1dd563c3bf31828ef3c5a7a]{
+-- Page 20, Offset 2948.
+-- 間違っても、昨夜の草十郎が見てしまった風景はどこにも見当たらない。
+  Nothing like what he witnessed the night before.
+
+}
+[sha:fb911b326a90bc24b80498ac3b0c08dc5a416421]{
+-- Page 21, Offset 2949.
+-- 「――――――はあ」
+"...Hah."
+
+}
+[sha:3afd6dd93d1939990ab658eefc74de30fba23a62]{
+-- Page 21, Offset 2950.
+-- ようやく肺に空気を送る。
+  He could finally breathe again.
+
+}
+[sha:1b62393410afb1ae3f15e4ab691dd025572fedd3]{
+-- Page 21, Offset 2951.
+-- つかの間の安心から、草十郎はぴたりと立ち止まった。
+  The momentary rush of relief brought him to an abrupt stop.
+
+}
+[sha:8e225c1e1180a6ef366a5d65830a7520ee11a332]{
+-- Page 21, Offset 2952.
+-- おそるおそる背後を振り返る。
+  He nervously turned around.
+
+}
+[sha:54f1defcd59563daa1c45205e5eb5eeb791115a3]{
+-- Page 21, Offset 2953.
+-- 当然のように、追いかけてくる危険人物など居るはずもない。
+  There was no way that dangerous individual could be behind him.
+
+}
+[sha:2d2a5a1c878fe961c293f9cf5bc783cce45dc4e4]{
+-- Page 22, Offset 2954.
+-- 『……って、考えてみると……』
+(Wait, why would I even...?)
+
+}
+[sha:42ca022af28a8382c2bfed1292db91f0614c7130]{
+-- Page 22, Offset 2955.
+-- なぜ唐突に走りだしたのか、その理由が脆弱すぎた。
+  He couldn't think of a good reason for why he'd fled so desperately.
+
+}
+[sha:82777fbc4778392134e34510d802698711eaa895]{
+-- Page 22, Offset 2956.
+-- そもそも自分は、人相が分かるほど“<危険|あいて>の顔”を見ていなかったではないか、と呆れかえる。
+  As far as he could remember, he hadn't even seen the threat's face long enough to form an opinion about her.
+
+}
+[sha:cc0368f59b1f1de0255f71a6cb3af58f0f1e8a1b]{
+-- Page 22, Offset 2957.
+-- 頬を叩いて気合いを入れ直し、草十郎は早足でプラットホームに下りていく。
+  Soujyuro gave himself a good slap on the cheek to pull himself together and quickly made his way down to the platform.
+
+}
+[sha:1adc8f8ef39ba4a954b1573fa343328e46375272]{
+-- Page 22, Offset 2958.
+-- あいにく電車は十分待ちだったが、ここで取り乱しても仕方がないので大人しく椅子に座った。
+  Unfortunately, the next train was ten minutes away, and panicking would do him no favors, so he quietly found an empty seat and sat down.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 23, Offset 2959.
+-- 「――――――」
+"..."
+
+}
+[sha:fa12343d690c52ab411f86ce210fd23c07adc60d]{
+-- Page 23, Offset 2960.
+-- もういちど深呼吸。
+  He took another deep breath.
+
+}
+[sha:7537004d1602f4c3b3616a2489efd84cfa6c565e]{
+-- Page 23, Offset 2961.
+-- 周りには自分と同じく、電車待ちの人々の姿がある。
+  He was surrounded by people waiting for the train just like he was.
+
+}
+[sha:864b8d240c6377c94d2117560dabbe9675f73b56]{
+-- Page 23, Offset 2962.
+-- ……追いかけてくる“誰か”なんて影も形もない。
+  ...And no sign of anyone pursuing him.
+
+}
+[sha:cb712500baba3f97eebca14008e0ec1e6cbe90df]{
+-- Page 23, Offset 2963.
+-- 考えすぎだった、と、ようやく頭がクリアになる。
+  His head finally cleared up, and he assured himself that he was overthinking things.
+
+}
+[sha:a32085636d70a52fa726de8a10a68f5c63d97805]{
+-- Page 23, Offset 2964.
+-- ただ、がっくりと落ちた両肩が重いのが意外だった。
+  Though, he was surprised at how heavy his shoulders felt.
+
+}
+[sha:ac3254369e126a75a818a48a51165ce8928a9261]{
+-- Page 24, Offset 2965.
+-- 『……疲れてるのは分かってる。自分の体のコトだし』
+(I'm just tired, I'm sure of it. I know my own body best, after all.)
+
+}
+[sha:85b0788a6ee38aeae40755b97a104f1f8733b719]{
+-- Page 24, Offset 2966.
+-- 予想以上の強い疲労に、草十郎は嘆息した。
+  Soujyuro sighed at his greater-than-expected fatigue.
+
+}
+[sha:163c4a06633b5b0f2f3244834e86b912932386ad]{
+-- Page 24, Offset 2967.
+-- 山を下りてきてからの生活はたしかに過酷だったが、こうして座って振り返ってみると我慢できないほどではなかった。
+  He had certainly struggled since coming down from the mountains, but in retrospect, it could have been worse.
+
+}
+[sha:5ca8817f9cbb978294852c3216b7594a683294e8]{
+-- Page 24, Offset 2968.
+-- 肉体的にはたぶんまだまだ大丈夫。
+  Physically, he was probably holding up fine.
+
+}
+[sha:a3acde3030265ce5e5c35c290c81b714522c51b2]{
+-- Page 24, Offset 2969.
+-- <音|ね>をあげているのは心の問題だ。
+  He was much less confident in his mental state.
+
+}
+[sha:42de8d90dc47b1d2a8e44998f9c6b0759057dad9]{
+-- Page 25, Offset 2970.
+-- ここと山とでは何もかもが違う。
+  The city and the mountains could not have been more different.
+
+}
+[sha:ade35479a4a8ce6229590109f23a27032f5a8156]{
+-- Page 25, Offset 2971.
+-- それを認めて適応する事はひどく難しかった。
+  He had been slow to recognize the differences and adapt.
+
+}
+[sha:29b29dbb5037a5ee76bdc239dfa87b8ff2c5601a]{
+-- Page 25, Offset 2972.
+-- 馴染むのは簡単だ。人間はなんにだって慣れる生き物なので、放っておいても順応していく。
+  Acclimation was simple enough. Humans were nothing if not adaptable. Even without any effort, one would learn to adjust over time.
+
+}
+[sha:c7c9c0f91c91772eb70935683d904ac39b8b1848]{
+-- Page 25, Offset 2973.
+-- なので。難しかったのは、たぶん認める方だろう。
+  Recognizing the challenges had been the hard part.
+
+}
+[sha:9bed7487fdd1bfbeae71f5e803b99723985dc4a1]{
+-- Page 26, Offset 2974.
+-- 「……そりゃあ。とにかく、難しいコトだらけだし」
+"...Actually, it's all been difficult."
+
+}
+[sha:816401cd7a96af18789f0a9e52f23cc2ecae0d85]{
+-- Page 26, Offset 2975.
+-- 今まで口にしたことのない弱音を漏らす。
+  Soujyuro grumbled a complaint he'd never uttered before.
+
+}
+[sha:d1fd2c20666b62e5534ca640bfeb0bf30a7edc45]{
+-- Page 26, Offset 2976.
+-- 正直、草十郎は町を出歩く事すらいまだに怖い。
+  To be honest, he was still afraid to wander around town.
+
+}
+[sha:064d778778eaaa656fc41206101de71f72bdff43]{
+-- Page 26, Offset 2977.
+-- 都会の人々には当たり前の事でも、彼にとっては未知の事ばかりなのだ。そんな事が連続するたびに驚いているのだから、まいらない筈がない。
+  There were so many things city people took for granted that Soujyuro had yet to grasp. It was little wonder that this neverending chain of surprises would wear on him.
+
+}
+[sha:60f8b634d4f7cd8ef38fcfc01d31e81b49a60746]{
+-- Page 27, Offset 2978.
+-- 『……そっか……疲れてるのは体じゃないのか……』
+(Oh... It isn't my body that's tired.)
+
+}
+[sha:23ba6b2df936c5e9567f95d18680dbdfd5afa5c3]{
+-- Page 27, Offset 2979.
+-- 「だから、あんな幻を見る」
+"That would explain the hallucination."
+
+}
+[sha:2506216be9f12f5a38f52995f47d0720e534ec50]{
+-- Page 27, Offset 2980.
+-- 呟いてみて、草十郎は小さく首を横に振った。
+  He muttered to himself, then shook his head.
+
+}
+[sha:c20d8a5deccdd3e20a14236b08004a2a8be29ebc]{
+-- Page 27, Offset 2981.
+-- 有る物は有るのが、世の習わしだ。
+  That which exists, exists. Such was the way of all things.
+
+}
+[sha:a03351433d10e2d6fb5aa27271fb8c89c693edad]{
+-- Page 27, Offset 2982.
+-- 鳶丸にはああは言ったが、草十郎は<あ|・><の|・><出|・><来|・><事|・>が現実だと解っていた。
+  Tobimaru had called it a hallucination, but Soujyuro knew what he saw was real.
+
+}
+[sha:abad27f37df2fc39052ddb03df50573af7e41603]{
+-- Page 28, Offset 2983.
+-- ここは山に比べれば魔法の国だ。
+  The city was a magical kingdom compared to the mountains.
+
+}
+[sha:8dac574f221fbb65976f2efa310715d72609ecf4]{
+-- Page 28, Offset 2984.
+-- それなら、本物の魔法使いがこっそり暮らしててもおかしくはない。
+  If there were real magicians secretly living here, that should have been no surprise at all.
+
+}
+[sha:3f9665c47a758a46ad1d3250f5e2176c90f017be]{
+-- Page 28, Offset 2985.
+-- 一度でもそう思ってしまったら、椅子に座った両足が小刻みに震えていた。どうも怖いらしい、と気付いたのはしばらくしてからだ。
+  The thought alone made his legs tremble. It took him a moment longer to realize that they were quivering out of fear.
+
+}
+[sha:4c4984bde7b9a254fd0259cca94035d8dc27560c]{
+-- Page 28, Offset 2986.
+-- 自然以外を怖いと思うのは、子供のころ山道でばったり野生の熊に出会った時以来である。
+  He had feared the unnatural ever since he encountered a wild bear on a mountain path as a child.
+
+}
+[sha:d6136722c5a445192796ed1aabc9322f7c20a917]{
+-- Page 29, Offset 2987.
+-- 「いや、あれはこんなもんじゃなかったっけ。
+"But this is nothing like that.
+
+}
+[sha:b1f44a1f412e759cb68a2911e01247a7f0a7c65d]{
+-- Page 29, Offset 2988.
+-- なりふりかまわず泣き叫んだもんな、あの時は」
+  I cried and screamed my head off back then."
+
+}
+[sha:c49a80087d351a3913bcb44d8ab85b03ad92046a]{
+-- Page 29, Offset 2989.
+-- 幼少期のトンデモなトラウマを思い出し、草十郎はつい<微|わ><笑|ら>ってしまった。
+  Soujyuro smiled a little as he recalled his traumatic childhood memory.
+
+}
+[sha:49a618f30d2bbeae1af9f1faf09eafedb1d59240]{
+-- Page 30, Offset 2990.
+-- たしかに二メートル以上の獣がのっそり現れ、ぐるるる、なんて唸った日には誰だって卒倒するだろう。
+  Anyone would have fainted at the sudden appearance of a growling beast that towered over 6 feet tall.
+
+}
+[sha:916e968243ccf7aba38833fbed845fb1afa90cf5]{
+-- Page 30, Offset 2991.
+-- 山で生活していた草十郎からしてどのくらい迫力があったかと言うと、ほんの二日前に映画で見た大怪獣をぬいぐるみでは、と錯覚するぐらい野生の獣は怖かった。
+  The monster in the movie that Soujyuro saw not two days ago was the equivalent of a cuddly stuffed animal when compared to the wild mountain creatures.
+
+}
+[sha:30bb15cc0dc4aaad52dcc2fb79675024f03c1249]{
+-- Page 30, Offset 2992.
+-- それを思い出せば、たしかに、これぐらいはなんとか我慢できる話かもしれない。
+  He was reminded that he'd faced far worse before, and his ordeal now was something he could endure.
+
+}
+[sha:d1924518881ff082c6768b511cbb939cc2ac9001]{
+-- Page 31, Offset 2993.
+-- 「……そうだよな。今の問題は、えーと……チラっと聞こえた最後の台詞か。『捕まえて始末する』っていうのは、どうなんだ？」
+"That's right. The problem now, is... what I heard someone say at the end. What's 'catch and eliminate' supposed to mean?"
+
+}
+[sha:f8c6f3281a7c18966f31434f6578086691d4c967]{
+-- Page 31, Offset 2994.
+-- 額面通りにとるのなら、それこそ文字通りの意味、というヤツだ。
+  At face value, the meaning was obvious.
+
+}
+[sha:d694ce585c756337e4ea8af41466736758df899d]{
+-- Page 31, Offset 2995.
+-- あまりにも物騒な意味合いすぎて、真剣に考察することが難しい。何かの聞き間違い、あるいは言い間違いだったのだろう、と放り投げてしまいたくなる。
+  But the implications were simply too frightening to contemplate seriously. Perhaps he had misheard the words, or perhaps the speaker had misspoke.
+
+}
+[sha:259b5775d9f807bdb3598d7c404e94f0f9c0cd1e]{
+-- Page 32, Offset 2996.
+-- 「都会のルール……誰かが、きっと罰しに来る、か……」
+"The law of the city... means someone will deal out punishment eventually..."
+
+}
+[sha:9b6a70c9b99bb1f9c759a17bab77d27f9f8e4a4b]{
+-- Page 32, Offset 2997.
+-- 自分で言っておきながら、やっぱり他人ごとのようで、夢だったと割り切りたい気分だ。
+  Even as he said it, the idea didn't feel quite real. It was hard to imagine that it applied to him.
+
+}
+[sha:1b580f63d4e80c8343b34438685a98a99e560c2c]{
+-- Page 32, Offset 2998.
+-- 草十郎は息をついて瞼を閉じる。
+  Soujyuro breathed in and closed his eyes.
+
+}
+[sha:84d5cf06cc6d49914d6de2da71268a68c6149513]{
+-- Page 32, Offset 2999.
+-- 視界の暗転と共に先ほどの光景をすべて棚上げ。
+  His vision dimmed, putting the illuminated cityscape out of sight, and out of mind.
+
+}
+[sha:e0206b5ea9ca4ebc46714bb04aa912e743611691]{
+-- Page 32, Offset 3000.
+-- とりあえず、今はきれいさっぱり昨夜の出来事を忘れる事にした。
+  For now, he resolved to put last night's events behind him.
+
+}
+[sha:e15390120949211d4da720dbe8e330040e3498c7]{
+-- Page 33, Offset 3001.
+-- 瞼を開けると、呼吸はすっかり落ち着いていた。
+  When he opened his eyes, his breathing had calmed.
+
+}
+[sha:f53d2379015fe78f7cfac31421e4a728dd1aa4aa]{
+-- Page 33, Offset 3002.
+-- 「それでさ。
+"I wonder...
+
+}
+[sha:e00cc80af89be9b49a95c63a9b323f01932f5176]{
+-- Page 33, Offset 3003.
+-- 蒼崎を殴りつけようとして、結局どうなったんだ鳶丸？」
+  What happened to Tobimaru when he tried to hit Aozaki?"
+
+}
+[sha:1bbf6f331bcc1caf73794101e518b3627278e207]{
+-- Page 33, Offset 3004.
+-- なんとなく唐突に、そんな疑問が湧いたりする。
+  The question suddenly popped into Soujyuro's head.
+
+}
+[sha:5078803629c0c459378f21faa4948c4b40e9b840]{
+-- Page 33, Offset 3005.
+-- 今度聞いてみよう、と草十郎が椅子から立ち上がった時、長い光を引いて電車がやってきた。
+  He decided he would ask next time, and stood up from his chair. A long streak of light blazed by, announcing the arrival of the next train.
+
+}

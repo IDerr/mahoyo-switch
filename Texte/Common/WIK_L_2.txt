@@ -1,0 +1,468 @@
+[sha:616c6f6b3ef76f90f313a9daf94a4e444d09e1bd]{
+-- Page 0, Offset 22516.
+-- その前に、
+  I felt that...
+
+}
+[sha:92dbec0a8eeabbd352bf9ef2e8f811a36aa7d2b7]{
+-- Page 0, Offset 22517.
+-- あのピンク女のアリバイも検証するべきだと思った。
+  we needed to dig more into the pink girl's alibi.
+
+}
+[sha:b16c835ddd5a0292660cec946b60f9ba2b3c8a55]{
+-- Page 1, Offset 22518.
+-- 「へ？　アタシにもやれっていうの？
+"Huh? You want me to go, too?
+
+}
+[sha:9b7737b1755bf81b2fad5fc45c8a7b77ecf2a45a]{
+-- Page 1, Offset 22519.
+-- アタシは関係ないじゃない。だってアタシが来た時、もう爺さんもセンセイとやらもいなくなってたんでしょ？　常識的に考えて、完全にシロよ。
+  I've got nothing to do with any of this. If you thought about it for even a second, you'd realize those two idiots died before I got here.
+
+}
+[sha:2e2cdbfaf85c68fce659162510d2e259685f3d90]{
+-- Page 1, Offset 22520.
+-- だいたい、アタシにはスイーツハーツなんて使う理由がないし。なに不自由のないアイドルだし、願い事なんてたいていはお金で解決できるし。どうせ嵐を呼ぶなら、自分の手で起こして、まわりを犠牲にしてもスッパリ成就させまくるし」
+  I don't even have a reason to use Sweets Hearts. I'm a rich celebrity; I can solve most of my problems with money, not to mention petty wishes. If I wanted to call down a storm, I'd do it even if it meant sacrificing everyone around me."
+
+}
+[sha:e162e4ce9f3ff23e81b533052ce6e5ae3c8f31e6]{
+-- Page 2, Offset 22521.
+-- 「バカいってんじゃねえ、テメエだって怪しいだろ。
+"Don't be a dumbass. You're as much a suspect as anyone.
+
+}
+[sha:80be4d4993bf5e90832bab8111f6a0537ace795e]{
+-- Page 2, Offset 22522.
+-- プロイとやらを知っていて、蒼崎と久遠寺に恨みがあって、おまけに慢性的なヒスときた。
+  You know about Ploys, you have a grudge against Aozaki and Kuonji, and you're way too over the top.
+
+}
+[sha:eea3a5318b9349d89c4893231b3df9dc85083fdf]{
+-- Page 2, Offset 22523.
+-- そもそも、なんで呼ばれもしていないのにやって来た。わざわざヘリ飛ばしてまでよ？」
+  On top of that, you showed up uninvited. In a freakin' helicopter!"
+
+}
+[sha:b0e41d4f938c5dc5e0710f180ab6e8bc8b183ea9]{
+-- Page 3, Offset 22524.
+-- 「つーかアレだ。テメエ、ヘリでやってきた時、まったく雨に濡れていなかったよな？
+"What's more, you weren't wet from the rain when you came in.
+
+}
+[sha:e72a660b986f8be945125cc5e9d1aea8fb5179d6]{
+-- Page 3, Offset 22525.
+-- ありゃどういうコトだ。
+  Care to explain that?
+
+}
+[sha:5f05396b1bc4e6fa691c2ddd03e1d3cc27bf4c47]{
+-- Page 3, Offset 22526.
+-- それまで屋敷に隠れていて、ヘリを呼びつけたタイミングで登場すれば、さも“たったいま着きましたー！”って状況になるよなあ？」
+  I bet you hid somewhere in the mansion, called your helicopter in, then made it seem like you just got here!"
+
+}
+[sha:92089c789684c89112ba2722f5fb840fb9046f7a]{
+-- Page 4, Offset 22527.
+-- 「なっ、なによそれ！？
+"Oh, come off it!
+
+}
+[sha:cb1cae31e24d34cf0f50f855edc0aacc71ba71b9]{
+-- Page 4, Offset 22528.
+-- アタシ、ちゃんとヘリで来たってば！　雨に濡れないのはゴブリンで弾いたからだし！　なんでアタシが、アンタらを皆殺しにしようなんて思うのよ！？」
+  Of course I came here in a helicopter! I used my Goblin to keep the rain off me! You seriously think I'd come here just to murder you all?!"
+
+}
+[sha:563b26eb0e3095e38d7bcfa59cb5b86ad10067a2]{
+-- Page 5, Offset 22529.
+-- 「いや。思ってたじゃないか、実際」
+"You've definitely thought about it before."
+
+}
+[sha:51a9e2e5f1c335ae3a11acb8d4cc9244acb6b4d5]{
+-- Page 5, Offset 22530.
+-- 「ええ。したわね、実際」
+"She has."
+
+}
+[sha:de6f86ea17d8fca9fbad157ab241533766fc60a1]{
+-- Page 6, Offset 22531.
+-- 「あれはあれ、これはこれでしょう！？
+"That has nothing to do with this!
+
+}
+[sha:b104c42bf606b8e0618be5c0cc25880f39cfd757]{
+-- Page 6, Offset 22532.
+-- ああもう、マジ頭きた。アタシ帰る。帰って第二次ブリティッシュ作戦の準備する。もちろん、標的はここだからね」
+  Ugh, you're giving me a headache. I'm leaving. Just you wait, I'll be back with an Operation British of my own. Ground zero: this house."
+
+}
+[sha:574637db415839c296b7927ae699b42ec24f68ea]{
+-- Page 7, Offset 22533.
+-- 「できるの？　脱出は困難だって、有珠が」
+"Can you even leave? Remember what Alice said?"
+
+}
+[sha:d21deaf22f21edc701ef74dc2b432911ec40e128]{
+-- Page 7, Offset 22534.
+-- 「ええ。スイーツハーツの確率変動で、道は土砂崩れになっている可能性が高いわ。
+"It's highly likely that Sweets Hearts's probability shift has collapsed the roads.
+
+}
+[sha:2731f70c1b1484eaa0e57883bd84e3a2731cf7b6]{
+-- Page 7, Offset 22535.
+-- 電話線もなくなってるから、外部と連絡もとれないし」
+  And the phone is still out."
+
+}
+[sha:7db2c175baa8f6b9ff6963501002a0dc3ee22375]{
+-- Page 8, Offset 22536.
+-- 「はん、地上がダメなら空があるわ。
+"Ha! I can still fly.
+
+}
+[sha:8aeede9a989882f7a6e9291bc935adcb4e29ac51]{
+-- Page 8, Offset 22537.
+-- いいわよ、ヘリでしょ、お望み通り呼んでやるわよ。
+  I'll just call my helicopter to come pick me up.
+
+}
+[sha:d7e01a9f7efd77fece9514f50b5cd78a17392631]{
+-- Page 8, Offset 22538.
+-- アタシのゴブリンネストを舐めるんじゃないっての！」
+  Don't underestimate the power of my Goblin Nest!"
+
+}
+[sha:0d07d902b981ab09b4bce4693f3f9396cce0f827]{
+-- Page 9, Offset 22539.
+-- ピンク女は威勢良く<啖呵|たんか>をきって、廊下に出て行った。
+  The girl in pink stormed out into the hallway.
+
+}
+[sha:1a010dab040331dcfc5c81bc79d16663d49ffc9d]{
+-- Page 10, Offset 22540.
+-- 『ハロー。パパ？　アタシだけど、いますぐミサキ町の白犬塚までヘリ、飛ばして。そう、あのミサキ町。
+"Hello, Daddy? It's me. Can you send a helicopter to Shiroinuzuka in Misaki Town...? Yes, *that* Misaki.
+
+}
+[sha:e875cb4d6bb2fb363298489c67691763435ce2f8]{
+-- Page 10, Offset 22541. Glued. Mods: @x.
+-- はぁ！？　まだ諦めてないのか、ですって？　ヴァァァァァカ、頭ん中カボチャになってんじゃないの！？　勝つまでやるのがアタシだし！　第一、まだぜんっぜん負けてないし！　あんなの引き分けにすぎないわよ！
+What?! What do you mean, give up?! Have you gone SENILE, you old codger?! I decided I'd keep trying until victory is mine! And I NEVER lost in the first place! That was just a draw!
+
+}
+[sha:68fe2d52e45ae4bce49025672e18bafb4f1f6825]{
+-- Page 10, Offset 22542. Glued. Mods: @x.
+-- ほら、座標は分かるでしょ。さっさと飛ばして。十分以内よ、十分以内』
+  You know the coordinates. Send me a chopper now! You've got ten minutes!"
+
+}
+[sha:1f6dfd67c02281b75494c8b4c4c5b63f889c4448]{
+-- Page 11, Offset 22543.
+-- 『は？　支社にあるヘリじゃ無理？　嵐がひどくて近づけない？　ッタコ、んなコト分かってるわよ！
+"Huh? What do you mean you can't send one in this storm? Do I sound like I care?!
+
+}
+[sha:82045e2f2aacac3df41d9cb789a9ec3d3946068b]{
+-- Page 11, Offset 22544.
+-- それでも、このアタシが、今すぐ、ミサイルみたいにカッ飛ばせって言ってんの……！
+  Or are you suggesting that I fly myself out of here like a missile?!
+
+}
+[sha:ef8649536f8dda204476790b4a3e0d742ac38b0a]{
+-- Page 11, Offset 22545.
+-- 飛ばしたくても機体がない？　このハイトンチキ、アンタそれでも商人？　頭使いなさいよね。近くに軍用基地あるでしょ。そこに試作の最新鋭機があるって話よ。強襲用の。それ、一機チャーターして』
+  ...We don't have any helicopters to send? You call yourself a businessman, you dimwit? Use your brain! There's a military base nearby, remember? They're testing a prototype assault craft there. Just charter it!"
+
+}
+[sha:317f7ebff35e185bddd92fbfae47c29243d35a4d]{
+-- Page 12, Offset 22546.
+-- 『あーもう、ムリムリうるさいわねそれしか言えないの？
+"Goodness, can't you do *anything* on your own?
+
+}
+[sha:225383965c5b4928060e3c119b5d4edf9a82119b]{
+-- Page 12, Offset 22547.
+-- はぁ？　会社の立て直しで<実弾|キャッシュ>がない？　機体プラス、スタッフごと買い取らなきゃならん？　上等じゃない、その程度アタシがいくらでも稼いであげるってーの！　アラブの坊ちゃん宅だろうがチャイナの金満家の所だろうが、プライベートライブ<二三|にさん><発|ぱつ>ぶちかましてあげるわよ！　それでおつりがくるでしょ？』
+  WHAT?! What do you mean, cash is tight because you're restructuring?! You'd have to buy the entire aircraft and crew? Go ahead, then! I can make you back that money in a day! I'll just do a private concert for some oil sheikh or a Chinese billionaire! That good enough for you?"
+
+}
+[sha:ddcceabfa77f5d38d75eb2a04699a05055caae96]{
+-- Page 13, Offset 22548.
+-- 『うざっ、泣いて喜ぶとか本気で止めて。お金のためよお金のため、音楽業なんてどうでもいいんだから！
+"Oh *please*, don't cry and tell me how proud you are of me. It's just for the *money*, Daddy. I couldn't care less about the music industry!
+
+}
+[sha:1f9eafe8a135ea53c778e7d2560f5c910ca66064]{
+-- Page 13, Offset 22549.
+-- わかったら十分以内！　最新鋭機の、スーパーカッコイイの！　クソアパッチなんか寄越したら親子の縁切るから、覚悟しておくコトね！』
+  Just get me that helicopter within TEN minutes! That new, experimental, super-cool one! NOT some budget Apache or any other rubbish like that, or I'LL NEVER SPEAK TO YOU AGAIN!"
+
+}
+[sha:2f9852413c7aea53c2e5e821f1539abf9655ec69]{
+-- Page 14, Offset 22550.
+-- ……なんか、ものすごい罵詈雑言が響いてきている。
+  The pink girl's vicious berating could be heard throughout the house.
+
+}
+[sha:f9c72b040714d0ee0ef92722fb78fb9f155cf32b]{
+-- Page 14, Offset 22551.
+-- ピンク女は英語でひとりごとを呟いているっぽいんだけど、あまりにも早口＆<俗語|スラング>の連続で、もう何を言っているんだか聞き取れない。
+  She was speaking English so quickly and with so much slang mixed in that I couldn't quite catch it all.
+
+}
+[sha:eb0bb90175ebf5f5d9629d1a0e210c346f83d2ce]{
+-- Page 14, Offset 22552.
+-- ……そもそもわたし、ヒアリング得意じゃないし。
+  ...Listening wasn't a particular strength of mine, anyway.
+
+}
+[sha:539f7fe5de0f430048de22980d469ff489e631a3]{
+-- Page 15, Offset 22553.
+-- 「……あの馬鹿、本気で軍用ヘリ呼びつけやがった……」
+"Did that moron  really just order a military chopper?"
+
+}
+[sha:648effad18c6d6e1071faaa2018606ad8533109f]{
+-- Page 15, Offset 22554.
+-- 「お待たせ。あと十分もしたら救いの天使が来るわ。
+"Right, that's all settled. My guardian angel will be descending from the skies in about ten minutes.
+
+}
+[sha:6428f10506e171027df2c25c3261addabaaedf82]{
+-- Page 15, Offset 22555.
+-- スイーツハーツのルールはこの山限定だから、外に出てしまえば何もかもチャラ。アタシは一足先に家に帰って、豪華なディナーとしゃれこませてもらうから」
+  Sweets Hearts's rules only apply to this mountain. As soon as I get out of here, I'll put all this behind me. I'll just head home, have a fancy dinner, and relax."
+
+}
+[sha:c33ba5502d10ffe0e43292548118355f2098c9cd]{
+-- Page 16, Offset 22556.
+-- 「ああ、けど安心なさい？
+"Oh, and don't worry.
+
+}
+[sha:e93e6c344b9a49edd0599e6eb15112fa1ec0ac88]{
+-- Page 16, Offset 22557.
+-- アタシだって鬼じゃないし、どうしてもって言うなら乗っけていってあげてもいいわよ？　こんな犯人当てゲームにこりごりな人は、いますぐアタシ側に来るコトね」
+  I'm not that terrible of a person. If any of you want a ride, I'd be happy to oblige. I'm sure some of you are tired of this stupid detective game."
+
+}
+[sha:026a4c3a7895438977e791abe3574b68bafd8d55]{
+-- Page 17, Offset 22558.
+-- 「待てそこ。どうしてすぐ強い方に付こうとするのか」
+"Hold it, buddy. Where do you think you're going?"
+
+}
+[sha:3a979f8b805e522dc625af432cfbc870f078b50a]{
+-- Page 17, Offset 22559.
+-- 「いや、しかし。自ら救いの天使だと」
+"Well, she said she was our guardian angel."
+
+}
+[sha:ab633bde75e2fbddb1585b8f0a3d2b875c96aa55]{
+-- Page 17, Offset 22560.
+-- 「やめとけ草十郎。そいつが救いの天使だってんなら、蒼崎なんざ癒しの女神クラスになっちまう。根本的に喩えを間違えてるぞ、アレ」
+"I wouldn't if I were you, Soujyuro. If she's an angel, then that makes Aozaki a goddess of healing. Don't fall for her crazy metaphors."
+
+}
+[sha:36f6da6656b3ba280492833b4fdb8f463fb8d6a7]{
+-- Page 18, Offset 22561.
+-- 「……むう。久万梨はどうする？
+"Huh. What about you, Kumari?
+
+}
+[sha:5b7f0342c9ec1b45242b69feebfbd2f2e11379b4]{
+-- Page 18, Offset 22562.
+-- 鳶丸たちはこう言っているけど」
+  You heard what Tobimaru said."
+
+}
+[sha:4a3a3f271ba7545d3131244477d362b144aed160]{
+-- Page 18, Offset 22563.
+-- 「わたしも辞退。帰るならひとりで帰ってもらえばいい」
+"I'm not going. If she wants to leave, she can go by herself."
+
+}
+[sha:f23d231fd0ec6132c73715e9e68fa20efd1669e9]{
+-- Page 18, Offset 22564.
+-- 本当は助けが来るならすぐに乗りたいところだが、あのピンク女の手を借りるのは<御免蒙|ごめんこうむ>る。
+  To be honest, if rescue was coming, I really did want to leave. But I wasn't about to owe this pink princess any favors.
+
+}
+[sha:ddbaf5b211d8bf7cbd8b2832cb6d4097670f37c4]{
+-- Page 19, Offset 22565.
+-- 「ふん、この状況でも仲良しごっことか、ドリーマー極まったわね。
+"Hmph. You must all be a bunch of dreamers to stay all chummy at a time like this.
+
+}
+[sha:978017b777a637d4be9cc863415258b835b6e52c]{
+-- Page 19, Offset 22566.
+-- いいわよ、好きにすれば？　明日の朝刊の見出しが“山の上の洋館、宿泊客全員行方不明か？”なんてモンにならないよう、せいぜい気をつけなさい」
+  You lot can do as you please. Just don't let tomorrow's headline be, 'all guests missing from the hilltop mansion.'"
+
+}
+[sha:b96cd9f2ed0b31a8299261440f0a567257543ad2]{
+-- Page 20, Offset 22567.
+-- 「はん。逃げだす女がよく言ったものね。
+"Ha! Snark all you want, coward.
+
+}
+[sha:f9304f3a0ffecf772e7912fbeebd18b1d6b1eae6]{
+-- Page 20, Offset 22568.
+-- そもそもこの天候で助けなんて来るハズないし。外の天気、嵐というより地獄でしょ。夢見がちなのはそっちの頭の方だと思う」
+  Nobody's coming for you in this weather. It's like hell out there. Who's really dreaming?"
+
+}
+[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+-- Page 20, Offset 22569.
+-- 「っ……！」
+"...!"
+
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 21, Offset 22570.
+-- ……と。
+  And then...
+
+}
+[sha:e2cfc53910789dc5090f821b50d34c9d411be29c]{
+-- Page 21, Offset 22571.
+-- 十分を待たずして外からは強風とは別の、異質な風切り音が聞こえてきた。
+  Before even ten minutes had gone by, there was a bizarre noise from outside that was separate from the howling storm.
+
+}
+[sha:dd016ec8ad237a70ca88f43dae967b1d199020d5]{
+-- Page 22, Offset 22572.
+-- 「あはっ、予定よりすっごく早い！
+"Aha! Earlier than expected!
+
+}
+[sha:1d202bfda3abf860dc8059e225a3373b3cd0d817]{
+-- Page 22, Offset 22573.
+-- さっすがパパ、なんだかんだ言ってコネクションも行動力もあるんだからー♪」
+  I knew Daddy would come through! He's got friends in high places, and he knows how to use them!"
+
+}
+[sha:41399dc96fa1d73b29569a010a6e3b5faef47e2d]{
+-- Page 23, Offset 22574.
+-- 吹きすさぶ嵐の中、一つ目の魔鳥が接近してくる。
+  In the midst of the tempest, a demonic bird came bearing down on us.
+
+}
+[sha:579595cbb30226d349ccf1bdfab2a053f97ccf31]{
+-- Page 23, Offset 22575.
+-- 目と思われたのは、何キロメートル先さえ照らす強力なサーチライトだ。
+  Bright spots that I'd thought were eyes turned out to be a powerful searchlight, its beam stretching out for miles.
+
+}
+[sha:ef37c3c53ffadc6f0f5fcb32c109bce5e787445e]{
+-- Page 23, Offset 22576.
+-- 鋼鉄のヘリコプターは、風速八十キロもの風をものともせず、
+  The steel helicopter struggled against winds in excess of 50 miles per hour, and then...
+
+}
+[sha:a1197e195fbd34322207252059dd2e04a54fc325]{
+-- Page 24, Offset 22577.
+-- 「あ、落ちた」
+"Oh. It crashed."
+
+}
+[sha:e3e2472a64e1b4b15810c58230f37becc487ac12]{
+-- Page 24, Offset 22578.
+-- 「あ―――あ、あ、あ」
+"Ah... AaaaAAaAAAhhh..."
+
+}
+[sha:4a4f63bd622059f383142ee08875bfc3402a1afa]{
+-- Page 25, Offset 22579.
+-- 「いやあ、この天候でフライトとか、常識的に考えて無茶でしょう。有珠さんでもそこまで世間知らずではありませんよ」
+"They should've known better than to fly in this weather. Even Alice has better common sense than that."
+
+}
+[sha:6e303c2bb07496a1e91b73ee018c0283e86b92fb]{
+-- Page 26, Offset 22580.
+-- 「ええ。必ず落ちると思ったわ。リデルの作戦がうまくいった事なんて、今まで一度もないのだし」
+"Right. I knew it was going to crash. None of Riddell's silly plans ever work out."
+
+}
+[sha:9a9d834a453027162401cfc680f355c0b204c14c]{
+-- Page 26, Offset 22581.
+-- 「あるわよ、アンタさえ関わらなければいつだってアタシはパーフェクトだっつーの！
+"They work perfectly every time! Just never when you're around!
+
+}
+[sha:52d642e8099a600219637bcad6abad86b30380a9]{
+-- Page 26, Offset 22582.
+-- それに、今のはただのテストよ。
+  Anyway, that was just a test.
+
+}
+[sha:fd0046267e8b52149a1b1f9a5377c07de72c469a]{
+-- Page 26, Offset 22583. Mods: @k, @e.
+-- 本命は後からやって―――
+  My real plan is just beginning.
+
+}
+[sha:101b4c7844b0defe67581baf0a7fae38635d6224]{
+-- Page 26, Offset 22584. Glued. Mods: @x.
+-- ちょっと待って、タイム」
+Hang on, I have to take this. Time out."
+
+}
+[sha:5118d8d19f66600f137101be5eddae2478bc0673]{
+-- Page 27, Offset 22585.
+-- ポケットにポケベルでも入っているのか、ピンク女はまた廊下に出て行ってしまった。
+  The pink girl went back out into the hallway. Maybe she had a pager in her pocket.
+
+}
+[sha:97dd8381b19845f4e84774431cf0061e8aabce58]{
+-- Page 27, Offset 22586.
+-- 『はあ、責任問題になったァ！？　いま特殊部隊が本社ビルの屋上から侵入して来てるですってーー！？』
+"WHAT?! They're claiming you're responsible...?! Special forces are breaching the company office?!"
+
+}
+[sha:f2c61d95dd577815e1c984d30bc52ae3273e319c]{
+-- Page 27, Offset 22587.
+-- なんか、廊下から悲鳴が聞こえてくる。
+  Her yelling resonated through the hallway.
+
+}
+[sha:58786368c8aa617e5bed11ef4cdaa93ff43efac8]{
+-- Page 28, Offset 22588.
+-- 『落ち着いて、下手な抵抗はしちゃダメよ、すぐ無線で相手のトップと交渉して。え、損害賠償？　プロジェクトごと買い取らないと殺すって？　つーかもう拘束されてる？　ああもう、カイは何やってんのよ！？　で、いくら？　ごはっ、なにその金額、ケタ二つ違くない！？　払えない払えない、そんなのすぐに払えない！
+"Calm down. Don't do anything stupid. Talk to the commanding officer. Huh? They want you to pay for the damages? They're going to kill you if you don't buy out the entire project? You're already tied up? Ugh, what's Kai doing at a time like this?! So how much do they want? Pfft! That's at least two more zeroes than it should be! We can't pay that, not right away!
+
+}
+[sha:8f6536ad0a3d66b33206c7d689da4d64ba687ae1]{
+-- Page 28, Offset 22589. Glued. Mods: @x.
+-- ちょっと待って、えーと……う、うん、なんとかなるかも』
+Hold on a second, um... hmm... maybe there is a way."
+
+}
+[sha:abd8a9366c3cc4d13b30eeb3bf719f3bc6cb91ef]{
+-- Page 29, Offset 22590.
+-- 『今年のツアー延長と、アタシの持ち株と、タヒチの島を売却すれば、なんとかなりそう。いいわ、契約成立、買い取っちゃって！　軍事産業とか畑違いだけど、とりあえずパパの安全が最優先！』
+"I'll extend my tour this year, sell off my stock, my island in Tahiti... That should be enough. Okay, it's a deal! Sign the papers! The defense industry is new territory for us, but your life is more important, Daddy!"
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 30, Offset 22591.
+-- 「…………」
+"..."
+
+}
+[sha:9f7178f838f65539349e91a63271b83259052422]{
+-- Page 30, Offset 22592.
+-- ちょっと気になる。
+  I was a little curious now.
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 30, Offset 22593.
+-- わたしは、
+  I...
+
+}

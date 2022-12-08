@@ -1,0 +1,282 @@
+[sha:a8e40cf2bea1fcfda862fcce8003b6906b35f5cb]{
+-- Page 0, Offset 23824.
+-- ―――二つ。
+  ...There had to be two.
+
+}
+[sha:4229e15ffcf0f2a4291f651355d2f40715eefb43]{
+-- Page 0, Offset 23825.
+-- そうだ、二つなんだ、とわたしは思った。
+  Yeah, two.
+
+}
+[sha:b51b85e2a44792e0ff454d080c6571f7ec726cfb]{
+-- Page 1, Offset 23826.
+-- 一つだと、ひとりだと考えるから無理が生じる。
+  It was impossible to explain some things if there was only one method.
+
+}
+[sha:0ebf713fd495d0391d7f38ebd6356e8886126054]{
+-- Page 1, Offset 23827.
+-- でも二つならどうだろう？
+  But what if there were two?
+
+}
+[sha:d55358ed958263893b6d4cdd65e74583815084b2]{
+-- Page 2, Offset 23828.
+-- まず殺人の種類。
+  First, to consider the nature of the murders.
+
+}
+[sha:eb82faa62aac48e9ebc19adaed56af3ef682c507]{
+-- Page 2, Offset 23829.
+-- 明確に、“犯人”によって笑わされた場合と、
+  They could be divided up into the times the killer made the victim laugh,
+
+}
+[sha:c3804b34d9be02d4bad39cf4d92b3e0f5996caa8]{
+-- Page 2, Offset 23830.
+-- 死体を見て笑ってしまった場合とに分かれる。
+  and times when the victim saw a dead body and laughed.
+
+}
+[sha:f82310d309bf33bd8976774cdd9569170a7c5fe1]{
+-- Page 2, Offset 23831.
+-- 芳助、リデル、唯架さんが“自爆”組だ。
+  Housuke, Riddell, and Sister Yuika fell under the latter self-destructive category,
+
+}
+[sha:c8d6cc4968840cb7e0f3b72db5fc01ac14fc1ed2]{
+-- Page 2, Offset 23832.
+-- けどもうひとり、自爆組に含まれそうなヤツがいる。
+  but it might have applied to another victim, too,
+
+}
+[sha:6631bca8193c52cbf3642d5c2fbc389dd1b64d8b]{
+-- Page 2, Offset 23833.
+-- ―――ベオだ。
+  ...Beo.
+
+}
+[sha:2a5e896c72c6f35f268ffd2492113a66a2052d54]{
+-- Page 3, Offset 23834.
+-- ベオはサンルームの外で笑ってしまい、死亡した。
+  Beo died outside the sunroom after he laughed,
+
+}
+[sha:f708c9616db70f2be27e92b8eb6baeb04752b666]{
+-- Page 3, Offset 23835.
+-- けどサンルームにはアイツが笑う要因なんて一つもない。
+  but there was nothing in the sunroom that could've made him laugh.
+
+}
+[sha:21c20fa4337ab5d4099f2305fe82f9d2a6886fcb]{
+-- Page 3, Offset 23836.
+-- 周囲の森に何か仕掛けられていた、とも考えづらい。
+  It was unlikely anything had been set up in the forest,
+
+}
+[sha:bb9c467f215bdb3df507e3b613f27771246b80f5]{
+-- Page 3, Offset 23837.
+-- あの嵐の中、外にトラップをしかけるのは不確実だからだ。
+  not when the weather was so bad.
+
+}
+[sha:28a62ad17058f76011304c49952f81370ec9c6dd]{
+-- Page 3, Offset 23838.
+-- となると、やはり罠は室内に仕掛けられていた。
+  So, the trap must have been laid inside,
+
+}
+[sha:8aaf862778d858024ef17450657201d4cc8af9b9]{
+-- Page 3, Offset 23839.
+-- サンルームにはない。
+  but not in the sunroom.
+
+}
+[sha:0bf532f4ce7e321ada230be7b5d93eacad53133e]{
+-- Page 3, Offset 23840.
+-- じゃあサンルームの<上|・>、二階の部屋はどうだろう？
+  What about above the sunroom, on the second floor?
+
+}
+[sha:e4acb380ee6129be0ca33a300b84eb6808d359fd]{
+-- Page 4, Offset 23841.
+-- サンルームの上は蒼崎の部屋。
+  Aozaki's bedroom was directly above the sunroom.
+
+}
+[sha:737914a2c909a6f47ddf279c4120a1c36b8a7efa]{
+-- Page 4, Offset 23842.
+-- ベオは何者かに「外から蒼崎の部屋を調べてほしい」と頼まれたのではないか？
+  Maybe someone had asked Beo to look into Aozaki's room from the outside.
+
+}
+[sha:296c07fed94925825286fdb5c7a1309ff508e244]{
+-- Page 4, Offset 23843.
+-- そうして、ベオは外からあの部屋を見てしまった。
+  And then, Beo had seen something:
+
+}
+[sha:1a0c217035c8e637f94664d6ee7a9e6d5f80574a]{
+-- Page 4, Offset 23844.
+-- 蒼崎橙子がヘベレケになっている姿を。
+  Touko out of her mind, dead drunk.
+
+}
+[sha:7d9a1adf0f35d06831d5ce63daba06c5af7ee2ff]{
+-- Page 5, Offset 23845.
+-- ベオは蒼崎姉を知っている素振りだった。
+  Beo knew Touko well.
+
+}
+[sha:b0f7af05918fbee374e0776c95ba255f2560aa41]{
+-- Page 5, Offset 23846. Glued. Mods: @x.
+-- 見知った人間のあんな姿を見たら、つい笑ってしまう公算が高い。
+There was definitely a chance he'd laugh if he saw her like that.
+
+}
+[sha:ce49b270dbe3f52e530ca03128b5a7a98141c8e1]{
+-- Page 5, Offset 23847.
+-- トラップとしては優秀だ。
+  It was ingenious, as traps went.
+
+}
+[sha:dc91d41941ed3bd82a5512cc217e1ab4212145c3]{
+-- Page 5, Offset 23848.
+-- なにしろベオが笑わなくても、「調べて欲しい」と言った人物に疑いはかからない。
+  Either way, even if he didn't laugh, the person who asked him simply told him to check, so they wouldn't seem suspicious.
+
+}
+[sha:bcc99ac2befaf3e027fcd66e3fd8d5717d5a3f2e]{
+-- Page 5, Offset 23849.
+-- 蒼崎に不審の目が向けられるターンが早まるだけなのだから。
+  It would only make people suspect Aozaki sooner.
+
+}
+[sha:543e973a9fae64f320545b01f9cd504d7d3ed17d]{
+-- Page 6, Offset 23850.
+-- 「……殺害方法は二種類あったんだ。
+"...So there are two M.O.s.
+
+}
+[sha:d3ad209ce7701a2b72de9108f2b46249fed7668a]{
+-- Page 6, Offset 23851.
+-- 犯人による直接的な方法と、その後の、犠牲者を利用した二次災害。
+  A direct method, and a secondary method that uses the victims.
+
+}
+[sha:f76df164106c142098c0f24091bb5636f53d8025]{
+-- Page 6, Offset 23852.
+-- それと同じように―――」
+  Similarly..."
+
+}
+[sha:7cf73bed8f89ec28233a0079347fb180ed1bf2d4]{
+-- Page 7, Offset 23853.
+-- このゲームには、<共|・><犯|・><者|・><が|・><い|・><る|・>。
+  There were two killers.
+
+}
+[sha:d14ad38325a1d7e76544b5a624f468c4ec7cf061]{
+-- Page 7, Offset 23854.
+-- リデルの台詞。
+  Riddell's suggestions.
+
+}
+[sha:9caec44cc7f9cf434e30bfe4a299833e125de0cb]{
+-- Page 7, Offset 23855.
+-- 槻司の疑問。
+  Tsukiji's suspicions.
+
+}
+[sha:42fd55d9dd0788218351c1ce2dabe33d501f99f4]{
+-- Page 7, Offset 23856.
+-- 二人一組、二心同体。
+  Teams of two. Intimate betrayal-two minds, one body.
+
+}
+[sha:dc867dc5eea2e94c85be3ccb15e4ff76207fba44]{
+-- Page 7, Offset 23857.
+-- 願掛けのプロイキッシャー、スイーツハーツ。
+  Sweets Hearts, the prayer Ploy Kickshaw.
+
+}
+[sha:a4ab9e62249996051f19a4b844eee16d3b3c48c0]{
+-- Page 7, Offset 23858.
+-- ああ、なんて露骨な名前だろう。
+  In retrospect, it was such a revealing name.
+
+}
+[sha:5cda727c50baf1630c14964f439d083dd0c63112]{
+-- Page 7, Offset 23859.
+-- スイーツが<本体|プリン>なら、ハーツは何を示している？
+  If "sweet" referred to its pudding body, then what about "heart"?
+
+}
+[sha:eb6b6f9ae4b9f3f835fdca9a20f3b2b95669a186]{
+-- Page 8, Offset 23860.
+-- 「人間だ。敵は複数形だった―――！」
+"Humans. The enemy can take on multiple forms!"
+
+}
+[sha:89b92e37c7670e84e8a470d83fa33137dff7c01e]{
+-- Page 8, Offset 23861.
+-- だとしたら、スイーツハーツは二人いる。
+  That meant there were *two* Sweets Hearts.
+
+}
+[sha:137c44149610ed4e24465c06bd9bfe85d90a25f9]{
+-- Page 8, Offset 23862.
+-- このゲームにおいて、実行犯と人物Ａは別人なんだ……！
+  In this game, the killer and prime suspect had to be separate people!
+
+}
+[sha:35e5db359a6687bd003d155569d02ddfdc26fba1]{
+-- Page 9, Offset 23863.
+-- プロイを使用した人物Ａ。
+  The prime suspect used a Ploy,
+
+}
+[sha:2cd6ae74ca5d8a83e957d5f8528883bbd81d1f00]{
+-- Page 9, Offset 23864.
+-- そして、それに協力している実行犯。
+  while their accomplice carried out the killings.
+
+}
+[sha:645ef35a12c1cb9fbdb728bd669824e1ffaf1ed1]{
+-- Page 9, Offset 23865.
+-- 静希はその協力者、実行犯にすぎない。
+  Sizuki merely played the role of the suspect.
+
+}
+[sha:a95118a2e2c721e7c7a4d0554d58f4ace8c0f4ed]{
+-- Page 9, Offset 23866.
+-- 当たっていたけど正解じゃない。
+  I had guessed correctly, but I hadn't seen the full picture.
+
+}
+[sha:330703e5c8d5cae40887f48686aef1efd2f9fd85]{
+-- Page 9, Offset 23867.
+-- わたしが消えなかったのはそういう理屈に違いない。
+  That must be why I wasn't out of the woods yet, so to speak.
+
+}
+[sha:23924defd2d60d688ac64c4982213fe32470ec8a]{
+-- Page 10, Offset 23868.
+-- 「待て―――待って、待って待って待って……！
+"Wait. Hold on. Wait one stir-fired second!
+
+}
+[sha:3859720eb14c4f55fad75637b04fc554910b4713]{
+-- Page 10, Offset 23869.
+-- それならもう答えは明白、後は、ほら、あの問題を検証すればいいだけだ……！」
+  The answer is obvious, now! I just need to solve one problem!"
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 10, Offset 23870.
+-- わたしは、
+  I...
+
+}

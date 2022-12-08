@@ -1,0 +1,276 @@
+[sha:78ce0e24e32981d6eb4aab4d0bd60ca56496e9b9]{
+-- Page 1, Offset 21832.
+-- 「さむっ。ここ、外より寒くない？」
+"Brrr. It feels colder here than it does outside."
+
+}
+[sha:d1a22155769014642a16297aa54f4578860a3630]{
+-- Page 1, Offset 21833.
+-- 「ですね。居間に移動しましょう」
+"Yeah. Let's move to the drawing room."
+
+}
+[sha:4a0c26d8de44088e7f536537dece10cbf9370a92]{
+-- Page 1, Offset 21834.
+-- 「賛成だけど…
+"I agree, but...
+
+}
+[sha:add1a6ba48b9eb952f5ef90fbd756fff288720e2]{
+-- Page 1, Offset 21835. Glued. Mods: @x.
+-- …ま、草十郎さんには草十郎さんの仕事があるんでしょうしね。待っててあげようと思ったけど、余計な気遣いかも」
+...Ah well, Soujyuro's business is Soujyuro's business. I was going to wait for him, but there's probably no need."
+
+}
+[sha:7b462a00f44334fcf93111fe19b266e0216872bd]{
+-- Page 2, Offset 21836.
+-- 「？　静希、外にいたんですか？」
+"Sizuki was outside?"
+
+}
+[sha:4ff7987762a7b5c3ca6bf9900df16faf49ca764d]{
+-- Page 2, Offset 21837.
+-- 「ええ。山道の方で草を刈っていたわ。すごい勢いで、ヘリポートでも造るかっていうぐらい」
+"Yeah, cutting the grass near the road. He was going at it hard, like he's expecting royalty."
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 3, Offset 21838.
+-- 「…………」
+"..."
+
+}
+[sha:ce55022ec15772b82be089c663565eac7429c6d0]{
+-- Page 3, Offset 21839.
+-- 相変わらず、謎の行動力である。
+  I could never figure out what made that guy tick.
+
+}
+[sha:e44128dd13a1fe282a26fc710600902cf8d16230]{
+-- Page 3, Offset 21840.
+-- 静希の奇行を追及しても疲れるだけだ。
+  It was too tiring to even try.
+
+}
+[sha:8799ddea776b21efa9a3a85e48c9321cb481d4e2]{
+-- Page 3, Offset 21841.
+-- わたしたちは暖を求めて居間に移動した。
+  We moved to the drawing room in search of warmth.
+
+}
+[sha:15f36582b31e0c5c1e4a78953db1d55039a397ab]{
+-- Page 4, Offset 21842.
+-- 降り出した雨は、一向に止む気配を見せない。
+  The rain showed no sign of stopping.
+
+}
+[sha:c59c088e45953c07725564cfb543c00946abee21]{
+-- Page 4, Offset 21843.
+-- むしろ勢いは増すばかりで、日没前だというのに外は夜並みの暗さになっていた。
+  In fact, it seemed to be getting stronger. The sun hadn't set yet, but it was already as dark as night outside.
+
+}
+[sha:04c94ee0f65b1cfc6cf625d9cde81c22af93915d]{
+-- Page 5, Offset 21844.
+-- パーティーはまだ始まらない。
+  The party had yet to begin.
+
+}
+[sha:5dafe20ebc94c460f2439b01def72ccc322530d5]{
+-- Page 5, Offset 21845.
+-- 居間とサンルームを見渡すと、
+  Looking over the drawing room and the sunroom,
+
+}
+[sha:461c42c928ec9a8d056259df331eb0e5b03a7894]{
+-- Page 5, Offset 21846.
+-- これだけの人数が談話にふけっていた。
+  I saw everyone engaged in conversation.
+
+}
+[sha:444632ef3b491ddc96fc98673b3f27d0c997d8c5]{
+-- Page 5, Offset 21847.
+-- 居間では芳助が持ちこんできたカードゲームが思いの外盛り上がっている。
+  The card game Housuke brought had caused a stir in the drawing room.
+
+}
+[sha:c14c406eed732ec4acf5c8eaf0975557b9120078]{
+-- Page 5, Offset 21848.
+-- おもに、いがみ合う方向で。
+  It was getting competitive, mainly.
+
+}
+[sha:e75bcc5e707db62733401f22e87db42b9510ad88]{
+-- Page 6, Offset 21849.
+-- なんでも『<傀儡|かいらい>さんが<徹|トゥー>る』という、ドイツ製の、ファンタジー版ゼネコンシミュレーションゲームなのだそうだ。
+  Apparently they were playing a fantasy-themed construction game from Germany, called Puppet Pass.
+
+}
+[sha:4761d3e1d0da140af858ed66bfc4b3dd63e81359]{
+-- Page 6, Offset 21850.
+-- 基本、いかに相手の足を引っ張るかというゲームなので、みな愛想笑いをしながら内心ではまったく笑えず、騙し討ちの機会を狙っている。
+  It was basically the kind of game where players try to sabotage their opponents, so everyone was putting on forced smiles while they schemed against each other.
+
+}
+[sha:60dd91bea0082663f3d72798fc4620e07a0c1ba2]{
+-- Page 6, Offset 21851.
+-- 一方、サンルームの大人組はワインなどを片手に、そんな学生たちの様子を眺めている。
+  In contrast, the older people in the sunroom were drinking wine and watching the students intently.
+
+}
+[sha:17149ef6825b5366dd9057958184577891145d6a]{
+-- Page 7, Offset 21852.
+-- 「驚きましたね。誕生会が始まるまで、館内は自由に歩いていい決まりだとは。有珠さん、どんな心境の変化ですか？」
+"I'm surprised you're allowing people to roam around before the birthday party, Alice. Had a change of heart?"
+
+}
+[sha:89134dc1bc2dd57ccde9e2d4fbbe4ff415188410]{
+-- Page 7, Offset 21853.
+-- 「……別に。入られたら困るところは、そもそも壁に変えたから。今日だけの変更だけど、それなら遭難者もでないでしょう」
+"...Not particularly. I made walls where I didn't want people to go. It's only for today, so no one should get lost."
+
+}
+[sha:b7f186d1c4228a84fc00fdb4b59c1efaab5bca4c]{
+-- Page 8, Offset 21854.
+-- 「？　壁に変えたってなにをー？
+"You made walls? From what?
+
+}
+[sha:42845d1353b53b756201fbc385bc6977f467f999]{
+-- Page 8, Offset 21855. Glued. Mods: @x.
+-- それに遭難者とか、有珠ちゃんったら大げさなんだから～。そりゃでけえ屋敷だけど、迷子になんかなりませんよ？」
+And what do you mean about people getting lost? I know the mansion's big, but it's not that big."
+
+}
+[sha:cd6634febffa9d82d0df1ba8c41c6031171f08fc]{
+-- Page 9, Offset 21856.
+-- 「私たちの客室も用意してくれたのね。夜になったら帰る予定だけど、心遣いは助かっちゃうな～♪
+"Thank you for preparing guest rooms for us, by the way. I plan to leave this evening, but I appreciate the gesture!
+
+}
+[sha:faa57ddc1835244a4c298440092b0aff6bd3b19c]{
+-- Page 9, Offset 21857.
+-- 唯ちゃん、せっかくだし服、着替えてこない？
+  Since we're here, Yui, why don't you go change?
+
+}
+[sha:e5fa2a9671368209b25c7729aadc12e0b2557aee]{
+-- Page 9, Offset 21858.
+-- お姉さんのチャイナドレスとか貸してあげるから。さすがにパーティー会場にシスターはどうかと思うし」
+  I'll lend you my qipao. Even a nun shouldn't attend a party in her habit."
+
+}
+[sha:80160f696f6c8e0b75d31486873a22c783be9a9b]{
+-- Page 10, Offset 21859.
+-- 「結構です。魔女の家で礼装を脱ぐなど自殺行為。私は貴女のように、遊びに来ている訳ではありませんので」
+"I'm fine, thank you. Taking off my Mystic Code in a witch's house would be tantamount to suicide. Unlike you, I'm not here for fun."
+
+}
+[sha:73cb3208475dab1a5c1d663eb39ff4d69fe7a33e]{
+-- Page 11, Offset 21860.
+-- 「いや、遊びに来てるんですけどねぇ。私ですら手ぶらで来ているのに、シスター唯架ときたら……。
+"We *are* here for fun, actually. Even I came unarmed, but Sister Yuika insisted...
+
+}
+[sha:7d07d63269bb78d44b1dd849e26dd9ea312ca734]{
+-- Page 11, Offset 21861.
+-- どうしてこう、いつでも臨戦状態、よらば切る出刃包丁みたいな性格になったんだか」
+  Why do you always have to be so on edge, like you're ready to fight at a moment's notice?"
+
+}
+[sha:66ef42d236b71dc27398314b4323819cb9d4d1ce]{
+-- Page 11, Offset 21862.
+-- 「貴方たち二人が不真面目な分、私が引き締めなくてはいけないだけですっ」
+"Someone has to be serious out of the three of us."
+
+}
+[sha:e45f433754e4404f8c6c66425fd971a9bfcb0186]{
+-- Page 12, Offset 21863.
+-- 時刻は六時になった。
+  The clock struck six.
+
+}
+[sha:1d506cc29ba73898d03f78f7dbea42f2b0a0f320]{
+-- Page 12, Offset 21864.
+-- 外はもう完全に夜。
+  Outside, it was completely dark.
+
+}
+[sha:3564369c040c7f63255d7758c91d98c02f4afe30]{
+-- Page 12, Offset 21865.
+-- 山城先生や教会組がいるから、帰りの夜道は安全だろうけど、それでもこの雨脚には不安をあおられる。
+  With Mr. Yamasiro and the church staff here, it would probably be safe to go home tonight, but the rain gave me pause.
+
+}
+[sha:6b85eeda6e22576409c705713fc68bc2d0c08bfb]{
+-- Page 13, Offset 21866.
+-- 「……そろそろ支度をするべきではないかしら。
+"...I think it's about time we got ready.
+
+}
+[sha:01e01036fbbdad55e9190788acd5ef33ecbef56d]{
+-- Page 13, Offset 21867.
+-- トッキィーはどこに？」
+  Has anyone seen Tokie?"
+
+}
+[sha:46a2cfc4fc7534d331bb3fde4cb29ca06eb635d2]{
+-- Page 13, Offset 21868.
+-- 何度目かのカードゲームを終えて、ふと、久遠寺さんが妙なコトを口にした。
+  Miss Kuonji declared the end to the card games with an unexpected question.
+
+}
+[sha:1675249bf276f1ee97c322aa79e081040112c22d]{
+-- Page 14, Offset 21869.
+-- 「トッキィー？　トッキィーって、誰？」
+"Tokie? Who's Tokie?"
+
+}
+[sha:cec6648fa9294d7e033259b5c139568c26853213]{
+-- Page 14, Offset 21870.
+-- 「誰って、土桔の爺さんだろ。あれ……？
+"You mean Mr. Tokitsu? He's... huh?
+
+}
+[sha:dc59455c14d102864c233add9e469fc40d6691a6]{
+-- Page 14, Offset 21871.
+-- もしかして金鹿、爺さんに挨拶してねえの？」
+  Wait, Kojika, you haven't spoken to the old man yet?"
+
+}
+[sha:e1c16e93166cffcc7fec7e931be1278294e7c32f]{
+-- Page 14, Offset 21872.
+-- 「知らない。まだこの家に人がいるの？　……いまさらだけど、全部で何人の予定なの、このパーティー」
+"What old man? Are there even more people coming? How many guests are going to be at this party, anyway?"
+
+}
+[sha:f3e987fb2af482300a6e3d81b2f37f37b8d99eae]{
+-- Page 15, Offset 21873.
+-- 「わたし、青子、静希君、槻司君、木乃美君、久万梨さん、トッキィー、その他、で合計十三人。
+"Me, Aoko, Sizuki, Tsukiji, Kinomi, you, Tokie, and a few others. Thirteen in all.
+
+}
+[sha:8eb27214565ff3329d4f23fffd8f361203c8d072]{
+-- Page 15, Offset 21874.
+-- さっきから一堂には揃わないみたいだけど」
+  We haven't been able to get everyone in the same room yet, though."
+
+}
+[sha:cdc7372ea0d3d01e4b3fbdeb048ff56031da9721]{
+-- Page 15, Offset 21875.
+-- 「十三人か」
+"Thirteen..."
+
+}
+[sha:960eb7b01a7ef2d881920a0308156788c7f0e203]{
+-- Page 15, Offset 21876.
+-- ひと、ふた、みー、と数えてみる。
+  One, two, three...
+
+}
+[sha:491d59b55613b884767834f6d339e6ddbcf1e1bb]{
+-- Page 15, Offset 21877.
+-- 今までの情報から数えてみると……
+  I counted the people in the room.
+
+}

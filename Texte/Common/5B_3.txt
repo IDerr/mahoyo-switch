@@ -1,0 +1,318 @@
+[sha:d6fde5d27cca2723520de150d00af12c5c76dee2]{
+-- Page 0, Offset 6800.
+-- 青い火花を散らす魔弾。
+  Magic bullets exploded like blue fireworks.
+
+}
+[sha:3763202d4ab660185a3cff3aabc99b76fdf91f7b]{
+-- Page 0, Offset 6801.
+-- 波うつレンガの道を青子たちはひた走る。
+  Aoko and Soujyuro ran down the bumpy brick road.
+
+}
+[sha:0870eff9725c807472e6db2e19d4edf4c784310d]{
+-- Page 0, Offset 6802.
+-- つり橋効果を遥かに超える戦場での信頼感。
+  Their bond, forged in the heat of battle, went far beyond mutual convenience.
+
+}
+[sha:5e5dee60000ebd183e2ae8eb1f1926154ff6632b]{
+-- Page 0, Offset 6803.
+-- ふたりは全速力で、さしたる会話もアイコンタクトもなく、遊園地の出口を目指す。
+  They headed for the park's exit at full speed without exchanging a word or a look.
+
+}
+[sha:8012872470f80957cc0ea0ea140d9def1bb98665]{
+-- Page 0, Offset 6804.
+-- この異常は遊園地の中だけのこと。
+  The weirdness only extended as far as the park border,
+
+}
+[sha:ecce01a92ff039f87d95cb12ad8434370d433eef]{
+-- Page 0, Offset 6805.
+-- なら、外に出てしまえば助かるだろうと。
+  so they would be safe as long as they made it outside.
+
+}
+[sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
+-- Page 1, Offset 6806.
+-- が。
+  Aoko Aozaki.
+
+}
+[sha:ed44def25611d663efb2c239642f7be2058ef09e]{
+-- Page 1, Offset 6807.
+-- 戦力差、数にして二人対数百人。
+  Speaking in pure numbers, the difference in strength was two versus an army.
+
+}
+[sha:051aa687bfc074cf373e1f9c1f7ddd58a913d5d2]{
+-- Page 1, Offset 6808.
+-- もとい、一人対数百体。
+  Or rather, one versus an army.
+
+}
+[sha:ac8de3371a4d48ffc667619ab1a395a6257c5df1]{
+-- Page 1, Offset 6809.
+-- 草十郎はほとんど使い物にならないし、
+  Soujyuro was hardly useful in this situation,
+
+}
+[sha:624e77f1c0fd851b0086d0b5d345548b030e64d1]{
+-- Page 1, Offset 6810.
+-- 襲いかかってくるのは人というより<人形|パペット>である。
+  and "man"power wasn't really the issue here, since they were facing puppets.
+
+}
+[sha:5a6a9c8e05d298ccb6232075d6126d8a57445bcd]{
+-- Page 2, Offset 6811.
+-- 「さっきの大丈夫！？
+"You okay?!
+
+}
+[sha:5007863f44f25255358991bb556f3177ba07e38f]{
+-- Page 2, Offset 6812.
+-- 上からこう、でっかいハサミが落ちてきたけど！」
+  Those were some giant pincers back there!"
+
+}
+[sha:18b96cf50bef12e52a3d6eb85e28192891b3139f]{
+-- Page 2, Offset 6813.
+-- 立ちふさがる怪物を撃ち砕きながら青子が叫ぶ。
+  Aoko shouted as she blasted away the monsters that stood in their path.
+
+}
+[sha:8a9a6c00c11ee9fef2e187c564af78952dfa3509]{
+-- Page 2, Offset 6814.
+-- 振り向く余裕も、立ち止まっている暇もない。
+  There was no time to stop for breath, or even to look back.
+
+}
+[sha:15c95f63359f427042c48797170b75500f89201f]{
+-- Page 3, Offset 6815.
+-- 「なんとか、ギリギリ！」
+"Yeah, just barely!"
+
+}
+[sha:38182efdfecd2ae8baf07578862a5444a5026ca2]{
+-- Page 3, Offset 6816.
+-- 青子を追う草十郎も、さすがに声がうわずっている。
+  As Soujyuro pursued, his voice, too, had naturally become shrill.
+
+}
+[sha:f27a3e8a864da6a9204f1d1fa0d49c704c39a03f]{
+-- Page 4, Offset 6817.
+-- ―――さかのぼること五分前。
+  ...Five minutes earlier.
+
+}
+[sha:9381e682ff336fa81aacdf65b139fdf69155837c]{
+-- Page 4, Offset 6818.
+-- 広場の包囲網からは呆気なく抜け出せた。
+  They had broken out of the siege at the plaza surprisingly fast.
+
+}
+[sha:7a92d52f3c43c5a3ec87e425e69eb25b31b95b14]{
+-- Page 4, Offset 6819.
+-- 住人たちの“目覚め”には個体差があって、大きなものほど動きだすには時間が必要らしい。
+  It seemed that the residents' awakening differed case-by-case, with larger creatures taking additional time.
+
+}
+[sha:0e0183acb5b3e6b6648ce8a8e95340394a6a46da]{
+-- Page 5, Offset 6820.
+-- 「ラッキー、朝に弱いタイプばっかとみた！」
+"We're lucky they're not the morning type!"
+
+}
+[sha:b647ba3da87429b8f9aac3c83cbc3f556e8b279a]{
+-- Page 5, Offset 6821.
+-- 青子は軽口を言って、ひょっこり現れたザコをなぎ払う。
+  Aoko joked as she mowed down the small fry that popped up.
+
+}
+[sha:b3fa6aca9cc64f48875561cb7be00e3ae3e2c8b2]{
+-- Page 5, Offset 6822.
+-- そんな時。
+  But then.
+
+}
+[sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
+-- Page 5, Offset 6823.
+-- 「へ？」
+"Eh?"
+
+}
+[sha:290576dcff62fee3f656468296498803d7a81315]{
+-- Page 5, Offset 6824.
+-- 突如、ふたりの頭上にとんでもないモノが伸びてきた。
+  Without warning, something outrageous extended its way down from above them.
+
+}
+[sha:6193303b20cc8b52c739e6e0cbeced408d271241]{
+-- Page 6, Offset 6825.
+-- ロブスター<専門店|レストラン>の屋根に鎮座していた、全長18メートルのザリガニ、そのハサミである。
+  It was the claws of the sixty-foot lobster adorning the roof of a seafood restaurant.
+
+}
+[sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
+-- Page 7, Offset 6826.
+-- 「…………！」
+"...!"
+
+}
+[sha:872f44468bb2f266136a70f33d2936112e54d3de]{
+-- Page 7, Offset 6827.
+-- ほとんどギロチンのようなハサミだった。
+  Its pincers were like a guillotine.
+
+}
+[sha:4d419a93d14b186dcbe9d06a33b0c0c969139d27]{
+-- Page 7, Offset 6828.
+-- レストラン前を横切る青子たちを、凄まじいスピードでまっ二つにしようと迫る<赤い甲殻類|レッドキング>。
+  As Aoko and Soujyuro cut across the front of the restaurant, the red king pressed in at tremendous speed, keen on splitting them each in two.
+
+}
+[sha:643c59b04007b87e8d4a6d6039a5995e0f9234db]{
+-- Page 8, Offset 6829.
+-- 「静希君、ユーターン！　こっちはダメ！」
+"Sizuki, hard about! This way's no good!"
+
+}
+[sha:fa29eefabb706ee5142c2c38510d3cf2a08580f5]{
+-- Page 8, Offset 6830.
+-- ロブスター店を抜ければすぐに<正門|ゲート>だったが、ふたりは巨大ザリガニから逃れるように遠回りをする。
+  The gate was just on the other side of the restaurant, but they had to take the long way around in order to lose the giant lobster snapping at their heels.
+
+}
+[sha:ddcdf702a282eb8a36950171f740fbe9934046af]{
+-- Page 8, Offset 6831.
+-- そうして迂回した先に待ち受けていたのは、おびただしいまでの怪物の群だった。
+  Waiting along their detour had been a horde of monsters, too many to count.
+
+}
+[sha:15c95f63359f427042c48797170b75500f89201f]{
+-- Page 9, Offset 6832.
+-- 「なんとか、ギリギリ！」
+"Yeah, just barely!"
+
+}
+[sha:68d3686495f8a831614d2a4920866637e5b36845]{
+-- Page 9, Offset 6833.
+-- あやうく首からすっぱり切られそうだったピンチを思いだしながら、草十郎は青子に叫び返す。
+  Soujyuro called out in response, recalling just how narrowly he had avoided his head being severed clean from his body.
+
+}
+[sha:17c99b2c809af0c87a247e4ab0a83698155f3b9a]{
+-- Page 10, Offset 6834.
+-- 「って前！　うわ、なんだあれ、焼きたてか！？」
+"In front of us! What the heck are those? Are they freshly-baked!?"
+
+}
+[sha:c3b463ad1a2af51fd1a5c27be25151766dc6177f]{
+-- Page 10, Offset 6835.
+-- 「そうみたいね、要するに下級兵士よ！」
+"It looks like it! In other words, they're the cannon fodder!"
+
+}
+[sha:7adb3630808c4618291d256ada39d0a12fddf370]{
+-- Page 10, Offset 6836.
+-- 青子は駆け足を止めて魔術刻印をフル回転させる。
+  Aoko halted her sprint and set her crest into full operation.
+
+}
+[sha:555c51b86f2ecaea0fe392fab80b3d3e664a66c2]{
+-- Page 10, Offset 6837. Mods: @n.
+-- “距離七、六、五メートル……！
+(Range: seven, six, five yards...!
+
+}
+[sha:fb6a0a755d1603fb6a05c8fe19a3ab5cadc4f98f]{
+-- Page 10, Offset 6838. Glued.
+-- あの程度ならスナップだけで事足りる……！”
+  At this distance, Snap'll take them down!)
+
+}
+[sha:998c8af02448d5e704446c3801373acd8e700aba]{
+-- Page 11, Offset 6839.
+-- レンガの道を滑りながら右腕を一閃する。
+  Sliding along the brick path, she brandished her right arm.
+
+}
+[sha:9f52f28d95fb78e85c733fa41e4c7356cda3b2b1]{
+-- Page 11, Offset 6840.
+-- 放たれる魔弾の雨。
+  She loosed a shower of magic bullets.
+
+}
+[sha:e1cd6ea889df67dc0fa20d74042ed0d5ce7d236f]{
+-- Page 11, Offset 6841.
+-- 威力より弾数を優先した<一工程|スナップ>は、立ちふさがる怪物たちを小気味良くまき散らかす。
+  Snap was a single-action spell that favored rate of fire over power, and it mowed down the monsters with satisfying pops.
+
+}
+[sha:783ff099d0cc6a018c45025897e2ba3e50daa401]{
+-- Page 12, Offset 6842.
+-- 「―――蒼崎、そっちも！」
+"...Aozaki, more over there!"
+
+}
+[sha:36cb812c0933a60f64f314f73fd060e545e56f12]{
+-- Page 12, Offset 6843.
+-- 「了解……！」
+"Roger that!"
+
+}
+[sha:d0f178a60c9124598f1a4d5241f998ecce826a03]{
+-- Page 13, Offset 6844.
+-- 電飾のついた遊歩道に、青い火花が咲き乱れる。
+  Blue explosions bloomed along the lamp-lit promenade.
+
+}
+[sha:094dce6aa3a15835f82d76c4a16735cedcde9e54]{
+-- Page 13, Offset 6845.
+-- 扇状に弾幕をはる青子の姿は、空から<俯瞰|ふかん>すれば美しいスターマインそのものだ。
+  Aoko's curtain of fire fanned out like a beautiful starmine fireworks show.
+
+}
+[sha:a338c5a29d9ae156c1c553d14143e24f218a97cf]{
+-- Page 13, Offset 6846.
+-- 焼きたてパンの<遊び道具|レイカンファー>、ブレッドマンではそれこそ消し<炭|ずみ>にされるだけ。
+  The toy bread-men turned to charcoal.
+
+}
+[sha:91c2754fded9589435d29db05d046bff8d1f3ea7]{
+-- Page 14, Offset 6847.
+-- “いける―――数でこそ押されてるけど、この状態が続くなら逃げきれる―――！”
+(We can do this! They've got us overpowered in numbers, but at this rate we'll be able to get out of here!)
+
+}
+[sha:01d97e1ede0595591a03e14f076757b5d12e7b72]{
+-- Page 14, Offset 6848.
+-- 「静希君、そっちは！？」
+"Sizuki, how's it look over there?!"
+
+}
+[sha:1a81ed820d54d2618030092dd8583bdcda65f027]{
+-- Page 14, Offset 6849.
+-- 「いない、空いてる！　ここからなら入り口の東側に出られるはずだ！」
+"Looks clear to me! We should be able to approach the exit from the east!"
+
+}
+[sha:ce1c05b03dd987039f6beff523171a4cb02b013f]{
+-- Page 15, Offset 6850.
+-- 並の魔術師なら息切れをする数の魔弾を放ちながら、新米魔術師は敵の囲みを突破する。
+  With a magical barrage that would leave an average spellcaster blue in the face, the novice mage broke through the siege.
+
+}
+[sha:adb2f2d45a086b675f3376d0dafd0177c012a849]{
+-- Page 15, Offset 6851.
+-- ……一方。
+  Meanwhile...
+
+}
+[sha:3dbf28ddf32acabd946b8b3e7de7f8801f909587]{
+-- Page 15, Offset 6852.
+-- そんな光景を、じっくりと観察する鳥が一羽。
+  A single bird keenly watched everything unfold.
+
+}

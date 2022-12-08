@@ -1,0 +1,360 @@
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 0, Offset 22413.
+-- 「………………」
+"..."
+
+}
+[sha:1161bd82da8145c8a9e23ee8fd19e0ba25e618f0]{
+-- Page 0, Offset 22414.
+-- 細かな違和感はあれ、証言されたアリバイに大きな矛盾はなく、居間は沈黙に包まれた。
+  The mood was a little tense, but there were no obvious contradictions between the alibis. The room grew silent.
+
+}
+[sha:fb790679a8881b5d52093ed066915aaccc1a785c]{
+-- Page 0, Offset 22415.
+-- 土桔氏が殺害された時間は特定できない。
+  There wasn't enough evidence to pinpoint the time of Tokitsu's death.
+
+}
+[sha:07a7597784e283035046d724c8401a9f35064be5]{
+-- Page 0, Offset 22416.
+-- 誰も爆発音を聞いていないし、プロイキッシャーとやらのせいで死後硬直の問題も、かなり曖昧になっているらしい。
+  Nobody heard an explosion. And apparently, thanks to this Ploy Kickshaw nonsense, even rigor mortis wasn't a reliable indicator.
+
+}
+[sha:cb983e63cc72123586062c836256e7c26ae27746]{
+-- Page 1, Offset 22417.
+-- 死体の状態から犯行時間が特定できない以上、土桔氏と山城先生、二人がいつみんなの前からいなくなったか、で死亡時間を計るしかない。
+  Since there was no way to deduce the exact time of death by examining the body, we could only estimate it based on the last time Tokitsu and Mr. Yamasiro were seen.
+
+}
+[sha:4c9f25b58d0bd7bd70a5b6ad607469268c5763af]{
+-- Page 2, Offset 22418.
+-- 土桔氏の死亡推定時刻は午後一時以降～午後六時まで。
+  Mr. Tokitsu likely died between 1:00PM and 6:00PM;
+
+}
+[sha:76f4977e6de27896812f07804a2d1c9b89ed8d23]{
+-- Page 2, Offset 22419.
+-- 山城先生は午後四時から八時まで。
+  Mr. Yamasiro, between 4:00PM and 8:00PM.
+
+}
+[sha:e8ff6defdc394190ff55527a498ebf193fcccbb4]{
+-- Page 2, Offset 22420.
+-- ただし、七時からは全員が集まっていたので、実際には四時から七時までの時間だろう。
+  However, everyone was together at 7:00PM, so it had to have been sometime between 4:00PM and 7:00PM.
+
+}
+[sha:6ca86032261841d80f7097ce89ad93009e810b03]{
+-- Page 3, Offset 22421.
+-- いずれの時間も、完全なアリバイがあるのは久遠寺さんと詠梨神父、シスター唯架だけ。
+  Only three people had solid alibis: Miss Kuonji, Father Eiri, and Sister Yuika.
+
+}
+[sha:b597af78c03ce023021dbf578ea0e7ada71ef770]{
+-- Page 3, Offset 22422.
+-- 山城先生に関してはわたしと槻司も完全にアリバイがある。二人とも居間にいたからだ。
+  Tsukiji and I have alibis when it comes to Mr. Yamasiro, because we were both in the drawing room at the time.
+
+}
+[sha:f1f088c140ed6085122abcbcf7499e876345b41a]{
+-- Page 3, Offset 22423.
+-- 蒼崎と静希とベオは……どうだっただろう、把握していない。
+  Aozaki, Sizuki, and Beo... were unknowns.
+
+}
+[sha:9875729518bc920e5cf1f899b8c92969047f0a56]{
+-- Page 4, Offset 22424.
+-- 「でも、怪しいのはプロイの事を知っているアオコとアリス、あとリツカだよね。だって僕ら、スイーツハーツなんて知らなかったんだし」
+"I think the most likely suspects are Aoko, Alice, and Ritsuka; they knew about the Ploy. The rest of us had never heard of this Sweets Hearts."
+
+}
+[sha:da1b647057d0c05f68d8540e6958c9d091a27762]{
+-- Page 4, Offset 22425.
+-- 「そうだな。前もって知る機会があったかは別にして、まずはそこから検討しないとな。
+"Right. We should start by considering those who've known about it for a while.
+
+}
+[sha:4bdfdb6073521380de80df187cf0dc03781f9571]{
+-- Page 4, Offset 22426.
+-- 今日ここで知ったのか、はじめから知っていたのか。この違いは大きいぜ」
+  There's a huge difference between them and the rest of us who learned about it today."
+
+}
+[sha:77451db718cb1d30e972cf33caf2239b414ce561]{
+-- Page 5, Offset 22427.
+-- そう。問題は、いつプロイとやらを起動させたか、だ。
+  He was right. We needed to know when the Ploy was activated.
+
+}
+[sha:5287df76a9370060b0a421c2e3317644159c9943]{
+-- Page 5, Offset 22428.
+-- たとえばわたしや山城先生がスイーツハーツだとしたら、洋館にやってきてから、見も知らないスイーツハーツとやらを発見し、起動させなくてはならない。
+  If it was me or Mr. Yamasiro, once we arrived at the mansion, we'd have needed to find Sweets Hearts and activate it without knowing what it was.
+
+}
+[sha:a18578990b486261766b99dd97fa00377845b0ca]{
+-- Page 5, Offset 22429.
+-- 絶対にないとは言い切れないが、まず現実的ではない。
+  Not impossible, but not realistic.
+
+}
+[sha:ed91b021495c280da13115f7d2ce635e8194d350]{
+-- Page 5, Offset 22430.
+-- この場合、このゲームは突発的な犯罪に分類される。
+  That would classify this game as type of murder mystery involving sudden crimes-
+
+}
+[sha:d5370afb88c2aa4f77736caefb9d47361cbfceec]{
+-- Page 5, Offset 22431.
+-- たまたま、が重なって起きてしまった悲劇という事だ。
+  the kind of scenario where unexpected tragedies occurred one after another.
+
+}
+[sha:768f87c0ec066ea8bd5c6ea7a9f8ece886d51411]{
+-- Page 6, Offset 22432.
+-- 逆に、前もって知っていて、いつでも使用できる状態だったのなら、これは計画的な犯罪だ。
+  On the other hand, if someone knew about the Ploy and had access to it anytime they wanted, that would make this a premeditated crime.
+
+}
+[sha:06c30281f60d18486beee33c4a51312ff939f40f]{
+-- Page 6, Offset 22433.
+-- プロイをいつ見付けたかは推理しなくていい。
+  There was no need to figure out when the Ploy was found.
+
+}
+[sha:0deafc636e98be326cc47ad802edb30f54d7a04f]{
+-- Page 6, Offset 22434.
+-- 人物Ａは既にプロイと入れ替わっていて、あとはゆっくり、全員が揃ったタイミングでルールを発動させればいいのだから。
+  Person A would have already switched places with the Ploy and executed their plan at their leisure once everyone was gathered.
+
+}
+[sha:10ae2839360d7f9f03369c24c23f266854fc0e14]{
+-- Page 6, Offset 22435.
+-- 今のところ、可能性はこちらの方が大きいだろう。
+  Currently, that was the most likely scenario.
+
+}
+[sha:f269e26d63370187f3134c30e39a7ea4f8548e1b]{
+-- Page 7, Offset 22436.
+-- 「はじめからプロイを知っている、という前提で絞るなら、怪しいのは蒼崎だな。
+"If we assume the perpetrator knew about the Ploy from the start, that makes Aozaki a suspect.
+
+}
+[sha:9a14d4deda8df24599bad161b716c03dddc4dd0e]{
+-- Page 7, Offset 22437.
+-- 蒼崎なら両名を殺せる時間があった。
+  She had enough time to kill them both.
+
+}
+[sha:30248bcb4773c0bb8c5b4b894fcf1dd11db527c9]{
+-- Page 7, Offset 22438.
+-- 律架さんの場合、土桔爺さんの殺害は難しい。
+  It would've been tough for Ritsuka to kill Yurihiko.
+
+}
+[sha:328238f022cbc55240be8f35e214b94213e37d2e]{
+-- Page 7, Offset 22439.
+-- 久遠寺は……ずっと居間にいた唯一の人間だ、犯行にはおよべない」
+  Kuonji... was the only person in the drawing room the entire time, so she couldn't have done it."
+
+}
+[sha:9d4525dab457e141f1025a7a51feab0a3543f015]{
+-- Page 8, Offset 22440.
+-- 「そうね。それは否定しないわ。その二人に関してなら、私はいくらでもやれるチャンスはあったでしょう」
+"Can't deny that. I had more than enough chances to do it."
+
+}
+[sha:5fe0165a853b950b29da090aa4c7b0f5602360f5]{
+-- Page 8, Offset 22441.
+-- 「では、やはり」
+"I knew it."
+
+}
+[sha:8f1275761de56376ade6b74faca26fac0a832791]{
+-- Page 9, Offset 22442.
+-- 「やはりって何よ、やはりって。
+"What's *that* supposed to mean?
+
+}
+[sha:f26b743095deb19c33ec90959cd213892ba4b1ad]{
+-- Page 9, Offset 22443.
+-- あくまで可能性の話でしょ。それを言うなら、洋館にやってきて、すぐにプロイを発見して、勢い食べちゃって、それでスイーツハーツになっちゃった、って偶然もあるわけだし？
+  I'm just saying it's possible. It's also possible somebody came to the mansion, found the Ploy, gobbled it up, and then turned into Sweets Hearts, right?
+
+}
+[sha:923cd15c30f81faa97650605dfb00277190029c0]{
+-- Page 9, Offset 22444.
+-- 怪しさでいえばみんな同じよ。水掛論だわ」
+  Don't be stupid. We're all suspicious to some degree here."
+
+}
+[sha:c46ea2aae783a42b8dd73f95d86c6b65037eb6e1]{
+-- Page 10, Offset 22445.
+-- 「……私とエイリ神父は潔白だと証明されましたが」
+"...Father Eiri and I have been cleared of guilt, though."
+
+}
+[sha:20dd4fcdf10ddd2abe87b3c7d2253413de4ee654]{
+-- Page 10, Offset 22446.
+-- 「アンタらがどんな経緯で洋館に来たかは不明よね？
+"But how much do we really know about how you arrived at the mansion?
+
+}
+[sha:d1fcbec7c12bd3f954a74e084073446820cf6277]{
+-- Page 10, Offset 22447.
+-- ロビーで話し声が聞こえたから有珠が出迎えたんでしょう？　それ以前、アンタらが何処にいたかなんて誰も証明できないじゃない」
+  Alice met you in the foyer because she heard your voices, didn't she? You can't prove where you were before that."
+
+}
+[sha:37bcd97cb36cf0a3eb8f487c1c41416e444f564d]{
+-- Page 11, Offset 22448.
+-- 「そうねえ。可能性でいうなら、詠梨さんと唯ちゃんとわたしが共謀してる、というのもアリだし」
+"She's right. And it's also possible I'm conspiring with Father Eiri and Yui."
+
+}
+[sha:ea1d98e06b0a7b50a57eb3262cf2d73bd81a9544]{
+-- Page 11, Offset 22449.
+-- 「姉さん。貴女はどちらの味方ですか」
+"Ritsuka, whose side are you on?"
+
+}
+[sha:243fcfc8676e235c7293187411bc38a9538e7ddb]{
+-- Page 12, Offset 22450.
+-- 「わたしは論理の味方よ！　マニアの<矜持|きょうじ>に誓って、どちらにも肩入れはしないから！
+"I'm on logic's side! I swear on my pride as a detective (fan) to remain totally impartial!
+
+}
+[sha:6d900f3e8387e848b70fb904bb9737fb60144eed]{
+-- Page 12, Offset 22451.
+-- んー、まあ、それはそれとして、プロイを知っている、って条件ならもう一人、とびきり不自然な<娘|こ>もいるんだけど。それは誰かが指摘するでしょう」
+  Anyway, if we're focusing on who already knew about the Ploy, I can think of one other person that doesn't quite add up. Who wants to point her out?"
+
+}
+[sha:87c01ec35b09dc64c7890e919940c5b9fcbaf3ad]{
+-- Page 13, Offset 22452.
+-- 無言で火花を散らすシスターと蒼崎。
+  Aozaki and the sister glared at each other so intensely I thought I saw sparks flying.
+
+}
+[sha:00b7dfd73dbcadea29550e284de3c92206f5c15e]{
+-- Page 13, Offset 22453.
+-- あの二人は日頃から仲が悪いのだろう。
+  They probably didn't get along even at the best of times.
+
+}
+[sha:a620c969e26043a157582abf6ccf1f0f2bd0d860]{
+-- Page 13, Offset 22454.
+-- この状況では、もはや完全に敵同士だ。
+  Given the situation, it's no wonder they were at each other's throats.
+
+}
+[sha:830f27d0b620e2c1d086ddc1ce536646aaaf608d]{
+-- Page 14, Offset 22455.
+-- 「青子。あまり唯架さんを挑発しない方がいいと思うけど。今回のルールでは、彼女は最強の切り札なんだから」
+"Aoko. I wouldn't provoke Yuika if I were you. Given the current rules, she's our best trump card."
+
+}
+[sha:9d9b1228bf17751b56b28cc529845f1800297121]{
+-- Page 14, Offset 22456.
+-- 「は？　最悪の敵、の間違いじゃない？」
+"Wha? Don't you mean our greatest foe?"
+
+}
+[sha:554a2aa414da76a79f72bb8ded3c8f344184ab39]{
+-- Page 14, Offset 22457.
+-- 「切り札よ。だってあの人、この中で一番安全だもの。
+"No. She's in the safest position.
+
+}
+[sha:4a2f10927103c60d40b0d4ae7ef3fe2edb013024]{
+-- Page 14, Offset 22458.
+-- そうでしょう、唯架さん？」
+  Isn't that right, Yuika?"
+
+}
+[sha:f0211d7e700a833e6b445c5d04d6306739384652]{
+-- Page 15, Offset 22459.
+-- 「ええ。私には笑いが分かりませんから。
+"Yes. I literally do not know how to laugh.
+
+}
+[sha:2ae09c89786c6a5f29f1edbf5c312e8f414f08ae]{
+-- Page 15, Offset 22460.
+-- 冗談で笑う、なんて事はまずあり得ません。ですから、先に退場するのは青子さんの方でしょうね」
+  Jokes don't work on me. I have no doubt that you'll be the first to self-destruct, Aoko."
+
+}
+[sha:452b1d48fbb7716343a762d87ef2838cb5ef3bb7]{
+-- Page 16, Offset 22461.
+-- 久遠寺さんは場を<諫|いさ>めたつもりっぽいけど、空気はますます剣呑になっていった。
+  Kuonji appeared to have only meant it as a warning, but I could tell that the room was getting more tense.
+
+}
+[sha:7112c525ef36d83c8a7a8c67b866f06ea918c467]{
+-- Page 16, Offset 22462.
+-- そんな中、久遠寺さんの前に青い駒鳥が現れた。
+  Just then, the blue robin appeared in front of Miss Kuonji.
+
+}
+[sha:91e2309eeea515592e5418d4a4361ff4fa2aaf70]{
+-- Page 16, Offset 22463.
+-- 黒いテーブルに着地すると、駒鳥はチチチ、と
+  It landed on the black table and started chirping.
+
+}
+[sha:0827e3d17a78c27668a509fcbc7e376c178f408e]{
+-- Page 16, Offset 22464.
+-- 『ジブン、ハンニン分かったんスけど、言っていいッスか？』
+"I knows the perp. Wanna hear it?"
+
+}
+[sha:6a1d4c39215ae480df1332ed4797e3a4df454f63]{
+-- Page 16, Offset 22465.
+-- 鳴いた。
+  It tweeted.
+
+}
+[sha:b52dabb529e0abc1af11e5cb022d863da953a37b]{
+-- Page 17, Offset 22466.
+-- 『ブギャッ！？』
+"Bwark?!"
+
+}
+[sha:6c0006b726722489926e75069ebc2ee5b93ae0fd]{
+-- Page 17, Offset 22467.
+-- 久遠寺さんの手刀が、容赦なく青い鳥を粉砕した。
+  Miss Kuonji mercilessly squashed it with a karate chop.
+
+}
+[sha:1385f0f1de1d7be53cc3bc74541c53c62c54a1c9]{
+-- Page 17, Offset 22468.
+-- 「……ともかく。
+"...Anyway...
+
+}
+[sha:a9d7ea521b5bd62482a053509f4210a7859e1d2d]{
+-- Page 17, Offset 22469.
+-- いつまでも笑い話と思っていると、全滅するわよ」
+  One funny line could be the end of you."
+
+}
+[sha:f0b0016cc56e1f8a8907dfa6c41d11a0f88799d2]{
+-- Page 18, Offset 22470.
+-- 「そうだね。唯架さんはともかく、笑い上戸な人はどこかに隠れていた方がいいんじゃない？」
+"True. Anyone not named Yuika might want to find a good place to hide before it's too late."
+
+}
+[sha:5fd307e01938c385c944668445897c44a13a043e]{
+-- Page 18, Offset 22471.
+-- 二人の意見はもっともだ。
+  That made sense to me.
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 18, Offset 22472.
+-- わたしは、
+  I...
+
+}

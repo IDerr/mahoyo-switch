@@ -1,0 +1,600 @@
+[sha:ce88258db372e0688959e972f7ac05e15214de85]{
+-- Page 0, Offset 17174.
+-- 人里離れた雪の広場は、<瞬|またた>きの間に変貌した。
+  In the blink of an eye, the snowy clearing had transformed.
+
+}
+[sha:ac62dbb5eaf944b9b5e2c2469437af9931b1b4fa]{
+-- Page 0, Offset 17175.
+-- 一面に咲き誇る白花の海。
+  A sea of fully-bloomed white flowers blanketed the grounds.
+
+}
+[sha:9e1476b5a17fc88ccb52fb2d797cfebaf90bd320]{
+-- Page 0, Offset 17176.
+-- 周囲にある裸の木々と朽ちた旧校舎だけが、ここが元の世界である事を告げている。
+  Only the dilapidated school building and the bare winter trees signified this was the original world.
+
+}
+[sha:e9ee799aa868a2a0bf611d079fb89054ee03db6a]{
+-- Page 0, Offset 17177.
+-- 冷たい風もこの野原では暖かだ。
+  The once-cold wind now blew with a pleasant warmth across the landscape.
+
+}
+[sha:5ed1bd70c51d0021356d5683d028a693e3bfd517]{
+-- Page 0, Offset 17178.
+-- 見上げる夜空すら、満天の星の夜に戻っている。
+  Even the night sky was once again teeming with stars.
+
+}
+[sha:fce9a99937916f76791f8abc122cba971dba367c]{
+-- Page 1, Offset 17179.
+-- 手を伸ばせば届きそうなほど近い星の明かり。
+  If one reached out, one could almost touch them.
+
+}
+[sha:a2eaac02e22f14d191eb8e26545582f97a8f2202]{
+-- Page 1, Offset 17180.
+-- 淋しさも心地よさも混ざり合った、虫の羽音と夜の<囁|ささや>きだけの孤影。
+  It was a mix of comfort and solitude, quiet enough to carry the sound of insects flying through the air.
+
+}
+[sha:acc0a2fb26fc46685ee679e7ae82e01fe9319def]{
+-- Page 1, Offset 17181.
+-- 人の営みを<排|はい>した、<穢|けが>れも<悼|いた>みもない風景。
+  A scene far removed from the impurity and grief of humans.
+
+}
+[sha:65faaee890b3cc8877a79063331d8840e942ffb6]{
+-- Page 1, Offset 17182.
+-- 何もないけれど、同時に何も必要としない世界。
+  A world with nothing, yet one that needed nothing.
+
+}
+[sha:49599e9f459ee247714521e4999c10dea2644ef7]{
+-- Page 1, Offset 17183.
+-- ……そしてそれが、彼の一番だった頃。
+  It was... his most precious memory.
+
+}
+[sha:f81f5cacb4cabdba025e3e5281dfb9ab12ec2486]{
+-- Page 2, Offset 17184.
+-- 冬の荒地を、春の草原に変えてしまう。
+  The winter tundra had changed into a spring meadow.
+
+}
+[sha:dde30e173a06e358a98302d9adb7494c5a1205bc]{
+-- Page 2, Offset 17185.
+-- それが青子の言う『魔法』だという事に、橙子は呆然としていた。
+  Aoko's so-called True Magic confused Touko.
+
+}
+[sha:5f8c6bac39361e7e266184300f09ca577f2ad0b1]{
+-- Page 2, Offset 17186.
+-- これはこれで悪くはないが、彼女の見たかった『魔法』は断じて、こんなロマンチックなだけのものではない。
+  Sure it was pleasing to the eye, but she wanted to see something less idyllic.
+
+}
+[sha:9d09cc0c88f8861f9fd3bcb5833bc12af1bed292]{
+-- Page 3, Offset 17187.
+-- 何か大がかりな術式を展開したようだが、周囲の<魔力|マナ>に変化もない。
+  Aoko's spell was clearly no small feat, but the surrounding mana had not changed.
+
+}
+[sha:a0df512cc7687d13460bddf1026b944f03c9dd62]{
+-- Page 3, Offset 17188.
+-- 拍子抜けもいいところだ。久遠寺有珠のフラットスナークに比べれば<児|じ><戯|ぎ>に等しい。
+  Better to be confused, though, than deal with something like Alice Kuonji's Flat Snark.
+
+}
+[sha:e4347b80fb6d4ccebab2aa4cee5a851257c55d19]{
+-- Page 3, Offset 17189.
+-- 変わったのはこの花園と、あの―――
+  The only changes seemed to be the flower field, and...
+
+}
+[sha:dda7090cbda4081efea09cd84cdefb47c3899aaa]{
+-- Page 4, Offset 17190.
+-- 出で立ちの変わった青子だけ。
+  Aoko's appearance.
+
+}
+[sha:1a0e1f72c0232ff5eb4c7c6c4d7f7dc290814454]{
+-- Page 4, Offset 17191.
+-- 自身の肉体に何らかの<強化|ブースト>をかけたと見るべきだが、今の青子では何をしようと橙子には及ばない。
+  She seemed to have received some enhancement to her physical form, but it would never be enough to match Touko.
+
+}
+[sha:ea0f211eb817de30940a592e21fd9f6931d057a4]{
+-- Page 4, Offset 17192.
+-- 「……たしかに、魔法といえば魔法だが」
+"...Okay, so I know this is Magic,"
+
+}
+[sha:d9ee46271683138e036378426262cf4b29172b68]{
+-- Page 4, Offset 17193.
+-- 呟きには微かな苛立ちがある。
+  Touko said with a hint of annoyance,
+
+}
+[sha:1f722605c1961d9e1fab63c984f03baf7eb0fd85]{
+-- Page 5, Offset 17194.
+-- 「あいにくと、お互い夢見る年頃ではないんだ。
+"but I'll be honest, this is a letdown.
+
+}
+[sha:f641b45f7d7254c494b2846fd3a28c7d305f12a2]{
+-- Page 5, Offset 17195.
+-- まさか、それで終わりではないだろう？」
+  There has to be more, surely. This can't be it."
+
+}
+[sha:6a6ac854abd8066b4bcd2b45c9a89be0b435a12e]{
+-- Page 5, Offset 17196.
+-- 青子は花の海を歩き始める。
+  Aoko began walking through the sea of flowers.
+
+}
+[sha:2587d12d85219d55ac2efd38054934664f0cd374]{
+-- Page 5, Offset 17197.
+-- 向かう先は、遠方にいる橙子に他ならない。
+  But she was not heading toward Touko.
+
+}
+[sha:8e8c58de15d6d641348f2cad34ea381d689c2002]{
+-- Page 5, Offset 17198.
+-- 「いえ、これでおしまいよ。私も、貴女も」
+"This is it. For me, and for you."
+
+}
+[sha:235dc5957a404ec413626c956d3f97f23e3acfd4]{
+-- Page 6, Offset 17199.
+-- 短く返された言葉に、橙子は微妙な違和感をおぼえた。
+  Aoko's words sent a wave of unease through Touko.
+
+}
+[sha:3c4fbd837d9270ec8d121601ec2cce0fa241155a]{
+-- Page 6, Offset 17200.
+-- 今の声は、青子とは違う気がする。
+  Her sister's voice seemed different, somehow.
+
+}
+[sha:225ef2932392b8aad8d9eda93bceb86996398caa]{
+-- Page 6, Offset 17201.
+-- 声質はほぼ同じだから、口調が違うのだろうか？
+  It was mostly the same in pitch, so it had to be the tone.
+
+}
+[sha:79d68418c526a912bffc2eb6faf1e2540af2e5f6]{
+-- Page 6, Offset 17202.
+-- いや、それも同じだ。
+  No, that was the same, too.
+
+}
+[sha:4524f35cb725ba49d394073a3e6e0a7985b93be2]{
+-- Page 6, Offset 17203.
+-- どこか違うとしたら、それは………。
+  Something was off. Could it be...?
+
+}
+[sha:902b4d50071a15718e21c3d035a0a6f7624a459f]{
+-- Page 7, Offset 17204.
+-- 「――――――！」
+"...!"
+
+}
+[sha:f40e062d2d3c1ff749882cc2b099e3178285ffd8]{
+-- Page 7, Offset 17205.
+-- そこで、橙子はもう一つの変化に気が付いた。
+  It was then Touko noticed something else that had changed-
+
+}
+[sha:72a51d9580679000a32398a1ad2ba9dc2ebeefa9]{
+-- Page 7, Offset 17206.
+-- 変わったのは広場と青子だけではない。
+  not just Aoko and the clearing.
+
+}
+[sha:ab98a8b293037e05141baef6e3b7965115663302]{
+-- Page 7, Offset 17207.
+-- 青子の足下、二つになっていた死体が復元している。
+  The severed body lying at Aoko's feet: it was now whole.
+
+}
+[sha:d054a06ab09ca030181443764760a5b989eb64ae]{
+-- Page 8, Offset 17208.
+-- 死者の蘇生？　傷の治療？
+  Corpse reanimation? Wound healing?
+
+}
+[sha:81226b87edd2462e0ed8c6729af5556cd1e3dc6f]{
+-- Page 8, Offset 17209.
+-- そんな大がかりな術式を施した様子はないし、何より、体を復元したところで“死”は<覆|くつがえ>らない。
+  It did not look like Aoko had used a significant formula; and besides, regenerating a body did not bring it back to life.
+
+}
+[sha:8c1d1dc911a7df5ad1db4dda96099f2593ac2388]{
+-- Page 8, Offset 17210.
+-- 古来、死者の<完|・><全|・><な|・>蘇生は魔法ですら叶えていない。
+  Since the dawn of time, even True Magic has never been able to bring back the dead.
+
+}
+[sha:e0614f4913114cb56238af8f9df1fea96028c851]{
+-- Page 8, Offset 17211.
+-- だが―――青子の背後で倒れている青年が、意識がないまま呼吸をしているのはどう説明する―――！？
+  But the body of the boy behind Aoko was moving! It was breathing, like it was taking a nap!
+
+}
+[sha:24cd87d618f6bdb2441993422f815bfb2c32de20]{
+-- Page 9, Offset 17212. Mods: @k, @e.
+-- “死者の蘇生が蒼崎の魔法……？
+(Can the Aozaki Magic resurrect the dead...?
+
+}
+[sha:326e2d881a9f897aa93e7b3ea1c45eafce3619fd]{
+-- Page 9, Offset 17213.
+-- いや違う。あれは蘇生というより……”
+  No way. This isn't resurrection, it's...)
+
+}
+[sha:4e45fb34c53f3cead06072b143a1fd1438412537]{
+-- Page 9, Offset 17214.
+-- その答えが出るより早く、橙子は違和感の正体に気が付いた。
+  Before she could think of an answer, Touko realized what had seemed out of place to her before.
+
+}
+[sha:2d4bb1df7842efb92104c58fdbcecb3c2826f09e]{
+-- Page 9, Offset 17215.
+-- 先ほどの青子の仕草は年相応のものではなかった。
+  Aoko's mannerisms appeared beyond her years.
+
+}
+[sha:7812978a38ef4c492e1998f330de5c6bf22f2ae7]{
+-- Page 9, Offset 17216.
+-- わずかな外見の変化より、留意すべきは中身の変化だ。
+  Her appearance had changed ever-so slightly, but beyond there had been a change from within.
+
+}
+[sha:b6a3395de64f196b175a573f5795299d55bc1506]{
+-- Page 9, Offset 17217.
+-- まさかの結論に達した時、青子は橙子との距離を残り十メートルまで詰めていた。
+  By the time Touko arrived at that seemingly impossible conclusion, Aoko had closed the distance between them.
+
+}
+[sha:b9cf2a9263111a6318d29d140ba15300e7be2ae9]{
+-- Page 10, Offset 17218.
+-- 「―――<回路|タービン>、<接続|セット>」
+"...<Circuit, connected.|Turbine, set.>"
+
+}
+[sha:5877c4ed8297be8439b86c802ec85516a4bc2d12]{
+-- Page 10, Offset 17219.
+-- その左手が、目の高さまで上げられる。
+  Aoko raised her left hand to eye level.
+
+}
+[sha:8db67676a02d652002535aec4d9b516c98c5859e]{
+-- Page 10, Offset 17220.
+-- 青子の体内で生成される魔力量が目に見えて……いや、耳に聞こえるほど違う。
+  Touko could see-no, hear the magical energy generating inside Aoko.
+
+}
+[sha:c39e938fa2a303c5eb1e28dab3d4796f173ceb4f]{
+-- Page 10, Offset 17221.
+-- 橙子ですら聞いた事のない快音。
+  It was sound Touko had never heard before.
+
+}
+[sha:df71ec8446f095dba62f8094db80827548d3b932]{
+-- Page 10, Offset 17222.
+-- 青子のソレは、<凡夫|ぼんぷ>の魔術師に見られる、単一機能しか持たない低級魔術回路だ。魔力の生成量は橙子を遥かに下回る。
+  Aoko only possessed single function, low-grade circuits no better than any other third-rate mage, so she generated magical energy at a much lower rate than Touko.
+
+}
+[sha:39eae7cef35cd061d264193a6cc1d374f8ce9a4b]{
+-- Page 11, Offset 17223.
+-- だがあの速度は異常にすぎる。
+  However, this speed was absurdly quick.
+
+}
+[sha:e67e9a2ad1e38de29a1b8d2b36a27751dae7ba30]{
+-- Page 11, Offset 17224.
+-- あきらかに血流の速度を上回っているし、なにより―――
+  Moving even faster than the blood pumping through her body.
+
+}
+[sha:c39290679a143670b14fb0c28ea95f9ab03b3130]{
+-- Page 11, Offset 17225.
+-- 魔術による<振動|おと>ならともかく、<た|・><だ|・><魔|・><術|・><回|・><路|・><が|・><起|・><動|・><す|・><る|・><だ|・><け|・><で|・><波|おと>をあげるなど、協会でも聞いた事がない―――！
+  Magecraft could vibrate, but how in the hell were the activated Magic Circuits audible? Even the Association had never heard of such a thing!
+
+}
+[sha:b49e2bd113864542c1c05dc9c4ae4315374359d0]{
+-- Page 12, Offset 17226.
+-- 「我が目前に勝利ありき―――」
+"Onward, to victory."
+
+}
+[sha:17d5777e66f1c417de3cbb813e99c7e528c42547]{
+-- Page 12, Offset 17227.
+-- <悪寒|おかん>に<急|せ>かされるよう、橙子は中空にルーンを刻む。
+  Spurred to action by the sudden dread she felt, Touko hurriedly carved runes into the air.
+
+}
+[sha:4ced426895dad98596a1dad58589b50535ec6062]{
+-- Page 12, Offset 17228.
+-- 青子が仕掛けてくるであろう魔術を防ぐため<勝利|トゥール>の加護を張り、さらに刻印の力で強化し、障壁としたのだ。
+  Touko summoned the divine protection of victory, Tyr, to surround herself with a barrier, which was further enhanced by her crests.
+
+}
+[sha:b523bd606555830d257fca03c79ba96748eb07b4]{
+-- Page 13, Offset 17229.
+-- 対して、青子は意にも介さず、照準を合わせる為に腕をあげる事もなく、
+  Paying it no mind, Aoko held her arm steady, not moving it up to strike her target directly.
+
+}
+[sha:7a76f6bc9c84ebfaa3e2b10f72153d32b89ac1c9]{
+-- Page 13, Offset 17230.
+-- 「―――魔弾、展開」
+"...Bullets, deploy."
+
+}
+[sha:69ede46b83a87c2b14d3078227a70ae0050ba06e]{
+-- Page 13, Offset 17231.
+-- 短く、自分自身に命令した。
+  Aoko commanded herself succinctly.
+
+}
+[sha:30a58b8c1d4f48d802c3a101c8b10e739874cebe]{
+-- Page 14, Offset 17232.
+-- 「！！！？」
+"???!!!"
+
+}
+[sha:f3d728f2e0b9b0ff840879f4d7d38d039f4f0c3f]{
+-- Page 14, Offset 17233.
+-- 魔術の起こりさえ見えない。
+  This was beyond magecraft.
+
+}
+[sha:1785ff27656c5410920692beb2feb825d9b58056]{
+-- Page 14, Offset 17234.
+-- 一言で放たれた魔弾は実に二十発。
+  In just a few words, she had fired twenty magic bullets.
+
+}
+[sha:b35bba59593a00c0dbd1d3d7cc14365a330256c6]{
+-- Page 14, Offset 17235.
+-- それは流星のように、ロケット弾すら弾くルーンの壁を溶解し、蒼崎橙子の<礼装|コート>を撃ち抜いた。
+  Like a meteor shower, the bullets smashed through the rocket-proof rune barrier, as well as Touko's spell-woven coat.
+
+}
+[sha:e9cd6baaf3f189ff524a70a0742812814e7e22e4]{
+-- Page 15, Offset 17236.
+-- 「っ、装填ではなく展開だと―――！？」
+"You shot them without loading?!"
+
+}
+[sha:c3bb6cdc25d39e395b31a6b3402c7b46b594b473]{
+-- Page 15, Offset 17237.
+-- <礼装|コート>にかけてある防護のルーンが悲鳴をあげる。
+  The protective runes lining her coat screamed.
+
+}
+[sha:0532ce95170180cf6c4a6398436b914a9fe9bfd0]{
+-- Page 15, Offset 17238.
+-- あの掃射をもう一度受ければ<保|も>たない。
+  They would not be able to take another barrage like that.
+
+}
+[sha:d34c5d9dbd45a1b2a58f8629306b7ceb2d101a97]{
+-- Page 15, Offset 17239.
+-- それ以前に、今の直撃で間違いなく<内臓|かいろ>に傷が入った。
+  And she had already taken internal injuries.
+
+}
+[sha:19142faa87cbcdccc95b5f63b083dbceeb9d881d]{
+-- Page 16, Offset 17240.
+-- 認めたくはないが、直接的な火力において蒼崎青子は蒼崎橙子を上回っている。
+  She loathed to admit it, but Aoko vastly outclassed Touko in terms of raw power.
+
+}
+[sha:e82375d8ff3f157dce6873108ad8fcb67a21ca72]{
+-- Page 16, Offset 17241.
+-- さらに認めがたいのは―――おそらく、あの女はまだ<本|・><気|・><に|・><す|・><ら|・><な|・><っ|・><て|・><い|・><な|・><い|・>……！
+  Even harder to admit was that her sister probably had not even brought out the big guns yet.
+
+}
+[sha:118570794b865cbddd19f9d773444e1b5e214d8d]{
+-- Page 17, Offset 17242.
+-- 「<[ansz]|アンサズ>、<[swel]|ソウェル>、<[ingz]|イングズ>ッ！」
+"Ansuz, Sowilo, Ingwaz!"
+
+}
+[sha:926432ad7b341780d05964819c987fc003e40de2]{
+-- Page 17, Offset 17243.
+-- 橙子は跳びのきながら中空にルーンを描く。
+  Jumping backward, Touko drew more runic symbols in the air.
+
+}
+[sha:b503f22f3b5d04cca01e6166a124611809d6a824]{
+-- Page 17, Offset 17244.
+-- 一喝に応じて刻印は炎へと転じていく。
+  In response, her crests burned brightly.
+
+}
+[sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
+-- Page 17, Offset 17245.
+-- だが。
+  But...
+
+}
+[sha:d1ac34df08f681ffc6c13d673479cb35bceac75d]{
+-- Page 17, Offset 17246.
+-- 「―――<古|おそ>いっ！」
+"...Too slow!"
+
+}
+[sha:161318f4e2b1d2af43e6612a3eecbd579cd60953]{
+-- Page 18, Offset 17247.
+-- それを、青子はただ一言で打ち消した。
+  With a single word, Aoko nullified the runes,
+
+}
+[sha:2a7ee0aa7e0bed18da7c69bfd52f4348af4d93ff]{
+-- Page 18, Offset 17248.
+-- ルーンは意味を持つ前に砕け散る。
+  dissolving them before they could be given meaning.
+
+}
+[sha:2bc854fb6244e9e8359e22f12758d5aea29c3f6f]{
+-- Page 18, Offset 17249.
+-- 単純に、ルーンをカタチにする橙子の魔力より、彼女の言葉の力が上回ったのだ。
+  The power of Aoko's words had surpassed the magical energy of Touko's rune magecraft.
+
+}
+[sha:153c6a2841377405fa54663cf5f11fc0321b79a9]{
+-- Page 19, Offset 17250.
+-- ルーンを無効化し、青子は白い花園を突き進む。
+  With the runes nullified, Aoko continued advancing through the white flowers.
+
+}
+[sha:11e6b368bdeadb214d42b7b2a426315a1b49c853]{
+-- Page 19, Offset 17251.
+-- その<表情|かお>も、安定した魔術回路の働きも、息遣いさえ今までの彼女とは違う。
+  From her calmness to the robust spinning of her Magic Circuits and her breathing, she was different.
+
+}
+[sha:9208c6a47bdded36f1e3eaed6bb2c41ccaf96e31]{
+-- Page 19, Offset 17252.
+-- それは多くの戦闘経験を得た者にしか出来えない、最適化された自己管理だ。
+  A woman with sublime self-control, a trait only found in mages with a lifetime of combat experience.
+
+}
+[sha:976a51bd61b50494a3edf9f3f94632a42d9d798c]{
+-- Page 19, Offset 17253.
+-- 「―――あれは、<経験|じかん>か―――？」
+"Y-You traveled in time!"
+
+}
+[sha:525a907875154f2b80b4ab1114788f33392819be]{
+-- Page 19, Offset 17254.
+-- それが蒼崎の魔法の正体だとしたら、たしかにすべてが<符|ふ><合|ごう>する。
+  Given the evidence, that was the only explanation for the Aozaki Magic.
+
+}
+[sha:9a58c28445a6706d19fcf40c0df4fa05f8ccee28]{
+-- Page 20, Offset 17255.
+-- 青子の魔術回路が増幅されたのではない。
+  Aoko's Magic Circuits had not been amplified.
+
+}
+[sha:774c02ec4afbbf86048bf84c4de986d64f0823e5]{
+-- Page 20, Offset 17256.
+-- そもそもそんな事は出来ないし、橙子のように外付けにしたところで、増えるのは魔力の総量と使用可能な術式だけ。
+  That would have been impossible anyway. Like Touko, she would have to externalize them, which would just increase the scope of her magical energy and techniques.
+
+}
+[sha:762cc27e0ee30e93aaf081f73bee8198c5de9947]{
+-- Page 20, Offset 17257. Glued. Mods: @x.
+-- 魔術師自体の資質、魔術回路の純度は変わらない。
+By nature, the quality of a mage's Magic Circuits did not change.
+
+}
+[sha:21f67092700835965fe1959d482e23addeff3c18]{
+-- Page 20, Offset 17258.
+-- だが、今の青子は明らかに<魔|・><術|・><師|・><と|・><し|・><て|・>蒼崎橙子を凌駕している。
+  But Aoko was now clearly a superior mage to Touko.
+
+}
+[sha:23f57ecde5e78c1b31ba149aedb52e49634cbab7]{
+-- Page 20, Offset 17259.
+-- ならば答えは一つ。
+  So there was only one logical conclusion.
+
+}
+[sha:076a2c1b491e57ed97d6fc3e12222e9bcad3fdf0]{
+-- Page 20, Offset 17260.
+-- あの見習い魔術師は一瞬で一人前の魔術師に成長―――
+  In an instant, she had grown from an amateur to a veteran.
+
+}
+[sha:53ca3ff303558ea5285e54bcccbbac0539b77edd]{
+-- Page 20, Offset 17261.
+-- いや、自身の<時|・><間|・><を|・><早|・><送|・><り|・>したのだ。
+  She fast-forwarded her own time.
+
+}
+[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+-- Page 21, Offset 17262.
+-- 「っ―――！」
+"...!"
+
+}
+[sha:846fefa71c4d2162e80367961bbc37d6feb344a4]{
+-- Page 21, Offset 17263.
+-- 青子に背を向けて、オレンジ色の魔術師は走りだした。
+  The Scarred Red mage turned her back on her sister and ran.
+
+}
+[sha:91cbaff8d0e70a266fd1aa758b5603397151d3ae]{
+-- Page 21, Offset 17264.
+-- <こ|・><こ|・>では勝ち目がないと直感し、旧校舎に逃げこんでいく。
+  She knew she could not win, so she fled toward the old school building.
+
+}
+[sha:d2675a022b5051d17e5bcf6f04e27978f77ecdce]{
+-- Page 21, Offset 17265.
+-- その背中を青子は狙わなかった。
+  Aoko did not fire.
+
+}
+[sha:6136f53c01a61ac42f862a574418f8aa251f22e0]{
+-- Page 21, Offset 17266.
+-- 情けからではなく、冷静に、この距離からでは仕損じると判断して。
+  Not out of pity, but because she deduced that an attack at this range was risky.
+
+}
+[sha:760853096ea2bfcc4530e694fd6176d4d546841c]{
+-- Page 22, Offset 17267.
+-- 逃すまいと青子は身を乗り出し、はた、と思い立ったように足を止めた。
+  She went to chase after her sister, but stopped suddenly.
+
+}
+[sha:d8a8087d031e9153d858a81be3b2926cfece60aa]{
+-- Page 22, Offset 17268.
+-- ……言葉にするのは少し迷う。
+  ...A few words caught in her throat.
+
+}
+[sha:5d0c01a3e31ac5a109e0d81c6822cb2952012510]{
+-- Page 22, Offset 17269.
+-- 彼女は小さく息を呑んで、
+  She took a small breath.
+
+}
+[sha:904eed3e8a8ba2f5fa84c26098feb29b9ae5b438]{
+-- Page 22, Offset 17270.
+-- 「アリス。そいつ、お願い」
+"Watch him, Alice."
+
+}
+[sha:c17e9317514afb33447a500a30e10bde94c2bd5b]{
+-- Page 22, Offset 17271.
+-- 大人びた声を恥じるように、そんな言葉を口にした。
+  She said, slightly embarrassed by the maturity of her voice.
+
+}
+[sha:f9412e1d973813889d4cdc467f530f2bc35b7a13]{
+-- Page 23, Offset 17272.
+-- 白い花が散っていく。
+  White petals flitted through the air.
+
+}
+[sha:82a82b6483c656b19d4520a2dff232bc9b2f81c8]{
+-- Page 23, Offset 17273.
+-- 青子は振り返らず、長い髪をなびかせて橙子の後を追っていった。
+  Without looking back, she made after Touko, her long hair flowing behind her.
+
+}

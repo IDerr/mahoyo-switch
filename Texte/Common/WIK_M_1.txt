@@ -1,0 +1,30 @@
+[sha:a9f4574757f67fbbe0cdbdac9c1dd7547bff12f1]{
+-- Page 0, Offset 22595.
+-- わたしは、ちらっと廊下の様子を見てみたい、と思った。
+  I think I'll take a peek in the hallway.
+
+}
+[sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
+-- Page 1, Offset 22596.
+-- そこには、
+  There, I saw...
+
+}
+[sha:0949d1a9f1e3db9e262efdf1232495c72a1768e1]{
+-- Page 1, Offset 22597.
+-- 「……失った……すべて失ったわ……」
+"...I've lost everything... Everything..."
+
+}
+[sha:cddeba83e89e41243a72ea644cd33bf84729f8c4]{
+-- Page 1, Offset 22598.
+-- この世の終わりを見たような、語るも無惨な幽鬼の顔があったりした。
+  Her face was haunted, as if she'd looked upon the end of the world.
+
+}
+[sha:52b4d64587983c936e8aa6bbfe7ec61978014890]{
+-- Page 1, Offset 22599.
+-- 武士の情けで見なかったフリで、急いでドアを閉める。
+  I quickly shut the door and pretended I didn't see anything. She deserved a warrior's dignity, at the very least.
+
+}

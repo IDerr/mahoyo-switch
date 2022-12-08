@@ -1,0 +1,24 @@
+[sha:73183441328b66955f1e3bd679dc3f8a8bcaf1a1]{
+-- Page 75, Offset 21474.
+-- ……明らかに、不穏なものを感じる。
+  ...Something clearly wasn't right.
+
+}
+[sha:f1f940aa5c7182951cd8e9ccbea6a79db049506d]{
+-- Page 75, Offset 21475.
+-- 幽霊屋敷の異名を思い出し、わたしは無視する事に決めた。屋敷の周りを探索する時は、誰かと一緒の時がいいだろう。
+  I recalled this place's reputation as a haunted mansion, but firmly resolved to put that out of mind. Still, if I was going to explore, it was best not to go alone.
+
+}
+[sha:51c18af71fad9a023f900bb9f8fc623bfaa0108b]{
+-- Page 75, Offset 21476.
+-- ロビーに戻ると、右手の東館―――居間の方から笑い声が聞こえてきた。
+  Returning to the foyer, I could hear laughter coming from the east wing drawing room, to my right.
+
+}
+[sha:9ffd9f7c1f74d551f618195907f62c8177ed6cfb]{
+-- Page 75, Offset 21477.
+-- わたしは荷物を抱え直して、居間に足を向けた。
+  I picked up my luggage and made my way over.
+
+}

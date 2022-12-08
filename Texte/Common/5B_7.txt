@@ -1,0 +1,264 @@
+[sha:5dd6de20f4f89c342b64ed0c071a5357620e83ef]{
+-- Page 0, Offset 7152.
+-- 一方。<獲物|えもの>の活きの良さが分かるのか、オブジェたちは輪になって青子たちを観察していた。
+  Meanwhile, the oddities were forming a circle around their prey, as if they smelled blood in the water.
+
+}
+[sha:51cf64576ca468a95eda38aa596011c348c4c397]{
+-- Page 0, Offset 7153. Mods: @n.
+-- パン屋にひきずりこんで焼き殺すか、
+  Were they to be dragged into a bakery for the oven?
+
+}
+[sha:b8a252426d5f2653991473f1e761140bd6fbceea]{
+-- Page 0, Offset 7154. Glued.
+-- 精肉店の挽肉機ですり潰すか。
+  Minced in the meat grinder at the butcher shop?
+
+}
+[sha:6b60b2b341ce282aad8646866225dfcdaa2f58c7]{
+-- Page 0, Offset 7155. Mods: @n.
+-- はたまた串刺しにしてゴーラウンドで引き回すか、
+  Skewered and paraded around atop the carousel?
+
+}
+[sha:4335d96ab3ba6c0f349022616dd0011536be38ca]{
+-- Page 0, Offset 7156. Glued.
+-- トゲトゲだらけの<海賊船|ゆりかご>に乗せて航海に乗りだすか。
+  Walk the plank of the thorny pirate ship?
+
+}
+[sha:29d3bb9f241c4090b1ac3c96e13ad7b20f8bad85]{
+-- Page 0, Offset 7157.
+-- 二年間眠っていた分、歓迎意欲は盛りだくさんだ。
+  After two years of slumber, they were eager to welcome their new guests.
+
+}
+[sha:d860a7fb22cb3f23e168ef95c8ef91f439a84b63]{
+-- Page 1, Offset 7158.
+-- 「……いちおう、聞いておきたいんだけど」
+"There's something I need to ask you, Aozaki."
+
+}
+[sha:93865298bd6e8d246389cd48971a2194d2a4ed88]{
+-- Page 1, Offset 7159.
+-- 「なに。手短にね、いま考え事してるから」
+"What is it? Keep it snappy, I'm thinking here."
+
+}
+[sha:c20a79095607c3fa52ed2c5e08a591f42c126351]{
+-- Page 1, Offset 7160.
+-- 「ああ。……あの連中がなにをしたいか、イヤっていうほど伝わってくるんだけど。それって、あの子の趣味なのかな」
+"Okay. It's painfully clear what these things want to do to us, but what about her? Does she enjoy this?"
+
+}
+[sha:587456529022b958727271c1ee1d07d195decd78]{
+-- Page 2, Offset 7161.
+-- 「……その疑問はなかったわ。
+"I doubt it.
+
+}
+[sha:3b2b0af234e68498e48d4839cc60f557fae1b5b9]{
+-- Page 2, Offset 7162. Glued. Mods: @x.
+-- 連中の人間嫌いは遊園地の怨念と、フラットスナークの性格じゃない？　基本的にマトモなヤツいないから、有珠の使い魔って。
+These things' hatred of humans comes from a deep-seated grudge within the park itself, and maybe even Flat Snark's personality too. Alice's familiars are one big family of freaks.
+
+}
+[sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
+-- Page 2, Offset 7163.
+-- ああ、でも―――」
+  Still..."
+
+}
+[sha:d916d66f7658179d260168ac3e297092b3c88c61]{
+-- Page 2, Offset 7164.
+-- なんというか、有珠の性格の怖さも否定できない青子だった。
+  Aoko was unable to deny that there were some similarities.
+
+}
+[sha:c2238b462c2d5edc03f7c6aff2d0c21cb806e78f]{
+-- Page 3, Offset 7165.
+-- 「それは結構。……それで、蒼崎の考えごとって？　止める方法、考えついたのか？」
+"Good to know. ...So, did you come up with anything, Aozaki? How do we stop them?"
+
+}
+[sha:3dd80196342c451880edb6798fd2b973ff679379]{
+-- Page 3, Offset 7166.
+-- 「期待させて悪いけどお手上げ。ま、アンタが殺されれば止まるでしょうけど」
+"Sorry to get your hopes up, but I'm all out of ideas. Oh, but I bet they'd stop if you dropped dead."
+
+}
+[sha:292eb34673ed091eec0eaa8435159fa44ad6989b]{
+-- Page 3, Offset 7167.
+-- 「それはイヤだ！　とりあえず逃げよう！」
+"No thank you! Let's just get out of here!"
+
+}
+[sha:12bdc4276b44de00c5f7eb4487f5ba68d969d975]{
+-- Page 3, Offset 7168.
+-- 「え、ちょっ、静希君！？」
+"Hey, wait! Sizuki?!"
+
+}
+[sha:c4499e4f2c9815e80be323f33ca451c843614d0c]{
+-- Page 4, Offset 7169.
+-- ―――突然の<展|こ><開|と>に目を見張る。
+  She blinked in surprise at the sudden turn of events.
+
+}
+[sha:112507285d9c87d46299bf1f333aad32bb9fdf46]{
+-- Page 4, Offset 7170.
+-- 今まで青子に付いてくるだけだった草十郎は強引に青子の手を取って、焼きたてパンの群に突進―――囲みを<破|やぶ>ろうと力任せに特攻する。
+  Soujyuro, who had until now been meekly following her lead, had grabbed Aoko's hand and pulled her with him into a suicidal charge towards the swarm of bread, in an attempt to break out of the encirclement.
+
+}
+[sha:90d03f58ea5c813286063ecd627a003bb6f415a0]{
+-- Page 5, Offset 7171.
+-- 「い、意味わかんなすぎ！
+"Are you out of your mind?!
+
+}
+[sha:f2b1442585a50a294985d4d296defea2e172776f]{
+-- Page 5, Offset 7172.
+-- なんで今の流れでそうなるのよアンタはーーーー！？」
+  How on earth do you figure this is what we do next?!"
+
+}
+[sha:a83951a2545c36fbc4b729d3719c93938e2d58e1]{
+-- Page 5, Offset 7173.
+-- 別人のようなアグレッシブさを発揮する草十郎を<罵|ののし>りながら、律儀にフォローする青子。
+  Aoko nonetheless followed Soujyuro's uncharacteristically gung-ho lead, cursing him all the while.
+
+}
+[sha:b92c5a193ad5a8220871a08d52d25add9b5b48f0]{
+-- Page 6, Offset 7174.
+-- 草十郎の体当たりでは包囲網を突破できない。
+  Soujyuro would not be able to break through the surrounding wall of enemies with brute force.
+
+}
+[sha:d1ecc5810df6e608f07dd61ad9f46cc3007c7075]{
+-- Page 6, Offset 7175.
+-- 青子はすぐさま体勢をたてなおし、草十郎の正面に魔弾を掃射する。
+  Aoko regained her bearings and let fly a spray of magic bullets ahead of Soujyuro.
+
+}
+[sha:abbd64e7fe5d091344f98986402e10268563fb35]{
+-- Page 7, Offset 7176.
+-- 「っ、はっ―――！」
+"Hah...!"
+
+}
+[sha:22c0404d3bbf7f3a92950e812d9164c583885d91]{
+-- Page 7, Offset 7177.
+-- 囲いを抜け、全力で走りだす。
+  They broke through the net and ran as hard as they could.
+
+}
+[sha:1aec4dab3acfbb7577a4d08a9b9f99510414ce4b]{
+-- Page 7, Offset 7178.
+-- こうなっては当初の予定通り、遊園地の外を目指すしかない。
+  At this point, all that was left to do was what they had planned from the outset: aim to get out of the park.
+
+}
+[sha:5ced2bdc1c68ad58ea17fb684eda988c2c9fa714]{
+-- Page 8, Offset 7179.
+-- ……まあ、それはともかくとして。
+  But not before addressing what needed to be addressed.
+
+}
+[sha:352745a03fd6787c47fa135f66fb685f3640e204]{
+-- Page 8, Offset 7180.
+-- 「なんでよ!?　さっきはあんなに諦め良かったのに！」
+"Where the hell did that come from! Hadn't you already given up back at the house of mirrors?!"
+
+}
+[sha:9cde5fabaaf722f879245030d01be7badcc2b4f6]{
+-- Page 8, Offset 7181.
+-- 青子には草十郎の反応が、とにかくホントに理解不能。
+  Aoko could not begin to comprehend Soujyuro's reaction.
+
+}
+[sha:876647b072bf8ee0d41666880d4fa4257a401065]{
+-- Page 9, Offset 7182.
+-- 「ミラーハウスの時と今は違うだろ！　いいから走れ！」
+"That was then and this is now! Just run!"
+
+}
+[sha:1ea17bb8bd0d4a8579a28b31627630092745018f]{
+-- Page 9, Offset 7183.
+-- 「違わないわよ！　アンタを殺そうとした私も、アンタを殺したい有珠も！　理由も結果も同じよ、私たち!?」
+"What are you talking about?! Alice wants to kill you just like I did! Nothing's different, not the reason nor the outcome!"
+
+}
+[sha:10300438df283924819dfc4067c6933507f988f5]{
+-- Page 9, Offset 7184.
+-- 何でこんなコトで怒鳴っているんだろう、と思いながらも青子は止まらない。
+  Though she wondered what was getting her so worked up, Aoko did not stop.
+
+}
+[sha:69263fb81cd4506ef82102d4576f19f4a610b7dd]{
+-- Page 9, Offset 7185.
+-- きっと、無謀にもブレッドマンに突進した草十郎の馬鹿さ加減が頭にきているんだ、と自分自身に言い聞かせる。
+  She told herself that the degree of Soujyuro's stupidity, charging the bread-men so recklessly, had caused her to lose her cool.
+
+}
+[sha:e8ba879eaec2bde3ccb74b70fb34475e3c0e1d99]{
+-- Page 10, Offset 7186.
+-- 「あのね、一緒に逃げてるぐらいで勘違いしないでくれる!?　言っとくけど私、明日になったらまたアンタを殺しに行くから！　死にたくないってんなら、ここで私からも逃げだしたら!?」
+"Hey, don't get the wrong idea! I'm gonna try and kill you again tomorrow! I'll really do it! So if you don't want to die, you should be trying to escape me too, got it?!"
+
+}
+[sha:f94b67b63ad6a4469ec83328c0de062fe1ee0fa9]{
+-- Page 11, Offset 7187.
+-- 「それはまた今度の話だろ！　だいたい、蒼崎に殺されるのならいいけど、あの子に殺されるのはイヤだ！」
+"Then let's talk about that tomorrow! Like I said, I don't really care if you kill me, I just don't want to be killed by that girl!"
+
+}
+[sha:c3974eb9ddcd06d3b283981d8853364b24decde2]{
+-- Page 11, Offset 7188.
+-- 「だからなんで！？」
+"And like I said, WHY THE HELL NOT?!"
+
+}
+[sha:0776cf4b7c62e43b4856522b4e9a5be12422c281]{
+-- Page 11, Offset 7189.
+-- 「だって顔も知らない！　話したコトさえない相手だ！」
+"I don't even know what she looks like, nor have I even spoken with her!"
+
+}
+[sha:ad108496c15f148ab18c2fe886302b0b07d145c3]{
+-- Page 11, Offset 7190.
+-- 「―――は？」
+"...What?"
+
+}
+[sha:0b0209ad0a1d1741a603c83d5baae608625275a1]{
+-- Page 12, Offset 7191.
+-- 沸き立っていた激情が、一瞬で鎮火する。
+  It was like someone had doused water over her blazing fury.
+
+}
+[sha:3eb8f58478aeccbfa261769a9b3bdc14d0dd9894]{
+-- Page 12, Offset 7192.
+-- あまりに簡潔かつどうでもいい理由に、青子の<直情|いかり>はあっさりと消えてしまった。
+  Aoko's anger was snuffed out by the absurd simplicity of his reasoning.
+
+}
+[sha:e2dfe6bc68095bac75c17a558b561014d51b49a0]{
+-- Page 13, Offset 7193.
+-- 「顔も知らないって……」
+"Because you don't even know what she looks like?"
+
+}
+[sha:a0fe6c849216a95ef29af7f5435f22a5e799f858]{
+-- Page 13, Offset 7194.
+-- 草十郎としては、よく知った相手なら殺されてもいいのだろうか？
+  Could it be that Soujyuro did not mind being killed by someone as long as he had met them?
+
+}
+[sha:a9e548b3f934088f7e9e54b6596d148ead690f76]{
+-- Page 13, Offset 7195.
+-- ますますもって理解できない、と顔をしかめながら、青子は草十郎の背中を追いかけるのだった。
+  Aoko chased behind him, grimacing at the ever-increasing incomprehensibility of it all.
+
+}

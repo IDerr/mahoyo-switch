@@ -1,0 +1,2442 @@
+[sha:ebdb6730816175f58e56103abc10e61f0990e006]{
+-- Page 0, Offset 145.
+-- 彼女が正門についた頃、雨脚は弱くなっていた。
+  The rain had subsided somewhat by the time she reached the school gate.
+
+}
+[sha:94af4bf1933d233670c5f047c5c7543533c86459]{
+-- Page 0, Offset 146.
+-- 遠くの空には日射しが見え隠れしている。
+  Sunlight seemed to be playing peek-a-boo behind the clouds in the distance.
+
+}
+[sha:2fb0bf18b1a067bb1847b9c0abb1b7df75242aa4]{
+-- Page 0, Offset 147.
+-- この分なら、雨は昼過ぎにあがっているかもしれない。
+  It looked like it might be cleared up by early afternoon.
+
+}
+[sha:f103e4860fbb07ed2c176e821b40cd3825fc9618]{
+-- Page 1, Offset 148.
+-- 「……といっても、私には関係のない話だけど」
+"...Not that it has anything to do with me, though."
+
+}
+[sha:488c069c8aecdcf79bb2908d07afe0ef7f35966d]{
+-- Page 1, Offset 149.
+-- 空模様とは裏腹に、彼女の運勢はボロボロだ。
+  The weather reflected her luck.
+
+}
+[sha:d7fdf4f822bf291c94bb2bcf6f0d0e13e5b58876]{
+-- Page 1, Offset 150.
+-- 徹夜明けの朝に起こされたうえ、冬の雨に見舞われた。
+  On top of being forced out of the house at such an early hour, she had to suffer through a winter rain.
+
+}
+[sha:0b2b16f17120a6e8a0a47e78b066f7b52781e976]{
+-- Page 2, Offset 151.
+-- この分では、用件とやらもロクな事じゃない―――
+  I'm getting a bad feeling about this...
+
+}
+[sha:9ef3e11953c8364bb4d404f4ad22abf3303b38de]{
+-- Page 2, Offset 152.
+-- そんな予感に頭痛を覚えながら、彼女は正門を抜けて校舎に向かう。
+  The sinking feeling she had only grew as she passed through the entrance and headed inside.
+
+}
+[sha:94eb833b19c68afff8d9271c3f4d1e192f206936]{
+-- Page 3, Offset 153.
+-- 途中、すれ違った生徒はひとりもいない。
+  She didn't encounter any other students along the way.
+
+}
+[sha:c336f0cfc70b0316b131a446ff54bfef280a2fc9]{
+-- Page 3, Offset 154.
+-- 部活中の生徒も見あたらない。
+  Nor did she see anyone taking part in club activities, either.
+
+}
+[sha:08d8beddb8a2a193e1f96ba682a8f25a937e27fa]{
+-- Page 3, Offset 155.
+-- 職員用の玄関の受付には“休憩中”の立て看板。
+  The reception desk to the faculty room simply read "Faculty Closed."
+
+}
+[sha:68c9f516fcaf60b1d885e7dfb637ebb25921d984]{
+-- Page 3, Offset 156.
+-- 学校は生徒に平等な休日を与えていた。
+  The school had given all of its students the day off.
+
+}
+[sha:e11c24b4220e7ad9d9ae223cdc8eac9b64d319a9]{
+-- Page 3, Offset 157.
+-- もちろん、こんな時間に呼び出された彼女を除いて。
+  Except those explicitly summoned, like her.
+
+}
+[sha:2d378a76b881c720ed972ec5e765779c61ab0413]{
+-- Page 3, Offset 158.
+-- そんな事実がますます感情を<逆撫|さかな>でする。
+  A fact that irked her more and more as the minutes passed.
+
+}
+[sha:9161a8887c898c2e1cf70cb031a8bf100f2090fe]{
+-- Page 4, Offset 159.
+-- 彼女が職員室の扉を開けると、見慣れた教師が机に向かっていた。
+  She opened the door to the faculty room and headed toward the desk she had visited a number of times before.
+
+}
+[sha:3a85b77f2347c64718a16215550be0dd2ff91dc6]{
+-- Page 4, Offset 160.
+-- 地味だがパリッとしたシャツと背広、
+  The man at the desk wore a plain shirt and suit that were nonetheless neatly pressed.
+
+}
+[sha:dc05b6350e0c34940e2eb1c9f940752fa35a9676]{
+-- Page 4, Offset 161.
+-- 穏やかではあるが油断ならない細眼鏡。
+  Slim-framed glasses adorned his face, giving off an amicable yet cunning air.
+
+}
+[sha:1988cfabe61f47febfff2d7dcd0a4d1732678eb0]{
+-- Page 4, Offset 162.
+-- 似合わない煙草をふかしている、二十代中盤の優男。
+  The mild-mannered image this mid-twenties man presented clashed with the cigarette he smoked.
+
+}
+[sha:75647292c8080aa14dc8c84b3154ea657112c8d5]{
+-- Page 4, Offset 163.
+-- どうにも、まだ彼女に気付いていない様子だ。
+  He didn't appear to have noticed her yet.
+
+}
+[sha:1c0ea695981dc9c7f5997b1ebb8873739c0def81]{
+-- Page 5, Offset 164.
+-- 「<山城|やましろ>先生」
+"Mr. Yamasiro?"
+
+}
+[sha:efa9a0084df2d2e19ce8cc901148750236e2ad49]{
+-- Page 5, Offset 165.
+-- 勢いよく扉を閉める。
+  She closed the door with a bang.
+
+}
+[sha:42b69b4b3c2ff8c4806a9cf691b19ef96db685cc]{
+-- Page 5, Offset 166.
+-- その音にさして驚いた様子もなく、山城と呼ばれた教師は顔を上げた。
+  Showing no response to the sudden sound, Mr. Yamasiro lifted his head.
+
+}
+[sha:5b1b410dfc9428da9fbedcfd4eef410a97d457d8]{
+-- Page 6, Offset 167.
+-- 「やあ、おはよう<蒼崎|あおざき>くん。用件は聞いているかな？」
+"Hey there. Good morning, Ms. Aozaki. I guess this means you got the call."
+
+}
+[sha:d4eb932c0bf01e1e24e08fd21a28f7151bec353b]{
+-- Page 6, Offset 168.
+-- 「はい。一時間前に自宅で。事前に何の相談もなく」
+"Yes. They called me at home about an hour ago, out of the blue..."
+
+}
+[sha:3e34fcdbb21622b2189b50c2c2df6e67bc0a1f99]{
+-- Page 6, Offset 169.
+-- この高校の卒業生である<山城|かれ>は、生徒たちとそう歳が離れていない。
+  Having graduated from this high school himself, Mr. Yamasiro was not much older than the rest of the students.
+
+}
+[sha:df9770df81a193dc15651007515d4111a76a4266]{
+-- Page 6, Offset 170.
+-- そのせいか他の教師より生徒に<慕|した>われている。
+  For that reason, the students preferred him over the other teachers.
+
+}
+[sha:d12d5c28773d0a1a64e4f80d78a1d414c8e54fce]{
+-- Page 7, Offset 171.
+-- 話題も<豊富|ほうふ>で口調も<穏和|おんわ>。
+  He always had something interesting to talk about, and kept conversations casual.
+
+}
+[sha:b81847c28c7506fc99e1c9bbbc8e07b5e4f6ef38]{
+-- Page 7, Offset 172.
+-- 教師というより頼れる先輩といった人物だが、あいにく、彼女はそう慕ってもいなかった。
+    In fact, he seemed more like an older student than a teacher, but she unfortunately didn't share her fellow students' fondness for him.
+
+}
+[sha:7ca25c346cfa728214146a3f3d2781470fec8e99]{
+-- Page 8, Offset 173.
+-- 教師は<冷徹|れいてつ>であるべきである。
+  She was of the opinion that teachers should come across as more austere.
+
+}
+[sha:fc4e1345ee339454bf73c1c55164efee8ecde626]{
+-- Page 8, Offset 174.
+-- 生徒にとっては愛憎いり交じった険しい壁であり、間違っても<憩|いこ>いの場でニコニコ笑っているお兄さん……であってはならない、というのが彼女の持論だ。
+  Like an iron fist that could inspire both love and hate in equal measure... Not a buddy to joke and pal around with.
+
+}
+[sha:b345f134ee3fdf5046b226dda4b2fecbe5216e3b]{
+-- Page 9, Offset 175.
+-- 山城教諭は彼女が良しとする教師像とは正反対の人物で、自然、彼への口調は堅く、愛想のないものになる。
+  He was the exact opposite of how she felt a teacher should be. It was only natural that her manner towards him would be forced and unfriendly.
+
+}
+[sha:49e4e1b42466b8c92f37d7737bfaf0707aa540ac]{
+-- Page 9, Offset 176.
+-- ……もっとも。愛想なんて微笑ましいもの、彼女には初めから装備されてはいないのだが。
+  Not that she'd ever been wired to make friendly small talk.
+
+}
+[sha:70c362394d83a72f1ac266738c51316a18961829]{
+-- Page 10, Offset 177.
+-- 「はあ。今日もご機嫌ななめみたいだね、君は」
+"You're in a foul mood today."
+
+}
+[sha:c122aa6e2bcf62db6848e8aa710f0581d526e173]{
+-- Page 10, Offset 178.
+-- 「それは先生の気のせいです。
+"Today?
+
+}
+[sha:56ed89acb8eb7b3c923ca90925f9ec12351b1b05]{
+-- Page 10, Offset 179.
+-- 今日だけ特別、という話ではありませんから」
+  I'm like this every day."
+
+}
+[sha:790c6c45bf054ae9e716168ad6f6d03aab40691d]{
+-- Page 11, Offset 180.
+-- きっぱりと返答しつつも、彼女自身、自分がひどい顔をしているのは承知していた。
+  The matter-of-fact answer perfectly matched the displeasure displayed on her face.
+
+}
+[sha:26cbe68155e0e47091fa7400f8739d3344db551e]{
+-- Page 11, Offset 181.
+-- 寝起きの機嫌の悪さと寝不足の疲れがあいまって、<仇|かたき>を見るような目つきになっているだろう。
+  Her bad mood from having to get up early and the tiredness from staying up late must have collectively made her look positively adversarial.
+
+}
+[sha:f77fd54f3d66711a91c30d98fd5908f6beb9fe13]{
+-- Page 12, Offset 182.
+-- 「そう。ならいいんだけどね、彼にはそう辛く当たらないでくれよ。僕らじゃ正直、どう扱っていいか分からないところもあるし」
+"If you say so. Just go easy on our guest, okay? To be honest, we're not completely sure how to deal with him yet."
+
+}
+[sha:6361cc18dd1a7af6f27f651c5ba62715ee057a96]{
+-- Page 12, Offset 183.
+-- 「先生。その件ですけど、私、まだ詳しい話を聞かされていないのですが」
+"About that. Do you wanna tell me what the hell is going on? Because I have no clue."
+
+}
+[sha:426e6a9909d1c2cd6b289669c2c16bbc585487a3]{
+-- Page 12, Offset 184.
+-- 刺すような彼女の視線と声に、山城教諭はああ、と応えて煙草の火をもみ消した。
+  As Mr. Yamasiro met her piercing eyes, he finally understood the reason behind her tone, and slowly put out his cigarette.
+
+}
+[sha:9c18f2cd594726b6fda255bdcb888aee5f5455f2]{
+-- Page 13, Offset 185.
+-- 「んー、電話じゃなんて聞いたの？」
+"Let's start at the beginning. What did they tell you over the phone?"
+
+}
+[sha:90d03f74169f282c458ac6c72077285010b57543]{
+-- Page 13, Offset 186.
+-- 「転入生の紹介をする、とだけです。
+"Just that I'd be introduced to a transfer student.
+
+}
+[sha:fabe84483f0a20a84ccd14056acfc137686b95b8]{
+-- Page 13, Offset 187.
+-- 理由も<脈絡|みゃくらく>も無い説明でした」
+  They were a little hazy on the rest, though."
+
+}
+[sha:296650044534a239237b2529818a13ecff253970]{
+-- Page 14, Offset 188.
+-- 簡潔な答えに、山城は感心して眉を上げた。
+  One of Mr. Yamasiro's eyebrows stood up, impressed with the brevity of her answer.
+
+}
+[sha:b25d59979c49f17cb2dbbe0cb7d4c683aa3eba43]{
+-- Page 14, Offset 189.
+-- 彼女が怒っているのは見てとれたが、その理由が休日に呼び出された件ではなく、電話の内容が<要領|ようりょう>を得なかったからだとは。
+  He could see that she was angry, not because she had been called to school on her day off, but because she hadn't been told why she was here.
+
+}
+[sha:53f51b7582d6662c3d6143d7eb0c04a788f0f545]{
+-- Page 14, Offset 190.
+-- いやはや実に<厳格|げんかく>だ、と山城教諭は苦笑した。
+  Mr. Yamasiro chuckled sympathetically.
+
+}
+[sha:632695a625a2f6a21d91fb9d184d434b49c6fdf5]{
+-- Page 15, Offset 191.
+-- 「先生。これが笑い話なら、そろそろ帰っていいでしょうか？」
+"If this was all a joke to you, perhaps I should just go home."
+
+}
+[sha:c380d13dab839a441f7e95d3f820c1628d2856cc]{
+-- Page 15, Offset 192.
+-- 「いや、ごめんごめん、謝るよ。冗談じゃなくて真面目な話なんだ。ちょっと、君の手を借りたくてね」
+"Wait, wait. I didn't mean to laugh. This is not a practical joke. We could really use your help."
+
+}
+[sha:1c84764a24da89c35eb3e67b90171b02e3cd67a3]{
+-- Page 15, Offset 193.
+-- 「本当に、転入生の問題で？」
+"So there really is a transfer student?"
+
+}
+[sha:3c36a31029bb7cdd2c6009fae10697d39872686f]{
+-- Page 16, Offset 194.
+-- 「うん、訳ありというか、難しいというか。
+"Yes, but he has... how should I put it? Difficult circumstances."
+
+}
+[sha:6c01aaa00cb60ae91b27fe60f6e86354b6e8b58d]{
+-- Page 16, Offset 195.
+-- 彼……<草十郎|そうじゅうろう>くんというんだけど、ちょっと、色々とズレていてね。僕らが案内してあげるより、同世代の君の方が適任だと思ったんだ」
+  His name...is Soujyuro. And he's a bit...well, peculiar. So we thought someone around the same age would be best suited to show him the ropes."
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 17, Offset 196.
+-- 「…………」
+"..."
+
+}
+[sha:1a5677773239c9bf9e373ed739301ac0bac547af]{
+-- Page 17, Offset 197.
+-- 彼女は不審げに表情を<曇|くも>らせた。
+  She threw him an unamused look.
+
+}
+[sha:2f1335a2b8a549365d2c7e3210caa638040ac735]{
+-- Page 17, Offset 198.
+-- 教師の業務を生徒に押しつけるのも<怠慢|たいまん>だが、それ以上にその転入生が『ズレている』とはどういう事だろう？
+  It was negligent of them to be pushing teaching duties on her, but she did wonder how exactly this transfer student was peculiar.
+
+}
+[sha:ee7ab9aa8a83818fdfd0c26f9950dcd8e5caea2f]{
+-- Page 17, Offset 199.
+-- 素行に問題がある、扱いが難しい、というのなら想像しやすい。
+  Maybe he meant the student had behavioral problems or was difficult somehow.
+
+}
+[sha:fd4ce60fba6ef8d9121be66fe55c331b233e80a3]{
+-- Page 17, Offset 200. Glued. Mods: @x.
+-- しかし、ズレている、というのは何なのか。
+But 'peculiar?' She didn't have the slightest idea what that meant.
+
+}
+[sha:543f1befbb980c6bd97a7373ddfd17f07bd6725f]{
+-- Page 18, Offset 201.
+-- 『ズレてるなんて、そう使わない表現だけど……』
+(You don't hear a teacher call someone that everyday.)
+
+}
+[sha:8975e7a47f1ab61ce10f52070912cba6930a67ac]{
+-- Page 18, Offset 202.
+-- 彼女は不審げに思案するも、すぐに頭を切りかえた。
+  She had her doubts but swept them aside for now.
+
+}
+[sha:e5340886de93e28a244d0e190b4bbb92f1f03521]{
+-- Page 18, Offset 203.
+-- あれこれ悩んでも仕方がない。
+  This wasn't the time to get distracted by more concerns.
+
+}
+[sha:6f626d8dbd4c65f6e716ca1f0c6a91ef700f6e62]{
+-- Page 18, Offset 204.
+-- なんだかこの会話自体がズレているようで居心地が悪いし、情報が少なすぎるし、そもそも、断るつもりなら今頃ベッドの上でうろんな貝の気分になっている。
+  The fact remained that this conversation was all the "peculiar" she could handle, and she needed more information. She was already beginning to fantasize about saying no and curling up in her warm bed at home.
+
+}
+[sha:abbc5a5bd2845617e1cfbfa8bc172a668ad428f2]{
+-- Page 19, Offset 205.
+-- 「ひとつ、質問があります」
+"I have a question."
+
+}
+[sha:467173ccd5ecf692db6702f07b2a02f8b16bf663]{
+-- Page 19, Offset 206.
+-- 「なに？　あ、学年は君と同じ二年生だよ。性格は落ち着きがあって、人の話をよく聞くタイプ。裏を返せば覇気がないともとれるけど、それならそれで付き合いやすいだろ？
+"Yes? Ah, he's a second year student like you. He's well-behaved and a good listener. He's not the most energetic individual, but that just means he'll be easier to get along with, right?
+
+}
+[sha:6584ccbede0e6452ebef86a23b04d142d3206ae7]{
+-- Page 19, Offset 207.
+-- 蒼崎くんとはクラスは違うけど、きっと仲良くな―――」
+  He's not in the same homeroom class as you, but I'm sure you'll get along just-"
+
+}
+[sha:7846b81bd440d02be183c9b10c0c53464065d44d]{
+-- Page 20, Offset 208.
+-- 「そういった事は本人から直接<訊|き>きますし、<量|はか>ります。
+"I'll be the judge of that when I actually meet him.
+
+}
+[sha:46d10377e9cb2944d1bb861094173c3bdbd43882]{
+-- Page 20, Offset 209.
+-- そうではなく、なぜ私なんでしょうか」
+  And none of that answered my question: why me?"
+
+}
+[sha:2ccd1ddf98a02c90b4518fe346d5ffd5f9d7e43a]{
+-- Page 20, Offset 210.
+-- <刺々|とげとげ>しい<質|こ><問|え>は、同時に転入生の案内を承諾していた。
+  Though her tone was still stern, it was clear that she was willing to cooperate.
+
+}
+[sha:621b83850114ca45af1b9e723906801ca003898d]{
+-- Page 21, Offset 211.
+-- 不満ではあるが、とりあえず自分の感情は置いて、与えられた役目に取り組んでみる。
+  She had decided to put her feelings of dissatisfaction aside and focus on the task at hand.
+
+}
+[sha:6f04090569284b332b7cd4e66c877542c15aebc9]{
+-- Page 21, Offset 212.
+-- <極|きわ>めて自己中心的な気質でありながら、<努|つと>めて公正でいようとするのが彼女の特長だ。
+  Forcing herself to act empathetic in spite of her self-absorbed nature was something she was used to.
+
+}
+[sha:4cda26f0f20b7e0932e7cdf33e62d81b1173f13f]{
+-- Page 21, Offset 213.
+-- やや<倒錯|とうさく>しているが、その芯の強さを山城などは頼もしく思ってしまう。
+  Paradoxically, this force of will was also the reason teachers put so much faith in her.
+
+}
+[sha:58cc6f095c0200d27ae33077bf7e0cfe079ef1cf]{
+-- Page 22, Offset 214.
+-- ……まあ。
+  ...Well.
+
+}
+[sha:b618b254fe24fdc7d0b7ccbfacd1d9abaffca9da]{
+-- Page 22, Offset 215.
+-- 時折、その強さが予想の<範疇|はんちゅう>を超える事もあるが、それはそれ、天災と思って<諦|あきら>めるのが、ここ一年で山城教諭が学んだ彼女への対応策である。
+  At times, that strength shattered expectation, and on those occasions they were left with no choice but to treat it like a natural disaster and weather it until it passed. That was how Mr. Yamasiro had come to deal with her as over the past year.
+
+}
+[sha:b3898ad6eaa0be4ac3bdbc25062456f76a9c4426]{
+-- Page 23, Offset 216.
+-- 「もう一度だけ訊きます、山城先生。
+"I'll ask you one more time, Mr. Yamasiro.
+
+}
+[sha:71220df91bf8653b3160a96c330144b9f94f4df9]{
+-- Page 23, Offset 217.
+-- それで、なぜ私なんでしょうか？」
+  Why does it have to be me?"
+
+}
+[sha:675c4f1a4a1538dccbd7c9a01653b19855b0d183]{
+-- Page 23, Offset 218.
+-- 有無を言わせぬ<詰問|きつもん>に、山城教諭はやや押されながらも返答する。
+  Pressured by a question without a clear yes or no answer, he answered.
+
+}
+[sha:0020dca84680e0bf85a1fa876953e7a6ff211f23]{
+-- Page 24, Offset 219.
+-- 「うん、それはね。
+"Well, about that...
+
+}
+[sha:e7aea8983d2eb79a6f37675b799eeb8325089e84]{
+-- Page 24, Offset 220.
+-- 別に、蒼崎くんが先生方に<敬遠|けいえん>されているのと同じぐらい信頼されていて、学校のためなら教師も生徒も一緒くたに斬って捨てる鉄の生徒会長、だからじゃないよ」
+  You're probably thinking it's because you're the iron-fisted ruler of the student council and are willing to strike down both teacher and student for the good of the school, but you'd be wrong."
+
+}
+[sha:132739bde5772a6e3d321dfbfb57fce5fc1e7524]{
+-- Page 24, Offset 221.
+-- 「……それ以外に、こんな呼びつけを受ける理由はないと思いますけど」
+"I can't imagine any other reason you'd call me."
+
+}
+[sha:806d0dc7d281c37a3edfdd047590b485ff638436]{
+-- Page 25, Offset 222.
+-- 信用ならない、と彼女は半眼で生徒会顧問を見据えた。
+  Her eyes did nothing to hide her disbelief as she glared at him.
+
+}
+[sha:342ddfaccb3b59294ad4cbb2a852218c56167999]{
+-- Page 25, Offset 223. Mods: @n.
+-- 十七才の少女にあるまじき迫力と、
+  Strength far beyond that of an ordinary seventeen-year-old girl...
+
+}
+[sha:f6938d3e1c853172171a9bd25c752897c5c58678]{
+-- Page 25, Offset 224. Glued.
+-- 十七才の少女らしい愛らしさ。
+  ...coupled with the youthful beauty of one.
+
+}
+[sha:5cdc1143e5650f92c8bb71011f83ed0b3a89b387]{
+-- Page 25, Offset 225.
+-- 奇跡的なバランスで両立する眼差しを、山城教諭は見惚れるように、穏やかな笑顔で受けとめる。
+  Mr. Yamasiro let slip a genuine smile, admiring the miraculous balance of qualities.
+
+}
+[sha:c218ebb67fcd75a0ae87ad81e17d42ed8a12d6a7]{
+-- Page 26, Offset 226.
+-- 「いや、責務だけでいいなら僕がやってるさ。この人選に関しちゃ教師や生徒会長といった役職も関係ないよ。
+"I mean, I'd handle this myself if it was just about pure obligation. But who gets this job has nothing to do with whether they're a teacher or on the student council.
+
+}
+[sha:a24ad526dfbab50823aa754f3b8c00404c2f7106]{
+-- Page 26, Offset 227.
+-- なんていうか、こんな頼みを<損得|そんとく>抜きで聞いてくれるのは君だけだと思ってね。適任ですから、と強く推薦したわけ」
+  I just felt that you were the only one who would entertain this kind of a request without needing to weigh all sides. That's why I insisted it be you."
+
+}
+[sha:912bc784573b97c75f3de4fe0de4ab2cba262ed7]{
+-- Page 26, Offset 228.
+-- 要は、“なんだかんだ言って底抜けに人がいいでしょ君”と言われているようなものだ。
+  In other words, he knew she wouldn't say no.
+
+}
+[sha:9aa0b45d1d3dc25ef9f9c2d457ca8edd33021de5]{
+-- Page 27, Offset 229.
+-- 「―――山城先生」
+"...Mr. Yamasiro."
+
+}
+[sha:7a0e5f349783b94c2797cae61c80f5c23188ec29]{
+-- Page 27, Offset 230.
+-- 「うわ怖っ。もう、<睨|にら>まない睨まない。言ったろ、僕にはともかく彼には笑顔でって。
+"Oh, dear. Would you stop glaring at me like that already? At least put on a smile for your new schoolmate.
+
+}
+[sha:5cec7322e45533c5e9397d3d641b2a1b557d7a6b]{
+-- Page 27, Offset 231.
+-- とまあ、納得してくれたなら、すぐに移動しよう。もうずいぶん待たせてしまっているからね。
+  Look, if you're agreeing to help, we should go see him. We've already kept him waiting long enough as it is.
+
+}
+[sha:c3e8288e1496ee8160935ce54b0240bc6fb7d772]{
+-- Page 27, Offset 232.
+-- それと、雨の中ご苦労さま。帰りはもちろん車で送るよ」
+  And because you braved the rain to get here, I'd be happy to give you a ride home."
+
+}
+[sha:6fb4481f515eac2e5f51063deecd4df98441a7c7]{
+-- Page 28, Offset 233.
+-- スマートに立ち上がる山城教諭。
+  Mr. Yamasiro stood up gracefully.
+
+}
+[sha:24265299a5f58bb9add34b160f7382e17c16b36b]{
+-- Page 28, Offset 234.
+-- それにけっこうです、とだけ返して、彼女は職員室を後にした。
+  "I'm good, thanks," she replied, before turning and walking out of the faculty room.
+
+}
+[sha:94f5998be77518f320c08c5726e9e7121b592532]{
+-- Page 29, Offset 235.
+-- 待ち続けること一時間。
+  He had been waiting for about an hour.
+
+}
+[sha:641536f030c273e98674a35722262031c172bf9d]{
+-- Page 29, Offset 236.
+-- いつのまにか、空模様は小雨になっていた。
+  While he did, the rain shower lightened into a drizzle.
+
+}
+[sha:81ae74de13e17bac2f7582e16989bc13cb1f4591]{
+-- Page 29, Offset 237.
+-- 彼はぼんやりと、雨だれの音を聴いている。
+  His mind wandered as he listened to the sound of the raindrops.
+
+}
+[sha:650468d76967e851fba2990d191944838c2f4535]{
+-- Page 30, Offset 238.
+-- 長方形の机が事務的に置かれただけの部屋。
+  The room was filled with neatly arranged rectangular tables.
+
+}
+[sha:ab12240d7292f9f42ebd7d733c8dd604137f691c]{
+-- Page 30, Offset 239.
+-- 人影は一つ。彼の他には誰もいない。
+  He was the only one there.
+
+}
+[sha:50a95214073d3177ade4c35e70dd55de2aaea924]{
+-- Page 30, Offset 240.
+-- この部屋に通され、座って待っているように言われてから、もうずいぶんと時間が経っている。
+  Quite some time had passed since he had been brought to this room and asked to wait.
+
+}
+[sha:5c2ea8257a31b575c83f4b2fe8da38428d7aa6d7]{
+-- Page 30, Offset 241.
+-- まっとうな学生なら不満や不安をクチにしてもいい頃だろうに、少年はそれこそ畑のカカシのように、じっと言いつけを守っていた。
+  Even the best behaved student might have grown dissatisfied or anxious with the situation by now, but the boy stuck to his spot like a scarecrow.
+
+}
+[sha:728dd816babbc3adb1a35917d434549b5b73bd5a]{
+-- Page 31, Offset 242.
+-- 体の<芯|しん>にまで届く寒さ。
+  He was chilled to the bone.
+
+}
+[sha:272c574c18c81c3a1d292a6f62fbb7c418d5abd2]{
+-- Page 31, Offset 243.
+-- 十一月の終わり、冬を迎え始めた午前の気温である。
+  It was the end of November, and the low temperature in the morning had marked the start of winter.
+
+}
+[sha:1338be5bfd21b1e162362db333d714b7175280d8]{
+-- Page 31, Offset 244.
+-- 室温は外より幾らかましな程度。
+  The room was not much warmer.
+
+}
+[sha:d75f28f4ca8a4514e315d07e4e84fdf613119b2d]{
+-- Page 31, Offset 245.
+-- ストーブをつけていいから、という教師の声を聞き逃したのか、このタイプのストーブはまだ見た事がなかったのか、暖房は入っていない。
+  The heater hadn't been turned on. Either he'd missed the teacher telling him to turn it on, or he'd never seen one in his life.
+
+}
+[sha:de217218543327e2c1ac3d97d31dc4e6d89e0f22]{
+-- Page 32, Offset 246.
+-- 彼は冷たくなってきた指先に軽く息をあてながら、ぼんやりと周囲を観察する。
+  He breathed lightly on his freezing fingers as he aimlessly surveyed his surroundings.
+
+}
+[sha:5488991b0213807dcc01d4f9e2f71e29effcbb26]{
+-- Page 32, Offset 247.
+-- この殺風景な部屋は会議室と言うらしい。
+  This dreary place was apparently a meeting room.
+
+}
+[sha:b8e2675de2db9dc64c7eaba91feb7c38ab6995ed]{
+-- Page 32, Offset 248.
+-- 在校生から見れば<仰々|ぎょうぎょう>しい会議室だが、彼から見れば飾り気のない、広いだけの部屋だった。
+  The other students might have considered it a wonderful place to meet, but to him it was drab and overly spacious.
+
+}
+[sha:0042d83bd4229f3cd6640037c10117ee332770ae]{
+-- Page 33, Offset 249.
+-- 生活の匂いがしないため、つい、乾ききった<岩屋|いわや>などを連想してしまう。
+  It was a lifeless place that reminded him of an arid cave.
+
+}
+[sha:6d988179e5b8f892c420f13856e76a27e6502372]{
+-- Page 33, Offset 250.
+-- 彼はやる事もないので、こんな冷たい場所でどんな話し合いをするのだろう、と真剣に検討してみた。
+  Stuck in this cold room with absolutely nothing to do, his mind turned to what they wanted to discuss.
+
+}
+[sha:79a51295331c1cfdc8ecb11837d76df895d9d847]{
+-- Page 34, Offset 251. Mods: @n.
+-- 「…………………………
+"...
+
+}
+[sha:353507d6943334f85c45bfad00f232cbe7e8a666]{
+-- Page 34, Offset 252. Glued.
+-- 、むう」
+...Hrm."
+
+}
+[sha:e1a031483cc2f63147e5193aca4c0eeee6ecd593]{
+-- Page 34, Offset 253.
+-- どう考えても答えはでそうにないので、<雨音|あまおと>に意識を戻す。
+  Unable to come up with a solid answer, he returned his attention to the sound of the rain.
+
+}
+[sha:6fe06e7df1c294d8c3c06ddbc8f6e24463c07414]{
+-- Page 34, Offset 254.
+-- 雨の空は、山のものと少しだけ似ている。
+  The rain hardly resembled the rain in the mountains.
+
+}
+[sha:bd9620a63d3f99c5050fbb30b109ca76d2a052e9]{
+-- Page 34, Offset 255.
+-- いや、かろうじて原形を留めている。
+  Though, he could still recognize it, barely.
+
+}
+[sha:db495cf4e09d16a8bda55cd24ce6ddbf086df141]{
+-- Page 34, Offset 256.
+-- 匂いも音も<硬|かた>くなっているが、根底は同じモノだ。
+  Its smell and sound were harsher. But at the end of the day, rain was still rain.
+
+}
+[sha:028f50c87e99882d8f0c31657a9e780389a3ce76]{
+-- Page 34, Offset 257.
+-- こんな異界にあっても山と共通する物がある―――
+  So even this world, alien as it was, could have something in common with the mountains...
+
+}
+[sha:c051d079949899b4ccd758220e65f50a6f909863]{
+-- Page 34, Offset 258.
+-- そんな<些細|ささい>な事がしんみりと嬉しい。
+  That trivial detail perked him up a little.
+
+}
+[sha:e93b1cb634a2d54579d008bb64fcc115868ee0bd]{
+-- Page 35, Offset 259.
+-- 雨に濡れた町は好きだ。
+  He liked how the town looked soaked in rain.
+
+}
+[sha:70e1b83d88c91e59953f8f1a60a03b3301b3065e]{
+-- Page 35, Offset 260.
+-- よく晴れた晴天の方が心地よいのは当然だが、そういう気持ち良さとは別の視点で、彼は雨空を好いている。
+  Naturally, he preferred sunny weather, but he liked rain in its own way.
+
+}
+[sha:bd29e530bc3905af1b3ff0233cbb1d622d4d7df0]{
+-- Page 35, Offset 261.
+-- 雨に<煙|けぶ>った町並みは少しだけ土の匂いが増して、未練がましくも故郷を<想|おも>ってしまう。
+  The fog from the rain had soaked up the scent of the soil, and it reminded him of home.
+
+}
+[sha:145b536626d6f93ca2501075246c8b1ec6830b64]{
+-- Page 35, Offset 262.
+-- そんな時だけ、都会にやってきた不安も少しは薄れていく気がするからだ。
+  It was at times like these that he was able to numb the anxiety the city gave him.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 36, Offset 263.
+-- 「――――――」
+"..."
+
+}
+[sha:199f7c1b961f3c754ffefa83685e7defc30ddd04]{
+-- Page 36, Offset 264.
+-- ……と、すぐに<落胆|らくたん>の息がこぼれた。
+  ...But then he let out a discouraged sigh.
+
+}
+[sha:33685766434fe7dcebeb02e8dde3809139d173b8]{
+-- Page 36, Offset 265.
+-- まったく情けない。
+  How pathetic.
+
+}
+[sha:41cdab50e86f49f5b74fc1f190cc0d7dbc379d0b]{
+-- Page 36, Offset 266. Glued. Mods: @x.
+-- 引っ越して二週間も経つのに、気を抜くと故郷を<偲|しの>ぶ未練がましさに肩を落とす。
+He'd already been here two weeks and thoughts of his hometown still made him sad.
+
+}
+[sha:fb847481400d07b6c1d3de986d1989a5df984feb]{
+-- Page 36, Offset 267.
+-- これではせっかくの新生活に申し訳がないではないか、と彼はひとり気合いを入れ直して、行儀良く待ち続けることにした。
+  Perhaps feeling that he was being unfair to his new life, he composed himself and continued to wait patiently.
+
+}
+[sha:2a5b0ee2851609cbe8a907cd9f4ead3c66844265]{
+-- Page 37, Offset 268.
+-- ぼんやりと熱心に、雨の音に意識を向ける。
+  As if having a passion for distractions, his attention returned to the sound of the rain once more.
+
+}
+[sha:3ba358b84635c2270ca85a5faf43eeecf79b44b7]{
+-- Page 37, Offset 269.
+-- 彼にとって、この程度の待ちぼうけは苦でもないらしい。
+  Waiting like this didn't seem to be particularly hard for him.
+
+}
+[sha:ee4de9544e3081886ee6742421f80bbc5beb1d5b]{
+-- Page 38, Offset 270.
+-- 痺れるような寒さも、一時間の放置も、深呼吸と一緒にあっさり飲み下す平常心。
+  He quietly endured the numbing cold and the hour alone with calm, deep breaths.
+
+}
+[sha:fd96ea8f43331b189c487df3a0f7d190483594da]{
+-- Page 38, Offset 271.
+-- 岩の上にも三年とか、耐え続けた<赤穂浪士|あこうろうし>とか。
+  As the saying goes, "Good things come to those who wait."
+
+}
+[sha:a9a894059b0b3bf60be801544d41e6cfa29a6987]{
+-- Page 38, Offset 272.
+-- 長所かどうかはさておいて、呆れるほどの辛抱強さ。
+  A strong point of his or not, he was astonishingly patient.
+
+}
+[sha:520f6665d2fc082482af6ffd4dc2cb68c26b52c4]{
+-- Page 38, Offset 273.
+-- それが現時点における、この少年の特長だった。
+  It was certainly helping him out in this moment.
+
+}
+[sha:75c7d8cd0c80b6568431909732d78dfdfb78c91a]{
+-- Page 39, Offset 274.
+-- 一方、彼女はいたくご<立腹|りっぷく>だった。
+  She, on the other hand, was livid.
+
+}
+[sha:6a9b46a4088268781d6535fdac065afc99e8d119]{
+-- Page 39, Offset 275.
+-- 職員室から会議室に向かうまでの間、これから会う人物のプロフィールを聞いたからだ。
+  The profile of the transfer student had been explained to her on her way to the meeting room.
+
+}
+[sha:783e3c05ea66e39d0b10bd263ea683356cb809d2]{
+-- Page 39, Offset 276.
+-- なんでも、その人物は生まれてから今の今まで、電気も<通|かよ>っていない山奥で暮らしていたらしい。
+  She was told he had lived his whole life up in the mountains without any electricity.
+
+}
+[sha:8037e1362daebc167392e92506e72b26d90db31e]{
+-- Page 40, Offset 277.
+-- 電気がないという事は、現在の文明社会の半分以上を知らない事になる。
+  That meant more than half of civilized society would have been an utter mystery to him.
+
+}
+[sha:9352e695e558031c1eac66abd1048134893bbc84]{
+-- Page 40, Offset 278.
+-- 『なんて絶望的な断絶、戦後どころか戦前の話じゃない。
+(What a miserable level of isolation. How is this even possible in post-war Japan?
+
+}
+[sha:6950ea0a9ff8d4b0a2a84a21fc3ade5cfb4930f5]{
+-- Page 40, Offset 279.
+-- ロビンソンにも程がある……！』
+  He's like Robinson Crusoe!)
+
+}
+[sha:66ab594a63f3a8d4492350c9681ea0243c6c1ee4]{
+-- Page 40, Offset 280.
+-- 彼女のそんな<憤|いきどお>りもやむをえまい。
+  She had every right to be angry.
+
+}
+[sha:aa2c04a3f7704fac3537079ef948f9d397fc6768]{
+-- Page 41, Offset 281.
+-- なんでも、その山奥の村は長いこと集落として孤立していたらしい。
+  His village had apparently remained isolated in the mountains for many years.
+
+}
+[sha:190483b0eef3d5790ba20e67a06e3a859379fce5]{
+-- Page 41, Offset 282.
+-- <麓|ふもと>の村とですら月に一度の郵便で連絡をとるだけなんて、現代日本とは思えない。
+  Contact with villages in the foothills of the mountains only occurred once a month or so, which was unfathomable in modern Japan.
+
+}
+[sha:f2b8b7304aae4f4a592587d83ebd4175f655244b]{
+-- Page 41, Offset 283.
+-- が、しかし。今や高速道路やＪＲ……旧国鉄……といった動脈静脈が張り巡らされた我が国ではあるが、そういった山村は無いと言い切れないのも事実である。
+  Although expressways and Japan Rail-the old National Railways-now spanned the country like arteries, it wasn't entirely impossible for mountain villages like his to exist.
+
+}
+[sha:5c4e6291e725ce7e960b931941dfae6460d342b7]{
+-- Page 41, Offset 284.
+-- いま確かなコトは、そんな状況で暮らしてきた人間が何を考えて生きているか想像できない、というコトだけだ。
+  But she couldn't imagine how someone born to such circumstances would think or live.
+
+}
+[sha:68a758e3539a79c75665413f47cfbcd097c8c4d6]{
+-- Page 42, Offset 285.
+-- 「電気がないって……村に行き渡っていないだけで、公衆電話ぐらいはあったんですよね？」
+"When you say no electricity... you mean in general, right? Like, he must have had access to a public phone."
+
+}
+[sha:e348310f5b671456a5e601bfe3eb1b4292bc8bc6]{
+-- Page 42, Offset 286.
+-- 「なかったそうだよ。こっちに暮らすようになって、まず驚いたのが電話だそうだし。
+"Apparently not. He mentioned how shocked he was by the phones when he started living here.
+
+}
+[sha:e382ab92263804f6c67fa1fb0c1f1d3513f8d82d]{
+-- Page 42, Offset 287.
+-- 電話って便利ですね、なんて真顔で言われてねぇ。そういえばそうだなあ、と再確認させられたぐらいだよ」
+  I kid you not, he said, 'Wow, telephones are so useful.' Couldn't really deny that, could I?"
+
+}
+[sha:c9c29d6e896b4ce93b7e2ae35d14dd8dea07f8b3]{
+-- Page 43, Offset 288.
+-- あはは、と笑う教師を彼女は横目で睨む。
+  She shot a sidelong glare his way as he laughed.
+
+}
+[sha:6a780857a6034d044166fddeb9639fa1289d4369]{
+-- Page 43, Offset 289.
+-- 何が嬉しいのか、山城教諭は田舎の純朴な少年にあてられて<和|なご>んでいるらしい。
+  It seemed that the naivete of the country boy had cheered up Mr. Yamasiro a bit.
+
+}
+[sha:1253061567ee419f693fa2eb367cd77606535ec4]{
+-- Page 44, Offset 290.
+-- 「……<駐在|ちゅうざい>もいないって事か……うちも実家は山奥ですから、電気が通っていないのはあり得ないとは言いませんけど。
+"They probably didn't have police officers, either. My family home is up in the mountains, so it's not inconceivable they wouldn't have electricity.
+
+}
+[sha:3a7260177721aa894e69ba2c4930648191cb3fd3]{
+-- Page 44, Offset 291.
+-- ―――そいつ、学校<も|・>知らないんですか？」
+  But... he doesn't even know what school is?"
+
+}
+[sha:9d38f200656751f394a8e45fa552e4644d0f980b]{
+-- Page 45, Offset 292.
+-- 「うん。どんなものかは知っていたそうだけど、実際来るのは今日が初めてらしい。それで緊張していたのかな、あまり会話も<弾|はず>まなかった。
+"Nope. He'd heard of them, but this is apparently his first time visiting one. Maybe that's why he's nervous. He wasn't very talkative.
+
+}
+[sha:f2fd2887c0eae0f9b4f54231c19468a3879aba9c]{
+-- Page 45, Offset 293.
+-- うーん、ああいうのも野生児っていうのかな？　狼に育てられた狼少年、みたいな？　いや、探検隊の話だねぇ！」
+  He's almost-what would you call it-feral? Like a boy raised by wolves. I suppose that makes us Lewis and Clark?"
+
+}
+[sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
+-- Page 46, Offset 294.
+-- 「…………………」
+"..."
+
+}
+[sha:97f1ba3467fe9d8af388999e6319b4be3bac8309]{
+-- Page 46, Offset 295.
+-- 「ちょっ、怖いなあ蒼崎くん。冗談、冗談だって。そう睨まないでくれ。
+"Hey, you're scaring me, Aozaki. I was joking. Go easy, okay?
+
+}
+[sha:e70985bea2a30da5fe15f3b2f0f9719bc2435295]{
+-- Page 46, Offset 296.
+-- 大丈夫、話してみた感じ、おとなしい子だったから！
+  And don't worry. I got the feeling from talking to him that he's a nice kid!
+
+}
+[sha:a630c9adf8f611623455f5b401965fe5e772e2f5]{
+-- Page 46, Offset 297.
+-- なんていうか、言葉の通じない小動物みたいな感じ」
+  He was almost like, I don't know, a cute little animal that doesn't speak human!"
+
+}
+[sha:bec1f3394de9fa6a017c6dc21f8fc75d1d435b67]{
+-- Page 46, Offset 298.
+-- 「山城先生。その<喩|たと>え、気休めになってませんから」
+"Your jokes and metaphors aren't helping."
+
+}
+[sha:f8a5ecfd5fdf5251ebafd6a991ece1d31fa18f72]{
+-- Page 47, Offset 299.
+-- つっけんどんに返しつつ、彼女は電気のない生活とやらをシミュレートしようとし、ただでさえ不機嫌な顔をいっそう刺々しく曇らせた。
+  As she gave her blunt reply, she tried to simulate in her mind what life without electricity would be like, but the thought of it took her sour mood from bad to worse.
+
+}
+[sha:b183fe7d6a13cf00c65fe8e31f96905a73bc08a7]{
+-- Page 48, Offset 300.
+-- だって、それは彼女の知らない世界だ。
+  After all, it was a world she had never known.
+
+}
+[sha:7df53737152d2997355b09efdf3ca745baf664e3]{
+-- Page 48, Offset 301.
+-- 教師陣が両手を上げて降参したのも頷ける。
+  She could understand why the teachers had given up.
+
+}
+[sha:d917340593b14082d3ace9e438f8ba7b59bed761]{
+-- Page 48, Offset 302.
+-- 本当は彼女も降参して暖かなベッドに戻りたかったが、<一|いち><文|もん>にもならない自尊心が押しとどめていた。
+  She, too, wanted to give up and return to her warm bed, but her good-for-nothing pride was holding her hostage.
+
+}
+[sha:6624c2e9fa7775ed7a14d5b7e7342934737307e0]{
+-- Page 48, Offset 303.
+-- 出来ると見込まれ、自分も出来ると判断して引き受けた以上、経緯や内容はどうあれ、そう簡単に放り出すワケにはいかないのだ。
+  Not only did the teachers believe she was up to the task, but she also believed she could do it. It wasn't that easy to go back on her word-no matter how bad things looked after the fact.
+
+}
+[sha:987636f01a9b5a5150b23110d1c319214818ded7]{
+-- Page 49, Offset 304.
+-- <雨音|あまおと>を背に、冷めきった廊下を歩いていく。
+  She walked along the hallway, the rain pattering in the background.
+
+}
+[sha:e4a4b28a1bfb1d3c4cafa97f57f07a0cc965093c]{
+-- Page 49, Offset 305.
+-- 会議室はもう目前。
+  The meeting room was already in sight.
+
+}
+[sha:774348d79f3e95bd43fdc5dbbf508d6fa72b70c6]{
+-- Page 49, Offset 306.
+-- 眉間に<皺|しわ>をよせたまま、長い髪を揺らして、彼女はまだ見ぬ異邦人へと向かっていく。
+  With a furrowed brow, she fixed her long hair in anticipation of meeting the unknown stranger within.
+
+}
+[sha:113c35ef59f58393a26a7fa4111f95d696c4c8d6]{
+-- Page 49, Offset 307.
+-- 優雅な足取りのまま、戦場に突撃するかの如く。
+  Her elegant strides were like those of a confident general going into battle.
+
+}
+[sha:4d10b7fb074660ce564cc5ff70f686c41219aa56]{
+-- Page 50, Offset 308.
+-- 「……いや、蒼崎くん？
+"...Umm, Aozaki?
+
+}
+[sha:e1426eb23b4be8996a5bc380dfc5f80faeca6be5]{
+-- Page 50, Offset 309.
+-- 君を信頼してる僕だけど、念のため確認しておくよ。なんていうか、優しくね。できれば笑顔とか作れないかな？」
+  I believe in you and all, but I'll say it again. Be nice, okay? Can you at least try to smile?"
+
+}
+[sha:14bb0b1411c4b11c7ddaccf6935116c6e00425fb]{
+-- Page 50, Offset 310.
+-- 「作り笑いは苦手です。一応、努力しているつもりですが」
+"I'm bad at faking smiles. But I'll do my best."
+
+}
+[sha:5e8f1be691bbca47e655127b57715e4ff716920c]{
+-- Page 50, Offset 311.
+-- 「あ。そうなんだ、それは良かった。
+"Really? That's a relief...
+
+}
+[sha:abd8ef2ee8813c55a70a2d618267d3ba3019561a]{
+-- Page 50, Offset 312.
+-- ……いやあ、ほんと良かった。蒼崎くんにも苦手なものってあったんだねぇ……」
+  I really mean it. It's good to know you're not good at everything."
+
+}
+[sha:f26025e06dcf40885f96a153f89a0fec447d2635]{
+-- Page 51, Offset 313.
+-- 山城教諭が肩を落とすのと、<件|くだん>の会議室に到着したのは同時だった。
+  Mr. Yamasiro's shoulders slumped the second they reached the meeting room.
+
+}
+[sha:de87be4c74078abdce77aabac06b1efea9342f26]{
+-- Page 51, Offset 314.
+-- 山城教諭は“優しく、優しくね”と目配せし、会議室の扉に手をかける。
+  As he put his hand to the door, his eyes seemed to say to her, "Be nice, please."
+
+}
+[sha:b4db5808b740619e9beb56d79b530a16a0c4728b]{
+-- Page 51, Offset 315.
+-- そんな扱いに、彼女のイライラは増すばかりだ。
+  This only made her more irritated.
+
+}
+[sha:f559cdb0561e891b7cf072c2673708185ee4ae52]{
+-- Page 52, Offset 316.
+-- 『……分かってるわよ、愛想が悪いってのは。でも笑顔なんて意識して作るものじゃないんだし……
+(I already know I'm not the friendliest-looking person in the world, but I can't just make myself smile at the drop of a hat.
+
+}
+[sha:a111f9a8218433fc67e89408c94e2679107db631]{
+-- Page 52, Offset 317. Glued. Mods: @x.
+-- だいたい、そういうインスタントな人付き合いなら<鳶丸|とびまる>の方が向いてるっての』
+You should have asked Tobimaru if that's what you were after.)
+
+}
+[sha:d63da93af31732681587eb36ec492a722128e9c7]{
+-- Page 53, Offset 318.
+-- 彼女は自分の愛想の無さにため息をつくが、考えてみると、寝不足のまま休日の学校に呼び出されては笑顔も何もあったものではない。
+  She sighed about her social shortcomings, but then it occurred to her that being called into school on a day off while sleep-deprived wasn't anything to smile about anyway.
+
+}
+[sha:4dc15c7a443b94046eb7387fdca816b3153fcd8e]{
+-- Page 53, Offset 319.
+-- くわえて、その元凶は高校生より小学生から始めた方がよさそうな人物なのだ。
+  She also thought the person responsible for this mess would be better off attending elementary school.
+
+}
+[sha:91375c6fb7509bfc1ffd479cad2ba067324bd987]{
+-- Page 54, Offset 320.
+-- ……その人物に責任はないにせよ、彼女にだって、学校側の仕事を押しつけられる責任も義理もないのである。
+  It might not be his fault, but neither was it her duty or obligation to do the teachers' work for them.
+
+}
+[sha:e53b1933f5a4f7d08e5babf8db23df5e687a82ce]{
+-- Page 54, Offset 321.
+-- せめて、なんというか。
+  At the very least...
+
+}
+[sha:28a55a27ecb2bd7fc5e311f782f3c9900a16bed0]{
+-- Page 54, Offset 322.
+-- もうちょっと空気を読んで平日にやってきてくれたのなら、と愚痴の一つも言いたくなる。
+  They could have used their brains and organized all this on a normal school day-another complaint she wanted to voice later.
+
+}
+[sha:9a2632ebefece9c0257c45e26f8949236506ef5c]{
+-- Page 55, Offset 323.
+-- 『……いや。というか敵。何であろうと敵。
+(I hate him already. He's my sworn enemy and I haven't even met him.
+
+}
+[sha:367d6b1c6a304d25eced710416c22fbf35b12a31]{
+-- Page 55, Offset 324.
+-- 悪いけど<情状酌量|じょうじょうしゃくりょう>以前に敵……！
+  Sorry, but I couldn't care less about his extenuating circumstances!
+
+}
+[sha:7ee9c6c408a6c3509d659f42a93a460167ba52ed]{
+-- Page 55, Offset 325.
+-- 間が悪いのはお互い様っていうか、ほんと、なんでよりにもよってこんな忙しい時に―――』
+  You think this isn't awkward for me, too? Honestly, why did this have to happen when I'm so busy!?)
+
+}
+[sha:e328c25e5026bb582bf75a3de7f2d230111cde82]{
+-- Page 56, Offset 326.
+-- 寝不足でキリキリ痛む頭が、彼女の攻撃性を一割増しにする。
+  Her pounding headache from a lack of sleep had boosted her aggression by ten percent.
+
+}
+[sha:f11d31dad6f6465a778f20f726745a6f4dd4b7b8]{
+-- Page 56, Offset 327.
+-- この扉の向こうにいる人物がどれだけ無害であれ、我が眠りを妨げたモノはみんな敵。
+  No matter how harmless the guy on the other side of the door may be, anyone who disturbed her sleep was the enemy.
+
+}
+[sha:7f64b08405437f3a8f6e38907f1491278a8f82d2]{
+-- Page 56, Offset 328.
+-- そんな彼女のイライラが頂点に達しかけたタイミングで、山城教諭は会議室の扉を開けた。
+  And just as she was reaching peak annoyance, Mr. Yamasiro opened the door to the meeting room.
+
+}
+[sha:3db305d9689a4cd6d7c825adb8f9c76cf34da50a]{
+-- Page 57, Offset 329.
+-- ……ゆっくりと横に開いていく風景。
+  The room slowly slid into view.
+
+}
+[sha:7dbdce92ea2bfa56a1ccfb682aa13e485c8fd701]{
+-- Page 57, Offset 330.
+-- <情緒|じょうちょ>なんてお構いなし。
+  She didn't care for formalities,
+
+}
+[sha:97aacdc65a1ded9e3ac9f752c25286a47d885b83]{
+-- Page 57, Offset 331.
+-- まっすぐな視線のまま、彼女は会議室に<突撃|しんこう>し―――
+  just looked straight ahead and stormed into the room.
+
+}
+[sha:ae63a939de339b56fa27b382410d6fee03c33c1e]{
+-- Page 57, Offset 332.
+-- その、一風変わった敵と対面した。
+  And found herself face to face with a most unusual opponent.
+
+}
+[sha:4cff7d00f0d4526702a2e35d2fe70aeec5160de8]{
+-- Page 58, Offset 333.
+-- カメラは再び一方に。
+  Before we go on, let's see from another perspective.
+
+}
+[sha:a6765d1f20a156f317579a135216b292ae386c57]{
+-- Page 58, Offset 334.
+-- 時間は、少しだけ巻き戻る。
+  Turning back the clock just a little...
+
+}
+[sha:b220575fd0591ed4f5a9d94d2013d8ec62b11d79]{
+-- Page 59, Offset 335.
+-- 『何をしなくともいい』という指令は、
+"You don't have to do anything."
+
+}
+[sha:08143f583a2f442e4797fc0d2a4634157a471737]{
+-- Page 59, Offset 336.
+-- ある種の人間にとってはかけがえのない贅沢であり、
+  For some, these words are a priceless luxury.
+
+}
+[sha:5982552d978b7db814d8a161e073b962636cfed1]{
+-- Page 59, Offset 337.
+-- ある種の人間にとっては耐えがたい責め苦である。
+  For others, they are unbearable torture.
+
+}
+[sha:5ce977edbe2f907592dbcb4489c9f52120af8f51]{
+-- Page 60, Offset 338.
+-- 能動的な彼女にすれば<羨|うらや>ましい反面、怪しすぎて受け取れない高級品。
+  For the proactive girl, it was definitely the former, though she'd be too suspicious of the motives of anyone giving her such a gift to accept it.
+
+}
+[sha:bc29fd24a1fa3d3968b79ab5308487a52ad9b54c]{
+-- Page 60, Offset 339.
+-- 受動的な彼にすれば親しめる反面、郷愁を起こす<苦|にが>い棘……の筈なのだが、目下、絶賛待たされっぱなしの顔にこれといった不満は見られない。
+  For the passive boy, it was definitely the latter. A bitter thorn that made him homesick, though at this very moment his mind was still distracted with the wait for his face to reveal any discontent.
+
+}
+[sha:e568b7c051a61c39aa62a984c28d86cfa5a1fb61]{
+-- Page 61, Offset 340.
+-- 彼は自然に、姿勢を正したまま灰色の空模様を眺めている。
+  He maintained perfect posture as he stared at the gray sky.
+
+}
+[sha:070dcb63bdbf13433b785ca781763274f56d6f03]{
+-- Page 61, Offset 341.
+-- さらに待ち続けてはや一時間だが、まあ、先方さんにも都合があるのだろうし、何もお金を取られるワケでもなし。
+  He had already waited a whole hour, but figured they must have had their reasons for making him wait.
+
+}
+[sha:c9fb6994e2ff54b1ce7f426d02c7d852724229a1]{
+-- Page 61, Offset 342.
+-- 雨音さえあればいつまでも待ち続けられる、といった風。
+  And as long as he had the sound of the rain to soothe him, he could keep on waiting.
+
+}
+[sha:3fbb1356e1f8d98af24b968b2a7b296e0de899c7]{
+-- Page 62, Offset 343. Mods: @n.
+-- 『でも、そろそろ九時を過ぎるのか……
+(It must be nine o' clock already.
+
+}
+[sha:207148f17e8fabbd222604a9515d6755a70e39e9]{
+-- Page 62, Offset 344. Glued.
+-- うん、どうなんだろう』
+  Yeah, that seems about right.)
+
+}
+[sha:3749c7d066f51f58b006d9a20a012fe37cec2057]{
+-- Page 62, Offset 345.
+-- それでも漠然と、いちおう時計を気にしながら、ぼんやりと雨音を聴く。
+  He had been vaguely keeping track of the time as he listened to the rain.
+
+}
+[sha:cf8191e530d60a6650835e5586674b89cf966c29]{
+-- Page 63, Offset 346.
+-- 休日の校舎に<雑音|かいわ>はない。
+  Due to the holiday, the school building was completely silent,
+
+}
+[sha:669201b6cc12c8c72468a6b95fd8a77e1306c49c]{
+-- Page 63, Offset 347.
+-- ポツポツと窓を叩く雨。
+  except for the patter of the rain on the window.
+
+}
+[sha:c46c2e71fdadc5efa50b07bf41c5cb0538aeb6d1]{
+-- Page 63, Offset 348.
+-- しん……と沈みこむ空気の<軋|きし>み。
+  The mood felt as damp as the air.
+
+}
+[sha:a750020776aba4d0dc2f5be580e8719b7403d670]{
+-- Page 63, Offset 349.
+-- それと、
+  And...
+
+}
+[sha:f29628342cdb2c08ce50db3d7bc1304b9a6b517d]{
+-- Page 63, Offset 350.
+-- カツカツとまっすぐに、<力|ちから>強く響いてくる<靴|くつ>の音。
+  ...he heard the heavy clatter of footsteps approaching.
+
+}
+[sha:88f72e063e5ca1197b772e614f7e53ecb2538399]{
+-- Page 64, Offset 351.
+-- 『……良かった、忘れられているかと思った』
+(Finally. I thought they'd forgotten about me.)
+
+}
+[sha:aa195eca4aa07451e19b69ecbc02caa82d908269]{
+-- Page 64, Offset 352.
+-- 軽い足音と、それより重い大人の足音が聞こえる。
+  He could hear two sets of footsteps, one heavier set belonging to an adult.
+
+}
+[sha:3dea91e6d5e32523a5f2b5d0090b5dcf71e44722]{
+-- Page 64, Offset 353.
+-- 彼がほっと安堵の息をもらした時、会議室の扉がスライドした。
+  He breathed a sigh of relief as the door slid open.
+
+}
+[sha:fc9bb498a7ebe3d1bcfa462c090419d31ee57148]{
+-- Page 65, Offset 354.
+-- 「すまないね、ずいぶんとお待たせしちゃって」
+"So sorry to keep you waiting."
+
+}
+[sha:d9de5286aae1fedace126536114cfd4995c44a55]{
+-- Page 65, Offset 355.
+-- まず目に入ったのが、バツの悪そうな笑顔をした、眼鏡をかけた男性。
+  The first person he saw was a man wearing glasses and an awkward smile.
+
+}
+[sha:43326aa175e9357cb26e995b71c0da592f6477a9]{
+-- Page 65, Offset 356.
+-- たしか<山城和樹|やましろかずき>という先生で、ここに案内してくれたのも彼だった。
+That's Mr. Yamasiro, the one who brought me here.
+
+}
+[sha:f29c0efde7db6fb79b3db4177f23e6daeba5d21e]{
+-- Page 66, Offset 357.
+-- 「って、あれ？　<里中|さとなか>先生いないんですか？
+"Hey, where's Mr. Satonaka?
+
+}
+[sha:05a2cbd6b28900f592f523742192cedb9cb5a334]{
+-- Page 66, Offset 358.
+-- ……酷いなあ、話し相手になってあげてと言ったのに」
+  I told him to keep you company. He shouldn't have left you here."
+
+}
+[sha:c5c66a80ff22c09a9920bd6c8b43e463c069632e]{
+-- Page 66, Offset 359.
+-- 山城氏はますます申し訳なさそうに頭をかく。
+  Mr. Yamasiro scratched his head, looking increasingly apologetic.
+
+}
+[sha:2ffb5c00b88668d501e05c3035765b5025742963]{
+-- Page 66, Offset 360.
+-- その後ろから、
+  And then, from behind him...
+
+}
+[sha:9dfeea3990082a60e3044fb0a5b6589ebdf0eb69]{
+-- Page 67, Offset 361.
+-- 不機嫌そうに口を閉ざしたまま。
+  With a tight-lipped expression that made it clear she didn't want to be there,
+
+}
+[sha:0e204439780b9f74063b1eb6c8326cd15a984d62]{
+-- Page 67, Offset 362.
+-- 迷いのない眼差しで、長い黒髪の少女が現れた。
+  a dark-haired girl with a determined look in her eyes appeared.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 68, Offset 363.
+-- 「――――――」
+"..."
+
+}
+[sha:17f8e88f387cc1c1599615c018078d9bb715dd66]{
+-- Page 68, Offset 364.
+-- 呆然と息を<呑|の>む。
+  Soujyuro gulped.
+
+}
+[sha:b09531b593cceac89c3e4b490dc9438e9622a786]{
+-- Page 68, Offset 365.
+-- 窓を打つ雨音が<聴覚|せかい>から消失する。
+  The sound of the rain on the window faded into nothingness.
+
+}
+[sha:569661c1140620daadfecbc38acc51f9912ce974]{
+-- Page 68, Offset 366.
+-- ……この時。
+  That's when he knew...
+
+}
+[sha:0baffb0be2f308e229df82f65ac683a82f69f105]{
+-- Page 68, Offset 367.
+-- 錯覚ではあれ、時間の経過を感じなくなる事は本当にあるのだと、彼ははじめて思い知った。
+  This was how it felt when time stood still.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 69, Offset 368.
+-- 「………………」
+"..."
+
+}
+[sha:7344220489509971234f71a65ca497175f4c75f6]{
+-- Page 69, Offset 369.
+-- 彼女はほんの少し、驚くように<瞬|またた>いた。
+  She blinked quickly a few times as if taken aback.
+
+}
+[sha:ffce97b8b9295be3a1ee8a54e5afe8994a143e95]{
+-- Page 69, Offset 370.
+-- 理由は不明。
+  Why was anyone's guess.
+
+}
+[sha:4e77425e512b54a4083b9e482cf44e29a6de8653]{
+-- Page 69, Offset 371.
+-- 先だって聞いていた通り、少年は純朴な田舎のイメージそのものだったのに、直感的に“納得いかない”と反発して。
+  The boy was everything she expected a naive country boy to look like. However, she felt something she couldn't understand.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 70, Offset 372.
+-- 「――――――」
+"..."
+
+}
+[sha:d9f7fcf89e1a58c28321ac5e3d781501997ef809]{
+-- Page 70, Offset 373.
+-- 彼はほんの少し、驚くように目を開いた。
+  His eyes widened slightly as if taken aback.
+
+}
+[sha:d911da02dc286d6fd3f7601b6a861416004389be]{
+-- Page 70, Offset 374.
+-- 理由は明白。
+  The reason was obvious.
+
+}
+[sha:d0db8b97a50c7ca1699d661f5d4bf479091c198d]{
+-- Page 70, Offset 375.
+-- ……ただ、それを正しくカタチにできる言葉を知らなかったので、結局こちらも解答欄は空白のまま。
+  Putting his feeling into words was a different matter altogether. So we will never know exactly what he experienced in that moment.
+
+}
+[sha:59f4d95c78ee9a8361181caf59ac8be21740eb49]{
+-- Page 71, Offset 376.
+-- この瞬間。
+  And in that instant...
+
+}
+[sha:03d997272d71299361a50533ee36e199a3a299c3]{
+-- Page 71, Offset 377.
+-- 少年はたしかに、何か運命じみたものに触れた気がした。
+  He sensed he'd been touched by the hands of destiny.
+
+}
+[sha:69c8b77f1ee9b7d851b24e67024146dc1179dec6]{
+-- Page 72, Offset 378.
+-- 「紹介するよ。彼が転入生の<静希|しずき><草十郎|そうじゅうろう>くん。
+"Allow me to introduce the two of you. This is the transfer student I mentioned, Soujyuro Sizuki.
+
+}
+[sha:98b2fb7c1dc2f64495a2a0b56eab83aa53550cd5]{
+-- Page 72, Offset 379.
+-- で、こっちの彼女が静希くんの案内役。
+  And this is the girl that will be showing you around.
+
+}
+[sha:3658475d83e86b927f28fb7efa2a4abeab1a2527]{
+-- Page 72, Offset 380.
+-- うちの生徒会長で、休日を押して新しい仲間の案内役を買って出てくれた、<蒼崎|あおざき><青子|あおこ>くんだ」
+  She's our student council president and came in on her day off just to welcome you. Her name is Aoko Aozaki."
+
+}
+[sha:e27394f1934ab93c0dc4a357dd7959c3726e77f0]{
+-- Page 73, Offset 381.
+-- ―――声も雨音も<仄|ほの>かに遠く。
+  His voice and the sound of the rain seemed distant.
+
+}
+[sha:0ab6ad8336573a40a60bcf53bec33f1c10bade19]{
+-- Page 73, Offset 382.
+-- 二人の出会いはこんな感じ。
+  This is how they first met.
+
+}
+[sha:26a4bae81673d79419295ead72c6ac68d58c94e8]{
+-- Page 73, Offset 383.
+-- 良きにしろ<悪|わる>きにしろ、バチッと火花が散るような、そんな、どうでもいい始まりだった。
+  Such was their start, for better or worse. Like the ephemeral beauty of fireworks.
+
+}
+[sha:fc062dfdd52d8ff25d50382ac39c88e284b590f8]{
+-- Page 74, Offset 384.
+-- 生徒たちの通説によると。
+  It was commonly believed among the students...
+
+}
+[sha:32346bb291f71b3a56341c749f94031ce2c14acb]{
+-- Page 74, Offset 385.
+-- 蒼崎青子は、いつもご機嫌ななめである。
+  ...that Aoko was always in a foul mood.
+
+}
+[sha:9628e32fecde5ba11d16e23b4ed10cd704dc3bb9]{
+-- Page 75, Offset 386.
+-- これは九割がた偏見で、青子だって、そんな四六時中イライラできるほど暇ではない。
+  But this gossip was ninety percent prejudice, as Aoko simply didn't have time to be irritated twenty-four seven.
+
+}
+[sha:b0a599ee1dc1e3967849fe674b5c67509960d855]{
+-- Page 75, Offset 387.
+-- 彼女は単に言い訳をしたがらない性格なだけで、
+  The reality was she simply didn't want to explain herself all the time
+
+}
+[sha:ac5a823cd840234fe6cc8d71b58073388650ebd1]{
+-- Page 75, Offset 388.
+-- たえず微妙に、ときに露骨に、見えない何かに対して怒っているように見えるだけなのだ。
+  and therefore seemed angry about something, obvious or not.
+
+}
+[sha:9281d955e92e607b0885c8dc979f26357200464d]{
+-- Page 75, Offset 389.
+-- なので九割がたは偏見の、噂に尾ひれのついた学園七脅威の一つにすぎない。
+  This idle gossip did, however, lead to her earning the title of one the school's Seven Deadly Threats.
+
+}
+[sha:4f41e65113f123dac93e04deb1379707decfa5c7]{
+-- Page 76, Offset 390.
+-- ただし、残りの一割は真実だ。
+  The remaining ten percent of the gossip was right on the mark.
+
+}
+[sha:88b08b835d2915d31dcc3c552481472c78d32283]{
+-- Page 76, Offset 391.
+-- 青子自身、自分が慢性的な頭痛持ちなんじゃないかと疑うほど、無害なものに反感を覚える事があったりする。
+  Aoko herself often had the feeling that her tendency to feel animosity toward harmless things was akin to what a chronic headache sufferer might experience.
+
+}
+[sha:48e1d3c574768a967407979b76d27c6f379ffbfe]{
+-- Page 76, Offset 392.
+-- 今日はその一割の話。
+  Today fell under that ten percent.
+
+}
+[sha:c64764c48721ee3c71395242df863fd6b38168ed]{
+-- Page 76, Offset 393.
+-- そういう時にかぎって彼女の怒りは純真な、
+  For today her anger was pure,
+
+}
+[sha:381f061eabf1e75a9b0350034edffead6cdecbad]{
+-- Page 76, Offset 394.
+-- 年相応に子供らしいわがままだったりするのだが。
+  and her childish and selfish display was befitting of her actual age.
+
+}
+[sha:c6328892d8d7294b658e15a59f3e2b031e277f8d]{
+-- Page 77, Offset 395.
+-- 会議室は薄暗い、雨の色に染まっていた。
+  The meeting room was dimly lit, awash in the colors of the rain.
+
+}
+[sha:7a6f599297d9f419ad35ce9283a30536dfade392]{
+-- Page 77, Offset 396.
+-- 電気代節約のため、昼間は電灯をつけないのが学校のルールだ。
+  To reduce electricity costs, school regulations forbid the use of lights during the day.
+
+}
+[sha:943b707b711c472fb05f78bbc1178796d89bd88b]{
+-- Page 77, Offset 397.
+-- そんな中に、<件|くだん>の人物は立っていた。
+  This was the setting the three of them found themselves in.
+
+}
+[sha:2b4a013c68c307c8bbf0f5d78a41a604b7496cba]{
+-- Page 78, Offset 398.
+-- 第一印象は、野花を連想させる落ち着き様。
+  Her first impression was that his calm demeanor reminded her of a field of wildflowers.
+
+}
+[sha:c81f73687808f0ca161c87b0970339fc973c5901]{
+-- Page 78, Offset 399.
+-- すっと伸びた背筋のクセに、全体的に力が抜けていて、とにかくおとなしい。
+  In spite of his perfect posture, he seemed subdued and frail.
+
+}
+[sha:a866f3aeb84fa142992b6521eb21f11928989cb8]{
+-- Page 78, Offset 400.
+-- ひょろり、とはいかないまでも、ひっそり、ぐらいの<頼|たよ>りなさ。
+  And though describing him as meek would be going too far, at the very least he was passive.
+
+}
+[sha:f117184fc0e08e95ef917acfb05e241a9a2a6ebd]{
+-- Page 79, Offset 401.
+-- 制服の上からでも分かる、標準よりやや細い体つき。
+  Even through his uniform, she could see that he was thinner than average.
+
+}
+[sha:af2812ff25d5d704ed358d4f0ac27b71ecd9ed33]{
+-- Page 79, Offset 402.
+-- あまり手入れをされていない黒髪と、とくに目を引く部分のない少年像が、そこにはあった。
+  His dark hair was unkempt, and he came across as a wholly forgettable boy.
+
+}
+[sha:e05ad66ea88d0af8d583ef538b8ff8f203bb05ad]{
+-- Page 79, Offset 403.
+-- いや。その<凡庸|ぼんよう>さを好意的に解釈するなら、少年ではなく青年っぽいというべきだろう。
+  If she had to look at him in a more positive light, she would describe him more a young man than a boy.
+
+}
+[sha:7172d700df104799a139fec878fa9e23f8f32c15]{
+-- Page 79, Offset 404.
+-- 落ち着いた雰囲気がどことなく大人びている。
+  It was his calm demeanor that made him seem more mature.
+
+}
+[sha:375442310c2792abd71335e8abf3f3b62dd84598]{
+-- Page 80, Offset 405.
+-- ……そのあたりが青子の“理由なき反感”に繋がったのか。
+  Was that the cause of Aoko's reasonless reaction?
+
+}
+[sha:26487433c27fb023e159e7e3ffe3050374bcca57]{
+-- Page 80, Offset 406.
+-- 少年はあまりに自然で、違和感なく会議室の風景に溶けこんでいた。学校では彼の方が異分子なのに、自分たちの方が客人になったような錯覚。
+  He seemed almost too at home in the meeting room, and she was left with the impression that it was her and the teacher, not this outsider, who were the guests here.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 81, Offset 407.
+-- 「――――――」
+"..."
+
+}
+[sha:34a1d14c1e8d62d40b8092f5aafa3f19f156eeb0]{
+-- Page 81, Offset 408.
+-- まるで、自分たちが持って生まれた正当性を<糾|ただ>されたような、正体不明の苛立ち。
+  She felt an unidentifiable aggravation building within her, almost as if her right to be here was in question.
+
+}
+[sha:ed87963afd921f2b836c1845112d76b614d56a16]{
+-- Page 81, Offset 409.
+-- カチン、と警戒心にスイッチが入るのを青子は感じた。
+  Aoko felt herself raising her natural defenses.
+
+}
+[sha:cdd28b73c0d26f320ea92be2cc9e60a2f8e6bf11]{
+-- Page 82, Offset 410.
+-- 『―――信じられない。
+(...What's with me?
+
+}
+[sha:ff9e749374e5643b55da945c875624465f24cba2]{
+-- Page 82, Offset 411.
+-- 私、いま<意|ワ><味|ケ>もなく怒ってない……？』
+  Am I really this angry for no reason?)
+
+}
+[sha:7e43ed9b3bb6a1ad5d0759fd7f1107eef845ef13]{
+-- Page 83, Offset 412.
+-- 分からない事は苛立たしい。自分の<感|コ><情|ト>なら尚更だ。
+  She hated not understanding things, her own emotions, in particular.
+
+}
+[sha:edbd02c5c1bc7b688854741d0c205a0e031e808f]{
+-- Page 83, Offset 413.
+-- 完璧主義者である彼女にとって、それは痛くはないけど気がかりなトゲのようなもので、
+  It pained her less than you would imagine for a perfectionist like her, but it still nagged her like a thorn in her side.
+
+}
+[sha:e0b2c471e8b920485f3457d4ba4b6c8cce1ce74e]{
+-- Page 83, Offset 414.
+-- 「いやぁ、ははは。ほら蒼崎くん、挨拶してあげなくちゃ」
+"Uh, hahaha. Aozaki, why don't you introduce yourself?"
+
+}
+[sha:f1f4e036f069c34e9a0a1c19c76d9503fdf339ea]{
+-- Page 83, Offset 415.
+-- 山城の場を取り<繕|つくろ>う声にも、わりと本気でイラっとした。
+  Mr. Yamasiro's attempt to relieve the tension was equally irritating.
+
+}
+[sha:3c6aa62476dd5f8f4a6ce5e32b7865e38d91da2c]{
+-- Page 84, Offset 416.
+-- 「―――挨拶？」
+"...Introduce myself, huh."
+
+}
+[sha:37a79e8b791f24b70ce33ba4b71eac15be09a94b]{
+-- Page 84, Offset 417.
+-- じろりと山城を横目で睨んでから、青子はまっすぐに少年を見据えた。
+  After casting a nasty glance in the teacher's direction, Aoko turned to face the boy.
+
+}
+[sha:08a6aeabae9970749ea72988720de14e542ed0dd]{
+-- Page 84, Offset 418.
+-- いや、第三者的に見れば、正面から睨みつけた。
+  From an outsider's perspective, it might have looked like a staredown.
+
+}
+[sha:59f4d95c78ee9a8361181caf59ac8be21740eb49]{
+-- Page 84, Offset 419.
+-- この瞬間。
+  And in that instant...
+
+}
+[sha:21c3af81c7c9e8519859c209b102f240f4dfbad9]{
+-- Page 84, Offset 420.
+-- 災難なことに、彼女の感情の矛先はぴったりと、なんの罪もない初対面の少年に向けられたのである。
+  The culmination of her emotional state hurtled toward the innocent boy, and skewered him.
+
+}
+[sha:72b25e02d025f7ad4073a3d1954ec4d17dc32975]{
+-- Page 85, Offset 421.
+-- 「いや、待たせたね静希くん」
+"Again, sorry for the wait, Sizuki."
+
+}
+[sha:e8aca9f94d81a3146d5781c4685134d2c29beef3]{
+-- Page 85, Offset 422.
+-- 名前を呼ばれて少年……草十郎は我に返った。
+  Hearing his name, Soujyuro came to his senses.
+
+}
+[sha:4f533641d7d52d6f86e5bdd5c85cf8f15fe9651a]{
+-- Page 85, Offset 423.
+-- 見惚れていた目をゆるめて、
+  His stunned gaze shook loose.
+
+}
+[sha:2ad985a5661cf7ef1f8a26f7cd0cf61dfac2a7cc]{
+-- Page 85, Offset 424.
+-- 目眩を飲みこむように息を吸う。
+  He took a deep breath to clear his head.
+
+}
+[sha:cf64a247153a288b8083d3ceab6459c2ac1741c5]{
+-- Page 85, Offset 425.
+-- その仕草から緊張していると見たのか、山城教諭は穏やかに笑って、かたわらの少女に語りかけた。
+  Chalking it up to nerves, Mr. Yamasiro broke out a smile and turned to the girl standing beside him.
+
+}
+[sha:511a8d2fc738c75a1a825e52aa11224a646c0b1d]{
+-- Page 86, Offset 426.
+-- 「紹介するよ。彼が転入生の静希草十郎くん。
+"I'll do the introductions then. This is the transfer student, Soujyuro Sizuki.
+
+}
+[sha:e98279d57d70cab7dc2dc88794bc5a27b48b4545]{
+-- Page 86, Offset 427.
+-- で、こっちの彼女が静希くんの案内役。うちの生徒会長で、休日を押して新しい仲間の案内役を買って出てくれた、蒼崎青子くんだ」
+  And this is our student council president who came in on her day off just to show you around. Her name is Aoko Aozaki."
+
+}
+[sha:cb4aaccf416f7cd9956b1e771a9bf99fad8a0ff3]{
+-- Page 87, Offset 428.
+-- 山城教諭に紹介され、少女は一歩前に出る。
+  Having been introduced by Mr. Yamasiro, the girl took a step forward.
+
+}
+[sha:69998050365976a7ecb3381e27341d10d8351f9b]{
+-- Page 87, Offset 429.
+-- 視線に容赦はない。
+  Her eyes were merciless.
+
+}
+[sha:2d613d14f79341ebd26e19c54bdc24a74ef472bb]{
+-- Page 87, Offset 430.
+-- ほとんど暴力に近い、<値|ね><踏|ぶ>みするような凝視。
+  Her stare, an unspoken threat to violently trample her opponent.
+
+}
+[sha:c68c7258b57fd2e6ea47d01635a202f4b2844010]{
+-- Page 88, Offset 431.
+-- <一方|いっぽう>草十郎は、正面から堂々と見つめられる事に驚きつつ、なんとか平静を保っていた。
+  Soujyuro, on the other hand, managed to keep his own composure despite the shock at how confrontational she appeared.
+
+}
+[sha:019d7c4c586693b18e0eb9f2d19245d1cff69dbe]{
+-- Page 88, Offset 432.
+-- これまでこういう挨拶には出会わなかったけれど、都会では珍しいものではないのだろう、と勘違いしての事である。
+  He had never been greeted quite like this before, but supposed, mistakenly, that this was how people treated each other in the city.
+
+}
+[sha:f925dfa7a4fe94689c9343aaa92f7becf49e9fc8]{
+-- Page 89, Offset 433.
+-- そんなふたりのやり取りは、第三者視点からすると壮絶なものがあった。
+  The exchange must have looked quite dramatic to an onlooker.
+
+}
+[sha:1e12aa661a6739a932d06569dc4eb9b70e76d907]{
+-- Page 89, Offset 434.
+-- とにかく因縁をつけたがっている乱暴者と、
+  A girl ready to brawl...
+
+}
+[sha:e48662d63b87bc974d5a2ee91a2c19eb2c8410bc]{
+-- Page 89, Offset 435.
+-- それを何事だろう、と真剣に眺めている田舎者。
+  An earnest country boy desperate to understand...
+
+}
+[sha:eec24723e66a467ddd972c2efb3d834d08da3891]{
+-- Page 89, Offset 436.
+-- 当事者たちはともかく、周りにいる人間にとっては蛇の生殺しに近い。
+  It was a murderous limbo, especially for anyone in the room with them.
+
+}
+[sha:f07aa0fbe72427fb06d58601d644e8db6d263f0b]{
+-- Page 90, Offset 437.
+-- たとえば、青子の後ろにいる山城教諭とか。
+  Like Mr. Yamasiro, for example.
+
+}
+[sha:e2e45be68728f9eb076f4af03918da7115b554c2]{
+-- Page 90, Offset 438.
+-- 良かれと思って案内役に優等生を選んでみたものの、なぜかその優等生はご機嫌ななめ。今もピリピリと空気を<震|ふる>わせている。
+  While he had thought he had made the right decision in choosing an honor student to help him out, she was in an inexplicably bad mood, and the tension in the air was undeniable.
+
+}
+[sha:2585d86ee8980f8d16bab3d9b570391f200841e2]{
+-- Page 91, Offset 439.
+-- ここに至って、山城は自らの失敗を受け入れた。
+  It was this moment that he realized his failure.
+
+}
+[sha:e311aae1afe510bf020f798f02e95077b18cbbe2]{
+-- Page 91, Offset 440.
+-- 今さらの話ではあるが、
+  His realization had come far too late.
+
+}
+[sha:277f1d710b0ea2d9538c833ccc0601a02ba46dd5]{
+-- Page 91, Offset 441.
+-- この、万事をそつなく解決する女子生徒は、扱いどころを間違えると一転して学校を<震|ふる>わす嵐になる。
+  One false move, and this girl, for whom no problem was too large, would becoming a storm that would rock the very foundations of the school.
+
+}
+[sha:51e5269f33d6ee0da8b63f0d4dd3ed298c6a54a0]{
+-- Page 91, Offset 442.
+-- オールマイティの絵柄が<悪魔|ジョーカー>みたいなもので、そんな時、現場に居合わせた教師はたいてい、<不祥事|ふしょうじ>の責任を取らされるのだ。
+  Just as the almighty joker card could bring either fortune or disaster, the sole teacher who had been present at the time would come to bear the blame for the scandal that ensued.
+
+}
+[sha:1849f6c099a4d989603c0abde848b6bcc5ee7646]{
+-- Page 92, Offset 443.
+-- 「あー、うん。いけてる、二人とも気は合うようだね！
+"Wow, you two really seem to have hit it off!
+
+}
+[sha:47058a58b08abc7862b7deb7324eb56270cc760a]{
+-- Page 92, Offset 444.
+-- ……それじゃ、僕はこのヘンでいいかな？」
+  ...I suppose I can leave you two to it, then?"
+
+}
+[sha:2e3d06a7122b5702db9677ea873daf0778b2219e]{
+-- Page 92, Offset 445.
+-- あはは、と白けた笑い声をあげながら、山城教諭はそろりそろりと扉に後じさった。
+  Mr. Yamasiro laughed nervously as he crept toward the door.
+
+}
+[sha:ecff7813aa4ef1821b32d64bf3bd11b34899a840]{
+-- Page 93, Offset 446.
+-- 「僕は職員室にいるから、終わったら来るように。
+"I'll be in the faculty room. Stop by when you're finished.
+
+}
+[sha:b81f66757dbf153fc2ba123d104a6b4012776d1d]{
+-- Page 93, Offset 447.
+-- いいかい蒼崎くん、くれぐれも、くれぐれもだぜ？
+  You'll be alright, won't you, Aozaki?
+
+}
+[sha:58f60c298ccd66117a3e471b3713b37c693d1578]{
+-- Page 93, Offset 448.
+-- なんていうか、生徒会長としての度量の広さを、このさい僕に信じさせてほしいかな！」
+  You're the student council president! Don't let me down!"
+
+}
+[sha:144e15f1023b9463cead25d0d939f7bd64d5f100]{
+-- Page 94, Offset 449.
+-- 見つめあう……正確に言うと、一方は睨まれている…ふたりをそれきりにして、山城教諭は去っていった。
+  Mr. Yamasiro left, leaving the two in a locked-eyed state, one in which one set of eyes was doing all the glaring.
+
+}
+[sha:f02e1fdaf02b2e9b2600b069d668483cdbd701bf]{
+-- Page 94, Offset 450.
+-- 残されたのは<木訥|ぼくとつ>さの化身みたいな少年と、
+  All that remained in the room was a naive boy
+
+}
+[sha:d6c02c577f6ba3aae68a95e74290cd1aa107d20f]{
+-- Page 94, Offset 451.
+-- ずーんと腕組みをしている少女だけ。
+  and a cross-armed guarded girl.
+
+}
+[sha:daf59b0cb5f8fdd509e89b96a04d5864d58ae9c2]{
+-- Page 95, Offset 452.
+-- しばしの沈黙。
+  The two lingered in silence.
+
+}
+[sha:874ef434142af6c83e22ea464eaf62c9a34cbe42]{
+-- Page 95, Offset 453.
+-- お互い初手に悩んでいる将棋指しのようだが、その実、思案しているのは自分だけである事に青子は気付いた。
+  They resembled shogi players agonizing over their first moves, though ultimately, it was only Aoko that had considered the scene that carefully.
+
+}
+[sha:41a5be3b4e5877606e65a09951ed0a3000ae3578]{
+-- Page 96, Offset 454.
+-- とりあえず、<苛々|イライラ>するのは置いておいて。
+  She decided to put her irritation aside for the time being.
+
+}
+[sha:985d6ef770d43dc7c2334504d523e55e1b4936da]{
+-- Page 96, Offset 455.
+-- そもそも彼に反感を覚える理由はないんだから、と大きくため息をついて、青子は草十郎に向き直った。
+  With no reason to feel revulsion for him in the first place, she sighed deeply and faced Soujyuro.
+
+}
+[sha:61b1576c7af42125ea34a4f2041bdeffbd40c0e1]{
+-- Page 97, Offset 456.
+-- 「まあいいわ。山城先生が<昼行灯|ひるあんどん>なのは今に始まった事じゃないし。
+"Whatever. It's not like this is the first time that Mr. Yamasiro landed me in it.
+
+}
+[sha:d751f458211b0f27c51be924f30c2b996b205401]{
+-- Page 97, Offset 457. Glued. Mods: @x.
+-- ―――それで。あなた、名前は？」
+So... what's your name again?"
+
+}
+[sha:c725f68289f60bb234832afe97a38c549790d3f9]{
+-- Page 97, Offset 458.
+-- きつい口調は、自分から話しかけてこない少年を非難してのものだ。
+  Her tone was nothing if not reproachful, though he had done nothing to offend her.
+
+}
+[sha:d7ec93e2ff9c0a24ab7b7feae25c86e29fe6aa7f]{
+-- Page 97, Offset 459. Glued. Mods: @x.
+-- が、少年は声に含まれた嫌味に気が付かなかった。
+But the boy failed to pick up on it.
+
+}
+[sha:c3142fdd662e34340709c3e5d33016a1239fe75f]{
+-- Page 98, Offset 460.
+-- そういう毒っ気とは一生<縁|えん>のない顔で、
+  Incapable of such venom himself,
+
+}
+[sha:f2884621df5f283cd63d6d06758e7e1699df806b]{
+-- Page 98, Offset 461.
+-- 「ああ、静希草十郎かな。君は蒼崎さんだったね」
+"I'm Soujyuro Sizuki," he replied. "And you're... Miss Aozaki, right?"
+
+}
+[sha:bf85bda93a443fc728783931c0adecd08761aec8]{
+-- Page 98, Offset 462.
+-- なぜか嬉しげに、噛みしめるように応答した。
+  For whatever reason, he came across as happy in his response.
+
+}
+[sha:245a37b023ae6e9b94888f39bd38d96f4a02638c]{
+-- Page 99, Offset 463.
+-- 「さんはいいわ、<柄|ガラ>じゃないから。
+"Drop the 'Miss.' That's not my style.
+
+}
+[sha:511d9da8f630345c3a2c45f430801104a127cf2b]{
+-- Page 99, Offset 464.
+-- こっちは静希君でいい？」
+  Is Sizuki fine?"
+
+}
+[sha:c508324056e3ba55853058ab613ae4f377c5ac02]{
+-- Page 99, Offset 465.
+-- 「いいって、なにが？」
+"What do you mean?"
+
+}
+[sha:f3f4b425f28abb61dc9fd6ed60ac0e716247f29b]{
+-- Page 99, Offset 466.
+-- 「だから呼び方。<君|くん>付けでいいかって訊いてるの」
+"What do you mean, what do I mean?"
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 100, Offset 467.
+-- 「――――――」
+"..."
+
+}
+[sha:2dfa319e0c3458610563f2cbc578260bb865b166]{
+-- Page 100, Offset 468.
+-- 「……なによ。おかしなコト言った、私？」
+"Hello? Did I say something weird?"
+
+}
+[sha:df16e002597614ad954b4aa651f464a11799136c]{
+-- Page 100, Offset 469.
+-- 「いや、すごく」
+"Yeah, very-"
+
+}
+[sha:403f3f48f8b7ce9ad44e7683f1a0d44ace867a29]{
+-- Page 100, Offset 470.
+-- 少年は当たり前のように即答しながら、あれ、そうでもないのか、などとひとりこぼす。
+  The boy replied immediately as if it was a natural response, but quickly second guessed himself.
+
+}
+[sha:7043cd6953ffdcbb01a037bfedf4ecdeab54ff8f]{
+-- Page 101, Offset 471.
+-- 「いや、いいんだ、ごく一般的なんだろう。
+"Uh, never mind. That must be normal here.
+
+}
+[sha:db7f84a30fbc91aea8583d6ecb895d21de2e625d]{
+-- Page 101, Offset 472.
+-- 静希君で頼む。君は蒼崎でいいんだよな？」
+  You can call me Sizuki. You mind if I call you Aozaki?"
+
+}
+[sha:56d221f5dd78b437b5d3731b5958c04b4ec53433]{
+-- Page 101, Offset 473.
+-- 「ええ、よろしく」
+"Suit yourself."
+
+}
+[sha:2a4134d1431342bf1faec0d9b4b95958ae7e665f]{
+-- Page 101, Offset 474.
+-- 素っ気なく応えて<踵|きびす>を返す青子。
+  She followed her blunt reply with a swift turn away from him.
+
+}
+[sha:d2a6f53a34f943a0ae11066b65632d0346c2570c]{
+-- Page 101, Offset 475.
+-- 気は乗らないが、任されたからにはきちんと仕事をこなすのが彼女のポリシーである。
+  While she was hardly thrilled at the prospect of the task at hand, it had been entrusted to her, and it was her personal policy to see it through to the end.
+
+}
+[sha:9298b409173091b6755f9b2a0240b69a0091e0da]{
+-- Page 102, Offset 476.
+-- 「悪いけど、優しくしてあげる気はないから。
+"Sorry, but I'm not in the mood for pleasantries.
+
+}
+[sha:96114b32c3085278c1fb2cf9c8a2b64a15914986]{
+-- Page 102, Offset 477.
+-- 時間も惜しいし、手早くいくわよ」
+  Time is short, so let's get this over with."
+
+}
+[sha:9023532e6978daf6e3b904ece8fa83af5ec1a783]{
+-- Page 102, Offset 478.
+-- 「それは助かる。やっぱり時間は大切だ」
+"Sure. I know your time is valuable."
+
+}
+[sha:d1ec980f8ecf7c3aec84f9ee9e7adb93f5f16aa1]{
+-- Page 102, Offset 479.
+-- 青子の<直球|いやみ>は、またも効果なくスルーされた。
+  Aoko's blunt rancor was lost on him once again.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 103, Offset 480.
+-- 「――――――」
+"..."
+
+}
+[sha:37bb6525a6345a2e79a56d68de9a8783e9c182e7]{
+-- Page 103, Offset 481.
+-- どんな行為にしろ、無視をされると余計意識してしまうのが人間である。
+  Humans tend to be overly conscious about being ignored, whatever form that takes.
+
+}
+[sha:5cebd721e59df0ced721839d82017cd03a03ca25]{
+-- Page 103, Offset 482.
+-- さっきからことごとく攻撃が<空|から>ぶっている事にムッとしながらも、青子は<努|つと>めて事務的に廊下に出るよう<促|うなが>した。
+  But despite being peeved at landing none of her attacks, Aoko did her best to act professional and directed her guest into the hallway.
+
+}
+[sha:aa221931e6d3a46085e76c4a6084c21fa1dc8426]{
+-- Page 104, Offset 483.
+-- 窓のない通路には外からの日差しも、人の気配もない。
+  There was no sunlight in the hallway, nor any sign of life.
+
+}
+[sha:31748a25766c11e5520ed4c8ffe3dbdcc5c45076]{
+-- Page 104, Offset 484.
+-- 会議室が天然の岩屋なら、こちらは人工の監獄を思わせる。
+  This was more like a prison than the cave that was the meeting room.
+
+}
+[sha:463fb416b48dcbe65b03f0bf57c8778100211239]{
+-- Page 104, Offset 485.
+-- 実に今の気分にあった廊下だわ、と青子はまたもため息ひとつ。
+  As it dawned on Aoko that the hallway matched her mood, she sighed once again.
+
+}
+[sha:6728364ce88e4c105e59d8a8ed6cd8ddd5d6b95b]{
+-- Page 105, Offset 486.
+-- 「まず訊いておくけど、山城先生から聞いた事は理解してる？」
+"First things first. Did you understand everything Mr. Yamasiro explained to you?"
+
+}
+[sha:341934e66b937a66e8aea75647d823aed50d4bcc]{
+-- Page 105, Offset 487.
+-- 「ああ、学校の仕組みについては分かった。
+"Yes, I get how the school works.
+
+}
+[sha:3e7dbb794b1dd1b309531cf44349a7b856995171]{
+-- Page 105, Offset 488.
+-- この建物ぜんぶに<同|おな>い<年|どし>の人間がいるなんて、ちょっと想像できないけど」
+  But it's still a bit hard to imagine that everyone here is around the same age."
+
+}
+[sha:92e65f9617a2001233f51760ad1c04bb4f6acb19]{
+-- Page 106, Offset 489.
+-- 「……そ、良かったわね」
+"...I see. Great."
+
+}
+[sha:322d14943cadf08de6ae6f2ab0159b4cd4d9c3dc]{
+-- Page 106, Offset 490.
+-- 額を指で押さえる青子。
+  Aoko rubbed her forehead.
+
+}
+[sha:5f99363a9dbdec2700e3cfc2ea4c3c7e5a72b0ac]{
+-- Page 106, Offset 491.
+-- この草十郎という少年は学校のなんたるかも知らなかった。
+  This Soujyuro kid had no idea what he was in for.
+
+}
+[sha:4d87dbecf805fb7f15d4ecb0f3911e6a45fb7d8c]{
+-- Page 106, Offset 492. Glued. Mods: @x.
+-- ただ漠然と、大勢の人々で学習する場所、としか聞いていなかったらしい。
+Apparently, all he'd heard about school was that it was a place where a lot of people met to study.
+
+}
+[sha:24a42213f04d113675568e96a4c73768eb8366d7]{
+-- Page 107, Offset 493.
+-- 高校教師は様々な分野の知識や見識、<機構|きこう>と創造性を生徒に教授する。
+  High school teachers imparted to students their knowledge in various fields of study, while fostering discipline and creativity.
+
+}
+[sha:d868196afabfe8c3f7f7c843779a281dde4224ad]{
+-- Page 107, Offset 494.
+-- が、そもそも学校とは何か、と根本の理念を語る日がこようとは、夢にも思わなかっただろう。
+  But never did Aoko imagine that she would have to explain the concept of school itself to someone.
+
+}
+[sha:cccff164c20d9668f2329c02b4ce2fd31c475f99]{
+-- Page 107, Offset 495.
+-- 基本は大事というが、それにしても基本すぎる。
+  Yes, fundamentals were important. But this was absurd.
+
+}
+[sha:d0cd75aaeceb7bfa35366c6cb0c351d9841e6843]{
+-- Page 107, Offset 496.
+-- ……そんなんで高等学校の授業についてこられるのかと青子は疑問を抱いたが、山城教諭曰く、そこは何とかなっていたとのこと。
+  She had serious doubts whether he could even handle classes, but Mr. Yamasiro insisted that things would work out somehow.
+
+}
+[sha:2317287c033706400e0bddaff780bb4861a63941]{
+-- Page 107, Offset 497.
+-- 一応、転入試験はギリギリでパスしたらしい。
+  Soujyuro had managed to pass the transfer exam, after all. Barely.
+
+}
+[sha:c7b38dc326fd98197a720a548abde5bd90009e54]{
+-- Page 108, Offset 498.
+-- 『……ま、私には関係ないけど』
+(Not my problem.)
+
+}
+[sha:7ef005b47e88a799b0a97d09bf30983e14762a50]{
+-- Page 108, Offset 499.
+-- 内心で呟きながら廊下を歩く青子。
+  Aoko grumbled mentally as she walked down the hallway.
+
+}
+[sha:bec261de2194b0e8dd44bb88b6b6c8c7f756e622]{
+-- Page 108, Offset 500.
+-- なんであれ、この<時代錯誤|じだいさくご>な男子と付き合うのは今日だけなのだ、いや、今日だけにしたい、と自分に言い聞かせながら。
+  She consoled herself with the fact that today would be the only day she'd spend with this boy out of time... or at least, she'd try to keep it that way.
+
+}
+[sha:8420418fcd1b78dcbbf194b69d29cb123171b90a]{
+-- Page 109, Offset 501.
+-- 「蒼崎」
+"Aozaki..."
+
+}
+[sha:e4264d8d61278d31b417e1f53c5e340827ecbe9b]{
+-- Page 109, Offset 502.
+-- そんな青子に、少年は平然と話しかけた。
+  He asked, calmly trying to get her attention.
+
+}
+[sha:280509b9c16ebe56bab4b47df92e84b1165ee17e]{
+-- Page 110, Offset 503.
+-- 「なに？」
+"What?"
+
+}
+[sha:91bc7c45f59c78afa2350654949ab9ed38771f3b]{
+-- Page 110, Offset 504.
+-- 「こっちもひとつ訊いていいかな」
+"Can I ask you something?"
+
+}
+[sha:c035d61fb386795999edcbc144b060addedf4b12]{
+-- Page 110, Offset 505.
+-- 「だから、なに？」
+"Yeah, and?"
+
+}
+[sha:5a6e8e436c2b44ce9045575293234dd0b757831f]{
+-- Page 111, Offset 506.
+-- 「俺の気のせいだと思うんだが、君はまるで、何かを睨んでいるように見える。
+"I could be wrong about this, but you seem upset about something.
+
+}
+[sha:68391e25853251650973f1410d89b1d84de6215b]{
+-- Page 111, Offset 507.
+-- やはり、今朝は悪いものでも？」
+  You're not a morning person, are you?"
+
+}
+[sha:9f13bff65e12cf13786a5aaa5fd71a8503b902c5]{
+-- Page 111, Offset 508.
+-- 食べたのかい？　と本気で心配する眼差し。
+  His gaze revealed earnest concern, as if asking her if she'd remembered to eat breakfast.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 111, Offset 509.
+-- 「――――――」
+"..."
+
+}
+[sha:bd8652191159f692eadd72272f4768562894a585]{
+-- Page 112, Offset 510.
+-- ガン、と二度目のハンマーが青子の頭を叩いた。
+  It was like another hammer to her head.
+
+}
+[sha:42ff14be1e8c10e7bae62ccb927d3f922182f4f8]{
+-- Page 112, Offset 511.
+-- たしかに青子はさっきから草十郎を睨んでいる。
+  It was true that Aoko had been glaring at Soujyuro the entire time.
+
+}
+[sha:b76247321afd79393fc7b91c5b0c6d8c7db7c831]{
+-- Page 112, Offset 512.
+-- というかもう本気で睨んでいる。
+  Glaring red-hot daggers, in fact.
+
+}
+[sha:1d41f329f49a4b7c03dcc718ad38bc5c66d17b00]{
+-- Page 112, Offset 513.
+-- むしろあらゆるものを睨んでいる。
+  Not just at him, but the universe.
+
+}
+[sha:eaa448e18eeef83324c710ac833cb5d7ca82cf39]{
+-- Page 113, Offset 514.
+-- 平時でさえ同居人から、
+  Even on her best days, her roommate used to remark,
+
+}
+[sha:8391b660397e7a3ec8aefc5a34538dec80ca58f6]{
+-- Page 113, Offset 515.
+-- 『青子の視線は普通の人には厳しいわ。
+"Most people can't handle your scowl, Aoko.
+
+}
+[sha:8f8a2711e5aece04324370d23988bf88715f4236]{
+-- Page 113, Offset 516.
+-- もう少し、多くのことに寛大になるべきね』
+  It wouldn't hurt you to be a little more tolerant."
+
+}
+[sha:1fa39fb4de3de92e5d563fcdee98a726802ffba0]{
+-- Page 113, Offset 517.
+-- と<諭|さと>されるぐらいの視線が、明確に“これ以上負荷がかかったらキレる”と意思表示しまくっているのだ。それを気のせいと感じられるほど、この少年は鈍感なのだろうか？
+  She'd been warned that her emotions were so naked on her face that people treated her like a powder keg. How naive could the boy be that he could not pick up on this?
+
+}
+[sha:39f84d2cf5201cd4ae0d0ca42f32aa943a39dd7c]{
+-- Page 114, Offset 518.
+-- 『……私を馬鹿にしてる……って訳じゃなさそうよね、この場合』
+(He's not making fun of me, is he? No... he couldn't be.)
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 114, Offset 519.
+-- 「？」
+"?"
+
+}
+[sha:505a957a6c46a77fd78cebd1e66eb33fe05ac944]{
+-- Page 114, Offset 520.
+-- 自分にそう言い聞かせてみたが、あまり確証は取れそうになかった。
+  Even she found her own attempt to reassure herself unconvincing.
+
+}
+[sha:ed4a51765c326394d78d0ae60494d722a7cd177c]{
+-- Page 115, Offset 521.
+-- 青子は今さらながら直感する。
+  It began to dawn on Aoko, far too late...
+
+}
+[sha:76d4252eae9783150bb247390120d9ee83db1482]{
+-- Page 115, Offset 522.
+-- この間の抜けた転入生は、自分にとって未知の生き物と同義なのではないだろうか、と。
+  ...that compared to her, this laid-back transfer student might as well have been from another planet.
+
+}
+[sha:10ac39617ca0818609c08a5bdc4048a18c6bda1a]{
+-- Page 116, Offset 523.
+-- 「……いいわ。言葉にしないと分からないようだから言うけど、まるで、じゃなくて、ずばりそうなの。
+"Look. Let me spell it out for you, because you're just not getting it.
+
+}
+[sha:74863b8e1f4a21f8832cffc7c30dd972ef14436d]{
+-- Page 116, Offset 524.
+-- 貴方の気のせいじゃなくて、私は視線で遠回しに感情を表現してたの。いちいち声にだすのも、会話にするのも面倒だから」
+  It's not your imagination. I am angry and anyone could see that in my eyes. It's easier than trying to make conversation."
+
+}
+[sha:c171b3336a82d035144b234c748f71d095e74d0e]{
+-- Page 116, Offset 525.
+-- 青子の言葉に、ポン、と両手を叩くインベーダー。
+  In response to her words, the Martian clapped his hands together.
+
+}
+[sha:fbd81bd7396485f82387bf4dc92b07e9927da9db]{
+-- Page 117, Offset 526.
+-- 「なるほど。どうしてそうしたいのかは分からないが、たしかに、そっちの方がてっとり早い意思表現だ」
+"That makes sense. I don't know why you'd want to do it that way, but I get that it's a faster way to express yourself."
+
+}
+[sha:f8f8200943d25aadd8601b15170b3213e9521047]{
+-- Page 118, Offset 527.
+-- 素直に納得する草十郎。
+  Soujyuro accepted her reasoning without argument.
+
+}
+[sha:005c67bfa3bb9dc360387a1313d4dde51057d22c]{
+-- Page 118, Offset 528.
+-- けれど、彼は青子がどんな感情を表現しているのかが分かっていない。
+  Though he still had no idea what kinds of emotions she was trying to express.
+
+}
+[sha:759857e6f46742066d6b434c1bf83ed10c22760c]{
+-- Page 118, Offset 529.
+-- 文字は読めるけれど、その意味までは掴めていない。
+  It was as if he could hear the words but didn't grasp the meaning.
+
+}
+[sha:ac8f8e0ade72415a60ffd3e3fe86b104b2e62fc7]{
+-- Page 118, Offset 530.
+-- 本来直結して考えるべき事が、ブロック単位で離れている感じ。
+  Ideas that should have connected were instead separated into blocks.
+
+}
+[sha:e6e74f1f2ef03839e9f1bc2d462187b7b7dbc0b5]{
+-- Page 119, Offset 531.
+-- 『……たしかにズレてるわ、こいつ……』
+(So it's true. He really is peculiar.)
+
+}
+[sha:9e562ce1c26bcfe1d2a813ef26ff1e96debbecdd]{
+-- Page 119, Offset 532.
+-- 青子は山城教諭の言葉を今更ながらに納得した。
+  Mr. Yamasiro's words made sense to her now.
+
+}
+[sha:6168134ba38d34ddba955c751a56d85a0666a814]{
+-- Page 119, Offset 533.
+-- この少年のおかしさは、鈍感だとかそういった基準の話ではないらしい。
+  What was odd about this boy went way beyond naivety.
+
+}
+[sha:680d43c6ea5afe04b89b7f1a6f638b066a243a69]{
+-- Page 119, Offset 534.
+-- ……それでも。彼にとってここは異国の地のようなもの、多少の時差ボケは許容するのが文明人というものだろう。
+  A stranger in a strange land he may be, but it was only civilized to forgive him some jet lag-induced confusion.
+
+}
+[sha:46e9d04481b1804b2756d8755e2e84577b9f595d]{
+-- Page 120, Offset 535.
+-- 「じゃ、とりあえず貴方の教室に行くから」
+"Let's visit your classroom."
+
+}
+[sha:25bee6992b1933e2cecf8bff262a9be285a0dc74]{
+-- Page 120, Offset 536.
+-- 気を取り直して青子は言う。
+  She had regained her composure.
+
+}
+[sha:4325fedbd3ebfecbae5b5a2c19060d8788122afb]{
+-- Page 120, Offset 537.
+-- それを草十郎は片手を上げて止めた。
+  Soujyuro raised his hand and stopped in his tracks.
+
+}
+[sha:3d10faba6548c09f80f771904cb85eaeec063736]{
+-- Page 121, Offset 538.
+-- 「ああ、あとひとつ」
+"Just one more thing."
+
+}
+[sha:2c66e9b7f93e6c6d2377c8812a878697ec24a4ea]{
+-- Page 121, Offset 539.
+-- あくまで泰然と言う草十郎に、青子は黙って先を<促|うなが>した。
+  Aoko waited for Soujyuro to continue. The boy was patient to a fault.
+
+}
+[sha:663c4c07cc82e32cca2902a44d728e04c229b8f3]{
+-- Page 121, Offset 540.
+-- 額を指で押さえたまま、漠然とした不安を感じたまま。
+  She rubbed her forehead with her hand again, nursing a vague feeling of uneasiness.
+
+}
+[sha:f5e9ea9e7dc17c861b56495559adc9803e63570e]{
+-- Page 122, Offset 541.
+-- 「これもちょっとした疑問なんだが、なんで君は怒ってるんだ？
+"I wanted to ask-why are you so angry?
+
+}
+[sha:e1812ed9692540029d85a8fb3956d4e014a92f6f]{
+-- Page 122, Offset 542. Glued. Mods: @x.
+-- 怒るのが商売とか、そういう家柄の人なのか？」
+  Is it your line of business? Or does it run in your family?"
+
+}
+[sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
+-- Page 122, Offset 543.
+-- 「―――――――――」
+"..."
+
+}
+[sha:11a507eeff5fe41ddc9ec9f3ed5223d86c5d61ed]{
+-- Page 123, Offset 544.
+-- 長い沈黙。
+  A long silence.
+
+}
+[sha:ba3ef003d741065301d79d07104394b91b7172b3]{
+-- Page 123, Offset 545.
+-- 今となっては後の祭りだが、青子はしばし、今朝の電話を取った事を痛烈に後悔した。
+  Though she knew it wouldn't change the situation, she remembered her regret at answering the phone that morning.
+
+}
+[sha:ed6806a3701f959f0ac7c1a554967385b4788e2c]{
+-- Page 123, Offset 546.
+-- 相手に悪気はない。
+  He meant no harm.
+
+}
+[sha:f2d2f2dec2eaa01aa480df138643c3039434eb19]{
+-- Page 123, Offset 547.
+-- これは天然、ただの天然、と心の中で繰り返し、青子は直情を抑えこんだ。
+  She repeated this thought like a mantra in an attempt to keep her impulses in check.
+
+}
+[sha:82c6f1549016efdea83a1891329281df27f7ad0a]{
+-- Page 124, Offset 548.
+-- 「別にあなたのせいじゃないから、気にする必要はないわ。
+"It's not you, if that's what you're worried about.
+
+}
+[sha:b7725472430aa2a834dc39e84cc60482d64beb1c]{
+-- Page 124, Offset 549.
+-- ただ、この一瞬とお昼まで眠っていた場合を<秤|はかり>にかけたらあまりに利益の違いがあって、頭を抱えただけよ」
+  I'd just... rather be somewhere else right now."
+
+}
+[sha:7c6e0f3bbec0e54d652b226e36f2739f1cb30974]{
+-- Page 124, Offset 550.
+-- 回りくどい返事をして、今度こそ青子は歩きだした。
+  With that vague answer, she started to walk again.
+
+}
+[sha:ad4dac5ead89fe705ef56b8b5a25cb3ca02eadc6]{
+-- Page 124, Offset 551.
+-- 静希草十郎という失礼なストレンジャーを、完全に視界から切り離して。
+  And turned her gaze away from this rude stranger named Soujyuro Sizuki.
+
+}

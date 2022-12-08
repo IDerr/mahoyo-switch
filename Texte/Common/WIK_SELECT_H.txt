@@ -1,0 +1,24 @@
+[sha:4431bdaa61b889f33bd1e6dbe1c7cbbf9e927478]{
+-- Page 50, Offset 22324. Mods: @e.
+-- ～選択肢Ｈ～
+-Decision H-
+
+}
+[sha:ec3ade41cb6168e8adcc78414b5a155d0bb61fd7]{
+-- Page 50, Offset 24035. Choice.
+-- 土桔由里彦氏の死がネックだ、と思った。
+I think we should focus on Tokitsu's death.
+
+}
+[sha:52f8957fa821978b3e6d64eeedfa3da6f8bcd2eb]{
+-- Page 50, Offset 24036. Choice.
+-- たしかに一晩笑わないのなんて簡単、と思った。
+It's easy enough to not laugh for one night.
+
+}
+[sha:09b75e904838e41f0c2b97630da514798422132b]{
+-- Page 50, Offset 24037. Choice.
+-- ……そろそろひとり足りない事を指摘すべきだろうか、と思った。
+...I should point out we're one person down.
+
+}
