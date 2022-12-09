@@ -1,786 +1,787 @@
 [sha:c99b3db05d1458ddb295bd3c3e06fa641b4902e2]{
 -- Page 0, Offset 707.
 -- 青子は先の公言通り、職員室に寄らず帰路についた。
-  Aoko did not stop by the faculty room before heading home.
+  Comme elle l'avait déclaré, Aoko prit le chemin du retour sans repasser par la salle des professeurs.
 
 }
 [sha:4b7be76d68a783f4ddbe78c59d66a9bfe547fbd0]{
 -- Page 0, Offset 708.
 -- 山城の「帰りは車で送るよ」という提案には心揺さぶられるものがあったが、せめてもの報復として彼の休日にも共倒れしてもらうのはどうか、という案の方が何倍も魅力的だったからだ。
-  While Mr. Yamasiro's offer to drive her home was tempting, she decided it would ultimately be far more satisfying to ruin his day just as he had hers.
+  La proposition de Yamashiro de la ramener en voiture avait de quoi l'intéresser, mais l'idée de lui gâcher son jour de congé était une perspective bien plus alléchante.
 
 }
 [sha:0473fbef92b19009d6d9a2a9c13f8468bfbeba85]{
 -- Page 1, Offset 709.
 -- 足音を立てず昇降口に行き、まっ赤な傘を開く。
-  She walked as quietly as she could toward the entrance and opened her bright red umbrella.
+  En marchant à pas feutrés, elle alla jusqu'à l'entrée et y ouvrit son parapluie rouge.
 
 }
 [sha:8959336eb875af98e4456108afd86e6de0dc1a0a]{
 -- Page 1, Offset 710.
 -- 朝の予報通り、正午を過ぎて雨は小降りになっていた。
-  As she had predicted that morning, the rain was waning in the afternoon.
+  Exactement comme elle l'avait prévu ce matin : midi passé, la pluie s'était changée en crachin.
 
 }
 [sha:8c2a48c7550ac974f2df9a14e849283a7a4c1b23]{
 -- Page 1, Offset 711.
 -- この分なら、あと一時間ほどで止むだろう。
-  At this rate, it would probably cease completely in an hour or so.
+  À ce rythme-là, elle cesserait sûrement d'ici une heure.
 
 }
 [sha:d3f2826ab67420b7202533f0effa855f04f88890]{
 -- Page 1, Offset 712.
 -- 青子が帰宅するのと入れ替わりで、遠くの空に見えた日射しがやってくる事になる。
-  The distant sunshine would likely have reached her by the time she arrived home.
+  Comme pour l'accompagner au cours de son retour chez elle, les rayons du soleil arrivaient depuis le ciel lointain.
 
 }
 [sha:439683329fe1c4cead3cfc30c6562d5457d008a8]{
 -- Page 2, Offset 713.
 -- 「――――ま、それも悪くないか」
-"Well, I suppose it could be worse."
+「――――Bah, ce n'est pas si mal.」
 
 }
 [sha:3df74a5c409e79a07c0632d75c7911cedc7d992d]{
 -- Page 2, Offset 714.
 -- 肩をすくめて観念する。
-  She shrugged her shoulders in resignation.
+  Elle haussa les épaules et se résigna.
 
 }
 [sha:5b585d4a963d73a6a6091ddb73789d1b54997872]{
 -- Page 2, Offset 715.
 -- 雨は好きでも嫌いでもない青子だが、赤い傘を開いて歩く事には、ちょっとした愉しみがあるからだ。
-  She neither liked nor disliked rain, but she found herself enjoying her walk home with her red umbrella in hand.
+  En effet, même si Aoko n'aimait ni ne détestait la pluie, elle espérait bien pouvoir marcher avec son parapluie rouge ouvert.
 
 }
 [sha:c5fb4540ea7d378f438ddd09d32e09bc9d794469]{
 -- Page 3, Offset 716.
 -- 教師たちがそろって派手目を嫌う<三咲|みさき>高において、青子の赤い傘は珍しい色と言える。
-  The teachers at Misaki High School weren't fond of bright colors, so Aoko's red umbrella was an unusual sight.
+  Au lycée Misaki, où tous les professeurs détestaient les choses voyantes, on pouvait dire que la couleur rouge de son parapluie était rare.
 
 }
 [sha:ddca0040803e6c15ec9f088fc18268b2fa22b323]{
 -- Page 3, Offset 717.
 -- 一時期、“蒼崎の傘は昔は白かった”なんて語りだしの怪談が<流|は><行|や>ったが、その話ではお化けのかわりに青子が活躍しているらしい。
-  A ghost story about how the umbrella was once pure white had been making the rounds, but it featured Aoko instead of a ghost.
+  Il fut un temps où une histoire de fantôme au parapluie blanc était en vogue, mais dans cette histoire, Aoko semblait jouer le rôle du fantôme.
 
 }
 [sha:7e5df6c116fd413005361cbc821972c4f27566e8]{
 -- Page 3, Offset 718.
 -- そんな曰くつきの傘を開いて、青子は<三咲町|みさきちょう>の駅に向かう。
-  It was with that umbrella that she made her way toward Misaki Station.
+  Avec cet illustre parapluie ouvert, Aoko se dirigea vers la gare du vieux quartier de Misaki.
 
 }
 [sha:d7aba023ac11b699a44a24f6f358a6859f9d607d]{
 -- Page 4, Offset 719.
 -- 彼女の通う私立三咲高等学校は、その名の通り三咲町にある。
-  The private Misaki High School got its name from the town of the same name.
+  Le lycée privé Misaki qu'elle fréquentait se situait, comme l'indiquait son nom, dans le vieux quartier de Misaki.
 
 }
 [sha:add6e0ad2e5e68ad4de37da106dca300d6da9178]{
 -- Page 4, Offset 720.
 -- 昔から大部分が畑と森だった三咲町だが、ここ十年、高度成長期の勢いで急激に近代化が進んでいた。
-  The area was once a sprawl of farmland and woodland, but rapid growth over the last ten years had led to unprecedented modernization.
+  Depuis toujours, le vieux quartier était en grande partie composé de champs et de forêts, mais au cours des dix dernières années, grâce au dynamisme de la période de forte croissance économique, la modernisation avait brusquement accéléré.
 
 }
 [sha:734fd0a170578a8a9b712e42a8cffddc9dbcd68c]{
 -- Page 5, Offset 721.
 -- 自然に満ちた三咲町を残すべきではないか、という声もあったが、
-  There were some who fought to preserve Misaki's natural treasures.
+  Certaines personnes étaient d'avis qu'il fallait préserver l'environnement naturel du vieux quartier, mais lorsque le maire déclara :
 
 }
 [sha:5348ca2925584aec87f38d3ee8239f96d610c123]{
 -- Page 5, Offset 722.
 -- 『残す事には賛成ですが、それでは<遺|のこ>すだけになってしまうでしょう』
-"I agree in principle to preserving the land, but not at the expense of our prosperity."
+『Je n'ai rien contre le fait de laisser le quartier en l'état, mais si nous ne faisons rien, nous sommes condamnés à l'immobilisme.』
 
 }
 [sha:cb5c205b4c52e245ba8f012ad73c9b2332ce1537]{
 -- Page 5, Offset 723.
 -- なんて市長の一声で少数派は鎮圧。長期計画で新しい街作りがはじまった。
-  With those words, the mayor snuffed out the voices of the minority and ushered in a long-term plan for new urban development.
+  cette minorité fut étouffée. Et le plan de construction à long terme d'une nouvelle ville fut mis en œuvre.
 
 }
 [sha:dd2669d37054893f4d289651a1c20819c86ba031]{
 -- Page 6, Offset 724.
 -- 都市開発には十分すぎる金額が集められ、
-  More than enough funds for the urban development were collected,
+  Le développement de la ville nécessitait une somme d'argent considérable,
 
 }
 [sha:8a1028adbae7f4825a4a8d83da8a5042da50e1be]{
 -- Page 6, Offset 725.
 -- わりかし普通の町だった三咲町はわずか十年で三咲市を代表する町になったのである。
-  and the unassuming town of Misaki became the largest municipality of Misaki City in merely ten years.
+  et comparée au vieux quartier de Misaki, la ville en elle-même devint en à peine 10 ans une cité modèle.
 
 }
 [sha:bbf1c2439c125f06ca72c72c1daa77f70b2c65ec]{
 -- Page 6, Offset 726.
 -- ……もっとも、近代的な面では隣町である<社木|やしろぎ>に一歩譲り、
-  Even though it lacked the modernity of neighboring Yashirogi
+  ...... Même si, sur le plan du modernisme, la ville voisine de Yashirogi était plus évoluée,
 
 }
 [sha:1360e49df3cf71770b570488270b1be88c4e24c8]{
 -- Page 6, Offset 727.
 -- <上品|エレガント>さでもこれまた隣町の三咲丘に一歩譲る立ち位置だ。
-  or the elegance of Misaki Hills...
+  et niveau élégance, une autre ville voisine, Misaki-oka, la dominait également.
 
 }
 [sha:db16122dfe5699efa27733c3021bb3410e184fd3]{
 -- Page 7, Offset 728.
 -- 「……それも当然よね。どういじくっても元々が山中の宿場町だし。山ごと切り崩すっていうんなら別だけど」
-"What did people expect? To keep the town hidden atop the mountain forever? It's not like they were gonna flatten the mountain or something."
+「...... Mais ce n'est pas étonnant. Peu importe comment on la façonne, à la base, c'est une ville d'auberges de montagne. Bien sûr, ce serait une autre histoire si on rasait toute la montagne.」
 
 }
 [sha:8daf4bdb7aa2dc902c87c770ef8e55555b3b2fa8]{
 -- Page 7, Offset 729.
 -- 都市化が進んでいるのは平坦な駅周辺だけで、丘や山は十年前のままだ。
-  Urbanization had been contained to the lowlands around the station, with most of the hills and mountains still standing as they did ten years prior.
+  L'urbanisation n'avait progressé que jusqu'aux environs de la gare. Quant à elles, la colline et la montagne avaient gardé le même aspect que dix ans plus tôt.
 
 }
 [sha:3665ecaa50668f49cf3b254fee1d3390ab552379]{
 -- Page 7, Offset 730.
 -- 昔ながらの三咲町なんてものは、住民が守らなくても資金の枯渇が守ってくれたらしい。
-  The exhaustion of funds succeeded in protecting the old Misaki where the citizens could not.
+  Selon toute vraisemblance, le vieux quartier n'avait pas besoin que les citoyens le protègent, l'épuisement des fonds le faisait pour eux.
 
 }
 [sha:52b5dc4001e82748eebbbd4b4a6d43c087624def]{
 -- Page 8, Offset 731.
 -- かくして、三咲町は都心の人間がやってきても、まあ、あまりの田舎っぷりに呆れられるコトだけはないという、実に半端な地方都市になりつつある。
-  It became a truly odd suburban town, welcoming an increasingly urban population with its vestiges of old country charm.
+  De ce fait, même si des gens du centre-ville se rendaient dans le vieux quartier, son côté campagnard ne les étonnait pas. C'était vraiment une ville de province inachevée.
 
 }
 [sha:dc6a3790f46bf750bea1aec2b9794745217b79ce]{
 -- Page 9, Offset 732.
 -- そんな三咲町の中にあって、三咲高は開発以前からあった私立高校である。
-  Misaki High School was a private school established long before the town's current state.
+  Dans ce quartier, le lycée Misaki était un établissement privé datant d'avant le développement économique.
 
 }
 [sha:41f5a9d8eb7257313c445097191aa4e6a860021b]{
 -- Page 9, Offset 733.
 -- 今あるのは第二校舎で、五十年前に建てられた初代校舎はさらに上った山の中。
-  The original campus, built fifty years ago, was located high up in the mountains, making its current location its second incarnation.
+  Le bâtiment actuel était de la deuxième génération, et le premier construit cinquante ans auparavant se trouvait plus haut dans la montagne.
 
 }
 [sha:7068d612e279024a6e10fa7e54c9b70386b3b1cc]{
 -- Page 10, Offset 734. Mods: @k, @e.
 -- 遠い、坂道がきつい、
-  The path to the old grounds was remote, steep,
+  Il était éloigné, la pente y était raide,
 
 }
 [sha:3ec47af352423f5bea371f72d6b428977d46c306]{
 -- Page 10, Offset 735. Mods: @k, @e.
 -- それ以前に通学路が<獣道|けものみち>と化している、
-  and also well-trodden by animals.
+  et avant d'arriver à destination, le chemin de l'école devenait un sentier d'animaux.
 
 }
 [sha:a1237a15a62bee1321aa6fdd0f007ffbb4ab662d]{
 -- Page 10, Offset 736.
 -- 等々の理由で二十年前まで閉校していた三咲高校だったが、三咲市に本拠地を持つ某デパートグループからの寄付金をもとに新校舎を設立。
-  For these reasons, among others, Misaki High School had been shuttered until almost 20 years ago, when it received a donation from a department store chain that allowed for the construction of a new campus in the city.
+  Le lycée Misaki était encore fermé vingt ans plus tôt pour toutes sortes de raisons, mais une chaîne de supermarchés renommée, qui avait son siège social dans Misaki, avait fait une donation pour la construction d'un nouvel établissement.
 
 }
 [sha:187cc3e2070a8e58d8755007bc04cf3c4c9dc21b]{
 -- Page 10, Offset 737.
 -- かくて、森の校舎は旧校舎として忘れ去られる事になり、三咲高校は再び学舎として開かれた。
-  And thus, Misaki High School reopened its doors, the old woodland campus forgotten.
+  Ainsi, l'ancien bâtiment de la forêt fut oublié avec le temps, et le lycée Misaki rouvrit ses portes en tant qu'établissement scolaire.
 
 }
 [sha:cbfb1bdc037c28d799aad8d7daf486b28a68126f]{
 -- Page 11, Offset 738.
 -- しかし、実のところを言えば、三咲高校の生徒の多くは三咲町の住人ではない。
-  In fact, most of the students attending Misaki High School were not from Misaki at all.
+  Mais pour dire la vérité, la plupart des élèves du lycée Misaki ne résidaient pas dans le quartier.
 
 }
 [sha:cdb75a61fb662f13653bdcd8ff1a29cb17c136a7]{
 -- Page 11, Offset 739.
 -- この田舎町に住んでいた善良で素朴な人々は、私立高校より県立高校を望んでいたからである。
-  The hearty rustic people of this country town preferred prefectural schools to private ones.
+  Parce que les gens simples et honnêtes qui vivaient dans cette ville de campagne aspiraient à un lycée de préfecture plutôt qu'à un lycée privé.
 
 }
 [sha:b829a1a547c6ac6db31bb56cbf8e4c4fba3b020c]{
 -- Page 12, Offset 740.
 -- 何を隠そう、青子もそういった人種の一人だった。
-  Truth be told, Aoko herself was one of them.
+  Pour ne rien cacher, Aoko elle-même était l'une d'entre eux.
 
 }
 [sha:81f5779ae9e14c1333c0bce8623d4c0da85ec073]{
 -- Page 12, Offset 741.
 -- 彼女には中学卒業とともに上京して、国立大学をめざしながらライブハウスを毎日はしごして回るという慎ましやかな野望があったのだ。
-  All she had wanted after junior high was to move to Tokyo, where she hoped to spend her days enjoying live music on her way to entering a public university.
+  Elle avait eu la modeste ambition de monter à Tokyo après avoir terminé le collège et d'aller dans des live house tous les jours tout en visant l'admission dans une université nationale.
 
 }
 [sha:f236c2761091e818ddc10e93edbe66816f830aa5]{
 -- Page 12, Offset 742.
 -- そんな彼女の夢も姉の抜け駆けで台無しにされてしまい、何の因果かせっかくの創立記念日に真っ赤な傘をさして歩いている。
-  But her hopes were dashed with her sister's departure, so here she was, walking alone in town with only a red umbrella to keep her company on what should have been a day off.
+  Ce rêve avait été gâché par sa sœur aînée qui l'avait devancée, et par un tour du destin incompréhensible, elle se retrouvait à marcher avec son parapluie rouge ouvert, malgré le jour d'anniversaire de l'établissement.
 
 }
 [sha:5503e32f5a6907fbb4db837177416d19c0992c5d]{
 -- Page 13, Offset 743. Mods: @n.
 -- 「……思い返して見ると。
-"...Looking back on it now...
+「...... En y repensant,
 
 }
 [sha:3f3f83c9e9a9d19a7929b840e3399be6d1ebeb00]{
 -- Page 13, Offset 744. Glued.
 -- 私の人生って、なんか災難続きっぽい……」
-  It's like my whole life has been one disaster after another."
+  on dirait que ma vie n'est qu'un enchaînement de calamités sans fin......」
 
 }
 [sha:c64a3bfe942734b4d996dc4b30ca6c39121a63cd]{
 -- Page 13, Offset 745.
 -- 十二月を前にした寒さの中、ひとりきりでそう呟く。
-  Her frustration evaporated into the cold December air.
+  marmonna-t-elle toute seule, dans le froid annonçant l'arrivée de décembre.
 
 }
 [sha:ca81766121ce3b94b73b5a323099f8be518e75da]{
 -- Page 14, Offset 746.
 -- 「でもま、いっか。退屈だけはしないワケだし」
-"Oh well. At least it's not boring."
+「Mais bon, c'est pas bien grave. Et puis, je ne m'ennuie jamais.」
 
 }
 [sha:ce0aa099d89c81c59d6b634f7d9c03c443fd4099]{
 -- Page 14, Offset 747.
 -- 語尾をかすかに弾ませて学校を後にする。
-  With those words, her mood brightened a bit as she left the school in her wake.
+  Elle laissa l'école derrière elle sur ces derniers mots.
 
 }
 [sha:ade10e03c971baee131be1dd821e7225a89c60c3]{
 -- Page 14, Offset 748.
 -- ゆるやかな坂道を下ってしまえば、そこは賑わいに満ちた人々の住まう街だ。
-  The busier part of town met her at the bottom of the gently sloping road.
+  Après la descente en légère pente se trouvait la ville pleine de vie.
 
 }
 [sha:3abdfb2fd294665416c25894797012cad295bee1]{
 -- Page 15, Offset 749.
 -- 三咲町の駅は真新しい。
-  Misaki's train station was brand new.
+  La gare du vieux quartier de Misaki était flambant neuve.
 
 }
 [sha:8a779292bc548ec489700df7552329ae254736f6]{
 -- Page 15, Offset 750.
 -- かつては廃工場にしか見えなかった<建物|えき>は、今では東と西に巨大デパートを持つ複合建築に造り替えられていた。
-  Once looking no prettier than an abandoned factory, it had been renovated into a multi-purpose structure with huge department stores on its east and west sides.
+  Le bâtiment, qui avait l'air de n'être qu'une usine abandonnée auparavant, était maintenant devenu une construction complexe dotée d'un énorme supermarché s'étalant d'est en ouest.
 
 }
 [sha:fd6361846cad58a9caec3e2211c7b2537ce61fe8]{
 -- Page 16, Offset 751.
 -- このデパートが出来た時、青子も近代化万歳！　と友人たちとはしゃいだものだが、この建物もあと何年かすれば時代遅れになるのだろう。
-  When the department stores first opened, Aoko and her friends had been impressed with their modern feel, but in time, the stores, too, became dated.
+  Lorsque ce supermarché avait été terminé, Aoko et ses amies s'étaient excitées et avaient souhaité longue vie à la modernisation ! Mais d'ici quelques années, le bâtiment serait certainement passé de mode.
 
 }
 [sha:70d871e9a1dd6d7889ab18a0539a4acf47bab85c]{
 -- Page 17, Offset 752.
 -- これといった買い物はないのでデパートを通り過ぎる。
-  She had no shopping to do today, so she passed them by.
+  Elle n'avait aucune course à faire et passa donc devant le supermarché sans s'arrêter.
 
 }
 [sha:83dd0d1637c8de4ca29d9d5f4425c1f1bfaf4e90]{
 -- Page 17, Offset 753.
 -- 本当は喫茶店にでもよって体を休めたいところだが、ひとりだけで無駄遣いをするとまた同居人がヘソを曲げかねないので我慢して―――
-  What she really wanted to do was rest at a café, but she fought the urge, knowing her roommate would never let her hear the end of it if she frittered away her money―
+  En réalité, elle voulait s'arrêter dans un salon de thé et se reposer, mais si elle dépensait inutilement de l'argent toute seule, sa colocataire allait encore une fois lui faire des remarques désagréables, alors elle se maîtrisa―――
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 18, Offset 754.
 -- 「――――――」
-"..."
+「――――――」
 
 }
 [sha:d774af41c0b1550ced90dc277e9f462c03540dec]{
 -- Page 18, Offset 755.
 -- 振り返って、目をしばたたく。
-  She looked back and blinked.
+  Elle se retourna et cligna des yeux.
 
 }
 [sha:8c456dbad8889a6301c70368911584183fa85332]{
 -- Page 18, Offset 756.
 -- 一瞬。視界の隅に、赤い<服|ドレス>の<不審人物|ナニモノか>を見た気がした。
-  For just a moment, she could have sworn she had seen someone suspicious in a red dress out of the corner of her eye.
+  Pendant un instant, elle avait eu l'impression de voir dans un recoin de son champ de vision une personne suspecte dans une robe rouge.
 
 }
 [sha:81aa684c2e67d3cc5974eb437f40b961c82f4464]{
 -- Page 19, Offset 757. Mods: @n.
 -- 「――――――
-"...
+「――――――,
 
 }
 [sha:f649882c86077dee9d1ad931576ad494c45cece0]{
 -- Page 19, Offset 758. Glued.
 -- 、ふぅ」
-Heh."
+  fuu.」
 
 }
 [sha:c3581b6bf478ccf3b9b94de223d2290519020f3b]{
 -- Page 19, Offset 759.
 -- どうやらいつもの勘違い。
-  It must have been her imagination.
+  Apparemment, c'était son hallucination habituelle.
 
 }
 [sha:cca862d71ac13f3735cf50d59d40a96c47db684a]{
 -- Page 19, Offset 760.
 -- 背筋には第六感じみた悪寒があるけど、それも慣れたものだと受け流す。
-  The sixth-sense chill she was experiencing down her spine was a familiar one at this point.
+  Elle ressentait un frisson dans le dos, comme un sixième sens, mais elle n'y prêta pas attention puisque ça lui arrivait fréquemment.
 
 }
 [sha:67c2b7ddd12be12c029359eb1102379266ca9ddf]{
 -- Page 19, Offset 761.
 -- まったくもって何事もなかったように振る舞って、青子はいつも通りの帰路につく。
-  She continued her walk home, brushing off the event as if it had never happened.
+  Elle se comporta comme s'il ne s'était rien passé et parvint jusqu'au chemin de retour habituel.
 
 }
 [sha:f765bf7736fbfa48837d6790eee0c430298a9b8c]{
 -- Page 19, Offset 762.
 -- ほどなくして背中の悪寒は消え、街の喧噪だけが耳に残った。
-  In time, the chill faded and all that was left was the sounds of the town.
+  Bientôt, les frissons dans son dos disparurent, et elle n'entendit plus que le tumulte de la ville.
 
 }
 [sha:6b0c313d7f3ac0d7fa52f04b9c1603c56c49dc01]{
 -- Page 20, Offset 763.
 -- 「…………はあ」
-"...Ugh."
+「............ Aaah.」
 
 }
 [sha:4f824c3eb7a3b7b790952a836c71a14a4a612fa3]{
 -- Page 20, Offset 764.
 -- 大きくため息をひとつ。
-  She sighed heavily.
+  Elle soupira un grand coup.
 
 }
 [sha:c6872a095459f928b1a37b0cd69353d28c22d021]{
 -- Page 20, Offset 765.
 -- まったく。
-  Had she imagined it?
+  Vraiment.
 
 }
 [sha:dfb22027acdd0e42036b63111bb2b00d6ad739e3]{
 -- Page 20, Offset 766.
 -- 気のせいにしても、気持ちのいいものじゃない。
-  Even if it had all been in her head, she was far from comfortable with the feeling that still lingered.
+  Même si ce n'était que son imagination, ce n'était pas très agréable.
 
 }
 [sha:ea663ee677dede621b0e4cabb1e8885931d23fb7]{
 -- Page 21, Offset 767.
 -- 「……夏場の蚊だって、もう少し、こう」
-"...Even mosquitoes have the grace to buzz off eventually."
+「...... Même les moustiques en été montrent un peu plus de......」
 
 }
 [sha:0763dcc76910b39269a334d6ab2c7c0ec5f87c5e]{
 -- Page 21, Offset 768.
 -- 節度を<弁|わきま>えている……こともないか、と愚痴をこぼす。
-  She grumbled under her breath.
+  “... modération...... ou pas”, grommela-t-elle.
 
 }
 [sha:55eb37ebd089a8c2c1081be11fbb65af45455c38]{
 -- Page 22, Offset 769.
 -- 「……波瀾万丈、商売繁盛、諸行無常、と。
-"...Whether good or bad, this too shall pass, so the saying goes.
+「...... Les hauts et les bas, la prospérité, et l'éphémérité.
 
 }
 [sha:46c167f14a5e7e14743fd1071fffad2bb628ea4d]{
 -- Page 22, Offset 770.
 -- そうそう、忙しさにグチを言っても始まらないわ」
-  Yeah. I've got enough on my plate as it is."
+  C'est vrai. Même si je me plains, rien ne s'arrangera.」
 
 }
 [sha:aa189a17c001243cff0902d6ee541fbf7a63a0bc]{
 -- Page 22, Offset 771.
 -- うっとうしいけど夏場に蚊はいて当然だし。
-  Unfortunately, summer and bugs go hand-in-hand.
+  C'était déprimant, mais la présence de moustiques en été était on ne peut plus normale.
 
 }
 [sha:8c1f7b461ccbbe6b2c2500f95ebbeab127a90237]{
 -- Page 22, Offset 772.
 -- 甘い果実に虫が寄ってくるのは、まあ、正しい価値観だろう、と納得する青子だった。
-  She could see how bugs could be drawn to all the sweet fruit.
+  “Bah, c'est parfaitement logique que les insectes soient attirés par un fruit appétissant”, approuva Aoko.
 
 }
 [sha:09f32647e4b29c98c843f433937a12265f99e93a]{
 -- Page 23, Offset 773.
 -- 油と熱のこもった厨房は、一時の休眠に入っている。
-  Rank with grease and heat, the kitchen was closed for the time being.
+  La cuisine à l'atmosphère saturée d'huile et de chaleur venait d'entrer dans la pause de 1 h.
 
 }
 [sha:bf8aeef6020d2cb083957eb0101fb500de3265f6]{
 -- Page 23, Offset 774.
 -- 本日も無事、昼の修羅場を乗り切った。
-  The lunch rush had come and gone.
+  Aujourd'hui encore, elle avait survécu à la bataille du déjeuner sans dommages.
 
 }
 [sha:2627d9474a515bafbea156e1f775304a3b97356a]{
 -- Page 23, Offset 775.
 -- あとは<夕食|よる>の混雑さえ乗り越えれば誰もがコックコートを脱いでしまえる。
-  But one last battle remained: dinner time. Only after the evening chaos could the kitchen crew remove their white armor and call it a day.
+  Ensuite, il ne restait plus qu'à surmonter la congestion du dîner pour que tout le monde puisse ôter son tablier.
 
 }
 [sha:2e6250cb14d060f8ec7b2fda11ccf4b3c002ea47]{
 -- Page 23, Offset 776.
 -- そんな、激戦を終えたばかりの<厨房|キッチン>で、ぽつんと立ちつくす<新参者|アルバイト>がひとり。
-  In the midst of the warzone was a lone newcomer.
+  Dans cette cuisine où venait de se conclure une bataille féroce, un nouveau venu se tenait à l'écart.
 
 }
 [sha:c2b694d3549d71ec035d75eee1750b168939f4aa]{
 -- Page 24, Offset 777.
 -- 「ええっと、これ着るんですか？」
-"Umm, do I have to wear this?"
+「Euh, je dois vraiment porter ça ?」
 
 }
 [sha:17947f7bee6f2151c52ff4191b5c5485f5dfc2de]{
 -- Page 24, Offset 778.
 -- 新人らしく、不安そうな声で訊ねる。
-  His voice was uneasy, betraying how new he was.
+  demanda-t-il d'une voix anxieuse, comme un vrai nouveau.
 
 }
 [sha:8fe052df91f230a53f401591dabde05a8aaeeaf5]{
 -- Page 25, Offset 779.
 -- 「気持ちは分かる。俺もどうかと思うけど、店長の言うことだからもう笑顔で乗り越えてくれ。これも商店街の明日のため、なんだとよ。本気で申し訳ないんだが、雨も止んだし、なんとか行って来てくれないか？　無事帰ってきたら晩メシおごってやっから」
-"I know how you feel, man. I feel the same. Unfortunately, it's the boss's orders, so you'll have to suck it up, okay? 'The future of this shopping arcade is at stake'... apparently. I really hate to ask, but the rain has stopped, so would you mind going out for me? Get back in one piece, and I'll buy you dinner."
+「Je comprends ce que tu ressens. Moi aussi, ça ne me plaît pas, mais ce sont les ordres du chef, alors essaie de surmonter ça avec un sourire. Il dit que c'est aussi pour l'avenir de la rue marchande. Je suis vraiment désolé, mais la pluie s'est arrêtée, alors tu ne voudrais pas y aller ? Si tu reviens sans encombre, je t'offrirai le dîner.」
 
 }
 [sha:fdde8fcaea92f1e6aa49d76248ca3bf52b1619cf]{
 -- Page 25, Offset 780.
 -- まぶしいオレンジ色の制服を着こんだ先輩は、本気ですまないと手を合わせて、無理難題を押しつけた。
-  His bright orange co-worker clasped his hands together as if to beg for forgiveness as he saddled him with this unreasonable task.
+  Son collègue qui portait un uniforme orange aveuglant, les mains jointes en signe d'excuse, lui imposa cette demande déraisonnable.
 
 }
 [sha:9f51bb498b75b03617aea0b217b7113152a190de]{
 -- Page 26, Offset 781.
 -- 十年前、三咲市は畑と森の町だった。
-  Ten years ago, Misaki City was a town of farm and woodland.
+  Dix ans auparavant, Misaki était un village de champs et de forêt.
 
 }
 [sha:422ac2e23703fe043d84d6fff3420771bcc33aa0]{
 -- Page 26, Offset 782.
 -- <現|い><在|ま>は開発が進み、駅前にはビルディングが立ち並び、住宅地にも二階建て以上の建築が増え、かつての田園風景は駅から離れないと見られない。
-  But everything had changed. The front of the station was now lined with tall multi-story buildings, and the residential areas were similarly full of apartment complexes. The once rustic scenery around the station had long become a thing of the past.
+  À présent, le développement urbain s'était intensifié, des bâtiments avaient été érigés devant la gare, le nombre de constructions de plus de deux étages avait lui aussi augmenté dans les quartiers résidentiels, et l'ancien paysage rural n'était plus visible à moins de s'éloigner de la gare.
 
 }
 [sha:5f7e667c7a6bb0d15bcf3d592c09ba2dd2104c4b]{
 -- Page 26, Offset 783.
 -- そんな中、都市部においても昔ながらの面影を残しているのがここ、三咲市のエアポケットと言われる<白犬塚|しろいぬづか>である。
-  Shiroinuzuka was the only place in the city that still contained vestiges of the old town. A pocket of the past inside an urban jungle.
+  Au milieu de tout ça, le seul endroit qui avait préservé son aspect d'antan, même dans la zone urbaine, était ici, Shiroinuzuka, aussi appelé la Poche d'Air de Misaki.
 
 }
 [sha:c68da727a3024c756b4756f24a1df5843cf1e7c7]{
 -- Page 27, Offset 784.
 -- ひときわ高い丘に敷かれた長い坂道。
-  The road extended up a conspicuously high hill,
+  C'était une longue pente pavée sur une colline particulièrement élevée.
 
 }
 [sha:50d41116aa87e2d75b306e13ddb593f86f4021c1]{
 -- Page 27, Offset 785.
 -- 人々の生活の中心である駅から離れた、昔ながらの住宅地。
-  to an old residential district far from the hustle and bustle of the train station.
+  Un vieux quartier résidentiel éloigné de la gare au cœur de la vie des gens.
 
 }
 [sha:39f9f37cd331408ea7037b88a4e69387e47f7106]{
 -- Page 27, Offset 786.
 -- その昔、三咲では高い土地に住居を構えるのはよくない事とされ、一定以上の高みに住む人間はいなかった。
-  Long ago, it had been considered unwise to build on high ground, so nobody lived above a certain elevation.
+  Autrefois, il était mal vu de construire des habitations sur les hauteurs de Misaki, et personne ne vivait au-delà d'un certain point.
 
 }
 [sha:24634d220fe3bd78a3c5f4bd80f9006577eda802]{
 -- Page 27, Offset 787.
 -- 町の中心にそびえる丘、この白犬塚もその例にならい、ここから先に民家は見られない。
-  Shiroinuzuka, sitting as it did atop a hill in the middle of town, was no exception to that convention and had no residences to speak of.
+  Cette colline qui s'élevait bien au-dessus du centre-ville ainsi que Shiroinuzuka suivaient cet exemple. Aucune maison de particuliers n'était visible aux alentours.
 
 }
 [sha:ad7023667e1a8eeb6ec4412f5ad2558185f2090f]{
 -- Page 28, Offset 788.
 -- アスファルトの坂道は延々と続くものの、やがて森に閉ざされ、あとは山道のごとき道が続くだけ。
-  The asphalt continued for some time, eventually giving way to a mountain road that was swallowed into the cover of trees.
+  Même si la route d'asphalte montait sans relâche, à un moment, elle aboutissait dans une forêt avant de devenir un chemin de montagne.
 
 }
 [sha:ad7a8722e78b8b8a89dce71d40a88f6ec44f966e]{
 -- Page 28, Offset 789.
 -- 坂道の途中にぽつんと置かれた自動販売機は、さながら町と丘の境界線のようだ。
-  A lone vending machine stood to mark the boundary between town and beyond.
+  Les distributeurs automatiques isolés, placés à mi-chemin sur la pente, étaient comme une limite de démarcation entre la ville et la colline.
 
 }
 [sha:64fab63c24b09c16f961083dd94486996840dd0b]{
 -- Page 28, Offset 790.
 -- 新しい遊び場の開発に余念がない子供たちでも、この先には何もないと知っている。
-  Even the children knew that there was nothing beyond the new playground in development that so enthralled them.
+  Même les enfants qui cherchaient avec ardeur de nouveaux terrains de jeu savaient que rien ne se trouvait au-delà.
 
 }
 [sha:adba54457a9254f07bb7c7d1966088203417e75c]{
 -- Page 28, Offset 791.
 -- いや、<正|ただ>しくは。
-  Well, that was not entirely true.
+  Non, pour être plus précis,
 
 }
 [sha:03a03d5997b022be761c8ea9a4165825effa66d0]{
 -- Page 28, Offset 792.
 -- この先には、あのお化け屋敷しかないと知っている。
-  There was nothing... besides the haunted house.
+  ils savaient qu'après ne se trouvait rien d'autre que ce manoir hanté.
 
 }
 [sha:37cb8be7319c916f61733b989a5667f562b0ec17]{
 -- Page 29, Offset 793.
 -- 長い坂を、蒼崎青子は上っていく。
-  Aoko Aozaki traversed the long slope.
+  Aozaki Aoko remontait la longue pente.
 
 }
 [sha:2ca71765bbff93e4edb136c3a435791025be43f5]{
 -- Page 29, Offset 794.
 -- 眼下には三咲町の景観が広がっている。
-  Below her, she could see the whole of Misaki.
+  Sous ses yeux s'étendait le paysage du vieux quartier de Misaki.
 
 }
 [sha:227a2106f2bd7bcdbb738c0a4a8a3fbef254208a]{
 -- Page 29, Offset 795.
 -- おもちゃの風景のように均整の取れた町並み。
-  The symmetrical town looked like a miniature set from this height.
+  Les proportions des rangées de maisons et de magasins leur donnaient l'allure de maquettes.
 
 }
 [sha:8d2972619f7d93a74ad3ee65abc67a9c19049626]{
 -- Page 29, Offset 796.
 -- これで近くに海でもあれば絵になるが、残念ながら三咲市は山中の町である。
-  It would look like a painting if there had been a sea next to it, but unfortunately, Misaki City was very much landlocked.
+  Si la mer avait été proche, on aurait pu en faire un splendide tableau, mais malheureusement, Misaki était une ville de montagne.
 
 }
 [sha:d019975165892df0d71419744d87cdac0d045cd6]{
 -- Page 30, Offset 797.
 -- 空はいまだ曇天だが、晴れた夕暮れ時、ここの風景は素晴らしいものになる。
-  While it was overcast at the moment, the scene was quite breathtaking on clear evenings.
+  Le ciel était encore couvert, mais lors des crépuscules par beau temps, ce paysage devenait magnifique.
 
 }
 [sha:cf4711d9a0789813027c6134129f1eca8ba67d06]{
 -- Page 30, Offset 798.
 -- それだけで坂道を上る苦労も報われるのだが、今日はその報酬の影すらなかった。
-  The view was the one thing that made the arduous climb worthwhile, and today, she had been denied even that.
+  Cette seule vision récompensait l'effort de grimper cette pente, mais aujourd'hui, il n'y avait même pas l'ombre d'une telle rétribution.
 
 }
 [sha:30e0aeec733d2d8b735e774cb70bb43d6f9a4223]{
 -- Page 31, Offset 799.
 -- 「……はあ。雨の日は自転車も使えないし。一日に二回ぐらいバスでも通ってくれないもんかな、ホント」
-"...Ugh. I'd cycle home if it wasn't for this rain. Even a bus route would be a fine thing."
+「...... Aaah. En plus, les jours de pluie, on ne peut pas utiliser de bicyclette. Ils pourraient au moins faire passer un bus deux fois par jour ! Franchement.」
 
 }
 [sha:a8cf11ddda3117d180ef33079c0886c74b2b7b64]{
 -- Page 31, Offset 800.
 -- この坂道を通学路にしてじき二年になる青子だが、辛いものは辛いらしい。
-  Aoko had been using this road to get to school for almost two years now, but the journey had never gotten easier.
+  Cela faisait maintenant deux ans qu'Aoko empruntait cette pente pour se rendre à l'école, mais visiblement, ce qui était pénible restait pénible.
 
 }
 [sha:2238a22404bfebbc940acde67a442918afe3d206]{
 -- Page 32, Offset 801.
 -- 「あれ、鍵<閉|し>まったまま？
-"Oh, it's locked?
+「Tiens ? C'est toujours fermé à clef ?
 
 }
 [sha:ed022971fc31c9486ae4391376aca8500114e1a8]{
 -- Page 32, Offset 802.
 -- ……<有珠|ありす>、まだ帰ってきてないんだ」
-  I guess Alice isn't back yet."
+  ...... Alice n'est pas encore rentrée.」
 
 }
 [sha:611dc57b878ee6404e28df37b731495a54a2b200]{
 -- Page 32, Offset 803.
 -- 青子はやれやれと肩をすくめて、古びた鉄柵に手をかける。
-  With a weary shrug, she put her hand on the rusty iron fence.
+  Marquant son désappointement, Aoko haussa les épaules et plaça sa main sur la vieille clôture.
 
 }
 [sha:58ea800f0ba93678d2a4877d29da849b90d461d1]{
 -- Page 32, Offset 804.
 -- 重苦しい鉄の門は静かに、この年若い少女を歓迎するように開いていった。
-  Quietly, the heavy gate swung open as if to welcome her home.
+  La lourde porte de fer s'ouvrit comme pour accueillir la jeune fille.
 
 }
 [sha:dd367091c5283892ecec954843e01b371e2183b9]{
 -- Page 33, Offset 805.
 -- ―――丘の上にはお化け屋敷が建っている。
-  "...There sits atop that hill a haunted house."
+  ―――En haut de la colline se dresse un manoir hanté.
 
 }
 [sha:94aa244921b19e290236aa86b9a63ae6afffa063]{
 -- Page 33, Offset 806.
 -- それは三咲町に古くから伝わるむかし話。
-  That is how the story much shared around town used to begin.
+  C'était un vieux conte transmis depuis longtemps dans le vieux quartier,
 
 }
 [sha:c258e33d6aec6de37edf79eb445f5bc9264807c9]{
 -- Page 33, Offset 807.
 -- そして町の近代化に合わせるよう、ひっそりと<蘇|よみがえ>った最新のうわさ話。
-  But fresh rumors about the house had sprung to life almost as fast as the town's modernization:
+  et parallèlement à la modernisation de la ville, de vieilles rumeurs avaient été discrètement ressuscitées.
 
 }
 [sha:4dfe92685fed650eb2e1a0ffb0ef1b2e31167ac9]{
 -- Page 34, Offset 808.
 -- たとえば、もう何年も前に朽ち果てた廃屋なのに、夜になると明かりが灯ったりする。
-  Despite being dilapidated and abandoned for many years, lights can be seen inside the house at night...
+  Par exemple, à la nuit tombée, alors que cette maison soi-disant abandonnée tombait en ruine depuis des années, une lumière s'y allumait.
 
 }
 [sha:472fddd181b95dc5bde1c23a98e5a58c42fcbee8]{
 -- Page 34, Offset 809.
 -- たとえば、丘の上に無数のカラスが集まっては消えていく。
-  An angry murder of crows often gathers atop the hill before mysteriously vanishing...
+  Ou d'innombrables corbeaux se rassemblaient en haut de la colline et disparaissaient.
 
 }
 [sha:086a78fe0df6d4cb634917e95046b12af6fc3548]{
 -- Page 34, Offset 810.
 -- たとえば、霧が深い日は子供が迷いこんで神隠しにあう。
-  Children get lost in the fog, never to be seen again...
+  Ou bien, les jours où le brouillard était épais, des enfants se perdaient et disparaissaient mystérieusement.
 
 }
 [sha:4a62c35924861a5f8ac1dd6adee50bb87da9d990]{
 -- Page 35, Offset 811.
 -- たとえば、深夜、叫び声にしか聞こえない怪音が住宅地にまで響いてくる。……これは青子的に不名誉な噂なので改めたい。
-  Late at night, a shrieking sound can be heard all the way to town-this particular piece of slander was the one Aoko wished to discredit the most.
+  Ou encore, tard dans la nuit, des sons mystérieux, qui avaient tout l'air d'être des hurlements, parvenaient jusqu'aux quartiers résidentiels...... Pour Aoko, cette dernière rumeur était embarrassante et elle voulait y mettre un terme.
+　
 
 }
 [sha:8db7bdefca1833def98a3b5c41cd05431e8639bb]{
 -- Page 35, Offset 812.
 -- あと、たまに目を疑うような高級車が坂道を登っていく。
-  The final rumor was of an eye-catching luxury car that sometimes made its way up and down the hill.
+  Il y avait aussi celle où, de temps en temps, une voiture incroyablement luxueuse remontait la pente.
 
 }
 [sha:a119b3dc91f4e1d36c5aba677553d6b163f143b2]{
 -- Page 36, Offset 813.
 -- 噂話は日に日に種類を増していた。
-  The rumors spread and grew by the day.
+  Ce genre de potins se multipliaient chaque jour.
 
 }
 [sha:a56a73948b86f526f0f7e7ea5baf04ed09c129fc]{
 -- Page 36, Offset 814.
 -- そんな感じで、朽ちたはずの丘の上の洋館は、数年前から息を吹き返していた。
-  And while they grew, the house that everyone thought had rotted away was restored over the recent years.
+  C'était dans cette atmosphère que la résidence, censée être délabrée, avait ressuscité quelques années auparavant.
 
 }
 [sha:0a68ca477dee8531f8472431bf7e94e07c3733d8]{
 -- Page 36, Offset 815.
 -- 人々の寄りつかない丘のただ中。
-  Deep in a wood on top of a hill no one dared to approach,
+  Au milieu de la colline dont les gens ne s'approchaient jamais.
 
 }
 [sha:3a7432afd4b3ee2ebcb65a304431418ba92b1e2b]{
 -- Page 36, Offset 816.
 -- 昼なお暗い森に隠された廃墟。
-  like a ruin, shrouded from view even on the brightest of days,
+  Des ruines dissimulées, même de jour, par la forêt sombre.
 
 }
 [sha:913f6042c8c5510c072d21f3249596a4e6437f7c]{
 -- Page 36, Offset 817.
 -- おとぎ話に出てきそうな、時代に取り残された魔法の<残|ざん><滓|し>。
-  stood a relic out of time, a building from a fairy tale.
+  Comme des vestiges de magie abandonnés dont parlaient les contes de fées et qui auraient traversé les époques.
 
 }
 [sha:5b070ae4e67a9949edde1648afef33f60078d453]{
 -- Page 36, Offset 818.
 -- それが、
-  The house...
+  C'était :
 
 }
 [sha:a8fe7281cc485f1c472d0c0ab9645f8b8a69a768]{
 -- Page 37, Offset 819.
 -- この<久遠寺|くおんじ>邸。
-  ...was the Kuonji Mansion.
+  le manoir Kuonji.
 
 }
 [sha:b0dddeb21f94537dca8b14af4778f88472457fba]{
 -- Page 37, Offset 820.
 -- 三咲町の誰もが知っている、丘の上の魔女の家。
-  Everyone in town knew about the witch's house on the hill.
+  La maison de la sorcière du haut de la colline que tout le monde connaissait dans le vieux quartier.
 
 }
 [sha:b5a8820a284453d4340e49d033ba1bc9369f8bd9]{
 -- Page 37, Offset 821.
 -- ワケあって蒼崎青子が下宿している、正真正銘の幽霊屋敷なのだった。
-  The unabashedly haunted house where Aoko Aozaki resided for reasons unknown.
+  C'était un authentique manoir hanté, dans lequel Aozaki Aoko logeait pour diverses raisons.
 
 }
 [sha:74000743c8344455698758059792f470f325436a]{
 -- Page 38, Offset 822.
 -- 言うまでもなく、幽霊屋敷というのは俗称である。
-  Needless to say, it was not really haunted.
+  Évidemment, cette appellation était un surnom.
 
 }
 [sha:d6be7f1763fc36ee7090254c784aeadf9a7d34fd]{
 -- Page 38, Offset 823.
 -- 久遠寺邸はとある経緯でイギリスから運ばれてきた、由緒正しい洋館だ。
-  The Kuonji family home was a grand Western-style mansion with a long and storied history, stretching all the way back to England.
+  Le manoir Kuonji était une vénérable demeure occidentale amenée d'Angleterre suite à des circonstances particulières.
 
 }
 [sha:53dbb4c03bce6b21d968f33e298d0e7744168784]{
 -- Page 39, Offset 824.
 -- 寮にするほど広くはないけれど、家にするには広すぎる。
-  It was too small to be a dormitory, yet too big to be called a house.
+  Elle n'était pas aussi grande qu'un dortoir, mais tout de même trop spacieuse pour une maison.
 
 }
 [sha:07b864c0963924a55deacc0ceed0bb214b66117f]{
 -- Page 39, Offset 825.
 -- 普通の住宅が三つほど入りそうな本館と、ぐるりと囲む庭。
-  The main building contained as many as three normal houses' worth of rooms and was surrounded by a large all-encompassing courtyard.
+  Il y avait un bâtiment principal dans lequel pouvaient rentrer trois maisons normales, entouré par un jardin.
 
 }
 [sha:0146886c8ee240e09c01fa576c6131bcfa9f8c27]{
 -- Page 39, Offset 826.
 -- 庭の四方には鉄柵が高くそびえ、ご丁寧に<茨|いばら>めいた植物の<蔓|つる>まで絡み付いている。
-  The perimeter of the grounds was surrounded by a high, iron fence covered in thorny vines.
+  De chaque côté du jardin se dressaient d'immenses clôtures sur lesquelles des vignes épineuses s'enroulaient paisiblement.
 
 }
 [sha:5b27841a2a2f6e04e35e5862d975db11991526e7]{
 -- Page 39, Offset 827.
 -- おまけに本館から離れた高台には別館まで完備している念の入れよう。
-  There was also an annex to the main building.
+  En prime, cette perfection allait jusqu'à comporter un bâtiment annexe situé sur les hauteurs, à l'écart du bâtiment principal.
 
 }
 [sha:2701ad6f9aba18486f17d906696ae594996634b4]{
 -- Page 40, Offset 828.
 -- これだけ徹底していれば尾ひれがつくのは致し方ない。
-  Given such extravagance, it was no wonder that it inspired rumors.
+  Puisque la demeure était aussi somptueuse, on ne pouvait empêcher les rumeurs de courir.
 
 }
 [sha:e1213db2069dcff37e1ed2c9229e30a700b42ada]{
 -- Page 40, Offset 829.
 -- 町の住人からすれば、不自然に豪勢な館が丘の上に建っているだけで不気味だろうし。
-  To the town residents, the mere existence of such a lavish and out-of-place mansion on top of the hill was a cause for suspicion.
+  Pour les habitants de la ville, le simple fait qu'une maison luxueuse étrange se tienne sur le haut de la colline devait être inquiétant.
 
 }
 [sha:2fa625daa6c3e44071aecf7535ab445a0eca79e2]{
 -- Page 40, Offset 830.
 -- <誹謗|ひぼう><中傷|ちゅうしょう>、<誤解|ごかい><軋轢|あつれき>は有名税みたいなものだ。
-  Rumors, lies, and slander were the prices to be paid for fame.
+  La calomnie abusive et l'incompréhension étaient en quelque sorte le prix de la notoriété.
 
 }
 [sha:0ac0d40d4271877f5cb8d7ff6a77bf67bc97c274]{
 -- Page 40, Offset 831.
 -- しかも住んでいるのは二人だけなのだから、その住人は吸血鬼扱いされても文句は言えまい。
-  With only two lodgers, it was hard to disagree with the perception that vampires must be living here.
+  En plus, seules deux personnes y vivaient. Elles n'avaient donc aucun moyen de protester, même si elles étaient traitées de vampires.
 
 }
 [sha:5d7e409a10a7fac3479b93782d6ca8a5c006b9ee]{
 -- Page 41, Offset 832.
 -- 「……まあ、私はともかく、有珠はそういうの、やりかねないし」
-"...Well, I know I'm not one, but Alice..."
+「...... Même si pour moi, ce n'est pas très crédible, Alice pourrait bien le faire croire.」
 
 }
 [sha:2485133e4e29949633aa15a169b9a0734e1ab219]{
 -- Page 41, Offset 833.
 -- 玄関に手をかける。
-  She put her hand on the front door.
+  Elle posa la main sur la porte d'entrée.
 
 }
 [sha:cc0aa6c4c162fd6fc9fd85685728616d1fdcdc3b]{
 -- Page 41, Offset 834.
 -- <真鍮|しんちゅう>の鍵が似合いそうな両開きの扉には、しかし、鍵穴などという不粋な物はない。
-  It was a grand double door that would have paired well with a brass lock, and yet, it was secured with little more than a simple keyhole.
+  Même si cette double porte aurait été parfaitement assortie à une clef en cuivre, elle ne comportait aucun de ces grossiers orifices que sont les trous de serrure.
 
 }
 [sha:e5e628e1a91dd2073b6d7b41b7d97523daec5e5d]{
 -- Page 41, Offset 835.
 -- 青子は片手で扉を押し開き、幽霊屋敷と称される館の中へと入っていった。
-  Pushing it open with one hand, she entered the supposedly haunted house.
+  Aoko poussa la porte d'une main et entra dans la demeure à la réputation de manoir hanté.
 
 }
 [sha:eb9e08d65f1267d973d63d3f1587cf8fc90e67b2]{
 -- Page 42, Offset 836.
 -- ……ところで。
-  ...And by the way...
+  ...... Au passage.
 
 }
 [sha:baf70eee1097e6d507f46a2b3d092d878b682187]{
 -- Page 42, Offset 837.
 -- 吸血鬼云々はともかく、幽霊に関しては、状況次第で出ないコトもないという。
-  If vampires were not enough to scare you, ghosts were known to appear on certain nights.
+  Hormis les remarques sur les vampires, pour les fantômes, il n'était pas impossible d'en voir apparaître selon les circonstances.
 
 }
