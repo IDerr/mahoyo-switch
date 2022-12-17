@@ -667,7 +667,7 @@ Cette fille me déteste et elle voudrait me faire partir de là, mais je ne peux
 [sha:bf98e979a1f68325ae6a4c52f662b1db38b76b93]{
 -- Page 36, Offset 8676.
 -- 「もち。その後は、ま、結局はこれが一番効果的なんだけどな。袖の下ってヤツ？　プレゼントで釣れ。
-「C'est ça. Après quoi, bah, le plus efficace en général, c'est ce qu'on appelle un pot de vin. Tu l'appâtes avec un cadeau.
+「C'est ça. Après quoi, bah, le plus efficace en général, c'est ce qu'on appelle un pot-de-vin. Tu l'appâtes avec un cadeau.
 
 }
 [sha:15d2feaa6f79435ef7f10a707fa360b53f62944a]{

@@ -349,7 +349,7 @@ Aoko remarqua un objet particulièrement étrange qui venait d'arriver au-dessus
 [sha:9291c68c60fe1bc134cb7c06da079d8845424ee3]{
 -- Page 16, Offset 7282.
 -- ブレッドマンの壁より青子の破壊活動の方がいずれ行く手を阻むのでは、と草十郎でなくとも不安に思う惨状である。
-  Devant cette scène de désolation, Sōjūrō pensa avec inquiétude que les murs d'hommes-pains risquaient moins de leur bloquer le chemin que les actions destructices d'Aoko.
+  Devant cette scène de désolation, Sōjūrō pensa avec inquiétude que les murs d'hommes-pains risquaient moins de leur bloquer le chemin que les actions destructrices d'Aoko.
 
 }
 [sha:de32e6b59740223ee9b04802d4d46033ab39a809]{

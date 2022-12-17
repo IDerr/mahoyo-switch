@@ -1801,7 +1801,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:46151447d24e31e37985356a3c1f8beecf1d4e52]{
 -- Page 73, Offset 6284.
 -- 「―――私の想定が甘かった。
-「―――Mes suppostions étaient ridicules.
+「―――Mes suppositions étaient ridicules.
 
 }
 [sha:a335ff5eab502784057333f2a3e8a458adfc366a]{

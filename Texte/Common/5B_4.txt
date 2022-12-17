@@ -145,7 +145,7 @@
 [sha:2b9fe9b218e24f086fb4cd47bf2783e6e2f749dd]{
 -- Page 6, Offset 6877.
 -- 蒼崎の家になんて生まれなければ、天才的な射撃手として名を<馳|は>せたに違いない。
-  Si elle n'avait pas vu le jour dans la famille Aozaki, elle se serait certainement forgée une réputation d'as de la gâchette.
+  Si elle n'avait pas vu le jour dans la famille Aozaki, elle se serait certainement forgé une réputation d'as de la gâchette.
 
 }
 [sha:1f0bbffd9b78e7c5b5e8d3d7761dc9c20bb3485b]{

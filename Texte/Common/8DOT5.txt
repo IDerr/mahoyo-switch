@@ -5203,7 +5203,7 @@ Une nonne a plus de force persuasive de par son statut qu'une simple étudiante,
 [sha:6bc6629367c1b83faf5642c1e6f626989cc9b944]{
 -- Page 286, Offset 12696.
 -- 事務所の内部はモーゼの十戒よろしく、シスターの一蹴りによって真ん中の机の列がきれいさっぱり吹っ飛んでいるだけで、ひとりの流血もない、実に平和的な解決だった。
-  Dans le bâtiment, la sœur avait élégament fait valser la rangée de bureaux au milieu de la pièce d'un coup de pied. Le problème fut donc résolu vraiment pacifiquement, comme le voulaient les dix commandements, sans aucune effusion de sang.
+  Dans le bâtiment, la sœur avait élégamment fait valser la rangée de bureaux au milieu de la pièce d'un coup de pied. Le problème fut donc résolu vraiment pacifiquement, comme le voulaient les dix commandements, sans aucune effusion de sang.
 
 }
 [sha:49df95a129e774df9d1bdc06e0ddc3f2c5a0b524]{

@@ -1273,7 +1273,7 @@ elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrai
 [sha:bceee79e3fe7e84f17b70daf7efe95181dfc5db8]{
 -- Page 68, Offset 10235.
 -- 「そうしてハンターたちは当時最新の技術―――電報でリョコウバトたちの所在を報せあって、実に２０万羽のリョコウバトを仕留め、４万羽を傷つけた。
-「Et donc, grâce à la toute dernière technologie de l'époque―――en l'occurence, le télégraphe, les chasseurs se tinrent au courant de la localisation des pigeons migrateurs, puis en abattirent deux cent mille et en blessèrent quarante mille.
+「Et donc, grâce à la toute dernière technologie de l'époque―――en l'occurrence, le télégraphe, les chasseurs se tinrent au courant de la localisation des pigeons migrateurs, puis en abattirent deux cent mille et en blessèrent quarante mille.
 
 }
 [sha:b16769be069a40af1461dbc710d449045fb097ad]{
