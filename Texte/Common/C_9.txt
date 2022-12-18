@@ -535,7 +535,7 @@ quelle sorte de sentiments devait-elle cracher à la figure du responsable ?
 [sha:62468ba3c69d6a5b6d91743a4895c48ff6dbe190]{
 -- Page 24, Offset 18777.
 -- もし仮に後悔の色なんてあったりしたら、それこそ一生許せないだろうし。
-  Et puis, si jamais elle y décelait ne serait-ce qu'une once de remord, elle ne le lui pardonnerait certainement jamais.
+  Et puis, si jamais elle y décelait ne serait-ce qu'une once de remords, elle ne le lui pardonnerait certainement jamais.
 
 }
 [sha:37d01910a3b92707b8344ffa036b97c54f316bf9]{
