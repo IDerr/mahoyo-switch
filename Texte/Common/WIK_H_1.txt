@@ -1,6 +1,6 @@
 [sha:43ad6a918e0d27d2a263e7dfa2c828d833fcd323]{
 -- Page 0, Offset 22325.
 -- わたしは、土桔由里彦氏の死がネックだ、と思った。
-  I thought about it, and concluded that Yurihiko Tokitsu's death was what we had to focus on now.
+  Je songeai qu'expliquer la mort de M. Tokitsu Yorihiko serait ardu.
 
 }

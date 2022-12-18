@@ -2089,7 +2089,7 @@ La directive de “ne rien faire”,
 [sha:24a42213f04d113675568e96a4c73768eb8366d7]{
 -- Page 107, Offset 493.
 -- 高校教師は様々な分野の知識や見識、<機構|きこう>と創造性を生徒に教授する。
-  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensées, les mécanismes et la créativité de différents domaines.
+  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensée, les mécanismes et la créativité de différents domaines.
 
 }
 [sha:d868196afabfe8c3f7f7c843779a281dde4224ad]{
