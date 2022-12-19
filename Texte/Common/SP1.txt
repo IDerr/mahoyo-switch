@@ -1531,13 +1531,13 @@ C'était à l'école de l'Association des Mages connue sous le nom de “Tour de
 [sha:efc3ad99d121399a7a138554604da0e5207f351a]{
 -- Page 80, Offset 20724.
 -- 「よし、行ってくるでござる」
-「Me revoilà. Encore merci d'avoir gardé le fort [heart]」
+「Bien, je me retire séance tenante.」
 
 }
 [sha:1bb5183254bd7f2235ee8d5a0de062ea5c5ce136]{
 -- Page 80, Offset 20725.
 -- 「おつかれー！　え、お酒くさい？　ばっか、酔ってなんかないですぅー。もーぜんぜん酔ってなんかないもーん」
-「Bien, je me retire séance tenante.」
+「Bon travail ! Hein ? J'empeste l'alcool ? Idiot ! Je suis pas soûûûle ! Mais alors pas du tout soûûûle !」
 
 }
 [sha:82569ce7130b2317adc0fe17c311418237f176aa]{

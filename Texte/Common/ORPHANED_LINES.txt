@@ -1303,31 +1303,31 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:dbb4d54618d2ba72fb6c21f42e28b718f61a47ca]{
 -- Page -1, Offset 18379.
 -- ならば、それは神速か。
-  There was only one thing to do.
+  ―――L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
 
 }
 [sha:24485a3c0aeb68d2c20fb6ab315beca0dd036fea]{
 -- Page -1, Offset 18380.
 -- 弾け跳んだ人狼が黒影なら、<迎|むか>え撃たんと踏みこむ彼も無音の黒影。
-  Soujyuro stepped forward, a silent shadow opposite the beastly silhouette of the incoming werewolf.
+  Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre silencieuse.
 
 }
 [sha:8a074e9a746f4a923772b9f12624e4f9aa079788]{
 -- Page -1, Offset 18381.
 -- 向かうべき位置はきっかり三歩分。
-  He needed exactly three paces.
+  La position qu'il devait occuper se trouvait exactement à trois pas.
 
 }
 [sha:53fd724935ab6ef25a533d88b25db6a1600bf11f]{
 -- Page -1, Offset 18382.
 -- その、わずか一メートルの前進に、彼は<人生|おのれ>の全てを<賭|と>した。
-  He bet his entire life on around three feet of distance.
+  Il misa tout son être dans cette avancée d'à peine un mètre.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page -1, Offset 18383.
 -- 「――――――」
-"..."
+「――――――」
 
 }
 [sha:e28e5912022e8fd1eed74b22c06dc91010f8890d]{
@@ -1345,25 +1345,25 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:1c496e82eccb6bafbceca68af8a61a044bf9f1a3]{
 -- Page -1, Offset 20722.
 -- 「ただいまー。今日もお留守番、ご苦労さま
-"I'm hooome! Thanks for watching over the place again today.
+「Me revoilà. Encore merci d'avoir gardé le fort.
 
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page -1, Offset 20723.
 -- 」
-"
+」
 
 }
 [sha:cd6ebefc61689997e77cf7ee63d4bfc0c5837e08]{
 -- Page -1, Offset 20891.
 -- ドアの境界に影で作った使い魔を仕込ませた、みたいな？　しばらくは貴女の影に棲みついているから、私に不利な証言したらたいへんだぞ
-  I made a familiar out of a shadow and put it in your doorway. It's going to be living in your shadow for a while, so try not say anything to inconvenience me.
+  J'ai comme qui dirait incrusté un familier fait d'ombres au chambranle de ta porte. Il séjournera un certain temps dans ton ombre, alors tu ferais mieux d'éviter tout témoignage malencontreux à mon égard
 
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page -1, Offset 20892.
 -- 」
-"
+」
 
 }
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
@@ -1387,13 +1387,13 @@ Alice Kuonji
 [sha:ddc0cb0bec11a2555be6c5c32abfb490f66af27b]{
 -- Page -1, Offset 24078.
 -- 静希 草十郎
-Soujyuro Sizuki
+Sojuro Shizuki
 
 }
 [sha:19b73e50808a10a9979654eee2b45d83b7e7c245]{
 -- Page -1, Offset 24079.
 -- 蒼崎 橙子
-Touko Aozaki
+Toko Aozaki
 
 }
 [sha:a72696f2f5e7fbc5bb60463e016f120837c06156]{
@@ -1405,13 +1405,13 @@ Tobimaru Tsukiji
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24081.
 -- 次へ
-Next
+Suite
 
 }
 [sha:cb24e314042b28ef2bcb398f6692c71189f23158]{
 -- Page -1, Offset 24082.
 -- 木乃美 芳助
-Housuke Kinomi
+Hosuke Kinomi
 
 }
 [sha:739b2477c783c00b832aae27a079d44884c47fb1]{
@@ -1441,7 +1441,7 @@ Ritsuka Suse
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24087.
 -- 次へ
-Next
+Suite
 
 }
 [sha:20b4dad1a60efd1ced7b91743d3e3c8acb864c05]{
@@ -1507,7 +1507,7 @@ Tobimaru Tsukiji
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24106.
 -- 次へ
-Next
+Suite
 
 }
 [sha:cb24e314042b28ef2bcb398f6692c71189f23158]{
@@ -1543,7 +1543,7 @@ Ritsuka Suse
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24112.
 -- 次へ
-Next
+Suite
 
 }
 [sha:20b4dad1a60efd1ced7b91743d3e3c8acb864c05]{
@@ -1573,6 +1573,6 @@ May Riddell Archelot
 [sha:7c4e26886df0aa92fdffea5e280eb0f5e121c4dc]{
 -- Page -1, Offset 24117.
 -- 戻る
-Back
+Retour
 
 }

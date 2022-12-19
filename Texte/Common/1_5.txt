@@ -1225,7 +1225,7 @@
 [sha:376c65c6b3474bbda28022b591c2e99445de363c]{
 -- Page 58, Offset 1042.
 -- たぶん今の有珠を見れば彼女の父親も、その名前がぴったり似合っていたと思えるだろうに。
-  Si son père la voyait maintenant, il penserait sûrement que le nom “Alice” lui allait comme un gant.
+  Si son père la voyait maintenant, il penserait sûrement que le nom <Alice|perle> lui allait comme un gant.
 
 }
 [sha:887d981c09f0bf43cb794ab7067156a3454e305f]{

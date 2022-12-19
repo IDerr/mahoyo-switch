@@ -829,7 +829,7 @@
 [sha:f2b8b7304aae4f4a592587d83ebd4175f655244b]{
 -- Page 41, Offset 283.
 -- が、しかし。今や高速道路やＪＲ……旧国鉄……といった動脈静脈が張り巡らされた我が国ではあるが、そういった山村は無いと言い切れないのも事実である。
-  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou la Japan Railways, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
+  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou la <Japan Railways|Chemin de fer National du Japon>, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
 
 }
 [sha:5c4e6291e725ce7e960b931941dfae6460d342b7]{
