@@ -403,7 +403,7 @@
 [sha:7276ea8a21b5e26c55773a10a5735ffac7f85fe4]{
 -- Page 20, Offset 3518.
 -- それは記憶の片隅にあった、ただ壊すだけの単純な魔術式。
-  C'était un sort qui ne servait qu'à détuire, niché dans un coin de sa mémoire.
+  C'était un sort qui ne servait qu'à détruire, niché dans un coin de sa mémoire.
 
 }
 [sha:b3addd5bb200c8677c1893aedd59be876c4d1f45]{

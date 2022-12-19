@@ -829,7 +829,7 @@
 [sha:f2b8b7304aae4f4a592587d83ebd4175f655244b]{
 -- Page 41, Offset 283.
 -- が、しかし。今や高速道路やＪＲ……旧国鉄……といった動脈静脈が張り巡らされた我が国ではあるが、そういった山村は無いと言い切れないのも事実である。
-  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou la Japan Railways, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
+  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou la <Japan Railways|Chemin de fer National du Japon>, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
 
 }
 [sha:5c4e6291e725ce7e960b931941dfae6460d342b7]{
@@ -2089,7 +2089,7 @@ La directive de “ne rien faire”,
 [sha:24a42213f04d113675568e96a4c73768eb8366d7]{
 -- Page 107, Offset 493.
 -- 高校教師は様々な分野の知識や見識、<機構|きこう>と創造性を生徒に教授する。
-  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensées, les mécanismes et la créativité de différents domaines.
+  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensée, les mécanismes et la créativité de différents domaines.
 
 }
 [sha:d868196afabfe8c3f7f7c843779a281dde4224ad]{

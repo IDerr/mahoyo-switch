@@ -403,7 +403,7 @@
 [sha:2c4df3f543199f2d12f7baad08a53aba16a7883f]{
 -- Page 21, Offset 2185.
 -- 「静希たちがくるならノルマはひとり七個に下がるのか……助かるなあ……」
-「Si Shizuki et les autres participent, ça en fera pile poil sept par personne...... Ce qui m'arrangerait......」
+「Si Shizuki et les autres participent, ça en fera pile-poil sept par personne...... Ce qui m'arrangerait......」
 
 }
 [sha:a22d24d145f9dd7176b12bbc5074b46949d426b3]{

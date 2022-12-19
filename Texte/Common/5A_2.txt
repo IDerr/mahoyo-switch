@@ -307,7 +307,7 @@
 [sha:bb6de60a97072709b89f655d42b43c3a7faa69b4]{
 -- Page 17, Offset 4447.
 -- <澄|す>んだ瞳は<比|ひ><喩|ゆ>ではなく、錯覚でなければ、実際に<燐|うす>い光を帯びている。
-  ses pupilles transparentes, qui fixaient directement son adversaire, étaient véritableement habitées par une légère lueur phosphorescente.
+  ses pupilles transparentes, qui fixaient directement son adversaire, étaient véritablement habitées par une légère lueur phosphorescente.
 
 }
 [sha:0614c32f9f05627ad2411a4c0d4e4357b3e8df5c]{
