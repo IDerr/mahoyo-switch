@@ -307,7 +307,7 @@
 [sha:f649882c86077dee9d1ad931576ad494c45cece0]{
 -- Page 19, Offset 758. Glued.
 -- 、ふぅ」
-  fuu.」
+ fuu.」
 
 }
 [sha:c3581b6bf478ccf3b9b94de223d2290519020f3b]{

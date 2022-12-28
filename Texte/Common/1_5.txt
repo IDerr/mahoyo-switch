@@ -241,7 +241,7 @@
 [sha:c69e06d4f8fd21e38483cf003b9be0a097f3ee10]{
 -- Page 12, Offset 878.
 -- 「……なんだ、人のことは言えないか。
-「...... Ah, je ne peux rien dire sur les autres.[r]
+「...... Ah, je ne peux rien dire sur les autres.
 
 }
 [sha:93bb100b6a6e6d736c01549e4951e38370a98e86]{
@@ -571,7 +571,7 @@
 [sha:2e4f5f5761e2bb6c50c054493e1e496ff7f3146b]{
 -- Page 25, Offset 933. Glued. Mods: @x.
 -- そうならないよう、循環のコードを二、三本外したり<縫合|ほうごう>したりしたんだけど」
- Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois codes de rotation.」
+  Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois codes de rotation.」
 
 }
 [sha:e82659731a3618e9840393f9c880ff6cc4f85d29]{
@@ -823,7 +823,7 @@
 [sha:71cbfa8fddcc03ff1788a31a981eecab7998835e]{
 -- Page 39, Offset 975.
 -- 「……へえ、あの人そういう趣味まであったんだ。
-「...... Hmm, il s'intéressait même à ce genre de choses.[r]
+「...... Hmm, il s'intéressait même à ce genre de choses.
 
 }
 [sha:0b0e5a9471b5457ac7449807a2e2ca59ade80918]{
@@ -919,7 +919,7 @@
 [sha:321d5b294be96ff7aed72c5e0b8dd532a6abf70b]{
 -- Page 44, Offset 991. Glued.
 -- 蒼崎青子は、そういう真似ができない人間だ。
-  Aozaki Aoko n'était pas du genre à laisser les choses en plan.
+ Aozaki Aoko n'était pas du genre à laisser les choses en plan.
 
 }
 [sha:5935590af523b25e2ed4751701116299ee8a4081]{
@@ -1021,7 +1021,7 @@
 [sha:7097f2c3b8b8455039e517bd9ca0843f11cc8283]{
 -- Page 48, Offset 1008.
 -- 『……有珠は関係ない。
-『...... Ça ne concerne pas Alice.[r]
+『...... Ça ne concerne pas Alice.
 
 }
 [sha:8a50cbfda13d362d9316909a228af5e2c4868fe4]{
@@ -1411,7 +1411,7 @@
 [sha:67676ab8b8b94a07b053fa5f873535ec133c264a]{
 -- Page 68, Offset 1073. Glued. Mods: @x.
 -- そんな、幸せそうな青子を一目も見ずに、有珠はさらりと返答する。
- Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
+Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 
 }
 [sha:5315aecc03303b66ad9a3b13791a951848aa9ca8]{
@@ -1585,7 +1585,7 @@
 [sha:1bbfa935a780f8386a6b13534655c0cbfa9891a1]{
 -- Page 78, Offset 1102.
 -- 「仕方ない、今日は<厄日|やくび>だし。
-「Pas le choix. Après tout, aujourd'hui était un jour maudit.[r]
+「Pas le choix. Après tout, aujourd'hui était un jour maudit.
 
 }
 [sha:19a6c68436ad98428a1db64f7145b0389c059985]{
