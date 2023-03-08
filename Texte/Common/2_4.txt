@@ -271,7 +271,7 @@
 [sha:c10d87d8bc38829e2d430a79a1e871c42faf220a]{
 -- Page 11, Offset 2717.
 -- “なんで会長になんか立候補したのよ。アンタは副会長って顔でしょ、どう見ても”
-  à partir du moment où tu m'as provoqué en disant : “Pourquoi t'es-tu porté candidat pour devenir président ? Peu importe la façon dont on te regarde, tu as une tête de vice-président”,[r]
+  à partir du moment où tu m'as provoqué en disant : “Pourquoi t'es-tu porté candidat pour devenir président ? Peu importe la façon dont on te regarde, tu as une tête de vice-président”,
 
 }
 [sha:a456797111e690df97b11d819a74c7c9e5bc1c37]{
@@ -541,7 +541,7 @@
 [sha:bb5e8a95b931b28c46d25edff485cef1c9980d43]{
 -- Page 21, Offset 2762. Glued. Mods: @x.
 -- こうなると青子の反応に一縷の望みをかける鳶丸だが―――
-  Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Aoko, mais―――
+Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Aoko, mais―――
 
 }
 [sha:2d55e67d92212384773f368c8862721b21eb910f]{
@@ -973,7 +973,7 @@
 [sha:dcab97c02506105db91d7bae96881874611b1f40]{
 -- Page 41, Offset 2834. Glued. Mods: @x.
 -- いつ？」
- Quand ?」
+Quand ?」
 
 }
 [sha:95bc406a553f4d55aa98ecea1d50e67bcd388e5f]{

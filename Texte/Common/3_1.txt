@@ -253,7 +253,7 @@
 [sha:aca7a4817f3f80bfd5a7ab18804ef9b49bd25fbb]{
 -- Page 13, Offset 3048.
 -- 「触覚を<譲|ゆず>るわ。……幸運ね。
-「Je te transmets le sens du toucher...... Tu as de la chance.[r]
+「Je te transmets le sens du toucher...... Tu as de la chance.
 
 }
 [sha:ac98e31afc95c8c182e68b5da6edf3be550c8660]{
