@@ -307,7 +307,7 @@
 [sha:a6645ca044310ed316323e440f9ea9eb62e2d5e1]{
 -- Page 15, Offset 3502.
 -- 『……とは言っても<架|エ><空|ー><要|テ><素|ル>は基本なんにでも<付属|で>きるんで、<大本|おおもと>がウソ、なんだっけ。
-『...... Même si on dit ça, à la base, [ruby char="l'élément" text="Éther"] imaginaire peut tout faire, donc en gros, les principes de base sont eux-mêmes une illusion, si je me souviens bien.
+『...... Même si on dit ça, à la base, <l'élément imaginaire|Éther> peut tout faire, donc en gros, les principes de base sont eux-mêmes une illusion, si je me souviens bien.
 
 }
 [sha:aa92a99907577d40dd55d9a34f2b8d2d372e70df]{

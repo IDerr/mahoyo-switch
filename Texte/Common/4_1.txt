@@ -355,7 +355,7 @@ Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une cert
 [sha:da72066f18384ea00ed13fe2bc57269265a1d817]{
 -- Page 21, Offset 3230. Glued. Mods: @x.
 -- 月一のバイト先はおろか親しい友人宅との移動時間、その優先順位まで調べ上げてるんだから。
-  J'ai vérifié non seulement là où ils travaillent au cours du mois, mais aussi le temps qu'ils mettent pour se rendre chez leurs amis proches, et même leurs principaux centres d'intérêt.
+J'ai vérifié non seulement là où ils travaillent au cours du mois, mais aussi le temps qu'ils mettent pour se rendre chez leurs amis proches, et même leurs principaux centres d'intérêt.
 
 }
 [sha:1dcdffbb240e6116cd2dfd19133a9dd5c2d19775]{
@@ -607,7 +607,7 @@ Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une cert
 [sha:54cba84885690c9a758c223704c15bc40cb41d1c]{
 -- Page 34, Offset 3272.
 -- 有珠の鏡を使った一級品だし、途中で破れる事もない。事実、入ってきたのはあの人形だけだとはっきり感じられた。
-  C'est un outil de première classe qui exploite les capacités de ton miroir, et elle ne se détruit pas en plein milieu. Et j'ai clairement ressenti que seule cette marionnette était entrée.[r]
+  C'est un outil de première classe qui exploite les capacités de ton miroir, et elle ne se détruit pas en plein milieu. Et j'ai clairement ressenti que seule cette marionnette était entrée.
 
 }
 [sha:8e9f2c5e0c197b91afc2b7063e929ec7d1437508]{
@@ -859,7 +859,7 @@ Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une cert
 [sha:176a63cadfce856ddd30148b2340968a6eade5df]{
 -- Page 46, Offset 3314.
 -- 『魔術師だから』なんて理由で現実社会との折り合いを無くす超越性なぞ、はなから青子は持っていない。
-Depuis sa venue au monde, Aoko ne possédait pas une nature transcendante lui permettant d'ignorer ses liens avec la société réelle sous prétexte qu'elle était une Mage.
+  Depuis sa venue au monde, Aoko ne possédait pas une nature transcendante lui permettant d'ignorer ses liens avec la société réelle sous prétexte qu'elle était une Mage.
 
 }
 [sha:291bd3cc5897a0e5a534a746bcab7cde41f3c67a]{
@@ -961,7 +961,7 @@ Depuis sa venue au monde, Aoko ne possédait pas une nature transcendante lui pe
 [sha:9871103eb58fcfd31651158096f99d45df01d62f]{
 -- Page 51, Offset 3331.
 -- 「名前は忘れたけど、中国の小説に出てきたのと同じよ」
-「J'ai oublié son nom, mais c'est la même que celle qui apparaît [ruby char="dans un roman chinois" text="La Pérégrination vers l'Ouest"].」
+「J'ai oublié son nom, mais c'est la même que celle qui apparaît dans <un roman chinois|La Pérégrination vers l'Ouest>.」
 
 }
 [sha:f929304012ade4dd8e28834a404c0daae8a8eaad]{
@@ -973,7 +973,7 @@ Depuis sa venue au monde, Aoko ne possédait pas une nature transcendante lui pe
 [sha:e927c632f9ea5f9a8982f769d12f6701986881ff]{
 -- Page 52, Offset 3333. Mods: @k, @e.
 -- 「それって<蓮華洞|れんげどう>の<番人|きょうだい>の話？　じゃ、あの赤い<瓢箪|ひょうたん>と同じなわけ？
-「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? [wait canskip=0 time=200][backlay][chgfg blur=1 storage=青子私服c05(大) type=13 partbg=bg01l久遠寺邸03居間(ソファ無し)-(夜)][fg preback=0 textoff=0 rule=crossfade time=300 storage=青子私服c06a(近)|c center=685 vcenter=257 index=1500 type=13 effect=屋内アンバー]Alors, c'est la même chose que cette gourde rouge ?[r]
+「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? Alors, c'est la même chose que cette gourde rouge ?
 
 }
 [sha:7651df9770111233ad06007362289f05d05e7b93]{
