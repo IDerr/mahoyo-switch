@@ -403,7 +403,7 @@
 [sha:bbe9a8ef8061ebc88ca331a69a26bc2a91213ce3]{
 -- Page 20, Offset 4195.
 -- “<弾いて|スナップ>……！”
-“[ruby text=Snap char=3]Feu......!”
+“Feu......!”
 
 }
 [sha:6523514b27f2671c480c0b423a0bdac0bb3b34e2]{
@@ -469,7 +469,7 @@
 [sha:e96a814bdd8d85bf2c4ab726f6b645a0069ef706]{
 -- Page 23, Offset 4206. Mods: @i, @o, @r.
 -- <Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|誰か私を償って。償って。償って。償って。償って。償って。償って。償って。償って―――！>”
-<Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|Que quelqu'un me conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure―――!>"
+<Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|Que quelqu'un me conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure――― !>"
 
 }
 [sha:c299ccff56b67e1edb74ae2737ea6d5617f055df]{
@@ -535,7 +535,7 @@
 [sha:2fe52e264a103e449fc98947980c2228b0d5ffc1]{
 -- Page 26, Offset 4217. Mods: @o, @i, @r.
 -- “……<Venite, Venite, Venite, meum sepulchrum|いらっしゃい、いらっしゃい、私の墓穴に、> ^<veniteeeeeeee……|いらっしゃいいいいいい……>”
-“...<Venite, Venite, Venite, meum sepulchrum veniteeeeeeee|Bienvenue, bienvenue, dans ma tombe, bienvenuuuuuuue>...”
+“... <Venite, Venite, Venite, meum sepulchrum veniteeeeeeee|... Bienvenue, bienvenue, dans ma tombe, bienvenuuuuuuue...>...”
 
 }
 [sha:3866be4005ebf44803dad2dca986f96eabbb102e]{

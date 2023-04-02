@@ -277,7 +277,7 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:62d594bf644e496977983953a627e1a4ff6b35b1]{
 -- Page 13, Offset 5188.
 -- 彼女は、現状の蒼<崎青|じぶん>子に生き延びる手段は<乏|とぼ>しいと考え、
-  Elle estima que ses chances de s'en sortir vivante dans les conditions actuelles étaient maigres,[r]
+  Elle estima que ses chances de s'en sortir vivante dans les conditions actuelles étaient maigres,
 
 }
 [sha:a2305c1078d11fe1c26784aef0e2478a1f10012e]{
@@ -355,13 +355,13 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:e67932660ca4bac7f5ae78cb9ee5a47bb519d462]{
 -- Page 17, Offset 5201. Glued. Mods: @n.
 -- 二回、二回、二回。
-Deux fois, deux fois, deux fois.
+ Deux fois, deux fois, deux fois.
 
 }
 [sha:6751f9532d92e7fb36318a7c7e9da7f08dfa23ca]{
 -- Page 17, Offset 5202. Glued.
 -- 一回だけでも耐えられないのに、二回も死ぬなんて、とても正気じゃいられない……！
-Une seule fois était déjà insupportable, mais mourir deux fois, on ne pouvait pas vraiment garder toute sa tête devant ça......!
+ Une seule fois était déjà insupportable, mais mourir deux fois, on ne pouvait pas vraiment garder toute sa tête devant ça......!
 
 }
 [sha:5be3c55a635fd931c6f69d03b3382d2c019ba9ec]{
@@ -421,7 +421,7 @@ Une seule fois était déjà insupportable, mais mourir deux fois, on ne pouvait
 [sha:1eb333fca59dde3cf2df68a9aedcda4379baddc2]{
 -- Page 21, Offset 5212.
 -- 青子の錯覚は、その<昏|くら>い呪詛によってかき消えた。
-  L'illusion d'Aoko se volatilisa à l'arrivée de cette sombre malédiction.[r]
+  L'illusion d'Aoko se volatilisa à l'arrivée de cette sombre malédiction.
 
 }
 [sha:f4246ce4741158feddea7763361cf61bb5834ed8]{
@@ -745,13 +745,13 @@ Je suis secouée, mais intérieurement, je suis toujours calme. Plus que deux se
 [sha:d6a988e950214dceedd390a18f6310c6d940ec2b]{
 -- Page 36, Offset 5266. Mods: @i, @r.
 -- “<Intellectus non necessarius est. Pius quiescat|正しさは脱ぎ捨てなさい。敬虔はお休みなさい。>.
-                      "<Intellectus non necessarius est. Pius quiescat|Renonce à ta droiture, dis adieu à ta piété.>.
+                      “<Intellectus non necessarius est. Pius quiescat|Renonce à ta droiture, dis adieu à ta piété.>.
 
 }
 [sha:86a3df03ce212ed5e88a3a94aebe458fc0357217]{
 -- Page 36, Offset 5267. Mods: @i, @r.
 -- <O nostra essentia ablata fuit|私たちは食み合う獣、その生はすべて装飾。>,
-                                  <  O nostra essentia ablata fuit|Nous sommes des bêtes, nous nous entre-dévorons, cette vie n'est que décoration.>,
+                                  <O nostra essentia ablata fuit,|Nous sommes des bêtes, nous nous entre-dévorons, cette vie n'est que décoration.>
 
 }
 [sha:387d509f380e591f0327dcf8c331ecc0fba9f927]{
@@ -793,7 +793,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:f6df3b96a2fc2d8c5150e432da492ff8bd07677e]{
 -- Page 38, Offset 5274. Glued. Mods: @i, @r.
 -- “「ワレ<ラ、死セリ|Iis salvatio>―――」”
-“<We die.|Nous sommes morts―――>...”
+“<Nous sommes morts|Iis salvatio>―――”
 
 }
 [sha:70f6c21dce8840c00cbcdf512404cd73f276bcdf]{
@@ -973,7 +973,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:97e8f0e880b2d5aa132e4936dddb3e5c3a15a930]{
 -- Page 48, Offset 5304.
 -- 「危ない」
-「Attention !」
+「Attention.」
 
 }
 [sha:afe3b952e09ffd0dd71971bc3f3318c3dfb1fcdd]{

@@ -217,7 +217,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:07fc67316282357521b666677c832542f6a11e8a]{
 -- Page 10, Offset 4864. Glued. Mods: @x.
 -- ……なんて、あるワケないか。なにか別の意味があると見るべきね―――”
-  C'est impossible. Il doit y avoir une autre raison―――”
+C'est impossible. Il doit y avoir une autre raison―――”
 
 }
 [sha:6532ed52b3fa30fa5349b3de4428b9fbafa5b246]{
@@ -355,7 +355,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:c2656881dc1aee21d37e7eccf6eaa11a184ae639]{
 -- Page 16, Offset 4887.
 -- 青子が草十郎を突きとばしつつ右手をなぎ払うのと、
-  Aoko, tout en poussant Sōjūrō, leva son bras droit,[r]
+  Aoko, tout en poussant Sōjūrō, leva son bras droit,
 
 }
 [sha:fe23a66ab11133d8b0661a297907215162b7a981]{

@@ -43,7 +43,7 @@
 [sha:d83039319716c3f91ebb783a2bd114f19114fb89]{
 -- Page 2, Offset 4403.
 -- 建物の広さで来訪者を迷わす<大迷路|ラビュリントス>と、
-  Les grands labyrinthes qui égaraient les clients par la taille des installations,[r]
+  Les grands labyrinthes qui égaraient les clients par la taille des installations,
 
 }
 [sha:87b4b2d3d2361984be3ffad2b84ada6d565217d5]{
@@ -127,7 +127,7 @@
 [sha:7ea768f9fb83a6f0abdafa3799f9a9ef6c7bfc3c]{
 -- Page 6, Offset 4417.
 -- 係員に助けを求めた入場者、実に５パーセント。
-  Au total, 5% des visiteurs avaient demandé de l'aide aux employés.
+  Au total, 5 % des visiteurs avaient demandé de l'aide aux employés.
 
 }
 [sha:e939c06ba8545b5011b1aca20e13af9e8fa1a497]{
@@ -841,7 +841,7 @@
 [sha:603557b0dcde21a771479a2a7ebacae1b096dc27]{
 -- Page 43, Offset 4536. Mods: @k, @e.
 -- “いや、なんだ、つまり、始末するとかしないとか、あの夜のお化けは蒼崎だったとか、都会はホントに込み入ってるとか、そういうコトじゃなくて―――”
-“Non, le problème, en gros, c'est pas qu'Aozaki veut me régler mon compte ou non, ou qu'elle était le monstre de l'autre nuit, ou que la ville est vraiment compliquée, c'est plutôt―――”[r]
+“Non, le problème, en gros, c'est pas qu'Aozaki veut me régler mon compte ou non, ou qu'elle était le monstre de l'autre nuit, ou que la ville est vraiment compliquée, c'est plutôt―――”
 
 }
 [sha:390b0b289414f722e5ebe5041806e889e10295aa]{
@@ -865,7 +865,7 @@
 [sha:d36ede7d30a6475fc78f230cd4805894fe7c25e6]{
 -- Page 44, Offset 4540. Mods: @k, @e.
 -- 目の前の少女が同じ人間であるかさえ怪しいが
-  Il n'était même pas sûr que la fille qui se tenait devant lui était humaine comme lui,[r]
+  Il n'était même pas sûr que la fille qui se tenait devant lui était humaine comme lui,
 
 }
 [sha:8bf7d12fb24042fa7ade758b8ec277e60a99d813]{
@@ -980,13 +980,12 @@
 -- Page 50, Offset 4559.
 -- 『助かった……！』
 『Sauvé......!』
-　Il arriva finalement dans un grand espace.
 
 }
 [sha:359bfc8909e6862bf5e0f9014d976ef265cac602]{
 -- Page 50, Offset 4560.
 -- 大きな空間にたどり着く。
-  He arrived in a large, open space.
+  Il arriva finalement dans un grand espace.
 
 }
 [sha:37f835da12e20001d1e8bcc109a3ac337b87bcd3]{
@@ -1166,7 +1165,7 @@
 [sha:eedae85fa225ce783fe4e954370272b0d523a59c]{
 -- Page 58, Offset 4590.
 -- 一瞬だけ足を止める草十郎と、
-  Sōjūrō s'arrêta un instant de marcher,[r]
+  Sōjūrō s'arrêta un instant de marcher,
 
 }
 [sha:6f02fa4bd319422ef405f33ae1557a6f4d951191]{
