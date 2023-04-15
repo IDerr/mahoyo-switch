@@ -289,7 +289,7 @@
 [sha:3a0536bb3891878de13ab65aa4a2dde9b55133b2]{
 -- Page 11, Offset 5445.
 -- 夜も遅いし、さっさと帰っていいわよ有珠。私の仕事っぷりを疑うワケじゃないんでしょう？」
-  Il se fait tard, tu peux rentrer, Alice. Tu as bien dit que tu ne doutais pas que je t'acquitte consciencieusement de ma tâche, n'est-ce pas ?」
+  Il se fait tard, tu peux rentrer, Alice. Tu as bien dit que tu ne doutais pas que je m'acquitte consciencieusement de ma tâche, n'est-ce pas ?」
 
 }
 [sha:4264cc6881498010486947f0eb8fb4dec1703f61]{
@@ -409,7 +409,7 @@ Et toi alors, tu ne crois pas que c'est un peu vieux jeu,
 [sha:06dbbec3492d0f02d7a6681caeacfeaefbfc8898]{
 -- Page 16, Offset 5465. Mods: @x.
 -- るぅー、なんて、時代遅れなんじゃない？」
-que de vouloir absolument respecter une promesse une fois qu'elle est faite ?」
+  que de vouloir absolument respecter une promesse une fois qu'elle est faite ?」
 
 }
 [sha:232b9d8ace23e725a26e2b452248e00c90a60ba7]{
@@ -457,7 +457,7 @@ que de vouloir absolument respecter une promesse une fois qu'elle est faite ?」
 [sha:179c7aff778be96f4c7c83d5fd98bf308a94c50d]{
 -- Page 18, Offset 5473.
 -- 「言い争いは後にしましょう。
-"「Nous nous disputerons plus tard.
+「Nous nous disputerons plus tard.
 
 }
 [sha:454163152a556cc58049a88faf0151ed257f5e6e]{
@@ -1039,7 +1039,7 @@ Son corps, incapable d'agir pendant le combat contre la marionnette, s'emballa p
 [sha:5fcb9c56c3fdb0533ceaa32f8495d5cb6747228b]{
 -- Page 46, Offset 5570. Mods: @n.
 -- 「いいの有珠？
-「Tu es sûre de toi, Alice ?[wait canskip=0 time=400][r]
+「Tu es sûre de toi, Alice ?
 
 }
 [sha:c882a6d57763fbbf2185ee8336e9cf1581dbca98]{
@@ -1231,7 +1231,7 @@ Son corps, incapable d'agir pendant le combat contre la marionnette, s'emballa p
 [sha:072b95b0b1f1cd1afb855a464394bc0cd28abe21]{
 -- Page 54, Offset 5602. Glued. Mods: @x.
 -- ごっこ遊びをしましょう、青子」
- Jouons ensemble, Aoko.」
+Jouons ensemble, Aoko.」
 
 }
 [sha:fff5ef429a25e09ed6a7fba1e09607bae83c77e4]{
