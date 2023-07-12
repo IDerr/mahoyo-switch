@@ -103,7 +103,7 @@
 [sha:690d4bf9f4106d86eac44ca30ed7c6f13aa346a6]{
 -- Page 4, Offset 15060.
 -- 服はもちろん、内臓まで吹き飛んだ。
-  Bien évidemment, ses habits avaient été arrachés et ses organes lacérés.
+  Bien évidemment, ses habits avaient été déchiquetés et ses organes lacérés.
 
 }
 [sha:b7f420e3fad3488a3b1c5f2836d1efbd053a88ed]{
@@ -157,7 +157,7 @@
 [sha:4c999012a9d51cdd6e7cb1dfbeb48fab841b486d]{
 -- Page 6, Offset 15069.
 -- 少女の黒い瞳と、狼の眼が交差した後―――
-  Après que les pupilles noires de la fille et que les yeux du loup se furent croisées―――
+  Après que les pupilles noires de la fille et les yeux du loup se furent croisés―――
 
 }
 [sha:6d58918c388f7173c050c13d23c5f6aedb78fe86]{

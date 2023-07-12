@@ -283,7 +283,7 @@ Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvai
 [sha:58522913abe813432045eff487d265d860e8435c]{
 -- Page 13, Offset 15335.
 -- 駆けつける足音も、助けを求める<意|こ><思|え>もない。
-Personne n'approchait ou n'appelait à l'aide.
+  Personne n'approchait ou n'appelait à l'aide.
 
 }
 [sha:29031d6e981d37a80e16083524bc946e5c054f81]{
