@@ -583,13 +583,13 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:955499bec431762e7cd9103923bac107d60eab26]{
 -- Page 27, Offset 15710.
 -- ベッドには　　が横臥している。
-  était allongée sur le lit.
+       était allongée sur le lit.
 
 }
 [sha:1d86df92a66a772f95ac568ecb4b6a9d99fc3757]{
 -- Page 27, Offset 15711.
 -- を看病しているのは、さっき礼拝堂にいた律架という女性だった。
-      était soignée par la femme appelée Ritsuka, présente un instant auparavant dans la chapelle.
+       était soignée par la femme appelée Ritsuka, présente un instant auparavant dans la chapelle.
 
 }
 [sha:36ac20d476713ff537b615ea0894ad40d7a65fcf]{

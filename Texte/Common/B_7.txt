@@ -1117,7 +1117,7 @@ comment peut-il traiter le corps d'une femme d'une telle façon, ce gamin――�
 [sha:8bd3ae2fdc3b882b9b7cea24b134b19c8805bc0c]{
 -- Page 57, Offset 16199.
 -- 不思議な事を、不思議な口調で草十郎は言う。
-  Sojyurou disait ces choses étranges sur un ton tout aussi étrange.
+  Sōjūrō disait ces choses étranges sur un ton tout aussi étrange.
 
 }
 [sha:3a9eb85945b5254ca7dd79e8966c2dab345780c8]{

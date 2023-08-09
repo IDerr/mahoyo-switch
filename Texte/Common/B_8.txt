@@ -619,7 +619,7 @@ On y arrive en général, mais on échoue à les soulager.」
 [sha:7c2197575537e0842a8771db87216931e3b8d804]{
 -- Page 30, Offset 16443. Mods: @k, @e.
 -- 自分でも、どうしてそう思うのかが分からない。
-  Moi-même, je ne comprends pas pourquoi je ressens cela.
+Moi-même, je ne comprends pas pourquoi je ressens cela.
 
 }
 [sha:a67233d2387b72ba70d6efa15c567d04fe54d79d]{
@@ -937,7 +937,7 @@ Ce serait grossier de le dire.」
 [sha:f6239fc28472ad6fb86d5cf7fbe875a52ab28537]{
 -- Page 46, Offset 16496.
 -- “姉が駄目になったので、次はおまえだ”としか言わなかったらしい。
-Il semblait ne lui avoir dit que ceci : “Ta grande sœur ne sert plus à rien, tu es donc la suivante.”
+  Il semblait ne lui avoir dit que ceci : “Ta grande sœur ne sert plus à rien, tu es donc la suivante.”
 
 }
 [sha:7f5380fc6f794388546c6c9f0db9ad31f026ba90]{

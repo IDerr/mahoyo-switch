@@ -175,7 +175,7 @@ Si Aoko est encore en vie, ne laissez pas son cœur s'arrêter.」
 [sha:653ba6bded323240802d528571deba8ec196eef6]{
 -- Page 9, Offset 15502. Glued. Mods: @x.
 -- ……静希君、ふたり乗りできる？」
- ...... Shizuki, peux-tu pédaler avec deux personnes dessus ?」
+...... Shizuki, peux-tu pédaler avec deux personnes dessus ?」
 
 }
 [sha:5368429e552a64ae509fb48db6478b3ebd40159c]{

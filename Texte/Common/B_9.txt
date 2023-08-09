@@ -427,7 +427,7 @@ Même s'il s'y rendait, il était évident qu'il ne ferait que leur mettre des b
 [sha:16d1a8e9a3d76ba254113449203aae6f113fcc54]{
 -- Page 19, Offset 16630.
 -- <改|あらた>めなさい静希さん。貴方が行っても、何も出来はしないのですから」
-Reconsidère ta décision, Shizuki. Même si tu y vas, tu ne pourras rien faire.」
+  Reconsidère ta décision, Shizuki. Même si tu y vas, tu ne pourras rien faire.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -517,13 +517,13 @@ il ne pourrait réfléchir à la suite des évènements que le moment venu.
 [sha:bfc583ee727b9a8831d948465d1eda30d840c26e]{
 -- Page 23, Offset 16645.
 -- 足を引っ張るといいますが、どのみち青子たちに勝ち目はないんでしょう？
-Vous dites qu'il ne sera qu'une gêne, mais de toute façon, Aoko et Alice n'ont aucune chance de l'emporter, n'est-ce pas ?
+  Vous dites qu'il ne sera qu'une gêne, mais de toute façon, Aoko et Alice n'ont aucune chance de l'emporter, n'est-ce pas ?
 
 }
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 23, Offset 16646. Glued. Mods: @x, @n.
 -- 
-  
+
 
 }
 [sha:9f3d0e0ded34c357659197a35d0bcf03baf5507a]{
