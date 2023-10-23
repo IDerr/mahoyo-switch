@@ -571,7 +571,7 @@ C'est tout ce que tu possèdes.
 [sha:ab39b3c3a4c00081ce56d9ba7eb2157c613f3868]{
 -- Page 21, Offset 17113. Glued. Mods: @r.
 -- 何も欲しくない。
-Je ne désire rien.
+ Je ne désire rien.
 
 }
 [sha:b54bbe8cdbd970a85623027c182bdd75df48f7f6]{

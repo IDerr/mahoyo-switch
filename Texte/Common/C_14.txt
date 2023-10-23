@@ -793,7 +793,7 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:45d7b327ce9048f00a06fa86d5ceb18cdaafd316]{
 -- Page 38, Offset 17691. Glued. Mods: @k, @e.
 -- 殺されたクセに、その相手まで<庇|かば>うっていうのアンタは？
-Tu irais jusqu'à protéger la personne qui t'a tué ?
+ Tu irais jusqu'à protéger la personne qui t'a tué ?
 
 }
 [sha:3c3cc908448b738055a2b6949acf3e5dc7a7d05e]{
@@ -1339,7 +1339,7 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:efbdb2e34146f02c6daa6c6382c77450e7449027]{
 -- Page 64, Offset 17782. Glued.
 -- センスがないにも程がある！　おまえ、本当に私の妹か！？」
-Tu pourrais faire des efforts pour améliorer ton style ! Tu es vraiment ma petite sœur ?!」
+ Tu pourrais faire des efforts pour améliorer ton style ! Tu es vraiment ma petite sœur ?!」
 
 }
 [sha:bff605715bbf4b71e0e406b3d28dea67d6b2c3a8]{
