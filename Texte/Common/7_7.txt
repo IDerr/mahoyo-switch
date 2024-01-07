@@ -85,7 +85,7 @@
 [sha:f7da139402743c4a930e6fbe82403d21f64b4cac]{
 -- Page 4, Offset 9714.
 -- 目眩を覚えるほどの既視感。
-  L'impression de déjà vu était telle qu'elle lui donnait presque le tournis.
+  L'impression de déjà-vu était telle qu'elle lui donnait presque le tournis.
 
 }
 [sha:7ffa3d24684ab679f1e923d481e60bb963227f6c]{

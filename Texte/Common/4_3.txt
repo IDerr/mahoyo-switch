@@ -145,7 +145,7 @@
 [sha:ce2eb20ee94436a0f12430e46d353947b3c41cf5]{
 -- Page 8, Offset 3475.
 -- 「……できればそれは避けたいところだけど、っと」
-「...... Si possible, je préfèrerais l'éviter.」
+「...... Si possible, je préférerais l'éviter.」
 
 }
 [sha:fe7c0d7ac57af0e7e8a4227ad632a60694e65617]{

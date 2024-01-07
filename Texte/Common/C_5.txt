@@ -367,7 +367,7 @@ Espèce... d'idiot.」
 [sha:f529fa31ac363ae1e4e40b6ad3c40edf5c1d037e]{
 -- Page 18, Offset 18266.
 -- 少年はもう一度呼びかけた。
-  Le garçon l'interpela une nouvelle fois.
+  Le garçon l'interpella une nouvelle fois.
 
 }
 [sha:7bf7762f629a84467cb092302125be527904db5b]{

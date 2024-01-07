@@ -403,7 +403,7 @@ De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus �
 [sha:a5c2dfaada85c100fe59ae98c517a96567dc9938]{
 -- Page 22, Offset 13078.
 -- 「……分かった、自腹を切るから出前をとろう。作るにしても材料がないからな。
-「...... Très bien, commandons quelque chose. Je le payerai de ma poche. Même si je voulais cuisiner autre chose, il n'y a plus d'ingrédients.
+「...... Très bien, commandons quelque chose. Je le paierai de ma poche. Même si je voulais cuisiner autre chose, il n'y a plus d'ingrédients.
 
 }
 [sha:cf38248fcf00de2c9b333759aacb9483bec7ae2a]{

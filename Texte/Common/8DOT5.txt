@@ -1423,7 +1423,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 [sha:d28db43af2fe88456412fc20c01646d5b6fe5fee]{
 -- Page 75, Offset 12066.
 -- 槻司家では祖父の方針で、毎年元旦に親戚会議が行われる。
-  Dans le clan Tsukiji, une réunion de famille avait lieu chaque nouvel an, sous la direction du patriarche.
+  Dans le clan Tsukiji, une réunion de famille avait lieu chaque Nouvel An, sous la direction du patriarche.
 
 }
 [sha:38e62e6435ea19c128f5b3d515be36f261edce54]{
@@ -2041,7 +2041,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 [sha:2de218914c771a0e0e00e258c0ff3c91aa171fbc]{
 -- Page 110, Offset 12169.
 -- 何が悪夢のクリーチャーか、あんな、夢にまで見そうなマスコットが他にあるだろうか？　いやあるまい。
-  Où ont-ils vu leur “créature de cauchemar” ?! Existe-t-il d'autre mascotte de rêve comme celle-là ? Non, il n'y en a aucune !
+  Où ont-ils vu leur “créature de cauchemar” ?! Existe-t-il d'autres mascottes de rêve comme celle-là ? Non, il n'y en a aucune !
 
 }
 [sha:6e8682b93d2e7082fe6841faec49ffac3b56ea5b]{

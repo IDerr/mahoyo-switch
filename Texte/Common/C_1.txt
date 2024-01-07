@@ -775,7 +775,7 @@ Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pou
 [sha:fda11cd73cf72474f612b19bbc344e9b5c0af83a]{
 -- Page 37, Offset 16916.
 -- 魔術戦では敵わぬと見て、殴り合いならぬ蹴り合いを挑むつもりらしい。
-  Elle semblait vouloir engager un combat au corps à corps, jugeant probablement qu'elle ne pouvait pas rivaliser en terme de joute magique.
+  Elle semblait vouloir engager un combat au corps à corps, jugeant probablement qu'elle ne pouvait pas rivaliser en termes de joute magique.
 
 }
 [sha:eadd86727742fcc0588183afbcd5576e21055b41]{

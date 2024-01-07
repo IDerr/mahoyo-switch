@@ -91,7 +91,7 @@
 [sha:0f055377995c77528f256db07bf618ab48b96017]{
 -- Page 5, Offset 21566.
 -- 不謹慎だけど、花に囲まれた状態で満足そうに永眠している山城先生のビジュアルは、厳かなお葬式というより、紅白歌合戦の大歌手を連想させたからだ。
-  En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du nouvel an que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
+  En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du Nouvel An que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
 
 }
 [sha:58cc2325c950cd4de5b13267d86316fa94edca06]{

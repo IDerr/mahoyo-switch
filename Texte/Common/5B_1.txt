@@ -433,7 +433,7 @@ Et toi alors, tu ne crois pas que c'est un peu vieux jeu,
 [sha:2e5469e07ab85ae5aec8de2df74bef78c733f431]{
 -- Page 17, Offset 5469.
 -- なので、友情のカタチは微妙かつ特殊だった。互いの意見が衝突したら、どちらかが砕けるまで先には進まない。
-  Ainsi, la nature de leur amitié était subtile et spéciale. Si leurs deux opinions étaient en désaccord, tant que l'une d'elles ne cèderait pas, elles resteraient campées sur leurs positions.
+  Ainsi, la nature de leur amitié était subtile et spéciale. Si leurs deux opinions étaient en désaccord, tant que l'une d'elles ne céderait pas, elles resteraient campées sur leurs positions.
 
 }
 [sha:82291f8cebc383d831213fb387dae1e4d8e17378]{

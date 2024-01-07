@@ -2557,7 +2557,7 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
 [sha:d93bed3f9f1226c3bba96a562476aa80a99c4fed]{
 -- Page 135, Offset 20897.
 -- 「その使い魔、年明けには溶けるから安心なさい。
-「Ce familier disparaîtra au nouvel an, rassure-toi.
+「Ce familier disparaîtra au Nouvel An, rassure-toi.
 
 }
 [sha:a8d8288a857c008d78fc92012d6131c8898f53f6]{
@@ -3979,7 +3979,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 [sha:4ec13da86be34142caffd2895d995002fe0be213]{
 -- Page 209, Offset 21134.
 -- 犬どもにも甘味をたしなむ心があるのですね」
-  Je ne savais pas que les chiens pouvait savourer les douceurs.」
+  Je ne savais pas que les chiens pouvaient savourer les douceurs.」
 
 }
 [sha:20d7a178f2de0f042d736c4a93c4d6d3113fe103]{

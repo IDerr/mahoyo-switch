@@ -799,7 +799,7 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 [sha:c1e3c26fe6b38c4f5e50e6856e8abf122adb7803]{
 -- Page 34, Offset 15176.
 -- ベオが呼び寄せた野犬たちだけどね、公園の外にまだ山ほどいるんだが―――困ったコトに、彼らは本来<何|・><を|・><口|・><に|・><す|・><る|・><べ|・><き|・><か|・>を思い出している。
-  C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'il sont censés suivre.
+  C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'ils sont censés suivre.
 
 }
 [sha:da9f7565c32f49c673a8e99c284be00d407310c7]{

@@ -595,7 +595,7 @@ Pour faire simple, les seuls lieux sûrs sont ta chambre et cette pièce.」
 [sha:a3f2c73130432b0f47aac5529593c0136d5346a8]{
 -- Page 28, Offset 8357.
 -- 「もっとも、私もそう暇じゃなし、側についてあげられるのは期末試験が終わるまでってコトで。
-「Cependant, mon temps libre n'est pas infini. Je te protègerai jusqu'à ce que les examens de fin d'année soient terminés.
+「Cependant, mon temps libre n'est pas infini. Je te protégerai jusqu'à ce que les examens de fin d'année soient terminés.
 
 }
 [sha:bb7be598945b42f5eca2e06ee5ad3a4f43cf0c6d]{

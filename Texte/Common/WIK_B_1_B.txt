@@ -691,7 +691,7 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:a4d819c3249880f9a7585ea6b8cdaa8f26fc9ca8]{
 -- Page 35, Offset 21392.
 -- 槻司や蒼崎、静希がベオと呼んでいるので、わたしもそれに<倣|なら>っているだけだ。
-  Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appellaient ainsi.
+  Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appelaient ainsi.
 
 }
 [sha:ba58960f9b595beeff12d998c5c3f5264b83d53f]{

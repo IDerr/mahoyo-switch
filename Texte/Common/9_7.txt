@@ -907,7 +907,7 @@ Mais ça n'a que des limites, c'est ça ?」
 [sha:57449d77fd4f90477c81cb00f6b1736752550089]{
 -- Page 50, Offset 14225.
 -- 蒼崎の家を継ぐコトになったから、魔術師として生きていく道を選んだのだと。
-  elle avait choisi de vivre en tant que tel parce qu'elle devait être l'héritière de la famille Aozaki.
+  elle avait choisi de vivre en tant que telle parce qu'elle devait être l'héritière de la famille Aozaki.
 
 }
 [sha:a0db2516de60ab72e4d99c68460670b633dde6a2]{

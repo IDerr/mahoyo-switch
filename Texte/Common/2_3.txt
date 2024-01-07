@@ -85,7 +85,7 @@
 [sha:b4d027ce7b039de82bc4bd885edfe5fb87afa7e9]{
 -- Page 3, Offset 2515.
 -- 名前を呼ばれた男子生徒は、青子が自分の名前を知っている事に驚きつつ返答した。
-  répondit l'élève interpelé, étonné qu'Aoko connaisse son nom.
+  répondit l'élève interpellé, étonné qu'Aoko connaisse son nom.
 
 }
 [sha:f6de10cfbc40a3584fe5a9fa538822b4199a4212]{

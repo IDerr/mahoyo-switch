@@ -235,7 +235,7 @@ Pinktrude en fait partie ?!
 [sha:0ba74c66d0892c25a1a4004772f82598b795d65a]{
 -- Page 10, Offset 13351.
 -- 青子もつられて笑顔になる。
-  Amusée par sa réaction, les lèvres d'Aoko dessinèrent un sourire.
+  Les lèvres d'Aoko, amusée par sa réaction, dessinèrent un sourire.
 
 }
 [sha:3bfb47ce0efb80d42e816196e998ebdb3e456e2e]{

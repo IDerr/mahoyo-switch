@@ -391,7 +391,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:47b629852fbd0afcef507c149961d199cf2983cd]{
 -- Page 23, Offset 1713.
 -- 指定外のアルバイトを疑うのなら、まず“働き先は一生徒につき一件だけ”という規則を改めてください」
-  Si vous avez des soupçons selon lesquels il travaillerait en violant la règlementation, alors d'abord, modifiez le règlement qui stipule “un seul emploi par élève”.」
+  Si vous avez des soupçons selon lesquels il travaillerait en violant la réglementation, alors d'abord, modifiez le règlement qui stipule “un seul emploi par élève”.」
 
 }
 [sha:862d9ac6e79efde278449db8da61fde9dae51f26]{
@@ -1250,7 +1250,7 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:605a5753059dd2f708fcc444a76693258e6472cb]{
 -- Page 71, Offset 1856.
 -- 「ちょっと待って。台所に<律架|りつか>のヤツ、いないでしょうね？　こんな所であんなのに会うなんてゴメンだから」
-「Attends un peu. Il n'y a pas Ritsuka en cuisine, j'espère ? Parce que je préfèrerais ne pas avoir à la croiser.」
+「Attends un peu. Il n'y a pas Ritsuka en cuisine, j'espère ? Parce que je préférerais ne pas avoir à la croiser.」
 
 }
 [sha:186ce7c52b040c4c27c4123242f8fbec653f5d97]{
@@ -1973,7 +1973,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:b56339646eddea64dc367cda3688b43e94d68ab7]{
 -- Page 110, Offset 1976.
 -- そもそも私有地だし、入ったらお巡りさんを呼ばれちゃって、そのまま交番でお説教ターイム！　なんて、あんまり楽しくないでしょう？」
-  En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpelé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
+  En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpellé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
 
 }
 [sha:f1a213912f339249ecd220e3d0c5996b11363318]{
