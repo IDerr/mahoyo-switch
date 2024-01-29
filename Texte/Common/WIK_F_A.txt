@@ -157,7 +157,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:1b9327c9d3ce5c975789895c9366f8b728d63455]{
 -- Page 8, Offset 22014. Glued. Mods: @x.
 -- ふん、アンタの弱点なんて分かってんだから。また返り討ちにされて、ネズミ<大|だい>の大きさにしてほしいワケ？」
- Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
+Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
 
 }
 [sha:4b33724aee3aacf76117e4bf627fbc147834cbf2]{
@@ -271,13 +271,13 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:7dc6b23b54274060927eca88cf600bec4fb96eca]{
 -- Page 13, Offset 22033. Mods: @k, @e.
 -- これはもう立派な殺人事件です！　そして犯人はこの中にいる！
-  Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous ! [wait canskip=0 time=200][chgfg storage=律架02a(全)|d zoom=80 time=400 textoff=0]Du moins, ça serait bien !」
+  Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous !
 
 }
 [sha:66c8f6630116cfe14bf6350e9958cef916ba2f7a]{
 -- Page 13, Offset 22034. Glued. Mods: @x.
 -- といいなー！」
-CasterTM doit vérifier cette ligne
+Du moins, ça serait bien !」
 
 }
 [sha:00386fe09ba6b4f0e9a69229429770ea4ef0a1b6]{
@@ -337,7 +337,7 @@ CasterTM doit vérifier cette ligne
 [sha:28a3942e5de53f15c6088a0046d01a336abc24ba]{
 -- Page 17, Offset 22044.
 -- しかし、まったくの狂言でない事も理解してください。
-  Mais comprenez que ce n'est en aucun cas de la comédie.[r]
+  Mais comprenez que ce n'est en aucun cas de la comédie.
 
 }
 [sha:94647f6e688449738a707f7b97854d845c6c1f3d]{

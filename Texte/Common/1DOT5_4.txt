@@ -1341,9 +1341,6 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 -- Page 77, Offset 1871.
 -- 今日も天候は思わしくない。
   Aujourd'hui aussi, l'état du ciel n'était pas rassurant.
-　
-　
-　
 
 }
 [sha:bbfe6992ce9cee3f056773ad3311e520a69be884]{

@@ -181,7 +181,7 @@ Et puis, des victimes ? Tu aimes exagérer, Alice~! C'est sûr que c'est un gran
 [sha:66ef42d236b71dc27398314b4323819cb9d4d1ce]{
 -- Page 11, Offset 21862.
 -- 「貴方たち二人が不真面目な分、私が引き締めなくてはいけないだけですっ」
-「Je suis contrainte de l'être pour pallier à votre manque de sérieux !」
+「Je suis contrainte de l'être pour pallier votre manque de sérieux !」
 
 }
 [sha:e45f433754e4404f8c6c66425fd971a9bfcb0186]{

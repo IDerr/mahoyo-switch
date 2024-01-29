@@ -25,7 +25,7 @@
 [sha:c6981c5e45b662bd51ab7319b8f44cfba9c6450e]{
 -- Page 1, Offset 23105. Glued.
 -- ベッドに横になる。
-et m'allongeai sur le lit.
+ et m'allongeai sur le lit.
 
 }
 [sha:60e9cde06acfc268257e2c70640dc3ce5249befb]{

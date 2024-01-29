@@ -265,7 +265,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:ab633bde75e2fbddb1585b8f0a3d2b875c96aa55]{
 -- Page 17, Offset 22560.
 -- 「やめとけ草十郎。そいつが救いの天使だってんなら、蒼崎なんざ癒しの女神クラスになっちまう。根本的に喩えを間違えてるぞ、アレ」
-「Oublie ça, Sōjūrō. Si cette fille est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se gourre complètement de métaphore.」
+「Oublie ça, Sōjūrō. Si cette fille est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se goure complètement de métaphore.」
 
 }
 [sha:36f6da6656b3ba280492833b4fdb8f463fb8d6a7]{

@@ -313,7 +313,7 @@
 [sha:52bc213cd052f29431c68426febffce4b4e679cb]{
 -- Page 18, Offset 22380. Mods: @k, @e.
 -- 「んー、草十郎さんと組めないんなら、ボクはひとりでいいや。
-「Hmm, si je ne peux pas être avec Sōjūrō, alors je préfère rester seul.
+「Hmm, si je ne peux pas être avec Sōjūrō, alors je préfère rester tout seul.
 
 }
 [sha:a65db6956be6dfcf8defcf3aa2ea89d1d853841e]{

@@ -499,7 +499,7 @@
 [sha:df94f15e226f8c3f218f36e11b33f9db56edd2cd]{
 -- Page 24, Offset 23013.
 -- “何者か”が近寄ってくる。
-“Quelqu'un” se rapprochait.
+  “Quelqu'un” se rapprochait.
 
 }
 [sha:fa8e6b843ca35711bb2b6732748fdbaeac6a87a5]{

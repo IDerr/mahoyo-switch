@@ -19,7 +19,7 @@
 [sha:2a575150e7ba3bf4668179d65336ad8f7476d182]{
 -- Page 0, Offset 22697. Glued.
 -- 何事かと、起きて電灯のスイッチをいれてみたが、反応はない。
-Je me levai, perplexe, et appuyai sur l'interrupteur, mais cela n'eut aucun effet.
+ Je me levai, perplexe, et appuyai sur l'interrupteur, mais cela n'eut aucun effet.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{

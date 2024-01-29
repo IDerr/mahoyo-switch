@@ -157,7 +157,7 @@
 [sha:dd47fb97ddb219f60e9f783e4149b40e0e72729f]{
 -- Page 8, Offset 21905. Glued. Mods: @x.
 -- 外野がいちいち口はさんでんじゃないわよ」
- Et puis, mêle-toi de ce qui te regarde !」
+Et puis, mêle-toi de ce qui te regarde !」
 
 }
 [sha:f161e03a7b15c49eada9c65c024e4f59c69c8877]{
@@ -403,7 +403,7 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 [sha:81d05724b88fe9a5068820d74663e7f98061025c]{
 -- Page 22, Offset 21946.
 -- 「そ、そんなバカな理由でコンサートをドタキャンするヤツがいるかーーーー！　音楽の神に謝れ！　ファンをなんだと思ってんのよアンタは!?」
-「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupideーーーー! Excuse-toi auprès du Dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
+「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupideーーーー! Excuse-toi auprès du dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
 
 }
 [sha:6898675bf521703e9bb1725ac4a34dd7b0f3f1b1]{
