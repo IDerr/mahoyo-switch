@@ -445,7 +445,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:48fae699e9951e44f95a9707d2eb577c080ebcfd]{
 -- Page 24, Offset 10097.
 -- “こっちの方が貴方に向いてる”と<中華飯店|まっどべあ>を紹介してくれた人物だ。
-elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrait mieux.
+  elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrait mieux.
 
 }
 [sha:93c5ffcc97c26895cb1c792311c57015fdac20d9]{
@@ -1177,7 +1177,7 @@ elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrai
 [sha:83d86fe6ca8845f0c4f471a076f9196b89ae7867]{
 -- Page 62, Offset 10219.
 -- ―――繁殖と狩猟のバランスは、誰が見ても明らかに狂っていたのに」
-  ―――Il y avait pourtant un déséquilibre flagrant entre leur vitesse de reproduction et la chasse dont ils étaient victime, quand on y réfléchissait.」
+  ―――Il y avait pourtant un déséquilibre flagrant entre leur vitesse de reproduction et la chasse dont ils étaient victimes, quand on y réfléchissait.」
 
 }
 [sha:24f408428adfcc52ddd56f7ea5aa8fa502151a8a]{
@@ -1291,7 +1291,7 @@ elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrai
 [sha:87089e924bdebb4e765412ed0408ec46ec0906de]{
 -- Page 69, Offset 10238.
 -- “野生で生きられる種ではない。”
-“Une espèce incapable de survivre à l'état sauvage.”
+  “Une espèce incapable de survivre à l'état sauvage.”
 
 }
 [sha:0427da302559f83d77504790ebc08953e02d447d]{
@@ -1765,7 +1765,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:338255c9c3ca7fc670f47e8d642b50ecf8a8678d]{
 -- Page 94, Offset 10317. Glued.
 -- 背後からイヤそうな視線を感じ、しずしずと冷蔵庫を開けた。
-ressentit un regard désagréable dans son dos puis ouvrit doucement le réfrigérateur.
+ ressentit un regard désagréable dans son dos puis ouvrit doucement le réfrigérateur.
 
 }
 [sha:2f0b5ba4cd41b9ea22f367e4d8711fa46b2b39e3]{

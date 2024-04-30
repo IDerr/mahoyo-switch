@@ -121,7 +121,7 @@
 [sha:e8528d70e12d60bd6e02e8521437726119d52872]{
 -- Page 6, Offset 20487. Glued. Mods: @x.
 -- あ、帰りにハンバーガー買ってきてくれたら嬉しいな！　あの、パン生地がどっしりしてて、ハンバーグがぎゅっとしたヤツがいい！」
- Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
+Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
 
 }
 [sha:f5b1f9198590b7e345d7425e443dc1e1214bf3ed]{
@@ -523,7 +523,7 @@
 [sha:7a8b870b208ed00e60af0eccacd94ad4afbfe18a]{
 -- Page 29, Offset 20554.
 -- 『時計塔』と呼ばれる魔術協会の学舎での話である。
-C'était à l'école de l'Association des Mages connue sous le nom de “Tour de l'Horloge”.
+  C'était à l'école de l'Association des Mages connue sous le nom de “Tour de l'Horloge”.
 
 }
 [sha:d740720b21dd3596b2ed70bb13476b731197a748]{
@@ -757,7 +757,7 @@ C'était à l'école de l'Association des Mages connue sous le nom de “Tour de
 [sha:74dc6aaf1c99ca36f5c9ae7eca431ed1e712096c]{
 -- Page 39, Offset 20593.
 -- なんてグチをこぼしながら、蒼崎橙子は四年ぶりの故郷を歩く。
-  Aozaki Tōko se répandait en jérémiades, mais elle appréciait la première balade dans sa ville natale après quatre ans.
+  Aozaki Tōko se répandait en jérémiades, mais elle appréciait la première balade dans sa ville natale depuis quatre ans.
 
 }
 [sha:b7b7c9b8a7fcdef7e61c498d188e925a01708c54]{
@@ -1597,7 +1597,7 @@ C'était à l'école de l'Association des Mages connue sous le nom de “Tour de
 [sha:a0265e17588d4fce9f071c12b64b7e550e74895f]{
 -- Page 84, Offset 20735.
 -- ……まあそりゃ、早く本命とやらと戦ってみたいけど、もうちょっと先なんでしょ。ならガマンする。トーコさんの言葉は今のところハズレないから、おとなしく従います。
-  ...... Enfin, j'avoue que je veux combattre notre adversaire final au plus vite, mais l'heure n'est pas encore arrivée, n'est-ce pas ? Alors je patienterai. Tes paroles se sont toujours avérées justes. J'obéirai sagement.
+  ...... Enfin, j'avoue que je veux combattre notre adversaire final au plus vite, mais l'heure n'est pas encore arrivée, n'est-ce pas ? Alors je patienterai. Tes paroles se sont toujours avérées. J'obéirai sagement.
 
 }
 [sha:5f6c271a17acf8a74b5904a6c305fde399ece0b0]{
@@ -1873,7 +1873,7 @@ C'était à l'école de l'Association des Mages connue sous le nom de “Tour de
 [sha:201d76722260177c7bcf51029720be72d306ec00]{
 -- Page 99, Offset 20781.
 -- 買い物中の奥さま方、売店の店員、外回りのサラリーマン等から様々な視線を浴びながら、蒼崎橙子はどこ吹く風で大通りを闊歩する。
-  Tandis que divers regards se rivaient sur elle - une femme mariée affairée à ses courses par-ci, un magasinier et un “salary-man” de sortie par-là -, Aozaki Tōko marchait fièrement et avec indifférence dans l'avenue.
+  Tandis que divers regards se rivaient sur elle — une femme mariée affairée à ses courses par-ci, un magasinier et un “salary-man” de sortie par-là —, Aozaki Tōko marchait fièrement et avec indifférence dans l'avenue.
 
 }
 [sha:0eb8f6c4d157562ada74797584f3066ddbdcdc9f]{
@@ -2407,7 +2407,7 @@ C'était à l'école de l'Association des Mages connue sous le nom de “Tour de
 [sha:e9446f9d6d1750198bdfbbb566d909f4364e5f46]{
 -- Page 126, Offset 20870.
 -- 棲みついた魔術師たちの要望―――追加施設、特別待遇を望む声は日に日に増しており、いいかげん会社を<興|おこ>すか、あるいは全員<釈|ク><放|ビ>にするかと、悩み多い橙子だった。
-  Les demandes des Mages qui avaient nidifié les lieux allaient en se multipliant - ajout d'équipements, traitement de faveur, etc. - et Tōko hésitait à fonder une entreprise ou à tous les virer.
+  Les demandes des Mages qui avaient nidifié les lieux allaient en se multipliant — ajout d'équipements, traitement de faveur, etc. — et Tōko hésitait à fonder une entreprise ou à tous les virer.
 
 }
 [sha:30b6e0a788823d5925efb30dacef125161464e39]{
@@ -2557,7 +2557,7 @@ C'était à l'école de l'Association des Mages connue sous le nom de “Tour de
 [sha:d93bed3f9f1226c3bba96a562476aa80a99c4fed]{
 -- Page 135, Offset 20897.
 -- 「その使い魔、年明けには溶けるから安心なさい。
-「Ce familier disparaîtra au nouvel an, rassure-toi.
+「Ce familier disparaîtra au Nouvel An, rassure-toi.
 
 }
 [sha:a8d8288a857c008d78fc92012d6131c8898f53f6]{
@@ -2857,7 +2857,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:216f30022568934cb675c3c040fb4140bc76e0f7]{
 -- Page 149, Offset 20947.
 -- ―――後に、カレはその手の“毒を毒と思わせない”タイプの人間から手ひどい教訓を学ぶ事になるが、それはまた別の話である。
-  ―――Plus tard, un humain du même type - “du poison qui ne ressemble pas à du poison” - lui donnerait une rude leçon, mais c'était une autre histoire.
+  ―――Plus tard, un humain du même type — “du poison qui ne ressemble pas à du poison” — lui donnerait une rude leçon, mais c'était une autre histoire.
 
 }
 [sha:1c9dd41131efc3d8fefb7f8890d1ff4dfeed55c0]{
@@ -2911,7 +2911,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:1d3412fbd12c068fe80928c00666c46b7230286b]{
 -- Page 152, Offset 20956.
 -- もっとこう、余裕のあるコミュニケーションをとりませんか？　立場上、いつ最後の<逢瀬|おうせ>になるか分からないワケですし」
-  Et si nous engagions une conversation un peu plus posée ? Après tout, en considérant nos positions respectives, qui sait quand notre dernière rencontre aura lieu ?」
+  Et si nous engagions une conversation un peu plus posée ? Après tout, en considérant nos positions respectives, qui sait quand notre prochaine rencontre aura lieu ?」
 
 }
 [sha:9e6293c36076d447dba5ea1e8e194e69a0e04e15]{
@@ -3037,7 +3037,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:f187c6175a877a485559a6ed289ee3788e4db8d8]{
 -- Page 160, Offset 20977. Glued. Mods: @x.
 -- 勢い、どこぞの工場とかオフィスビルとか秘密基地にしそうでしょう？
-  Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
+Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
 
 }
 [sha:32a862c30ee5a4b6f71d858ac7d653949df20c33]{
@@ -3451,7 +3451,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:9362bd8c51d944bac674f1bb755a44c37e68f7fd]{
 -- Page 181, Offset 21046.
 -- “相手が隙を見せたから、勝てると確信したから斬った”
-S'il avait dégainé, ce n'était pas parce que le Magicien avait abaissé sa vigilance, le rendant ainsi certain de sa victoire.
+  S'il avait dégainé, ce n'était pas parce que le Magicien avait abaissé sa vigilance, le rendant ainsi certain de sa victoire.
 
 }
 [sha:9a6e3c9078a3c35a719d310e63b2515a2dd6e82d]{
@@ -3463,7 +3463,7 @@ S'il avait dégainé, ce n'était pas parce que le Magicien avait abaissé sa vi
 [sha:8353f237f04b8713c3b933d38cf778f54c7641f2]{
 -- Page 181, Offset 21048.
 -- “今の自分の気持ちなら斬れると思ったから、斬った”。
-Il avait abattu sa lame simplement parce qu'il se sentait capable de le faire, gouverné par les sentiments qui l'envahissaient alors.
+  Il avait abattu sa lame simplement parce qu'il se sentait capable de le faire, gouverné par les sentiments qui l'envahissaient alors.
 
 }
 [sha:8289783db87584302b7b06694bfb0fdad0a004f9]{
@@ -3769,7 +3769,7 @@ Il avait abattu sa lame simplement parce qu'il se sentait capable de le faire, g
 [sha:25d122a43be5e501367b29b2435077cd2359af6f]{
 -- Page 200, Offset 21099.
 -- 一方、小型犬―――狼の信念はとりあえず隅に追いやった―――に変身したベオは、シスターを障害物としか見ていなかった。
-  De son côté, Beo transformé en petit chien - il avait pour le moment renoncé à ses principes de loup - ne voyait la sœur que comme un obstacle.
+  De son côté, Beo transformé en petit chien — il avait pour le moment renoncé à ses principes de loup — ne voyait la sœur que comme un obstacle.
 
 }
 [sha:d58d9466f10d8199963f20a99fd1a1dc2673f146]{
@@ -3979,7 +3979,7 @@ Il avait abattu sa lame simplement parce qu'il se sentait capable de le faire, g
 [sha:4ec13da86be34142caffd2895d995002fe0be213]{
 -- Page 209, Offset 21134.
 -- 犬どもにも甘味をたしなむ心があるのですね」
-  Je ne savais pas que les chiens pouvait savourer les douceurs.」
+  Je ne savais pas que les chiens pouvaient savourer les douceurs.」
 
 }
 [sha:20d7a178f2de0f042d736c4a93c4d6d3113fe103]{

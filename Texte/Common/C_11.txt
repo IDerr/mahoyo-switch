@@ -409,7 +409,7 @@
 [sha:118570794b865cbddd19f9d773444e1b5e214d8d]{
 -- Page 17, Offset 17242.
 -- 「<[ansz]|アンサズ>、<[swel]|ソウェル>、<[ingz]|イングズ>ッ！」
-「<[ansz]|Ansuz>, <[swel]|Sowilo>, <[ingz]|Ingwaz> !」
+「<[ansz], [swel], [ingz]|Ansuz Sowilo Ingwaz> !」
 
 }
 [sha:926432ad7b341780d05964819c987fc003e40de2]{

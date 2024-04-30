@@ -241,7 +241,7 @@ C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
 [sha:b8c4e1a505d000c6daf236d438212973ac1e1ef7]{
 -- Page 13, Offset 13051. Glued. Mods: @x.
 -- このご時世、新しくできた牛丼屋ですら贅沢に原価あげてるわよ、ばか！」
-  De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
+De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
 
 }
 [sha:828eb1b471efb7b484986978dac6f3a3c98de824]{
@@ -403,7 +403,7 @@ C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
 [sha:a5c2dfaada85c100fe59ae98c517a96567dc9938]{
 -- Page 22, Offset 13078.
 -- 「……分かった、自腹を切るから出前をとろう。作るにしても材料がないからな。
-「...... Très bien, commandons quelque chose. Je le payerai de ma poche. Même si je voulais cuisiner autre chose, il n'y a plus d'ingrédients.
+「...... Très bien, commandons quelque chose. Je le paierai de ma poche. Même si je voulais cuisiner autre chose, il n'y a plus d'ingrédients.
 
 }
 [sha:cf38248fcf00de2c9b333759aacb9483bec7ae2a]{

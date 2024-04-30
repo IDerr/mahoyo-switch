@@ -115,7 +115,7 @@
 [sha:3190be3e0335e7702dfb920fb21e72f44a783a03]{
 -- Page 4, Offset 23710. Glued.
 -- 犯人ね静希ーーーー！」
-Shizukiーーーー!」
+ Shizukiーーーー!」
 
 }
 [sha:415a6f5be50b510fdf50148df0d93abc8a4a400b]{
@@ -157,7 +157,7 @@ Shizukiーーーー!」
 [sha:7f90890b8747219bde43de977face5c7ca22fa6e]{
 -- Page 5, Offset 23717. Glued.
 -- 床にはおかしなアイテムが転がった。
-s'écroula, et un étrange objet roula au sol.
+ s'écroula, et un étrange objet roula au sol.
 
 }
 [sha:0a5d8730c40e518c80f685f03916ebd18d7eaf66]{

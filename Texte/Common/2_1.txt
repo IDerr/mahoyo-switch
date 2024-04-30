@@ -475,7 +475,7 @@
 [sha:c0cf40ea945e23625122d60a929a278bcf407cf3]{
 -- Page 24, Offset 2197.
 -- それに、その缶詰半分以上、賞味期限切れてるだろう」
-  Et puis, plus de la moitié de ces boîtes de conserve dépassent la date de péremption.」
+  Et puis, la date de péremption de plus de la moitié de ces boîtes de conserve est passée.」
 
 }
 [sha:7e5c425c22aff977a029fa1df5fe47bd408364d2]{
@@ -769,7 +769,7 @@
 [sha:9fc68c8bedff662559221a7341790c2067f7b287]{
 -- Page 37, Offset 2246. Glued.
 -- オイ？
-  Allez !
+Allez !
 
 }
 [sha:54640b9d1dc2b91c6cfeb54cd8b7a4bedb9a3266]{

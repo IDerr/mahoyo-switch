@@ -331,7 +331,7 @@
 [sha:fd4ce60fba6ef8d9121be66fe55c331b233e80a3]{
 -- Page 17, Offset 200. Glued. Mods: @x.
 -- しかし、ズレている、というのは何なのか。
- Mais qu'est-ce qu'il entendait au juste par “spécial” ?
+Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 
 }
 [sha:543f1befbb980c6bd97a7373ddfd17f07bd6725f]{
@@ -643,7 +643,7 @@
 [sha:353507d6943334f85c45bfad00f232cbe7e8a666]{
 -- Page 34, Offset 252. Glued.
 -- 、むう」
-  hmm.」
+ hmm.」
 
 }
 [sha:e1a031483cc2f63147e5193aca4c0eeee6ecd593]{
@@ -727,7 +727,7 @@
 [sha:41cdab50e86f49f5b74fc1f190cc0d7dbc379d0b]{
 -- Page 36, Offset 266. Glued. Mods: @x.
 -- 引っ越して二週間も経つのに、気を抜くと故郷を<偲|しの>ぶ未練がましさに肩を落とす。
- Ça fait déjà deux semaines que j'ai déménagé, mais dès que je relâche mon attention, je regrette les terres de mon enfance et m'apitoie sur mon sort.
+Ça fait déjà deux semaines que j'ai déménagé, mais dès que je relâche mon attention, je regrette les terres de mon enfance et m'apitoie sur mon sort.
 
 }
 [sha:fb847481400d07b6c1d3de986d1989a5df984feb]{
@@ -1033,7 +1033,7 @@
 [sha:a111f9a8218433fc67e89408c94e2679107db631]{
 -- Page 52, Offset 317. Glued. Mods: @x.
 -- だいたい、そういうインスタントな人付き合いなら<鳶丸|とびまる>の方が向いてるっての』
- Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
+Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 
 }
 [sha:d63da93af31732681587eb36ec492a722128e9c7]{
@@ -1141,7 +1141,7 @@
 [sha:b220575fd0591ed4f5a9d94d2013d8ec62b11d79]{
 -- Page 59, Offset 335.
 -- 『何をしなくともいい』という指令は、
-La directive de “ne rien faire”,
+  La directive de “ne rien faire”,
 
 }
 [sha:08143f583a2f442e4797fc0d2a4634157a471737]{
@@ -1789,7 +1789,7 @@ La directive de “ne rien faire”,
 [sha:1849f6c099a4d989603c0abde848b6bcc5ee7646]{
 -- Page 92, Offset 443.
 -- 「あー、うん。いけてる、二人とも気は合うようだね！
-「Ah---, oui. Vous devriez vous en sortir, on dirait que vous allez bien vous entendre !
+「Ah―――, oui. Vous devriez vous en sortir, on dirait que vous allez bien vous entendre !
 
 }
 [sha:47058a58b08abc7862b7deb7324eb56270cc760a]{
@@ -1873,7 +1873,7 @@ La directive de “ne rien faire”,
 [sha:d751f458211b0f27c51be924f30c2b996b205401]{
 -- Page 97, Offset 457. Glued. Mods: @x.
 -- ―――それで。あなた、名前は？」
- ―――Et donc, quel est ton nom ?」
+―――Et donc, quel est ton nom ?」
 
 }
 [sha:c725f68289f60bb234832afe97a38c549790d3f9]{
@@ -2083,13 +2083,13 @@ La directive de “ne rien faire”,
 [sha:4d87dbecf805fb7f15d4ecb0f3911e6a45fb7d8c]{
 -- Page 106, Offset 492. Glued. Mods: @x.
 -- ただ漠然と、大勢の人々で学習する場所、としか聞いていなかったらしい。
- Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiait avec de nombreuses personnes.
+Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiait avec de nombreuses personnes.
 
 }
 [sha:24a42213f04d113675568e96a4c73768eb8366d7]{
 -- Page 107, Offset 493.
 -- 高校教師は様々な分野の知識や見識、<機構|きこう>と創造性を生徒に教授する。
-  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensée, les mécanismes et la créativité de différents domaines.
+  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensées, les mécanismes et la créativité de différents domaines.
 
 }
 [sha:d868196afabfe8c3f7f7c843779a281dde4224ad]{
@@ -2383,7 +2383,7 @@ La directive de “ne rien faire”,
 [sha:e1812ed9692540029d85a8fb3956d4e014a92f6f]{
 -- Page 122, Offset 542. Glued. Mods: @x.
 -- 怒るのが商売とか、そういう家柄の人なのか？」
- Est-ce que tu viens d'une famille dont le métier est de se mettre en colère ?」
+Est-ce que tu viens d'une famille dont le métier est de se mettre en colère ?」
 
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{

@@ -187,7 +187,7 @@
 [sha:4998c2b8631ddfe2110bd34dc59186430b20a6d2]{
 -- Page 8, Offset 14745.
 -- 『もしもし、久遠寺ですが』と言えばいいのか、
-Devait-il dire “Allô, c'est Kuonji”,
+  Devait-il dire “Allô, c'est Kuonji”,
 
 }
 [sha:756151f6f0b13f4d7f7b0db61d0625171c3f9b95]{

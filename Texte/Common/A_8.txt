@@ -313,7 +313,7 @@
 [sha:e48beeaf52c7f3e6f64718b1bdbe2a8ffc2f4647]{
 -- Page 14, Offset 15451.
 -- 廃墟の古城を思わせるこのロビーで、月と有珠だけが現実より鮮明に映っている。
-  Dans ce vestibule aux allures de vieux château en ruines, la lune et Alice apparaissaient plus distinctes que la réalité.
+  Dans ce vestibule aux allures de vieux château en ruine, la lune et Alice apparaissaient plus distinctes que la réalité.
 
 }
 [sha:3834eaafddc49385d9bd0771de8bdea3e6fc2a0d]{

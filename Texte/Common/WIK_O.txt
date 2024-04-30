@@ -103,13 +103,13 @@
 [sha:4a7c906c92ccb8c1e27d60a02bff71268692f68a]{
 -- Page 4, Offset 22835. Glued. Mods: @n.
 -- 律架さんと
-Ritsuka et
+ Ritsuka et
 
 }
 [sha:b137ee6846639c09476c1dd1203772e71de286fe]{
 -- Page 4, Offset 22836. Glued. Mods: @n.
 -- ベオに招待状を送ったわ」
-Beo.」
+ Beo.」
 
 }
 [sha:253a2372f1bb761d54ab2e5c5faa75984d5c2adf]{
@@ -121,25 +121,25 @@ Beo.」
 [sha:1e8ee8e832596d5eb8852e0f81028d2540437115]{
 -- Page 5, Offset 22838. Glued. Mods: @n.
 -- 詠梨と
-Eiri,
+ Eiri,
 
 }
 [sha:26fa279d15ecda3fa280edf50a4c530789912706]{
 -- Page 5, Offset 22839. Glued. Mods: @n.
 -- 唯架さん、
-Yuika,
+ Yuika,
 
 }
 [sha:d66f4c8485c72255e5994eebce466998e9883485]{
 -- Page 5, Offset 22840. Glued. Mods: @n.
 -- 木乃美と
-Kinomi et
+ Kinomi et
 
 }
 [sha:f646b7368530cd1cb9132b93b40e968641be219d]{
 -- Page 5, Offset 22841. Glued.
 -- 鳶丸」
-Tobimaru.」
+ Tobimaru.」
 
 }
 [sha:85c4e6f00c3b7c75f174d7a2728369e05f3127cb]{
@@ -151,19 +151,19 @@ Tobimaru.」
 [sha:91772608d42272bbdd3bca76e9ff9b3ccf7d7369]{
 -- Page 5, Offset 22843. Glued. Mods: @n.
 -- 久万梨と、
-Kumari,
+ Kumari,
 
 }
 [sha:84b75af0944c33d068a87ebf03e2e82e0536bbfe]{
 -- Page 5, Offset 22844. Glued. Mods: @n.
 -- 最後に余ったのを
-celle qui restait à
+ celle qui restait à
 
 }
 [sha:ee4decf9a4a71ccd91252839caac25b5b55f8010]{
 -- Page 5, Offset 22845. Glued. Mods: @k, @e.
 -- 先生と、
-monsieur Yamashiro et
+ monsieur Yamashiro et
 
 }
 [sha:fe4e3b0404667911117c71362473ffb3a5927405]{

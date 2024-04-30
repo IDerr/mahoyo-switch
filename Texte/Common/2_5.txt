@@ -199,7 +199,7 @@
 [sha:f2ee3ff6703e53e818a7332372a1698f94c6f3c9]{
 -- Page 11, Offset 2909.
 -- 当然店側としてもそういった人種の入場はお断りしたいのだが、確たる証拠もなしにお帰り願う訳にもいかない。
-  Évidemment, l'établissement aurait préféré refuser l'accès à ce genre de personnes, mais sans preuve irréfutable, il ne pouvait pas leur interdire d'entrer.[r]
+  Évidemment, l'établissement aurait préféré refuser l'accès à ce genre de personnes, mais sans preuve irréfutable, il ne pouvait pas leur interdire d'entrer.
 
 }
 [sha:eda051c05b430aa0a18626f8e1a77f1b9095a610]{

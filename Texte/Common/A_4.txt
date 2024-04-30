@@ -37,7 +37,7 @@
 [sha:e78c285a50a86f5f35323ef8cc11c3a54dbd53ae]{
 -- Page 2, Offset 14767.
 -- その飢えた腹を満たすために、目前のか弱い少女の、あまりにも食欲をそそる温かな腹の肉へ。
-Ils se dirigeaient vers la chair brûlante et appétissante que représentait la frêle jeune fille pour remplir leurs ventres affamés.
+  Ils se dirigeaient vers la chair brûlante et appétissante que représentait la frêle jeune fille pour remplir leurs ventres affamés.
 
 }
 [sha:4dcbfd59f46f6cbbfcdaba30f92a2df619a5e94f]{
@@ -1039,7 +1039,7 @@ En effet, vaincre l'ennemi avant d'attirer son attention constituait le B.A.BA d
 [sha:62186aee706b4e115f319ae065869cc0aa132e51]{
 -- Page 46, Offset 14934.
 -- 『誰<が駒鳥を殺した|Who killed COCK ROBIN.>か？』を、音程はずれで唄っている。
-chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
+  chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
 
 }
 [sha:ea615d85ea7e1210979e1122fff26c46c6a020fe]{

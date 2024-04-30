@@ -1,7 +1,7 @@
 [sha:1d459ec936be68ee32e8d0a7962f8c7f5cf4e039]{
 -- Page 0, Offset 5984.
 -- 「<刻印|ルート>、<接続|セット>―――
-「<Sceau|Route>, >connexion|Set>―――
+「<Sceau|Route>, <connexion|Set>―――
 
 }
 [sha:06469b560a94cdbbc7dcc3748e3580ed46e02b6a]{
@@ -301,7 +301,7 @@
 [sha:ef3622a36f931308ddcb4dd489d5e6010c5d44e9]{
 -- Page 14, Offset 6034.
 -- “童話の怪物”は誰はばかることなく、その強大な力を、ちっぽけな<青子|えもの>に振り下ろそうと―――
-Sans restreinte, le “monstre de contes pour enfants” dirigea son énorme pouvoir vers sa misérable proie―――
+  Sans restreinte, le “monstre de contes pour enfants” dirigea son énorme pouvoir vers sa misérable proie―――
 
 }
 [sha:528a36a37da10f9ffec50d5eead544751348c8ba]{
@@ -607,7 +607,7 @@ Sans restreinte, le “monstre de contes pour enfants” dirigea son énorme pou
 [sha:c733aa01a38c2235e665f347d1b9ea6e1cae671a]{
 -- Page 28, Offset 6085.
 -- 瞬間火炎温度３０００度に匹敵する<架|エ><空|ー><要|テ><素|ル>が、真っ向から無に帰していく……！
-  L'éther, élément imaginaire dont la flamme atteignait la température de 3 000°C, retourna instantanément au néant......!
+  L'éther, élément imaginaire dont la flamme atteignait une température d'environ 3 000°C, retourna instantanément au néant......!
 
 }
 [sha:fda16bd3a3799b906bdc63b3e1dd7fd83bce8feb]{
@@ -937,7 +937,7 @@ un crâne difforme et maléfique ricanait et se servait d'un bloc de glace colos
 [sha:4736a758b2d4fc210c1ad27bcda19ab59a66ebeb]{
 -- Page 39, Offset 6140. Glued. Mods: @n.
 -- 氷塊は盾ではない。
-  Le bloc de glace n'était pas un bouclier.
+ Le bloc de glace n'était pas un bouclier.
 
 }
 [sha:1e72a695a67c34e0bcb2fc4fd1c7ec213210856d]{
@@ -1027,7 +1027,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:e204892adf7a9c8b6cd563b7233a7cfbb68fa4b4]{
 -- Page 41, Offset 6155. Glued. Mods: @x.
 -- 全界層、ブン回せ―――！」
-  Toutes les couches à plein régime―――!」
+Toutes les couches à plein régime―――!」
 
 }
 [sha:b0f6f045babc6a2c3f1aadc1ad85258c117bff15]{
@@ -1627,7 +1627,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:d361fd3e3aa5d64c95fbb62db9915775d0253555]{
 -- Page 67, Offset 6255.
 -- 「<接|チ><続|ェ><解|ン><除|ジ>―――<領|チ><域|ェ><拡|ン><大|ジ>、<再接続|チェンジ>―――！」
-「<Abandon de la connexion―――Expansion du cercle, reconnexion|Change, change, change>―――!」
+「Abandon de la connexion―――<Expansion du cercle|Change, change, change>, reconnexion―――!」
 
 }
 [sha:010dbc25836e35d28add8f64ac98bd4195650981]{

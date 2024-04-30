@@ -463,7 +463,7 @@ Et puis, qu'est-ce que tu peux faire ?」
 [sha:9451242119fe42ae43682c39e96fe130cd09976e]{
 -- Page 20, Offset 5385.
 -- ひとりだと分が悪いからふたりでかかるだけだ。善意でも厚意でもない。取引って言わないか、こういうの？」
-  Comme c'est suicidaire de l'attaquer seul, mieux vaut le faire ensemble. Mais ne le prends pas pour de la bonne volonté ou de la gentillesse. On appelle bien ça conclure un marché, non ?」[r]
+  Comme c'est suicidaire de l'attaquer seul, mieux vaut le faire ensemble. Mais ne le prends pas pour de la bonne volonté ou de la gentillesse. On appelle bien ça conclure un marché, non ?」
 
 }
 [sha:58386f565469567ad96babc19b0d42968bc5bda7]{

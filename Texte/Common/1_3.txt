@@ -133,7 +133,7 @@
 [sha:13619e9000f6c249d12edac0ed587f0e83160843]{
 -- Page 7, Offset 574. Glued. Mods: @x.
 -- どんな心境の変化か、草十郎は申し訳なさそうに目を伏せていた。
- Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattendu.
+Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattendu.
 
 }
 [sha:63fdecd8de16537f0a23d69e69337da65e713f00]{
@@ -277,7 +277,7 @@
 [sha:09301194c6fd4b990a48c18c308da2e867da19d0]{
 -- Page 13, Offset 598. Glued. Mods: @x.
 -- そんな気持ちをぐっと飲みこんで、青子は極上の笑顔を作る。
- Ravalant sa rage, Aoko fit son plus beau sourire.
+Ravalant sa rage, Aoko fit son plus beau sourire.
 
 }
 [sha:fab5501e51e2435db218b6c2187834c640bca154]{

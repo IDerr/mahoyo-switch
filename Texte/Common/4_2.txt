@@ -79,13 +79,13 @@
 [sha:5a82de60d1fa9a9e2c27524dd038cc32bd73f532]{
 -- Page 4, Offset 3376. Glued. Mods: @x, @k, @e.
 -- ありがとうのひとつも無いってのは、ちょっと癪にさわるわよね。
-  Ça m'énerve qu'il ne m'ait même pas dit merci.
+Ça m'énerve qu'il ne m'ait même pas dit merci.
 
 }
 [sha:5587969429a8dac0b8591fe7bf9f1e6ff1f9794d]{
 -- Page 4, Offset 3377. Glued. Mods: @x.
 -- ね、聞いてる有珠？」
-  Dis, tu m'écoutes Alice ?」
+Dis, tu m'écoutes Alice ?」
 
 }
 [sha:01eefef7bf260f14ceccbd1bcaecfb6dfc67c802]{
@@ -103,13 +103,13 @@
 [sha:fea95573e2fc072100b0a4add16be7d0ac044908]{
 -- Page 5, Offset 3380.
 -- それに満足して青子ははんぺんをかじった。
-  Satisfaite, Aoko mordit dans [ruby char="du hanpen." text="pâté de poisson"]
+  Satisfaite, Aoko mordit dans <du hanpen|pâté de poisson>.]
 
 }
 [sha:48d3f3573b6878f58dd7b3cc34f36da10303e8e8]{
 -- Page 6, Offset 3381.
 -- 「それに私、いい人ー、なんて言われるヤツは信用できないのよ。あろう事か鳶丸までそんなこと口走る始末だし。
-「Et aussi, je ne peux pas faire confiance à quelqu'un qui a la réputation d'être un type bien. Même Tobimaru s'est mis à dire ça.[r]
+「Et aussi, je ne peux pas faire confiance à quelqu'un qui a la réputation d'être un type bien. Même Tobimaru s'est mis à dire ça.
 
 }
 [sha:b815f3c03897dfcda444f067610190c470ca62c7]{
@@ -264,13 +264,13 @@
 [sha:9aeee876bed44565df0961a3587648874c6df121]{
 -- Page 13, Offset 3407. Glued. Mods: @x, @k, @e.
 -- だいたいそれどころじゃないし！　興味とかまったくないし！
- Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
+Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 
 }
 [sha:6b21dc194f6494c6bb94b1a555f5fbe180b7d1d0]{
 -- Page 13, Offset 3408. Glued. Mods: @x.
 -- 会話もこれ以上ないってぐらい簡潔に切り上げたし！」
- C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne plus avoir à lui parler !」
+C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne plus avoir à lui parler !」
 
 }
 [sha:19a7c7891a707054f056369be64fd78f00b53311]{

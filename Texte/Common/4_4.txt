@@ -1195,7 +1195,7 @@ Aoko s'adressa à eux.
 [sha:560904dde13d3cef311e209bcb7c200737184469]{
 -- Page 60, Offset 3787.
 -- 「とにかく、お世話になったから。
-「En tout cas, tu as pris soin de moi.[r]
+「En tout cas, tu as pris soin de moi.
 
 }
 [sha:5541f13c90a65f9ea23e667779dddeaa9d361163]{
@@ -1225,7 +1225,7 @@ Aoko s'adressa à eux.
 [sha:0a4e166b5e812390d7c7c015bb0b93a472dd8ce5]{
 -- Page 61, Offset 3792. Glued. Mods: @x.
 -- それで、水泳部はどう？　やっていけそう？」
- Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
+Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 
 }
 [sha:85efca90ab2e6ea637c5dc5c3d3de447bf9ca877]{
@@ -1423,7 +1423,7 @@ Aoko s'adressa à eux.
 [sha:a9f49fac3f0ac02ba71788d8141e1b17e26f64f2]{
 -- Page 70, Offset 3825.
 -- 「ちょっとね。でもいいの。解決したみたいだから。
-「Oui. Mais c'est bon, ça semble réglé.[r]
+「Oui. Mais c'est bon, ça semble réglé.
 
 }
 [sha:8de081de5d08f8deede194ac6ba21324545df78a]{
@@ -1441,7 +1441,7 @@ Aoko s'adressa à eux.
 [sha:4dc43cee0bb49f7d05283f2a95a66eef0632438e]{
 -- Page 71, Offset 3828. Mods: @n.
 -- 青子にしては珍しい、
-  Elle l'avait dit sur une impulsion,[wait canskip=0 time=400][r]
+  Elle l'avait dit sur une impulsion,
 
 }
 [sha:dca47a1fd06ab9d35cebd634ef8fe5be88bfab04]{
@@ -1555,7 +1555,7 @@ Aoko s'adressa à eux.
 [sha:0ffadcee1a22872e99b02bc1e8a5883e0a82c143]{
 -- Page 77, Offset 3847.
 -- 静希君に銃をあげる。それでどちらかの動物を撃って。
-  Je te donne un fusil. Avec, tu dois tirer sur l'un des deux.[r]
+  Je te donne un fusil. Avec, tu dois tirer sur l'un des deux.
 
 }
 [sha:3a89d99a966ea88950552f59e552118244002208]{

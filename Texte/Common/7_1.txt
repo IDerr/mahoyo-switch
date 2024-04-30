@@ -193,7 +193,7 @@
 [sha:8c01f53a288fb73775a87fcf023a5e2348acb94b]{
 -- Page 9, Offset 8597.
 -- “テストの点数が低いのは生徒ではなく教育する側が無能だからです。教育委員会への報告準備はいつでも出来ていますので”と日夜<脅|おど>してくるんですよ。
-“Si les notes sont basses, ce n'est pas à cause des élèves, mais à cause de l'incompétence des enseignants. Je suis prête à envoyer mon rapport à la commission enseignante à tout moment”, nous menace-t-elle jour et nuit.
+  “Si les notes sont basses, ce n'est pas à cause des élèves, mais à cause de l'incompétence des enseignants. Je suis prête à envoyer mon rapport à la commission enseignante à tout moment”, nous menace-t-elle jour et nuit.
 
 }
 [sha:f431fc33154d09d77a7fd3e3ea61040f49e117dc]{
@@ -247,7 +247,7 @@
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 12, Offset 8606. Glued. Mods: @x, @n.
 -- 
-  
+
 
 }
 [sha:bbb8290a0be0205bd2742edb1405a3f4a4df44d3]{
@@ -271,7 +271,7 @@ Surtout quand on la compare avec les filles de notre classe. Au niveau des seins
 [sha:b6c7b04f5b909b2a755d755105c1e1230351b065]{
 -- Page 13, Offset 8610.
 -- 「そうだけど、別にいいんじゃない？　塾もいってないし、生徒会しきって、たまにバイトまでしてるんだから。あれで学年トップだったら逆に気持ち悪すぎ」
-「C'est vrai, mais c'est pas grave, hein ? Elle ne prend pas de cours du soir, dirige le conseil étudiant, et fait parfois des petits boulots. Si par-dessus le marché, elle était la meilleure de sa promotion, je serais plutôt dégoûtée.」
+「C'est vrai, mais c'est pas grave, hein ? Elle ne prend pas de cours du soir, dirige le conseil étudiant, et fait parfois des petits boulots. Si par-dessus le marché, elle était la meilleure de sa promotion, je serais plutôt dégoûté.」
 
 }
 [sha:0c55fa193a75c3b6ff55fcf9c2211700c1e6f616]{
@@ -1147,13 +1147,13 @@ Dans le cas présent, dis plutôt que je me contredis.」
 [sha:b6573e9e454d5ab7bf37d116af8c22488602a132]{
 -- Page 62, Offset 8756. Mods: @k, @e.
 -- “有珠はああ見えて、本当は自分と仲直りしたがっているに違いない。じゃあさっそく部屋に押しかけてみよう”
-Il pourrait bien se dire : “Malgré l'impression qu'elle donne, Alice veut sans doute faire connaissance avec moi. Dans ce cas, allons dans sa chambre sans attendre.”
+  Il pourrait bien se dire : “Malgré l'impression qu'elle donne, Alice veut sans doute faire connaissance avec moi. Dans ce cas, allons dans sa chambre sans attendre.”
 
 }
 [sha:d7608bd3e529e49b45b1dbc96dac39b0f259b5b3]{
 -- Page 62, Offset 8757. Glued. Mods: @x.
 -- とか！」
- Par exemple !」
+Par exemple !」
 
 }
 [sha:b3fbd4d545e0f38b032380dd8b8bca652c673fff]{
@@ -1297,7 +1297,7 @@ Il pourrait bien se dire : “Malgré l'impression qu'elle donne, Alice veut san
 [sha:0fefa2b05df7fa71dcfebb1e4f334510a8459355]{
 -- Page 70, Offset 8781. Glued. Mods: @x.
 -- ただ……人間の体って、あんな風に動くんだなって」
- Seulement...... je me suis dit... que le corps humain était donc capable de bouger de cette façon.」
+Seulement...... je me suis dit... que le corps humain était donc capable de bouger de cette façon.」
 
 }
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
@@ -1339,7 +1339,7 @@ Alice l'asociale avait été bouleversée par le saut de Sōjūrō, ce qui étai
 [sha:760abd5cf95e69709da27bf4d4eb7f31fb01131f]{
 -- Page 72, Offset 8788. Glued. Mods: @x.
 -- 別に、彼に何を期待しているワケじゃないわ」
-Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
+  Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 
 }
 [sha:3128ccae022ca168e8b372d43f4f2ee762e0f1b2]{

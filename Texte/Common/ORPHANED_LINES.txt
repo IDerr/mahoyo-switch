@@ -1273,7 +1273,7 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:44754cc32140e1ce47f288a07ac0a5a3ff71646b]{
 -- Page -1, Offset 11544.
 -- “うはっ、おまえ胸でかくねー？
-“Ouaah, ta poitrine n'est pas un peu grosse ?
+  “Ouaah, ta poitrine n'est pas un peu grosse ?
 
 }
 [sha:a507331650c15d2bf3e6bca0e89d0a8aa8d13cd6]{

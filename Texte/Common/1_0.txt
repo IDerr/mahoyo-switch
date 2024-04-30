@@ -121,7 +121,7 @@
 [sha:34cb539119d12aba1741a5ad12e5cc2dcd6670cb]{
 -- Page 6, Offset 20. Glued. Mods: @x.
 -- お父さんが車のボンネットを開けると、そこにはひとつの命があった。
- ils trouvèrent un être vivant sous le capot de la voiture que son père venait d'ouvrir.
+ils trouvèrent un être vivant sous le capot de la voiture que son père venait d'ouvrir.
 
 }
 [sha:1a9d4a753b3b03938e4d8357788a90379ed54eaa]{
@@ -163,7 +163,7 @@
 [sha:a803dac5e801c2dc559d65ec0afd0fbcef97ca5b]{
 -- Page 7, Offset 27.
 -- 子猫のうち一匹は、<機械|ベルト>に巻きこまれた部分が多すぎて動きがない。きっと即死だったろう。
-  L'un des deux chatons avait été en trop grande partie entraîné dans la courroie et ne bougeait plus. Il était probablement mort sur le coup.
+  L'un des deux chatons avait été en trop grande partie entraîné par la courroie et ne bougeait plus. Il était probablement mort sur le coup.
 
 }
 [sha:e99792d3d2f4a476d091c6f6a5c06149b3d2ba00]{
@@ -247,7 +247,7 @@
 [sha:bd101f184d05008a30dd4b97bda0fa7461a9d580]{
 -- Page 12, Offset 41.
 -- ―――ああ、丸い頭蓋骨が見えている―――
-        --aah, on peut voir son crâne rond--
+        ―――aah, on peut voir son crâne rond―――
 
 }
 [sha:d641a44749e2a4c646b076f7af0f822e4084b88c]{

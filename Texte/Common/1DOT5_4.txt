@@ -121,7 +121,7 @@
 [sha:008bc941f7ba9321f56f82159e0159c82a5c5f9c]{
 -- Page 7, Offset 1668. Glued. Mods: @x.
 -- オレみたいな開封・即使用、みたいな男がこれからのトレンドなワケでしょ？　ほら、コンビニで売ってる使い捨てカメラとか大人気だし？　ようやく流行がオレの消費文明に追いついたと、」
- Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ?　Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
+Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
 
 }
 [sha:2fc03f824f431fca9a4c25b21b53afbba4767115]{
@@ -133,7 +133,7 @@
 [sha:e3c5ea15b1e2ac69e25963ab8e0b939b8814811f]{
 -- Page 8, Offset 1670. Glued. Mods: @x.
 -- 鳶丸は？」
- Et toi, Tobimaru ?」
+Et toi, Tobimaru ?」
 
 }
 [sha:d80a5555cf8a59b66bbc09dc3b445b82233cd5a1]{
@@ -265,7 +265,7 @@
 [sha:55e6c227a455093ed4522420765091b333b534fb]{
 -- Page 16, Offset 1692. Glued. Mods: @x.
 -- 善良な一男子生徒としちゃあ、美少女が転校してくるだけでいいんだよー。
- En tant que garçon honnête, une belle fille récemment transférée me suffirait.
+En tant que garçon honnête, une belle fille récemment transférée me suffirait.
 
 }
 [sha:6d97b808091996cfc6f042bbc73e578bc8650074]{
@@ -391,7 +391,7 @@
 [sha:47b629852fbd0afcef507c149961d199cf2983cd]{
 -- Page 23, Offset 1713.
 -- 指定外のアルバイトを疑うのなら、まず“働き先は一生徒につき一件だけ”という規則を改めてください」
-  Si vous avez des soupçons selon lesquels il travaillerait en violant la règlementation, alors d'abord, modifiez le règlement qui stipule “un seul emploi par élève”.」
+  Si vous avez des soupçons selon lesquels il travaillerait en violant la réglementation, alors d'abord, modifiez le règlement qui stipule “un seul emploi par élève”.」
 
 }
 [sha:862d9ac6e79efde278449db8da61fde9dae51f26]{
@@ -583,7 +583,7 @@
 [sha:bc587ab1ce3dda38713e84b1d94841c02d6e569f]{
 -- Page 35, Offset 1745. Glued. Mods: @x.
 -- 今から静希くんを呼ぶから、ちゃんと面倒見てもらわないと」
- Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de lui.」
+Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de lui.」
 
 }
 [sha:2ccf4dd3499d49952507c56e168736f34befa0fe]{
@@ -643,7 +643,7 @@
 [sha:9eff4fa04cab0fb7189319abf904a8433021a473]{
 -- Page 39, Offset 1755. Glued. Mods: @x.
 -- ああ、けど蒼崎くん、ずいぶん親身になってくれるんだね。なに、もしかしてああいうのがタイプ？　あ、放送室さん、ついでに生徒会長が心からお待ちしていますと付け足して―――」
- Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
+Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
 
 }
 [sha:dd749fc8f8f6448e32724f811de5a241104599f7]{
@@ -823,7 +823,7 @@
 [sha:ff7c0eb2e7c4a36464ebb54648d751026136c072]{
 -- Page 49, Offset 1785.
 -- 「話は変わるけど。具体的にどんな労働内容なのか、そろそろ聞いていいかな」
-Ça n'a rien à voir, mais je peux demander en quoi consiste ce travail, maintenant ?」
+「Ça n'a rien à voir, mais je peux demander en quoi consiste ce travail, maintenant ?」
 
 }
 [sha:d55b4a0267c8ab82569a0ff500f9337ec8986b6e]{
@@ -919,13 +919,13 @@
 [sha:ad05bfc5effaa47b4a93407ade4d4d8c0f727f53]{
 -- Page 55, Offset 1801.
 -- 「仕事の話なら簡単よ。学校でやってる事と変わらないから。
-「Pour le travail, c'est facile. Ce n'est pas bien différent de ce que tu fais à l'école. [l]
+「Pour le travail, c'est facile. Ce n'est pas bien différent de ce que tu fais à l'école.
 
 }
 [sha:c19e8f3e5cc94edfdc15f9379f82184a57cc8959]{
 -- Page 55, Offset 1802. Glued. Mods: @x.
 -- あの教会、規模のわりに人数が少ないのよ」
- Malgré sa taille, cette église ne compte que peu de personnel.」
+Malgré sa taille, cette église ne compte que peu de personnel.」
 
 }
 [sha:f38a91f2c623c2c4c507b6d75182f26a6efe7f19]{
@@ -1076,7 +1076,7 @@
 [sha:a6fbbac75e16bdde7170dbb2fbd76a186b2891c4]{
 -- Page 62, Offset 1827. Glued. Mods: @x.
 -- ま、この先だって一度もないでしょうけど」
- Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
+Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 
 }
 [sha:501dae58ee520c7414069d1a9227d29980886e20]{
@@ -1244,13 +1244,13 @@
 [sha:2fecbde2773f42454de282e95b49000ce5677a91]{
 -- Page 71, Offset 1855. Glued. Mods: @x.
 -- 私どもでは手の届かない箇所の清掃をお願いします」
- Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
+Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 
 }
 [sha:605a5753059dd2f708fcc444a76693258e6472cb]{
 -- Page 71, Offset 1856.
 -- 「ちょっと待って。台所に<律架|りつか>のヤツ、いないでしょうね？　こんな所であんなのに会うなんてゴメンだから」
-「Attends un peu. Il n'y a pas Ritsuka en cuisine, j'espère ? Parce que je préfèrerais ne pas avoir à la croiser.」
+「Attends un peu. Il n'y a pas Ritsuka en cuisine, j'espère ? Parce que je préférerais ne pas avoir à la croiser.」
 
 }
 [sha:186ce7c52b040c4c27c4123242f8fbec653f5d97]{
@@ -1341,9 +1341,6 @@
 -- Page 77, Offset 1871.
 -- 今日も天候は思わしくない。
   Aujourd'hui aussi, l'état du ciel n'était pas rassurant.
-　
-　
-　
 
 }
 [sha:bbfe6992ce9cee3f056773ad3311e520a69be884]{
@@ -1463,7 +1460,7 @@
 [sha:c3f3a104bc16cf1ede3901d0f248bee4c10109a5]{
 -- Page 83, Offset 1891. Glued. Mods: @x.
 -- 抜けている、とも言う。
- On pouvait même dire qu'elle manquait de retenue.
+On pouvait même dire qu'elle manquait de retenue.
 
 }
 [sha:bfc44d8e309f256bbeee9cff802b6c56c8aaf2fa]{
@@ -1511,7 +1508,7 @@
 [sha:fc7e6a6abf8da3c41a2df6e21d9d9807a9aa8d50]{
 -- Page 86, Offset 1899. Glued. Mods: @x.
 -- はた迷惑という意味だった。
- Dans le sens où c'était une nuisance pour les autres.
+Dans le sens où c'était une nuisance pour les autres.
 
 }
 [sha:09ac5ae500dd541d3eac5ffb7e13b3e24bc74b26]{
@@ -1583,7 +1580,7 @@
 [sha:f4e499b7584a52ab94071f3e4fb2d77fe015b320]{
 -- Page 90, Offset 1911.
 -- 「会ってますー。キミ、<魚達|うおたつ>さんでバイトしてる子でしょう？　今週だけでも何度か行ってるもん、わたし。
-「Si ! Tu es l'employé de chez Uotatsu, non ? Rien que cette semaine, j'y suis allée plusieurs fois.[r]
+「Si ! Tu es l'employé de chez Uotatsu, non ? Rien que cette semaine, j'y suis allée plusieurs fois.
 
 }
 [sha:66887368dff18f545161c11b066505b7fca1524b]{
@@ -1595,13 +1592,13 @@
 [sha:c65de9af5c806f85abceb04f6f2d828475ec0090]{
 -- Page 90, Offset 1913. Glued. Mods: @x.
 -- <花澤|はなざわ>って言うんだけど、キミの名前は？」
- voyons voir, je m'appelle Hanasawa, et toi ?」
+voyons voir, je m'appelle Hanasawa, et toi ?」
 
 }
 [sha:d1bd9ba58b07f0929dec1a899e4ee1d347741750]{
 -- Page 91, Offset 1914.
 -- 台詞の途中、ちらりと眼下の花壇を見ながら、きさくに笑いかける花澤さん。
-  Tout en lançant un coup d'œil au pot de fleurs sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
+  Tout en lançant un coup d'œil au pot de <fleurs|hana> sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
 
 }
 [sha:a0fb378baea6623898a99a6744ff4c25bbbe5ee4]{
@@ -1746,8 +1743,6 @@
 -- Page 99, Offset 1938.
 -- 「ありがとうございます。
 「Merci.
-　[chgfg storage=草十郎制服02a(近)|b2 time=300 textoff=0][playpause time=800]
-　
 
 }
 [sha:0a476ced5cb1e9270f513ff44559202feaf2e7dc]{
@@ -1759,7 +1754,7 @@
 [sha:243b9adc451c33a50bc4e64f351785e9f921646b]{
 -- Page 99, Offset 1940. Glued. Mods: @x.
 -- ここは何をするところなんでしょう？
- qu'est-ce que l'on fait dans cet endroit ?
+qu'est-ce que l'on fait dans cet endroit ?
 
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
@@ -1975,7 +1970,7 @@
 [sha:b56339646eddea64dc367cda3688b43e94d68ab7]{
 -- Page 110, Offset 1976.
 -- そもそも私有地だし、入ったらお巡りさんを呼ばれちゃって、そのまま交番でお説教ターイム！　なんて、あんまり楽しくないでしょう？」
-  En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpelé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
+  En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpellé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
 
 }
 [sha:f1a213912f339249ecd220e3d0c5996b11363318]{
@@ -2273,7 +2268,7 @@
 [sha:fab6675f578eef0aa6b588d4014599b16b2cf18b]{
 -- Page 128, Offset 2026. Glued. Mods: @x.
 -- 参考までに訊くんだけど、貴方、他にどんなバイトしてるの？」
- Je le demande pour le noter sur mon carnet de références, mais quels autres travails as-tu ?」
+Je le demande pour le noter sur mon carnet de références, mais quels autres travails as-tu ?」
 
 }
 [sha:308cae901e6be4af1e9deb409193a464e78368b3]{
@@ -2411,13 +2406,13 @@
 [sha:66fcbb24f7f9abd3d9086bd601c3f6d2571f8cf8]{
 -- Page 136, Offset 2049. Glued. Mods: @x.
 -- アンタの事だから気づいていないと思うけど、アレ、つぶれてるのよ。
- C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il a fait faillite.
+C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il a fait faillite.
 
 }
 [sha:a8f5f8a9e87d4cba0f8e128ec8a18cf12158a300]{
 -- Page 136, Offset 2050. Glued. Mods: @x.
 -- 廃園になってからもう二年以上は経つんじゃない？」
- Ça doit faire plus de deux ans qu'il a fermé.」
+Ça doit faire plus de deux ans qu'il a fermé.」
 
 }
 [sha:b8b07314a27134378ce0bd6216ce4068d7ed9fa4]{
@@ -2555,7 +2550,7 @@
 [sha:12b6e704d351078d0a7ceae63d466fbb1263838f]{
 -- Page 141, Offset 2073. Glued. Mods: @x.
 -- 草十郎がこれまで知り合ってきた人たちは、決まってそんな忠告をした。
- les gens que Sōjūrō avait connus jusqu'à présent l'avaient toujours mis en garde de cette façon.
+les gens que Sōjūrō avait connus jusqu'à présent l'avaient toujours mis en garde de cette façon.
 
 }
 [sha:ecfa931fd3b7d1d3c7aabfa64ec414c3b13917b4]{
@@ -2621,7 +2616,7 @@
 [sha:257bdf4b72365f31d26af02c17dc92850044aaf6]{
 -- Page 144, Offset 2084. Glued. Mods: @x.
 -- 彼らの縄張りと気付かずに入ってしまえば、当然、住人である動物に襲われて怪我を負う。
- Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre compte, évidemment, on se faisait attaquer par les animaux qui y habitaient et on se faisait blesser.
+Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre compte, évidemment, on se faisait attaquer par les animaux qui y habitaient et on se faisait blesser.
 
 }
 [sha:0d5be2e3ecd5308eed78a24814b9e5ce0a66be13]{

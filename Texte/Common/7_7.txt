@@ -85,7 +85,7 @@
 [sha:f7da139402743c4a930e6fbe82403d21f64b4cac]{
 -- Page 4, Offset 9714.
 -- 目眩を覚えるほどの既視感。
-  L'impression de déjà vu était telle qu'elle lui donnait presque le tournis.
+  L'impression de déjà-vu était telle qu'elle lui donnait presque le tournis.
 
 }
 [sha:7ffa3d24684ab679f1e923d481e60bb963227f6c]{
@@ -301,13 +301,13 @@
 [sha:dc8911b063f6fc54b23fa108cb91a95871bd780f]{
 -- Page 14, Offset 9750. Mods: @n.
 -- 有珠のカップはそのまま床に残し、
-laissa la tasse d'Alice sur le sol,
+  laissa la tasse d'Alice sur le sol,
 
 }
 [sha:ecaedcfa5ace258ac70e5e137e68d61efdfd3acb]{
 -- Page 14, Offset 9751.
 -- 自分の使ったカップをトレイに載せて立ち上がって、
-posa celle qu'il avait utilisée sur le plateau et se leva,
+  posa celle qu'il avait utilisée sur le plateau et se leva,
 
 }
 [sha:49dfc7a70b88050bcbabe1e75b48a979971e57a4]{
@@ -349,7 +349,7 @@ posa celle qu'il avait utilisée sur le plateau et se leva,
 [sha:7e1579fcef3c8153d50b035eb537fe8dde51c266]{
 -- Page 15, Offset 9758.
 -- 有珠用のカップに注がれた紅茶に波ひとつ立てず、
-sans créer le moindre remous à la surface du thé versé dans la tasse d'Alice.
+  sans créer le moindre remous à la surface du thé versé dans la tasse d'Alice.
 
 }
 [sha:53152b18191c153b0c1e593c2463092c2a256a32]{

@@ -145,7 +145,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:35678fc6ec1639cc3b43bcc9099b7b1be4a0ef2e]{
 -- Page 7, Offset 11386.
 -- “技術的に古い部分はピックアップしてあるから、<教科書|テキスト>参考にして数字だけ変えておいて”だってさ」
-“J'ai enlevé les parties qui étaient trop vieilles d'un point de vue technique, alors recopie le texte et change seulement les chiffres.”」
+  “J'ai enlevé les parties qui étaient trop vieilles d'un point de vue technique, alors recopie le texte et change seulement les chiffres.”」
 
 }
 [sha:e9dc25796c96af1d5dd266cede737ab6ff589110]{
@@ -697,7 +697,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:6f47f0e2755a9cbc95f9ba63521f283ab375b6ef]{
 -- Page 37, Offset 11478. Glued. Mods: @x.
 -- バカなところとか、平気で女連中の品評会ひらくところとか、合コン企画するところとか。真似できねーよ、ホント」
-  Par exemple, son côté stupide, ou quand il fait des classements de la meilleure fille sans se gêner, ou encore quand il prépare des rencontres de groupe. On ne peut pas rivaliser avec lui, vraiment !」
+Par exemple, son côté stupide, ou quand il fait des classements de la meilleure fille sans se gêner, ou encore quand il prépare des rencontres de groupe. On ne peut pas rivaliser avec lui, vraiment !」
 
 }
 [sha:677649316b8707c8b8967afa062c951ddcf6cdec]{
@@ -715,7 +715,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:ac00fac904f746bc77195c915c766314e6136edb]{
 -- Page 38, Offset 11481. Mods: @n.
 -- “カラオケ会ひらいてよー”“女の子と遊びたいよー”、
-“Organise une soirée Karaoké”, “Je veux m'amuser avec des filles”,
+  “Organise une soirée Karaoké”, “Je veux m'amuser avec des filles”,
 
 }
 [sha:559c466128a3102f423bbef1b5c9b4b158504f1f]{
@@ -829,7 +829,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:169683c3a173c230fbf56a7450b1cdce822291b6]{
 -- Page 44, Offset 11502.
 -- “かーのじょ、どの<組|クラス>ぅ？”って。
-J'lui ai demandé : “Dis ! T'es dans quelle classe ?”
+  J'lui ai demandé : “Dis ! T'es dans quelle classe ?”
 
 }
 [sha:ebf7f1d7ccdc1a64a0f4a08d25827db33ed0e1e9]{
@@ -1051,7 +1051,7 @@ D'ailleurs, j'ai une idée ! Si on n'a pas d'argent, on n'aura qu'à se faire pa
 [sha:4ec9541b6d47cce807f82a4304e3d906115fa212]{
 -- Page 56, Offset 11539.
 -- “お姉さんキレイっすね、オレ、そこのビルのオーナーの息子なんすけどちょっと遊んでいきません？”って。
-“Mademoiselle, v'z'êtes vraiment belle. J'suis le fils du proprio de cet immeuble. Vous voulez pas qu'on s'amuse un peu ?”
+  “Mademoiselle, v'z'êtes vraiment belle. J'suis le fils du proprio de cet immeuble. Vous voulez pas qu'on s'amuse un peu ?”
 
 }
 [sha:70cdeee122f8ef4288b5cd3c9cbe37d997d1edad]{
@@ -1423,7 +1423,7 @@ La deuxième ?」
 [sha:f0278d98c16edfa9be1d51b9f3dd37457c46645f]{
 -- Page 77, Offset 11603. Glued. Mods: @x.
 -- ……いったい、どうやって？」
-  ...... Comment c'est possible ?」
+...... Comment c'est possible ?」
 
 }
 [sha:f0c7192c469739db9939a116c6a3f2d4f019bb03]{
@@ -1795,7 +1795,7 @@ La deuxième ?」
 [sha:cc7a8d03edd634c324990bfbfe726a0d30883def]{
 -- Page 95, Offset 11665. Glued. Mods: @x.
 -- ……ってなによアンタ、妙な顔して。自分から言っておいて尻尾まくの？」
-  ...... Bah, pourquoi tu fais cette tête d'enterrement ? C'est toi qui as demandé, et maintenant, tu as changé d'avis ?」
+...... Bah, pourquoi tu fais cette tête d'enterrement ? C'est toi qui as demandé, et maintenant, tu as changé d'avis ?」
 
 }
 [sha:7c42bf693f7b73867a5d6bb0511048fc9cdb6f11]{

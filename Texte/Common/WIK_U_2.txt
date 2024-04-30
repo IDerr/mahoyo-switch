@@ -37,13 +37,13 @@
 [sha:0fba620bc0b3d61db7d8d18632820b7de33c2e8a]{
 -- Page 2, Offset 23655.
 -- “誰が殺したか”ではない。
-Il ne fallait pas se demander “qui avait tué”,
+  Il ne fallait pas se demander “qui avait tué”,
 
 }
 [sha:484a4fa2be7a518345e7ffd9113a9617c481d0d8]{
 -- Page 2, Offset 23656.
 -- “誰なら殺せるのか”を考えろ、と。
-mais “qui avait eu la possibilité de tuer qui”.
+  mais “qui avait eu la possibilité de tuer qui”.
 
 }
 [sha:a14df7e154a8e47dacb93dfd53f2a7fca35f872c]{
@@ -67,7 +67,7 @@ mais “qui avait eu la possibilité de tuer qui”.
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 3, Offset 23660. Glued. Mods: @n.
 -- 槻司、
-Tsukiji,
+ Tsukiji,
 
 }
 [sha:8034d2a0952b546aafd8e5218f8c0c31740ece58]{
@@ -145,13 +145,13 @@ Tsukiji,
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 5, Offset 23673. Glued. Mods: @n.
 -- 槻司、
-Tsukiji,
+ Tsukiji,
 
 }
 [sha:bb4ddf27818ce0bd2cc24054b93c8d4579f4703a]{
 -- Page 5, Offset 23674. Glued. Mods: @n.
 -- 静希、
-Shizuki
+ Shizuki
 
 }
 [sha:034da1e6374d18bb97d97cf16c69dd8b117508d1]{
@@ -175,19 +175,19 @@ et Ritsuka.
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 6, Offset 23678. Glued. Mods: @n.
 -- 槻司、
-Tsukiji,
+ Tsukiji,
 
 }
 [sha:048f07ea66b542cda7031a55062b51172d4d519a]{
 -- Page 6, Offset 23679. Glued. Mods: @n.
 -- 律架さん、
-Ritsuka
+ Ritsuka
 
 }
 [sha:308cfcd18813cc88a693ddf57c2c4520970af82e]{
 -- Page 6, Offset 23680. Glued. Mods: @n.
 -- 久遠寺さん。
-et Kuonji.
+ et Kuonji.
 
 }
 [sha:a263b4c573a54660724945dee01ed7dd6efcc7ef]{

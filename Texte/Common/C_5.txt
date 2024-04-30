@@ -223,7 +223,7 @@ Espèce... d'idiot.」
 [sha:54e4cbefdcf820d7e63c2312d950f44545f757b6]{
 -- Page 10, Offset 18242.
 -- 『さすが蒼崎、殺しても死なないな』とでも言いたげな<暢気|のんき>さだ。
-et sa nonchalance à toute épreuve laissait entendre que d'après lui, elle était littéralement increvable.
+  et sa nonchalance à toute épreuve laissait entendre que d'après lui, elle était littéralement increvable.
 
 }
 [sha:e11e6424e7cc77f1278321271490796e6b91a629]{
@@ -367,7 +367,7 @@ et sa nonchalance à toute épreuve laissait entendre que d'après lui, elle ét
 [sha:f529fa31ac363ae1e4e40b6ad3c40edf5c1d037e]{
 -- Page 18, Offset 18266.
 -- 少年はもう一度呼びかけた。
-  Le garçon l'interpela une nouvelle fois.
+  Le garçon l'interpella une nouvelle fois.
 
 }
 [sha:7bf7762f629a84467cb092302125be527904db5b]{
@@ -541,7 +541,7 @@ et sa nonchalance à toute épreuve laissait entendre que d'après lui, elle ét
 [sha:3b493ffb771328d4ddaf1721af616b535b2227c4]{
 -- Page 25, Offset 18295. Glued. Mods: @x.
 -- お兄さんは…………！」
- monsieur............?」
+monsieur............?」
 
 }
 [sha:0c268655dfdb87b0757f74cd4f5d77f3472adbcd]{

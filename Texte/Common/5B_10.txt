@@ -931,7 +931,7 @@ Je te le répète une dernière fois, alors réfléchis bien...... Tu devrais t'
 [sha:9d004e05e03c938a3f60e23cc0a315166c5256e2]{
 -- Page 43, Offset 5766.
 -- 青子にとってはただただ呆れるばかりの返答。
-  C'était une réponse qui sidérait Aoko au plus haut point
+  C'était une réponse qui sidérait Aoko au plus haut point.
 
 }
 [sha:b513eb4b079a7a80adfbca35e4627ddfd143bd6c]{
@@ -1081,7 +1081,7 @@ Je te le répète une dernière fois, alors réfléchis bien...... Tu devrais t'
 [sha:96fbbeebd5347aa0ba3a3e35d5cb29fedef8bdb7]{
 -- Page 50, Offset 5791.
 -- 言ってくれれば良かったのに、なんて顔をする草十郎。
-  répondit Sōjūrō avec une expression montrant qu'elle aurait dû le lui demander.
+  répondit Sōjūrō avec une expression montrant qu'elle aurait dû le lui demander avant.
 
 }
 [sha:2773e1e0058fa9bcb13a84d8a0bc012c12086acf]{

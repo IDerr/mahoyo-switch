@@ -109,7 +109,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:3c3be19dba3dd0256772d83f5c3e1e376440b496]{
 -- Page 4, Offset 4253.
 -- 広間はまだ開けているコト自体が奇跡で、
-  Le fait même que la grande salle soit encore accessible était un miracle,[r]
+  Le fait même que la grande salle soit encore accessible était un miracle,
 
 }
 [sha:9a9aeefdebcb9681b73bec0b6b64a78ec08b3b17]{
@@ -367,7 +367,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:97b8d591e05197d35da7ff040d32afbabbf9cecd]{
 -- Page 14, Offset 4296. Glued. Mods: @i, @r.
 -- “「オ<マエニ、|Te iudico>死ヲ」”
-  "<Je t'apporte la mort.|Te iudico.>"
+  “<Je t'apporte la mort.|Te iudico.>”
 
 }
 [sha:340bcbe77d8f3ea65221246e5a549da896f9e439]{
@@ -961,6 +961,6 @@ Comme récompense spéciale, je ne m'en prendrai plus à toi pour cette nuit.」
 [sha:25bb43231bb1ff8d25245a98d99ef7f75947a303]{
 -- Page 45, Offset 4395. Glued.
 -- 目撃者は例外なく逃がさない、夜の化身がやってきた。
-ne laissant s'enfuir aucun témoin, sans exception, était arrivée.
+ ne laissant s'enfuir aucun témoin, sans exception, était arrivée.
 
 }

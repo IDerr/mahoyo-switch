@@ -85,7 +85,7 @@
 [sha:b4d027ce7b039de82bc4bd885edfe5fb87afa7e9]{
 -- Page 3, Offset 2515.
 -- 名前を呼ばれた男子生徒は、青子が自分の名前を知っている事に驚きつつ返答した。
-  répondit l'élève interpelé, étonné qu'Aoko connaisse son nom.
+  répondit l'élève interpellé, étonné qu'Aoko connaisse son nom.
 
 }
 [sha:f6de10cfbc40a3584fe5a9fa538822b4199a4212]{
@@ -254,13 +254,12 @@
 -- Page 12, Offset 2543.
 -- 「……草十郎。率直に言って、俺はおまえが気に入っている。
 「...... Sōjūrō. Pour parler franchement, je t'aime bien.
-　Quelqu'un qui ne ment pas n'est pas humain.
 
 }
 [sha:0ea1d56ac3da75dc3cfdb15a06fb692bf8cb5e8d]{
 -- Page 12, Offset 2544.
 -- 嘘のない人間なんてのは人間じゃねえ。
-  Anybody that never lies can't really be considered human.
+  Quelqu'un qui ne ment pas n'est pas humain.
 
 }
 [sha:75eaf18f0fbe82e6b9d7ff477964f26207771d51]{
@@ -314,7 +313,7 @@ Je suis misanthrope, alors j'aime bien la personne que tu es......
 [sha:7a3c3a7c5557606551728134e39c4350d3662403]{
 -- Page 14, Offset 2553.
 -- 「そりゃあ俺だって神隠しの<類|たぐい>だと思ったよ。
-「Même moi, j'ai pensé que c'était un genre de [ruby char="Kamikakushi" text="disparition mystérieuse"].
+「Même moi, j'ai pensé que c'était un genre de disparition mystérieuse.
 
 }
 [sha:10f91afe290ee5dbd718e9f7dfae5934a6369779]{
@@ -422,7 +421,6 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
 [sha:700f54cccba374ea0a8a43ad33bfd76469030b48]{
 -- Page 19, Offset 2571.
 -- 「まあ、事の真偽というか、どんな間違いでそう見えたかは置いておいてだ。
-"For the time being, let's assume what you say actually happened.
 「Enfin, mettons de côté la véracité des faits ou ce qui t'a amené à les voir ainsi.
 
 }
@@ -435,7 +433,7 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
 [sha:ed17140353327470302a015cf9aca0accc139bc5]{
 -- Page 19, Offset 2573.
 -- 町にやってきて日の浅い草十郎は、同い年の少年少女は『みなこの学校の生徒である』と誤認していたのだが、幸か不幸か結論として間違いではなかった。
-  Sôjûrô, peti nouveau en ville, croyait à tort que tous les adolescents de son âge fréquentaient ce lycée, mais en réalité, il n'était pas si loin que ça de la vérité.
+  Sôjûrô, petit nouveau en ville, croyait à tort que tous les adolescents de son âge fréquentaient ce lycée, mais en réalité, il n'était pas si loin que ça de la vérité.
 
 }
 [sha:167615b5e13415e42e6d0f98b025a3578417eb60]{

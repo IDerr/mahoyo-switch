@@ -331,7 +331,7 @@
 [sha:a356241db259b86223f23903e4b0b3f1d22f333c]{
 -- Page 17, Offset 2332. Glued.
 -- いや待て、気を遣ってんのは俺だけじゃねえか。蒼崎なんておまえが転入した日に“彼、迷惑だから見張ってて”の一言だけだぞ!?」
-  Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aozaki, c'était le jour de ton transfert, quand elle a dit que je devais garder un œil sur toi parce que tu posais problème !」
+Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aozaki, c'était le jour de ton transfert, quand elle a dit que je devais garder un œil sur toi parce que tu posais problème !」
 
 }
 [sha:2266b84678bf1af12c70fe59e1b0fe950cb52f49]{
@@ -343,7 +343,7 @@
 [sha:86b61029cb55883ada5085fd669f6fbed41862bc]{
 -- Page 18, Offset 2334.
 -- 「いや、だからだな。おまえが学校に慣れるよう陰ながら見守ってんのは俺で、蒼崎は生徒会室で全校生徒の弱みを集めてるだけって話だ！
-「Non, écoute. Je veux juste te dire que c'est moi qui te protège dans l'ombre pour que tu t'habitues à l'école, et qu'Aozaki ne fait que répertorier les secrets des étudiants de l'école dans la salle du conseil ![r]
+「Non, écoute. Je veux juste te dire que c'est moi qui te protège dans l'ombre pour que tu t'habitues à l'école, et qu'Aozaki ne fait que répertorier les secrets des étudiants de l'école dans la salle du conseil !
 
 }
 [sha:91766afb6c541b534025a6840b428497735cc4ef]{
@@ -1123,7 +1123,7 @@ Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant l
 [sha:5b2eade5bc47afa2d3a7f1371b342da4d80cd838]{
 -- Page 54, Offset 2464. Glued. Mods: @x.
 -- いい例が俺だ」
- J'en suis un bon exemple.」
+J'en suis un bon exemple.」
 
 }
 [sha:be0894014b55fafdb69d7c63a140de1630f0c7fa]{
@@ -1219,7 +1219,7 @@ Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant l
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 59, Offset 2480. Glued. Mods: @x, @n.
 -- 
-  
+
 
 }
 [sha:7ecffb7a139b480d58b44288618dd96dac3f14f6]{

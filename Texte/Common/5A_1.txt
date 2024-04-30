@@ -337,7 +337,7 @@
 [sha:a402df39d8dd5d6c1d810558964dd54bb1e593c3]{
 -- Page 18, Offset 3975. Mods: @n.
 -- ……また。
-  ...... Par ailleurs,[wait canskip=0 time=800][r]
+  ...... Par ailleurs,
 
 }
 [sha:c0247431f61cef5f0486e50efd4617ab949c29bd]{
@@ -511,7 +511,7 @@ Ce n'était pas quelque chose dont il pouvait être fier, et c'était même clai
 [sha:012ef962fb6707570e10663f112d54333c7869ca]{
 -- Page 27, Offset 4004. Mods: @n.
 -- 経済が安定し、
-  La relique d'une époque d'excitation sauvage,[wait canskip=0 time=600][r]
+  La relique d'une époque d'excitation sauvage,
 
 }
 [sha:8ca2922ee46fe1462e533358b37955e82b6c80c5]{

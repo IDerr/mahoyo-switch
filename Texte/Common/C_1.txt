@@ -577,7 +577,7 @@ Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pou
 [sha:a03769afc1c5f9e5b32a50263b165481de71cc76]{
 -- Page 30, Offset 16883. Mods: @k, @e.
 -- 橙子の瞳は、言葉とは裏腹に青子を<嘲|あざけ>っていた。
-  Malgré la nature sérieuse de sa demande, Tōko lançait un regard moqueur à Aoko.[r]
+  Malgré la nature sérieuse de sa demande, Tōko lançait un regard moqueur à Aoko.
 
 }
 [sha:5ec6544f6c5f5213cd70aef202a807f6a69b6ba0]{
@@ -775,7 +775,7 @@ Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pou
 [sha:fda11cd73cf72474f612b19bbc344e9b5c0af83a]{
 -- Page 37, Offset 16916.
 -- 魔術戦では敵わぬと見て、殴り合いならぬ蹴り合いを挑むつもりらしい。
-  Elle semblait vouloir engager un combat au corps à corps, jugeant probablement qu'elle ne pouvait pas rivaliser en terme de joute magique.
+  Elle semblait vouloir engager un combat au corps à corps, jugeant probablement qu'elle ne pouvait pas rivaliser en termes de joute magique.
 
 }
 [sha:eadd86727742fcc0588183afbcd5576e21055b41]{
@@ -979,7 +979,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:58dbbb5f6c7264f6a2efaf996ae8eb0c146a6dd1]{
 -- Page 45, Offset 16950.
 -- ただし、本人は一歩たりとも動いてはいない。
-  Mais par contre, elle n'avait pas bougé d'un centimètre.
+  Cependant, elle n'avait pas bougé d'un centimètre.
 
 }
 [sha:59bac6e27709e6e7848e9169a385b7682ba70b74]{

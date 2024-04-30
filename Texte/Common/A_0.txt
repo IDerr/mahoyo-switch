@@ -541,7 +541,7 @@ ahem.」
 [sha:b746d1c646cd562ca347550fa87d31c8e837d85b]{
 -- Page 26, Offset 14463.
 -- まあ、掃除はしたいからするけど、こう、なんだろう。
-Bah, je veux bien le faire parce que j'en ai envie, mais... comment dire...
+  Bah, je veux bien le faire parce que j'en ai envie, mais... comment dire...
 
 }
 [sha:12576e76077314d4143ed8d3cfc2187be5b46b4c]{

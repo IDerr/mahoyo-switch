@@ -103,7 +103,7 @@
 [sha:690d4bf9f4106d86eac44ca30ed7c6f13aa346a6]{
 -- Page 4, Offset 15060.
 -- 服はもちろん、内臓まで吹き飛んだ。
-  Bien évidemment, ses habits avaient été arrachés et ses organes lacérés.
+  Bien évidemment, ses habits avaient été déchiquetés et ses organes lacérés.
 
 }
 [sha:b7f420e3fad3488a3b1c5f2836d1efbd053a88ed]{
@@ -157,7 +157,7 @@
 [sha:4c999012a9d51cdd6e7cb1dfbeb48fab841b486d]{
 -- Page 6, Offset 15069.
 -- 少女の黒い瞳と、狼の眼が交差した後―――
-  Après que les pupilles noires de la fille et que les yeux du loup se furent croisées―――
+  Après que les pupilles noires de la fille et les yeux du loup se furent croisés―――
 
 }
 [sha:6d58918c388f7173c050c13d23c5f6aedb78fe86]{
@@ -799,7 +799,7 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 [sha:c1e3c26fe6b38c4f5e50e6856e8abf122adb7803]{
 -- Page 34, Offset 15176.
 -- ベオが呼び寄せた野犬たちだけどね、公園の外にまだ山ほどいるんだが―――困ったコトに、彼らは本来<何|・><を|・><口|・><に|・><す|・><る|・><べ|・><き|・><か|・>を思い出している。
-  C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'il sont censés suivre.
+  C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'ils sont censés suivre.
 
 }
 [sha:da9f7565c32f49c673a8e99c284be00d407310c7]{
