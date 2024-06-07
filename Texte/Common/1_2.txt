@@ -1087,7 +1087,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:e328c25e5026bb582bf75a3de7f2d230111cde82]{
 -- Page 56, Offset 326.
 -- 寝不足でキリキリ痛む頭が、彼女の攻撃性を一割増しにする。
-  Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10% son agressivité.
+  Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10 % son agressivité.
 
 }
 [sha:f11d31dad6f6465a778f20f726745a6f4dd4b7b8]{
@@ -1447,7 +1447,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:9628e32fecde5ba11d16e23b4ed10cd704dc3bb9]{
 -- Page 75, Offset 386.
 -- これは九割がた偏見で、青子だって、そんな四六時中イライラできるほど暇ではない。
-  De l'avis de 90% d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
+  De l'avis de 90 % d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
 
 }
 [sha:b0a599ee1dc1e3967849fe674b5c67509960d855]{
@@ -1465,13 +1465,13 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:9281d955e92e607b0885c8dc979f26357200464d]{
 -- Page 75, Offset 389.
 -- なので九割がたは偏見の、噂に尾ひれのついた学園七脅威の一つにすぎない。
-  Et donc, 90% des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
+  Et donc, 90 % des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
 
 }
 [sha:4f41e65113f123dac93e04deb1379707decfa5c7]{
 -- Page 76, Offset 390.
 -- ただし、残りの一割は真実だ。
-  Mais les 10% restants étaient dans le vrai.
+  Mais les 10 % restants étaient dans le vrai.
 
 }
 [sha:88b08b835d2915d31dcc3c552481472c78d32283]{
@@ -1483,7 +1483,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:48e1d3c574768a967407979b76d27c6f379ffbfe]{
 -- Page 76, Offset 392.
 -- 今日はその一割の話。
-  Ce jour-là correspondait à ces 10%.
+  Ce jour-là correspondait à ces 10 %.
 
 }
 [sha:c64764c48721ee3c71395242df863fd6b38168ed]{
@@ -1885,7 +1885,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:d7ec93e2ff9c0a24ab7b7feae25c86e29fe6aa7f]{
 -- Page 97, Offset 459. Glued. Mods: @x.
 -- が、少年は声に含まれた嫌味に気が付かなかった。
- Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
+Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 
 }
 [sha:c3142fdd662e34340709c3e5d33016a1239fe75f]{
