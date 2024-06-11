@@ -415,13 +415,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:f244b7497274e4fc6f8e873a32ec0ea85aa92888]{
 -- Page 23, Offset 5934.
 -- 『―――空<気のおも|かるく、よわく>り、<胸のふる|うまく、はやく>え。
-            『―――<Poids de l'air, tremblement de la poitrine.|Légèrement, faiblement, habilement, rapidement.>
+            『―――<Poids de l'air|Légèrement, faiblement>, <tremblement de la poitrine|Habilement, rapidement>.
 
 }
 [sha:4e7bf42e80ef6e626044a52b74a52e2110feb053]{
 -- Page 23, Offset 5935.
 -- ひ<かりは先|チクタクチクタク>立つ、<かげは遅|いそげやいそげ>れる。』
-                    <La lumière en premier, l'ombre en second|Tic tac tic tac, dépêche-toi, dépêche-toi.>』
+                    <La lumière en premier|Tic tac tic tac>, <l'ombre en second|Dépêche-toi dépêche-toi>.』
 
 }
 [sha:db840e9399b1a9e1b1e94b40f28611e674062c68]{
@@ -445,7 +445,7 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:12fa9a324ce78b078483465f3f4d53f744abcddb]{
 -- Page 25, Offset 5939.
 -- 『<鳥は空に|と　　ぶ>、<魚は海に|お　よ　ぐ>、<貴方は彼方に|か け ぬ け る>。
-        『<L'oiseau dans le ciel, le poisson dans l'eau, toi là-bas.|Vole, nage, cours.>
+        『<L'oiseau dans le ciel|Vole>, <le poisson dans l'eau|Nage>, <toi là-bas|Cours>.
 
 }
 [sha:4c498957ab8c627de578d5d6903b9536954d7e90]{

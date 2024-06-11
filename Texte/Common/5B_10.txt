@@ -49,7 +49,7 @@
 [sha:282e12ba46a99f9ce18966ae28fbea8b3358b475]{
 -- Page 1, Offset 5619.
 -- 巨大な紙芝居の最後の一枚だと、彼女は思った。
-  la dernière page d'un énorme théâtre d'images, pensa-t-elle.
+  la dernière page d'un énorme <kamishibai|théâtre d'images>, pensa-t-elle.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -211,7 +211,7 @@
 [sha:d65e41305cd27ade8a1d43a2acb44a9d3f486262]{
 -- Page 8, Offset 5646.
 -- 傍らに立つ少年の頭上には、かわらず表面をシャッフルし続ける<囁く卵|スクラッチ・ダンプティ>。
-  Au-dessus du garçon à côté d'elle, l'œuf chuchoteur Scratch Dumpty poursuivait sa transformation.
+  Au-dessus du garçon à côté d'elle, <l'œuf chuchoteur|Scratch Dumpty> poursuivait sa transformation.
 
 }
 [sha:7362ac2699e173ec7653837288959e8df2b147db]{
