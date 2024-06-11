@@ -643,7 +643,7 @@ To see such craft,
 [sha:442845ffffd6c59e974acd344bfea558d84ef92c]{
 -- Page 28, Offset 1444.
 -- 「……そう。ただの<墓守|はかもり>、監視だけが仕事なのね。
-"「...... Je vois. Vous êtes de simples gardiens de tombes. Votre travail se limite à l'observation.
+「...... Je vois. Vous êtes de simples gardiens de tombes. Votre travail se limite à l'observation.
 
 }
 [sha:c2457dbaa71f56cfc1b42efd661495758d9cc556]{
@@ -1021,21 +1021,19 @@ London Bridge is broken down,
 [sha:31aae2b3e3200feb44e77b28cf9f7b8c58968480]{
 -- Page 46, Offset 1507. Glued. Mods: @n.
 -- これはなんだ。
-  Qu'est-ce que c'est que ça ?
+ Qu'est-ce que c'est que ça ?
 
 }
 [sha:488dec4c3069590fb8a673b074e62799263d589f]{
 -- Page 46, Offset 1508. Glued.
 -- これはなんだ？
-  Qu'est-ce que c'est que ça ?
+ Qu'est-ce que c'est que ça ?
 
 }
 [sha:bebc0640ea1726812de01fee153ceaf2e69904d7]{
 -- Page 47, Offset 1509.
 -- 喋る子豚。それはいい。
   Des porcelets bavards. Ce n'était pas forcément surprenant.
-　
-　 [wait canskip=0 time=1000]
 
 }
 [sha:69ba291e617619ecc1c7017624691b21df63f8a3]{
@@ -1653,7 +1651,7 @@ London Bridge is broken down,
 [sha:53cf08bfe1d94f94384df5ea0944149f2065aa81]{
 -- Page 74, Offset 1612.
 -- 彼方から聞こえる<暗黒童話|マザーグース>。
-  Au loin, il entendait l'obscur conte de fées de Mother Goose.
+  Au loin, il entendait l'obscur <conte de fées|Mother Goose>.
 
 }
 [sha:843b41a0b0afe92b68464d7f67b4f77db65992b1]{
@@ -1791,7 +1789,7 @@ London Bridge is broken down,
 [sha:eaf68c0bf5a1a73380a3b875a0b4f548121c24e7]{
 -- Page 79, Offset 1635.
 -- 『次、次はお役に立ちますきっと！　生まれてこの方、失敗続きのボクらだけど！』
-『La prochaine fois ! La prochaine fois, on sera sûrement utiles ! Même si, depuis qu'on est nés, on ne cesse d'échouer !』
+『La prochaine fois, pour sûr, on se montrera utiles ! Même si l'échec est notre apanage depuis la naissance !』
 
 }
 [sha:1ef6c0e0d89ef3e1bc4326830e98ea4dab9442a0]{
@@ -1815,13 +1813,13 @@ London Bridge is broken down,
 [sha:3d4f23c80e22dd4e4aef5ec91d7b06ad113b64ff]{
 -- Page 81, Offset 1639.
 -- 「六の目はだすなって言うけど。
-「Je vous avais dit de ne pas sortir le chiffre six. [l]
+「Je vous avais dit de ne pas sortir le chiffre six.
 
 }
 [sha:29bf1206f80feb1568168f42eb43c8dc86ea777b]{
 -- Page 81, Offset 1640. Glued. Mods: @x.
 -- 六の目しかでないようになってるわよね、貴方たち」
- Mais on dirait que vous ne pouvez sortir que celui-là, hein, vous deux.」
+Mais on dirait que vous ne pouvez sortir que celui-là, hein, vous deux.」
 
 }
 [sha:983f33c4a3f155d2ec547973c0b58280be9ab54c]{

@@ -235,13 +235,13 @@ Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattend
 [sha:e393758f6a2d0f2db2a6d9f32be74ce0d58c343d]{
 -- Page 12, Offset 591.
 -- 「で？」
-「Donc ?」
+「Et donc ?」
 
 }
 [sha:29fe77d2ca53ae3e2d48d041d8daab9d838a660f]{
 -- Page 12, Offset 592.
 -- 「それで。いったい、何の用なの」
-「Donc, c'est quoi que tu as de prévu exactement ?」
+「Et donc, c'est quoi que tu as de prévu exactement ?」
 
 }
 [sha:81795ea8ec4c5d4738cdd94f63a7a542ea53f331]{
@@ -265,7 +265,7 @@ Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattend
 [sha:cad7686ef58477d69cafb675b77f7931b02e7109]{
 -- Page 13, Offset 596.
 -- 『……馴れ始めたつもりだったけど、コイツのこういったテンポには失神しそうになるわ……』
-『...... Je pensais que je commençais à m'habituer à son drôle de comportement, mais de temps en temps, j'ai l'impression que je vais m'évanouir......』
+『...... Je croyais m'être faite à son comportement extravagant, mais il me prend encore parfois au dépourvu......』
 
 }
 [sha:f821ba29bbce60af4d65f55bce4272d8f35a6350]{

@@ -727,7 +727,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:2adec9a078afdbb9ddd62e35780270fa3c52772a]{
 -- Page 38, Offset 7010.
 -- “<童話の怪物|プロイキッシャー>”とやらは、青子やミラーハウスの自動人形ですら<裸足|はだし>で逃げだすモノだという。
-Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du palais des glaces auraient immédiatement fui ventre à terre.
+  Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du palais des glaces auraient immédiatement fui ventre à terre.
 
 }
 [sha:3922baddf49c872297fdaf8fc5860cc1b11852b9]{

@@ -1141,7 +1141,7 @@ De toute façon, il ne sentait plus rien et ne pouvait s'arrêter de son propre 
 [sha:c6a493d4c66ec2f1ec8932cd5db6edb4d5a66f37]{
 -- Page 49, Offset 6515.
 -- <交差点|スクランブル>の<爆発|マーダー><事故|ケース>。
-  <Une destruction mutuelle explosive.|Scramble Murder Case>
+  Une <destruction mutuelle explosive|Scramble Murder Case>.
 
 }
 [sha:0d0d53d838220eb10e204801f0659e6a5c02b5bb]{

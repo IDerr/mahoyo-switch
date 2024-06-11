@@ -103,7 +103,7 @@ Dis, tu m'écoutes Alice ?」
 [sha:fea95573e2fc072100b0a4add16be7d0ac044908]{
 -- Page 5, Offset 3380.
 -- それに満足して青子ははんぺんをかじった。
-  Satisfaite, Aoko mordit dans <du hanpen|pâté de poisson>.]
+  Satisfaite, Aoko mordit dans <du hanpen.|pâté de poisson>
 
 }
 [sha:48d3f3573b6878f58dd7b3cc34f36da10303e8e8]{

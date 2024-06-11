@@ -1201,7 +1201,7 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:1a185888a8bdbd168bb52bfceefce38b24f0e766]{
 -- Page 52, Offset 2872.
 -- 「こんな天気が続けばいいんだがねぇ。
-「Ça serait bien que ce temps continue.[r]
+「Ça serait bien que ce temps continue.
 
 }
 [sha:0df46e566c0b1768e1b0bd62bc705def298f0a3d]{

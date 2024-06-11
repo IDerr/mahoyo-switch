@@ -511,7 +511,7 @@
 [sha:9af292034f266447af7874e765f71d603e391c34]{
 -- Page 23, Offset 6069.
 -- 魔力は八分、術式は正常稼働、あとは<引|ひ>き<金|がね>を引くだけだが―――
-  Son prana était prêt à 80% et le sort fonctionnait normalement. Ensuite, il ne lui resterait plus qu'à appuyer sur la détente, mais―――
+  Son prana était prêt à 80 % et le sort fonctionnait normalement. Ensuite, il ne lui resterait plus qu'à appuyer sur la détente, mais―――
 
 }
 [sha:8605797954c594cf9266e1b328f0fb6c23749c45]{
@@ -1219,7 +1219,7 @@ Toutes les couches à plein régime―――!」
 [sha:027962e546b36958f3d0cdd272d5ffefbf06715a]{
 -- Page 50, Offset 6187. Mods: @n.
 -- 何かが、
-  quelque chose, 
+  quelque chose,
 
 }
 [sha:eff0f6693faf53bcb4194cd602342a4f4d57e0a9]{
@@ -1627,7 +1627,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:d361fd3e3aa5d64c95fbb62db9915775d0253555]{
 -- Page 67, Offset 6255.
 -- 「<接|チ><続|ェ><解|ン><除|ジ>―――<領|チ><域|ェ><拡|ン><大|ジ>、<再接続|チェンジ>―――！」
-「Abandon de la connexion―――<Expansion du cercle|Change, change, change>, reconnexion―――!」
+「<Abandon de la connexion|Change>―――<Expansion du cercle|Change>, <reconnexion|Change>―――!」
 
 }
 [sha:010dbc25836e35d28add8f64ac98bd4195650981]{
@@ -1825,7 +1825,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:6d1385c5220d4da2b8598b72cba04b8eeb54a481]{
 -- Page 74, Offset 6288.
 -- のたうち回る<大蛇|オロチ>の紋様。
-  Le dessin de dragon de son Sceau se déformait.
+  Le dessin de <dragon|Orochi> de son Sceau se déformait.
 
 }
 [sha:a25e771d8aef57a7cf62edfd64968adf53d49194]{
@@ -1951,7 +1951,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:7682688eb7f78f69e1e783da2e7ee3be8cc099f4]{
 -- Page 79, Offset 6309.
 -- 「<大月蝕|ブラックライト>、<収斂投|　スターボウ>射―――！
-「<Grande Éclipse de Lune, Projection Convergente|Black Light, Star Bow>―――!
+「<Grande Éclipse de Lune|Black Light>, <Projection Convergente|Star Bow>―――!
 
 }
 [sha:654125c7124bd01f4c1b150318160f910f095415]{
