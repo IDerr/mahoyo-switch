@@ -157,7 +157,7 @@
 [sha:034da1e6374d18bb97d97cf16c69dd8b117508d1]{
 -- Page 5, Offset 23675. Glued. Mods: @n.
 -- 律架さん。
-et Ritsuka.
+ et Ritsuka.
 
 }
 [sha:c241a2e7e4be98e5b7a728d22be2aef8f1f9ff3c]{

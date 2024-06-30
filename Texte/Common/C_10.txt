@@ -565,7 +565,7 @@ C'est tout ce que tu possèdes.
 [sha:a2ece23f982661ded938f1e81412a40a9fe0a932]{
 -- Page 21, Offset 17112. Mods: @c, @n.
 -- ／何も望まない。
-                  ／Je ne souhaite rien. 
+                  ／Je ne souhaite rien.
 
 }
 [sha:ab39b3c3a4c00081ce56d9ba7eb2157c613f3868]{
@@ -877,7 +877,7 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
 [sha:81cf10c7b8ac05bb4bc35980b20c139bdc911eb9]{
 -- Page 33, Offset 17164.
 -- 「―――<全て|not,>は<正し|SANE>く」
-「―――Par <tout|not> ce qui est <Juste|SANE>,」
+「―――Par <tout|not,> ce qui est <Juste|SANE>,」
 
 }
 [sha:0202cd7ba0b889bb70c226ef96d61398f7b912ee]{

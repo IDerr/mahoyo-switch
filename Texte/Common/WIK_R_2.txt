@@ -145,7 +145,7 @@
 [sha:e00c2ebadf98c43c47489c675a3c8d0db93653bf]{
 -- Page 8, Offset 23171.
 -- 「おう。まだ解決とは言えないからな。久万梨だって蒼崎が１００パーセント<星|ほし>だと思ってねえだろ？」
-「Ouais. Après tout, on ne peut pas dire que l'affaire est vraiment résolue. Même toi, tu n'es pas sûre à 100% qu'Aozaki est le coupable, pas vrai ?」
+「Ouais. Après tout, on ne peut pas dire que l'affaire est vraiment résolue. Même toi, tu n'es pas sûre à 100 % qu'Aozaki est le coupable, pas vrai ?」
 
 }
 [sha:58a57b25e65b8da8ca594d2587741036d60511d2]{

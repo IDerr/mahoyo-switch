@@ -877,7 +877,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:6f6148b32695ae7e42984a11dcf58bebe26c10e0]{
 -- Page 41, Offset 16933.
 -- 「<[swel]|ソウェル>―――！」
-「<[swel]|Sol>―――!」
+「<[swel]|Sowilo>―――!」
 
 }
 [sha:8d267b89a35182ad4fc9946f73f055534532dbb8]{

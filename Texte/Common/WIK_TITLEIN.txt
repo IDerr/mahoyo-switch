@@ -727,7 +727,7 @@ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune 
 [sha:59ed96bb4032436da9c45ff6f89206dbec90577c]{
 -- Page 36, Offset 23592.
 -- 「山城先生、徹夜明けですか？」
-「Monsieur Yamashiro, auriez-vous perdu la raison ?」
+「Monsieur Yamashiro, vous avez passé une nuit blanche ou quoi ?」
 
 }
 [sha:ff4c0eb59f6edcbd1ec633ff3f48392533e66d87]{

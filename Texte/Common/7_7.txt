@@ -1105,7 +1105,7 @@ Pourquoi n'avais-tu pas l'intention de me réveiller et pourquoi ne t'attendais-
 [sha:b5ca541a5ad0a1517bd8a82e790e917a83fb2237]{
 -- Page 49, Offset 9884.
 -- “そういう事なら仕方がない―――”
-“Si c'est comme ça, je n'y peux rien―――”
+  “Si c'est comme ça, je n'y peux rien―――”
 
 }
 [sha:c64f41e86dc68d053a36dee3cd82dd3165708464]{
