@@ -265,7 +265,7 @@ De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus �
 [sha:1df381e43430f85347ef777bbd4d0157ecdee83f]{
 -- Page 14, Offset 13055.
 -- 生協の果汁百パーセントジュースだって、ちょっと本気で馬鹿にできるもんじゃないと反省したよ。
-  Et il ne faut pas oublier non plus les jus de fruits 100% pur jus des associations coopératives. J'ai bien retenu la leçon.
+  Et il ne faut pas oublier non plus les jus de fruits 100 % pur jus des associations coopératives. J'ai bien retenu la leçon.
 
 }
 [sha:fc4004cac6135dc529c0446b7941fa8ceb809e64]{

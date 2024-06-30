@@ -1255,7 +1255,7 @@ C'est pourtant l'incident décisif qui m'a incité à ne plus la voir comme une 
 [sha:a88a1a43ef8057060225d3ba5a1d6593ee85c052]{
 -- Page 60, Offset 2486.
 -- いいコトをすれば好かれる、気に入らないコトをすれば嫌われる、ってワケじゃねえんだよ、あのお姫さまは」
-  Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il lui a été vache avec elle.」
+  Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il a été vache avec elle.」
 
 }
 [sha:fab93c1f3f95197eb278c4670a4214ffabc0bed5]{

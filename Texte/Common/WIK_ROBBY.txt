@@ -253,7 +253,7 @@ Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y 
 [sha:d4a3f2b6441316fe74f7eb079c24b019f0d92a59]{
 -- Page 13, Offset 23255.
 -- 「頼まれたって見ないっショ。金鹿の色気のない着替えとかもうノーサンクス／ノーフューチャー／ノータックス。
-「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Futur / No Tax.
+「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Future / No Tax.
 
 }
 [sha:1833c6797985ba3a3fe308ad346de180bf2492bd]{
